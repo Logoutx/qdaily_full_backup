@@ -13,7 +13,7 @@
 #   make all
 
 PY := .venv/bin/python
-PAGEFIND := bin/pagefind_extended
+PAGEFIND := bin/pagefind
 YEAR ?= 2014
 
 .PHONY: venv pagefind inventory fetch extract render index site serve all clean-public

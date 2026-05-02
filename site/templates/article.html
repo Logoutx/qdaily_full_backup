@@ -2,20 +2,15 @@
 {% block title %}{{ article.title }} — {{ site_title }}{% endblock %}
 {% block description %}{{ article.title }}{% if article.author %}，{{ article.author }}{% endif %}{% endblock %}
 {% block main %}
-<article class="article" data-pagefind-body
-  data-pagefind-meta="title:{{ article.title }}"
-  data-pagefind-meta="date:{{ article.publish_date }}"
-  {% if article.author %}data-pagefind-meta="author:{{ article.author }}"{% endif %}
-  data-pagefind-filter="year:{{ article.publish_date[:4] }}"
-  {% if article.category %}data-pagefind-filter="category:{{ article.category }}"{% endif %}>
-  <p class="breadcrumb" data-pagefind-ignore>
+<article class="article" data-pagefind-ignore="all">
+  <p class="breadcrumb">
     <a href="{{ url('') }}">首页</a> ›
     <a href="{{ url(article.publish_date[:4] ~ '/') }}">{{ article.publish_date[:4] }}</a> ›
     <a href="{{ url(article.publish_date[:4] ~ '/' ~ article.publish_date[5:7] ~ '/') }}">{{ article.publish_date[5:7] }}</a>
   </p>
   {% if article.category %}<p class="cat">{{ article.category }}</p>{% endif %}
   <h1>{{ article.title }}</h1>
-  <p class="meta" data-pagefind-ignore>
+  <p class="meta">
     {% if article.author %}{{ article.author }} · {% endif %}
     <time datetime="{{ article.publish_date }}">{{ article.publish_time or article.publish_date }}</time>
   </p>
@@ -39,10 +34,26 @@
     </div>
   {% endif %}
   <hr>
-  <p class="origin" data-pagefind-ignore>
+  <p class="origin">
     原文链接 (已下线): <a href="{{ article.original_url }}" rel="nofollow">{{ article.original_url }}</a><br>
     Wayback 快照: <a href="{{ article.archive_url }}" rel="nofollow">{{ article.archive_url }}</a>
     {% if article.screenshot_url %}<br>原始截图: <a href="{{ article.screenshot_url }}" rel="nofollow">{{ article.screenshot_url }}</a>{% endif %}
   </p>
 </article>
+
+{# Hidden index source — Pagefind reads this for full-text search.
+   The visible article above is excluded via data-pagefind-ignore="all"
+   so we don't double-index, and so search excerpts come from the clean
+   meta excerpt rather than the jieba-segmented (with-spaces) body. #}
+<div hidden data-pagefind-body
+  data-pagefind-meta="title:{{ article.title }}"
+  data-pagefind-meta="date:{{ article.publish_date }}"
+  {% if article.author %}data-pagefind-meta="author:{{ article.author }}"{% endif %}
+  {% if article.category %}data-pagefind-meta="category:{{ article.category }}"{% endif %}
+  data-pagefind-meta="excerpt:{{ article.excerpt }}"
+  data-pagefind-filter="year:{{ article.publish_date[:4] }}"
+  {% if article.category %}data-pagefind-filter="category:{{ article.category }}"{% endif %}>
+  <h1>{{ article.title_seg }}</h1>
+  <p>{{ article.body_seg }}</p>
+</div>
 {% endblock %}

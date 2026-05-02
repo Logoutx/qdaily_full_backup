@@ -95,6 +95,7 @@ class Extracted:
     body_text_len: int
     images: list[str]
     is_stub: bool
+    is_screenshot_only: bool        # True when Wayback never gave us a body
     source_path: str
     archive_url: str
     archive_ts: str
@@ -244,11 +245,39 @@ def extract_one(record: dict, html: str) -> Extracted | None:
         body_text_len=body_text_len,
         images=images,
         is_stub=is_stub,
+        is_screenshot_only=False,
         source_path=record["source_path"],
         archive_url=record["archive_url"],
         archive_ts=record["archive_ts"],
         original_url=record["original_url"],
         screenshot_url=record.get("screenshot_url"),
+    )
+
+
+def make_screenshot_only_stub(row: dict) -> Extracted:
+    """Synthesize a placeholder for an article whose Wayback snapshot is
+    unrecoverable (either a content-less capture or a transport failure).
+    The page will render with the original sinaimg.cn screenshot."""
+    return Extracted(
+        id=row["id"],
+        title=row.get("title") or f"#{row['id']}",
+        category=row.get("category"),
+        author=row.get("author"),
+        publish_time=None,
+        publish_date=row["original_date"],
+        folder_date=row["original_date"],
+        date_mismatch=False,
+        banner_image=None,
+        body_html="",
+        body_text_len=0,
+        images=[],
+        is_stub=True,
+        is_screenshot_only=True,
+        source_path=row.get("source_path", ""),
+        archive_url=row.get("archive_url", ""),
+        archive_ts=row.get("archive_ts", ""),
+        original_url=row.get("original_url", ""),
+        screenshot_url=row.get("screenshot_url"),
     )
 
 
@@ -258,11 +287,14 @@ def main() -> int:
     ap.add_argument("--cache", default="cache")
     ap.add_argument("--out", default="data/articles_extracted.jsonl")
     ap.add_argument("--errors", default="data/extract_errors.jsonl")
+    ap.add_argument("--failures", default="data/failures.jsonl",
+                    help="fetch failures; emitted as screenshot-only stubs if not otherwise extracted")
     ap.add_argument("--limit", type=int, default=None)
     args = ap.parse_args()
 
     # split('\n') — body_html in JSONL may contain U+2028.
     manifest = [json.loads(l) for l in Path(args.manifest).read_text(encoding="utf-8").split("\n") if l.strip()]
+    by_id = {row["id"]: row for row in manifest}
     cache = Path(args.cache)
 
     out_path = Path(args.out)
@@ -274,8 +306,12 @@ def main() -> int:
     tmp_out = out_path.with_suffix(out_path.suffix + ".tmp")
     tmp_err = err_path.with_suffix(err_path.suffix + ".tmp")
 
-    n_in = n_out = n_no_cache = n_err = n_stub = n_mismatch = 0
+    n_in = n_out = n_no_cache = n_err = n_stub = n_mismatch = n_screenshot_only = 0
+    emitted_ids: set[int] = set()
+
     with tmp_out.open("w", encoding="utf-8") as fout, tmp_err.open("w", encoding="utf-8") as ferr:
+        # Pass 1: every cached article. Emit either a full record or a
+        # screenshot-only stub (when Wayback served a body-less capture).
         for row in manifest:
             n_in += 1
             if args.limit is not None and n_out >= args.limit:
@@ -291,21 +327,52 @@ def main() -> int:
                 ferr.write(json.dumps({"id": row["id"], "error": f"{type(e).__name__}: {e}"}, ensure_ascii=False) + "\n")
                 continue
             if rec is None:
-                n_err += 1
-                ferr.write(json.dumps({"id": row["id"], "error": "no body element"}, ensure_ascii=False) + "\n")
-                continue
-            if rec.is_stub:
-                n_stub += 1
-            if rec.date_mismatch:
-                n_mismatch += 1
+                # Cached but Wayback never gave us a body — fall back to screenshot.
+                rec = make_screenshot_only_stub(row)
+                n_screenshot_only += 1
+            else:
+                if rec.is_stub:
+                    n_stub += 1
+                if rec.date_mismatch:
+                    n_mismatch += 1
             fout.write(json.dumps(asdict(rec), ensure_ascii=False) + "\n")
+            emitted_ids.add(rec.id)
             n_out += 1
+
+        # Pass 2: failures.jsonl. Articles whose fetches never succeeded get
+        # a screenshot-only stub too, so they're still browsable.
+        n_failed_stubs = 0
+        fail_path = Path(args.failures)
+        if fail_path.exists():
+            seen_failed: set[int] = set()
+            for line in fail_path.read_text(encoding="utf-8").split("\n"):
+                if not line.strip():
+                    continue
+                try:
+                    f = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                fid = f.get("id")
+                if not isinstance(fid, int) or fid in emitted_ids or fid in seen_failed:
+                    continue
+                row = by_id.get(fid)
+                if not row:
+                    continue
+                seen_failed.add(fid)
+                rec = make_screenshot_only_stub(row)
+                fout.write(json.dumps(asdict(rec), ensure_ascii=False) + "\n")
+                emitted_ids.add(fid)
+                n_failed_stubs += 1
+                n_screenshot_only += 1
 
     # Atomic rename: only after the full write succeeds.
     tmp_out.replace(out_path)
     tmp_err.replace(err_path)
 
-    print(f"manifest_in={n_in}  extracted={n_out}  no_cache={n_no_cache}  errors={n_err}  stubs={n_stub}  date_mismatches={n_mismatch}")
+    print(f"manifest_in={n_in}  extracted={n_out - n_screenshot_only}  "
+          f"screenshot_only={n_screenshot_only} (no_body={n_screenshot_only - n_failed_stubs}, "
+          f"fetch_failures={n_failed_stubs})  no_cache={n_no_cache}  "
+          f"errors={n_err}  stubs={n_stub}  date_mismatches={n_mismatch}")
     return 0
 
 

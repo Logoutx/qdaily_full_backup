@@ -14,9 +14,28 @@
       new PagefindUI({
         element: "#search",
         showImages: false,
-        excerptLength: 30,
+        excerptLength: 0,
         resetStyles: false,
-        showSubResults: true,
+        showSubResults: false,
+        processResult: function (result) {
+          // The hidden index block is jieba-segmented (with spaces), so the
+          // auto-generated excerpt looks ugly. Swap in the clean meta excerpt.
+          if (result.meta && result.meta.excerpt) {
+            result.excerpt = result.meta.excerpt;
+          }
+          // Prefix a meta line with date / author / category.
+          var parts = [];
+          if (result.meta) {
+            if (result.meta.date) parts.push(result.meta.date);
+            if (result.meta.author) parts.push(result.meta.author);
+            if (result.meta.category) parts.push(result.meta.category);
+          }
+          if (parts.length) {
+            result.excerpt = '<span class="result-meta">' + parts.join(' · ') +
+                             '</span><br>' + (result.excerpt || '');
+          }
+          return result;
+        },
         translations: {
           placeholder: "搜索好奇心日报存档…",
           clear_search: "清空",

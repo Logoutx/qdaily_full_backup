@@ -46,7 +46,7 @@ jobs:
         run: bash tools/install_pagefind.sh
 
       - name: Build search index
-        run: ./bin/pagefind_extended --site public
+        run: ./bin/pagefind --site public
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

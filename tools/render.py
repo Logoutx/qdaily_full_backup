@@ -25,8 +25,28 @@ from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
 
+import jieba
 from bs4 import BeautifulSoup
 from jinja2 import Environment, FileSystemLoader, select_autoescape
+
+# Suppress jieba's INFO-level startup chatter
+import logging
+jieba.setLogLevel(logging.WARNING)
+
+
+def _segment(text: str) -> str:
+    """Tokenize Chinese text with jieba. Returns space-separated tokens
+    suitable for whitespace-tokenizing search engines like Pagefind."""
+    if not text:
+        return ""
+    toks = (t.strip() for t in jieba.cut(text, cut_all=False, HMM=True))
+    return " ".join(t for t in toks if t)
+
+
+def _plain_text(html: str) -> str:
+    if not html:
+        return ""
+    return BeautifulSoup(html, "lxml").get_text(" ", strip=True)
 
 BROKEN_HOSTS = {"121.201.7.32:8001"}
 
@@ -157,39 +177,10 @@ def main() -> int:
             continue
         records.append(json.loads(line))
 
-    # Synthesize screenshot-only stubs for manifest entries we never extracted
-    # (Wayback transport failure or Wayback-stub captures with no body).
-    n_stubs_added = 0
-    if Path(args.manifest).exists():
-        extracted_ids = {r["id"] for r in records}
-        for line in Path(args.manifest).read_text(encoding="utf-8").split("\n"):
-            if not line.strip():
-                continue
-            m = json.loads(line)
-            if m["id"] in extracted_ids:
-                continue
-            records.append({
-                "id": m["id"],
-                "title": m.get("title") or f"#{m['id']}",
-                "category": m.get("category"),
-                "author": m.get("author"),
-                "publish_time": None,
-                "publish_date": m["original_date"],
-                "folder_date": m["original_date"],
-                "date_mismatch": False,
-                "banner_image": None,
-                "body_html": "",
-                "body_text_len": 0,
-                "images": [],
-                "is_stub": True,
-                "is_screenshot_only": True,
-                "source_path": m.get("source_path", ""),
-                "archive_url": m.get("archive_url", ""),
-                "archive_ts": m.get("archive_ts", ""),
-                "original_url": m.get("original_url", ""),
-                "screenshot_url": m.get("screenshot_url"),
-            })
-            n_stubs_added += 1
+    # Stubs for unrecoverable articles are now baked into articles_extracted.jsonl
+    # by extract.py (records with is_screenshot_only=True). render.py just
+    # iterates whatever is there.
+    n_stubs_added = sum(1 for r in records if r.get("is_screenshot_only"))
 
     if not records:
         print("No records to render.")
@@ -208,12 +199,21 @@ def main() -> int:
         if banner:
             banner_resolved, banner_broken = resolve_url(banner, r["archive_ts"], args.image_mode, r["id"], assets_root)
         total_broken += broken_in_body + (1 if banner_broken else 0)
+        # Search index inputs (jieba-segmented, hidden block in article page)
+        plain_body = _plain_text(body_html)
+        title_seg = _segment(r["title"])
+        body_seg = _segment(plain_body)
+        excerpt = (plain_body[:140] + "…") if len(plain_body) > 140 else plain_body
+
         rendered.append({
             **r,
             "body_html_resolved": body_html,
             "banner_image_resolved": banner_resolved,
             "banner_broken": banner_broken,
             "publish_rfc822": rfc822(r.get("publish_time") or r["publish_date"]),
+            "title_seg": title_seg,
+            "body_seg": body_seg,
+            "excerpt": excerpt,
         })
 
     # Sort newest-first for indexes
