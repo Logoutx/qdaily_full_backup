@@ -38,8 +38,8 @@
     {% if 'medium.com' in article.original_url %}
       原文 (Medium): <a href="{{ article.original_url }}" rel="nofollow">{{ article.original_url }}</a>
     {% else %}
-      原文链接 (已下线): <a href="{{ article.original_url }}" rel="nofollow">{{ article.original_url }}</a><br>
-      Wayback 快照: <a href="{{ article.archive_url }}" rel="nofollow">{{ article.archive_url }}</a>
+      原文链接 (已下线): <a href="{{ article.original_url }}" rel="nofollow">{{ article.original_url }}</a>
+      {% if article.archive_url %}<br>Wayback 快照: <a href="{{ article.archive_url }}" rel="nofollow">{{ article.archive_url }}</a>{% endif %}
       {% if article.screenshot_url %}<br>原始截图: <a href="{{ article.screenshot_url }}" rel="nofollow">{{ article.screenshot_url }}</a>{% endif %}
     {% endif %}
   </p>

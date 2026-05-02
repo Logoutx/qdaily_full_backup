@@ -183,13 +183,27 @@ def main() -> int:
         legacy = Path("data/articles_extracted.jsonl")
         if legacy.exists():
             record_files = [str(legacy)]
-    records = []
+    # Dedup by id, keeping the LAST occurrence across files. Glob is sorted
+    # alphabetically, so files like articles_extracted_2017.jsonl precede
+    # articles_extracted_extra.jsonl — meaning manually-curated overrides
+    # in the _extra file win over auto-extracted Wayback content.
+    record_map: dict = {}
+    n_total = 0
+    n_overrides = 0
     for path in record_files:
         for line in Path(path).read_text(encoding="utf-8").split("\n"):
             if not line.strip():
                 continue
-            records.append(json.loads(line))
-    print(f"loaded {len(records)} records from {len(record_files)} file(s)")
+            rec = json.loads(line)
+            n_total += 1
+            if rec["id"] in record_map:
+                n_overrides += 1
+            record_map[rec["id"]] = rec
+    records = list(record_map.values())
+    print(
+        f"loaded {n_total} records from {len(record_files)} file(s); "
+        f"{len(records)} unique after dedup (overrides applied: {n_overrides})"
+    )
 
     # Stubs for unrecoverable articles are now baked into articles_extracted.jsonl
     # by extract.py (records with is_screenshot_only=True). render.py just

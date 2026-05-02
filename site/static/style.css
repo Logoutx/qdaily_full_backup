@@ -57,6 +57,7 @@ h3 { font-size: 1.1rem; }
 .article .body figcaption { color: var(--fg-soft); font-size: 0.9rem; margin-top: 0.4em; }
 .article .body blockquote { border-left: 3px solid var(--rule); margin: 1.4em 0; padding: 0.2em 0 0.2em 1em; color: var(--fg-soft); }
 .article .body img[data-broken="1"] { display: none; }
+.article .body p.subtitle { color: var(--fg-soft); font-size: 1.05rem; font-style: italic; margin: -0.4em 0 1.4em; }
 
 .notice {
   background: rgba(180, 130, 0, 0.08);

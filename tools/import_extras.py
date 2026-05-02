@@ -1,18 +1,21 @@
 """
-Import supplementary articles into the archive (e.g. PEKExpress on Medium).
+Import supplementary articles from local markdown files.
 
-Reads Medium's per-user RSS feed, picks the items whose URLs match TARGETS,
-extracts an in-body byline if one is present (e.g. "作者：刘璐天 …"),
-applies any per-URL author override, sanitises the body HTML, and emits one
-record per article to data/articles_extracted_extra.jsonl.
+Each input file starts with a meta block:
 
-The renderer's existing data/articles_extracted_*.jsonl glob picks the file
-up automatically. A separate file (rather than appending to a per-year file)
-keeps these survives across future extract.py runs that overwrite per-year
-files for the QDaily core.
+    Title: ...
+    Date: 2017 年 11 月 27 日
+    Author: ...
+    Link: http://www.qdaily.com/articles/<id>.html
+    Subtitle: ...    (optional)
 
-Usage:
-    python tools/import_extras.py
+followed by a blank line and the article body in markdown. The QDaily ID
+parsed from `Link:` becomes the record id, so when Phase 2 later extracts
+the same article from Wayback, render.py's dedup keeps this manually-
+curated version (the per-year file would be alphabetically earlier than
+data/articles_extracted_extra.jsonl, so the manual record wins).
+
+Edit SOURCES to add more files.
 """
 
 from __future__ import annotations
@@ -20,166 +23,135 @@ from __future__ import annotations
 import json
 import re
 import sys
-from dataclasses import asdict
 from datetime import datetime
-from email.utils import parsedate_to_datetime
 from pathlib import Path
-from xml.etree import ElementTree as ET
 
-import httpx
+import markdown as md_lib
 from bs4 import BeautifulSoup
 
-# Each entry: URL fragment to match, optional per-URL overrides.
-TARGETS: list[dict] = [
-    {"suffix": "19bd7aed7a3c"},
-    {"suffix": "126686f969d1"},
-    {"suffix": "2aaabebab1e0", "author": "刘璐天 晏文静 唐云路 黄俊杰 罗骢 谢金萍 张智伟 周韶宏 杨宽"},
-    {"suffix": "23f81eb65a3a"},
+DOWNLOADS = Path("/Users/logoutx/Downloads")
+SOURCES: list[Path] = [
+    DOWNLOADS / "11 月 27 日，新建庄见闻. 转自《好奇心日报》，11 月 27 日，2 点发布。作者唐云路。源链接…  by PEK Express  Medium.md",
+    DOWNLOADS / "48 小时之内，25 日之前，最后两天. 北京大兴火灾后，政府发动 40 天清理行动。《好奇心日报》2017 年 11…  by PEK Express  Medium.md",
+    DOWNLOADS / "“人文关怀”，和皮村多出来的 96 小时. 转自《好奇心日报》，11 月 28 日 8 点发布，作者刘璐天。源链接…  by PEK Express  Medium.md",
+    DOWNLOADS / "晚上 8 点半，连续 7 天，距离首都机场 2 公里. 转自《好奇心日报》，2017 年 12 月 2 日 22 点发布，3 日下午…  by PEK Express  Medium.md",
 ]
-FEED_URL = "https://medium.com/feed/@PEKExpress"
-ID_BASE = 9_000_000  # synthetic IDs above QDaily's range
 OUT_PATH = Path("data/articles_extracted_extra.jsonl")
 
-ALLOWED_TAGS = {
-    "p", "h1", "h2", "h3", "h4", "h5", "h6",
-    "blockquote", "pre", "code",
-    "ul", "ol", "li",
-    "figure", "figcaption", "img",
-    "a", "em", "strong", "b", "i", "u", "s", "br", "hr",
-    "table", "thead", "tbody", "tr", "th", "td",
-    "div", "span",
-}
-ALLOWED_ATTRS = {
-    "a": {"href", "title", "rel"},
-    "img": {"src", "alt", "title", "width", "height"},
-}
-BYLINE_PATTERNS = [
-    re.compile(r"作者[：:]\s*([^\n。]+)"),
-    re.compile(r"撰稿[：:]\s*([^\n。]+)"),
-    re.compile(r"文[／/]\s*([^\n。]+)"),
-]
+META_KEYS = {"Title", "Date", "Author", "Link", "Subtitle"}
+META_LINE_RE = re.compile(r"^([A-Za-z]+):\s*(.*)$")
+DATE_RE = re.compile(r"(\d{4})\s*年\s*(\d{1,2})\s*月\s*(\d{1,2})\s*日")
+ID_RE = re.compile(r"/(?:articles|cards)/(\d+)(?:\.html)?")
+SUBTITLE_PREFIX = "Subtitle: "
 
 
-def parse_byline(body_text: str) -> str | None:
-    head = body_text[:600]
-    for pat in BYLINE_PATTERNS:
-        m = pat.search(head)
-        if m:
-            name = m.group(1).strip().rstrip("，,；; ").strip()
-            # Sanity: bylines tend to be short
-            if 1 <= len(name) <= 80:
-                return name
-    return None
+def parse_meta_and_body(text: str) -> tuple[dict, str]:
+    """Split the leading Key: Value block from the markdown body."""
+    lines = text.split("\n")
+    i = 0
+    while i < len(lines) and not lines[i].strip():
+        i += 1
+    meta: dict[str, str] = {}
+    while i < len(lines):
+        m = META_LINE_RE.match(lines[i])
+        if not m:
+            break
+        key = m.group(1)
+        if key not in META_KEYS:
+            break
+        meta[key] = m.group(2).strip()
+        i += 1
+    while i < len(lines) and not lines[i].strip():
+        i += 1
+    return meta, "\n".join(lines[i:])
 
 
-def clean_body(html: str) -> tuple[str, list[str]]:
-    """Sanitise Medium HTML; return (cleaned_html, image_urls)."""
-    soup = BeautifulSoup(html, "lxml")
-    for sel in ("script", "style", "noscript", "iframe"):
-        for el in soup.select(sel):
-            el.decompose()
+def parse_chinese_date(s: str) -> datetime:
+    m = DATE_RE.search(s)
+    if not m:
+        raise ValueError(f"could not parse Chinese date: {s!r}")
+    y, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
+    return datetime(y, mo, d)
 
-    images: list[str] = []
-    for el in list(soup.find_all(True)):
-        if not el.parent:
-            continue
-        if el.name == "img":
-            src = (el.get("src") or "").strip()
-            if not src or src.startswith("data:"):
-                el.decompose()
-                continue
-            el.attrs = {"src": src}
-            if el.get("alt"):
-                el["alt"] = el["alt"]
-            images.append(src)
-            continue
-        if el.name not in ALLOWED_TAGS:
-            el.unwrap()
-            continue
-        allowed = ALLOWED_ATTRS.get(el.name, set())
-        for k in list(el.attrs):
-            if k not in allowed:
-                del el.attrs[k]
-            elif k == "href" and (el["href"] or "").lower().startswith("javascript:"):
-                del el["href"]
 
-    body = soup.body or soup
-    return body.decode_contents().strip(), images
+def article_id_from_link(link: str) -> int | None:
+    m = ID_RE.search(link)
+    return int(m.group(1)) if m else None
 
 
 def main() -> int:
-    print(f"fetching {FEED_URL}")
-    r = httpx.get(FEED_URL, follow_redirects=True, timeout=30.0,
-                  headers={"User-Agent": "Mozilla/5.0 (qdaily-archive/0.1)"})
-    r.raise_for_status()
-    root = ET.fromstring(r.text)
-
-    items_by_suffix = {}
-    for item in root.findall(".//item"):
-        link = (item.findtext("link") or "").strip()
-        for tgt in TARGETS:
-            if tgt["suffix"] in link:
-                items_by_suffix[tgt["suffix"]] = (item, tgt)
-                break
-
-    missing = [t["suffix"] for t in TARGETS if t["suffix"] not in items_by_suffix]
-    if missing:
-        print(f"warning: feed did not contain suffix(es): {missing}", file=sys.stderr)
-
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    next_id = ID_BASE + 1
+    md = md_lib.Markdown(extensions=["extra", "sane_lists", "smarty"])
+
     n = 0
     with OUT_PATH.open("w", encoding="utf-8") as fout:
-        for tgt in TARGETS:
-            pair = items_by_suffix.get(tgt["suffix"])
-            if not pair:
+        for src in SOURCES:
+            if not src.exists():
+                print(f"  MISSING: {src}", file=sys.stderr)
                 continue
-            item, target = pair
-            link = (item.findtext("link") or "").split("?")[0].strip()
-            title = (item.findtext("title") or "").strip()
-            pub_raw = (item.findtext("pubDate") or "").strip()
+            text = src.read_text(encoding="utf-8")
+            meta, body_md = parse_meta_and_body(text)
+
+            title = meta.get("Title", "").strip()
+            author = meta.get("Author", "").strip()
+            link = meta.get("Link", "").strip()
+            subtitle = meta.get("Subtitle", "").strip()
             try:
-                dt = parsedate_to_datetime(pub_raw)
-            except Exception:
-                dt = datetime.utcnow()
-            content_html = (
-                item.findtext("{http://purl.org/rss/1.0/modules/content/}encoded")
-                or ""
+                dt = parse_chinese_date(meta.get("Date", ""))
+            except ValueError:
+                print(f"  WARN: bad date in {src.name!r}", file=sys.stderr)
+                continue
+            article_id = article_id_from_link(link)
+            if article_id is None:
+                print(f"  WARN: no /articles/<id>.html in Link: {link!r}", file=sys.stderr)
+                continue
+
+            md.reset()
+            body_html_inner = md.convert(body_md)
+            if subtitle:
+                body_html_inner = (
+                    f'<p class="subtitle">{subtitle}</p>\n' + body_html_inner
+                )
+
+            soup = BeautifulSoup(body_html_inner, "lxml")
+            images = [
+                (img.get("src") or "").strip()
+                for img in soup.find_all("img")
+                if (img.get("src") or "").strip()
+            ]
+            text_only = soup.get_text(" ", strip=True)
+            excerpt = subtitle or (
+                text_only[:140] + "…" if len(text_only) > 140 else text_only
             )
 
-            body_soup = BeautifulSoup(content_html, "lxml")
-            body_text = body_soup.get_text(" ", strip=True)
-            byline = parse_byline(body_text)
-            author = target.get("author") or byline or "PEK Express"
-
-            cleaned_html, images = clean_body(content_html)
-            text_only = BeautifulSoup(cleaned_html, "lxml").get_text(strip=True)
-
             rec = {
-                "id": next_id,
+                "id": article_id,
                 "title": title,
-                "category": "PEKExpress",
+                "category": None,
                 "author": author,
                 "publish_time": dt.strftime("%Y-%m-%d %H:%M:%S"),
                 "publish_date": dt.strftime("%Y-%m-%d"),
                 "folder_date": dt.strftime("%Y-%m-%d"),
                 "date_mismatch": False,
                 "banner_image": images[0] if images else None,
-                "body_html": cleaned_html,
+                "body_html": body_html_inner,
                 "body_text_len": len(text_only),
                 "images": images,
                 "is_stub": False,
                 "is_screenshot_only": False,
-                "source_path": link,
-                "archive_url": link,
-                "archive_ts": "",  # no Wayback rewrite (still-live source)
+                "source_path": src.name,
+                "archive_url": "",  # no Wayback for these — manual import
+                "archive_ts": "",   # disables wayback rewrite of img URLs
                 "original_url": link,
                 "screenshot_url": None,
             }
             fout.write(json.dumps(rec, ensure_ascii=False) + "\n")
-            next_id += 1
             n += 1
-            print(f"  {rec['id']}  {rec['publish_date']}  {rec['author'][:30]:<30}  {title[:50]}")
+            print(
+                f"  id={article_id}  date={rec['publish_date']}  "
+                f"author_len={len(author):>3}  imgs={len(images):>2}  "
+                f"body_text_len={len(text_only):>5}  title_len={len(title)}"
+            )
 
     print(f"\nwrote {n} records to {OUT_PATH}")
     return 0
