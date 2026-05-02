@@ -17,6 +17,20 @@
         excerptLength: 0,
         resetStyles: false,
         showSubResults: false,
+        processTerm: function (term) {
+          // Force exact-phrase matching per term. Without this, Pagefind
+          // falls back to character-substring matching for unmatched
+          // CJK queries — e.g. "小红书" surfaces unrelated 书店 / 书屋
+          // hits because no doc has "小红书" as a contiguous indexed
+          // token (jieba kept it whole, but no 2014-2015 article uses it).
+          // The user's typed text and result-count message still show
+          // the raw query unchanged; only the underlying Pagefind call
+          // sees the quoted form.
+          if (!term) return term;
+          // Already user-quoted? leave alone.
+          if (term.startsWith('"') && term.endsWith('"')) return term;
+          return '"' + term.replace(/"/g, '\\"') + '"';
+        },
         processResult: function (result) {
           // The hidden index block is jieba-segmented (with spaces), so the
           // auto-generated excerpt looks ugly. Swap in the clean meta excerpt.
