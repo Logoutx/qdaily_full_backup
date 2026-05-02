@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block title %}搜索 — {{ site_title }}{% endblock %}
+{% block head %}
+<link href="{{ url('pagefind/pagefind-ui.css') }}" rel="stylesheet">
+<script src="{{ url('pagefind/pagefind-ui.js') }}" defer></script>
+{% endblock %}
+{% block main %}
+<div data-pagefind-ignore="all">
+  <h1>搜索</h1>
+  <p class="lead">在 {{ total }} 篇文章的标题与正文中查找。支持中文。可按年份和分类筛选结果。</p>
+  <div id="search"></div>
+  <script>
+    window.addEventListener("DOMContentLoaded", function () {
+      new PagefindUI({
+        element: "#search",
+        showImages: false,
+        excerptLength: 30,
+        resetStyles: false,
+        showSubResults: true,
+        translations: {
+          placeholder: "搜索好奇心日报存档…",
+          clear_search: "清空",
+          load_more: "加载更多结果",
+          search_label: "在站内搜索",
+          filters_label: "筛选",
+          zero_results: "没有匹配 [SEARCH_TERM] 的结果",
+          many_results: "找到 [COUNT] 个匹配 [SEARCH_TERM] 的结果",
+          one_result: "找到 1 个匹配 [SEARCH_TERM] 的结果",
+          alt_search: "无 [SEARCH_TERM] 的结果，显示 [DIFFERENT_TERM] 的结果",
+          search_suggestion: "没有匹配 [SEARCH_TERM] 的结果。请尝试以下搜索：",
+          searching: "搜索 [SEARCH_TERM] 中…"
+        }
+      });
+    });
+  </script>
+</div>
+{% endblock %}

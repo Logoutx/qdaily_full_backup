@@ -5,19 +5,25 @@
 #   make fetch       # download Wayback HTML to cache/  (long; resumable)
 #   make extract     # cache/ -> data/articles_extracted.jsonl
 #   make render      # data/articles_extracted.jsonl -> public/
+#   make index       # build Pagefind search index in public/pagefind/
+#   make site        # render + index
 #   make serve       # local preview at http://localhost:8765
 #
 # Or do everything in one go:
 #   make all
 
 PY := .venv/bin/python
+PAGEFIND := bin/pagefind_extended
 YEAR ?= 2014
 
-.PHONY: venv inventory fetch extract render serve all clean-public
+.PHONY: venv pagefind inventory fetch extract render index site serve all clean-public
 
 venv:
 	test -d .venv || python3 -m venv .venv
 	.venv/bin/pip install -q -r requirements.txt
+
+pagefind:
+	@bash tools/install_pagefind.sh
 
 inventory: venv
 	$(PY) tools/inventory.py --year $(YEAR)
@@ -31,10 +37,15 @@ extract: venv
 render: venv
 	$(PY) tools/render.py --base-url "/" --image-mode wayback
 
+index: pagefind
+	$(PAGEFIND) --site public
+
+site: render index
+
 serve: venv
 	$(PY) -m http.server 8765 --directory public
 
-all: inventory fetch extract render
+all: inventory fetch extract render index
 
 clean-public:
 	rm -rf public

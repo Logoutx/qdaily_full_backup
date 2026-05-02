@@ -2,15 +2,20 @@
 {% block title %}{{ article.title }} — {{ site_title }}{% endblock %}
 {% block description %}{{ article.title }}{% if article.author %}，{{ article.author }}{% endif %}{% endblock %}
 {% block main %}
-<article class="article">
-  <p class="breadcrumb">
+<article class="article" data-pagefind-body
+  data-pagefind-meta="title:{{ article.title }}"
+  data-pagefind-meta="date:{{ article.publish_date }}"
+  {% if article.author %}data-pagefind-meta="author:{{ article.author }}"{% endif %}
+  data-pagefind-filter="year:{{ article.publish_date[:4] }}"
+  {% if article.category %}data-pagefind-filter="category:{{ article.category }}"{% endif %}>
+  <p class="breadcrumb" data-pagefind-ignore>
     <a href="{{ url('') }}">首页</a> ›
     <a href="{{ url(article.publish_date[:4] ~ '/') }}">{{ article.publish_date[:4] }}</a> ›
     <a href="{{ url(article.publish_date[:4] ~ '/' ~ article.publish_date[5:7] ~ '/') }}">{{ article.publish_date[5:7] }}</a>
   </p>
   {% if article.category %}<p class="cat">{{ article.category }}</p>{% endif %}
   <h1>{{ article.title }}</h1>
-  <p class="meta">
+  <p class="meta" data-pagefind-ignore>
     {% if article.author %}{{ article.author }} · {% endif %}
     <time datetime="{{ article.publish_date }}">{{ article.publish_time or article.publish_date }}</time>
   </p>
@@ -34,7 +39,7 @@
     </div>
   {% endif %}
   <hr>
-  <p class="origin">
+  <p class="origin" data-pagefind-ignore>
     原文链接 (已下线): <a href="{{ article.original_url }}" rel="nofollow">{{ article.original_url }}</a><br>
     Wayback 快照: <a href="{{ article.archive_url }}" rel="nofollow">{{ article.archive_url }}</a>
     {% if article.screenshot_url %}<br>原始截图: <a href="{{ article.screenshot_url }}" rel="nofollow">{{ article.screenshot_url }}</a>{% endif %}

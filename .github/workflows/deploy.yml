@@ -4,9 +4,11 @@ on:
   push:
     branches: [main]
     paths:
+      - 'data/articles.jsonl'
       - 'data/articles_extracted.jsonl'
       - 'site/**'
       - 'tools/render.py'
+      - 'tools/install_pagefind.sh'
       - '.github/workflows/deploy.yml'
   workflow_dispatch:
 
@@ -39,6 +41,12 @@ jobs:
             --base-url "/qdaily_full_backup/" \
             --site-url "https://logoutx.github.io" \
             --image-mode wayback
+
+      - name: Install Pagefind
+        run: bash tools/install_pagefind.sh
+
+      - name: Build search index
+        run: ./bin/pagefind_extended --site public
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

@@ -15,6 +15,7 @@
   <nav>
     <a href="{{ url('') }}">首页</a>
     {% for y in years %}<a href="{{ url(y ~ '/') }}">{{ y }}</a>{% endfor %}
+    <a href="{{ url('search/') }}">搜索</a>
     <a href="{{ url('feed.xml') }}">RSS</a>
   </nav>
 </header>

@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% block title %}{{ heading }} — {{ site_title }}{% endblock %}
 {% block main %}
+<div data-pagefind-ignore="all">
 <h1>{{ heading }}</h1>
 {% if subnav %}<nav class="subnav">{% for label, href in subnav %}<a href="{{ href }}">{{ label }}</a>{% endfor %}</nav>{% endif %}
 <ul class="article-list">
@@ -13,4 +14,5 @@
   </li>
   {% endfor %}
 </ul>
+</div>
 {% endblock %}

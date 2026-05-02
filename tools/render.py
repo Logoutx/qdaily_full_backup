@@ -281,6 +281,14 @@ def main() -> int:
                 encoding="utf-8",
             )
 
+    # Search page
+    search_dir = out / "search"
+    search_dir.mkdir(parents=True, exist_ok=True)
+    (search_dir / "index.html").write_text(
+        env.get_template("search.html").render(total=len(rendered)),
+        encoding="utf-8",
+    )
+
     # RSS feed (latest 200)
     (out / "feed.xml").write_text(
         env.get_template("feed.xml").render(
