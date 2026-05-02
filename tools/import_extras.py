@@ -47,6 +47,13 @@ DATE_RE = re.compile(r"(\d{4})\s*年\s*(\d{1,2})\s*月\s*(\d{1,2})\s*日")
 ID_RE = re.compile(r"/(?:articles|cards)/(\d+)(?:\.html)?")
 SUBTITLE_PREFIX = "Subtitle: "
 
+# Boilerplate lines emitted by Medium's "Save as markdown" / page-source
+# tooling; strip before converting markdown -> HTML.
+BOILERPLATE_LINE_RE = re.compile(
+    r"^\s*Press enter or click to view image in full size\s*$\n?",
+    re.MULTILINE,
+)
+
 
 def parse_meta_and_body(text: str) -> tuple[dict, str]:
     """Split the leading Key: Value block from the markdown body."""
@@ -108,6 +115,9 @@ def main() -> int:
             if article_id is None:
                 print(f"  WARN: no /articles/<id>.html in Link: {link!r}", file=sys.stderr)
                 continue
+
+            # Strip Medium boilerplate before rendering.
+            body_md = BOILERPLATE_LINE_RE.sub("", body_md)
 
             md.reset()
             body_html_inner = md.convert(body_md)
