@@ -131,7 +131,7 @@ def main() -> int:
     ap.add_argument("--base-url", default="/", help="URL prefix; '/' for local preview, '/qdaily_full_backup/' for GitHub Pages")
     ap.add_argument("--site-url", default="https://logoutx.github.io", help="absolute origin for RSS")
     ap.add_argument("--site-title", default="QDaily 好奇心日报存档")
-    ap.add_argument("--site-description", default="好奇心日报文章存档,通过 Internet Archive 重建。")
+    ap.add_argument("--site-description", default="好奇心日报所刊发内容存档，通过 Internet Archive 重建。")
     args = ap.parse_args()
 
     out = Path(args.out)

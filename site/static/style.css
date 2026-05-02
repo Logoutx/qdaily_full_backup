@@ -40,6 +40,7 @@ h2 { font-size: 1.25rem; margin-top: 2.4rem; }
 h3 { font-size: 1.1rem; }
 
 .lead { font-size: 1.1rem; color: var(--fg-soft); }
+.byline { color: var(--fg-soft); font-size: 0.92rem; margin-top: 0.2em; font-style: italic; }
 .stats { color: var(--fg-soft); font-size: 0.95rem; }
 
 .cat { color: var(--cat); font-size: 0.85rem; margin: 0; }
