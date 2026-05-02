@@ -37,6 +37,9 @@ SOURCES: list[Path] = [
     DOWNLOADS / "晚上 8 点半，连续 7 天，距离首都机场 2 公里. 转自《好奇心日报》，2017 年 12 月 2 日 22 点发布，3 日下午…  by PEK Express  Medium.md",
 ]
 OUT_PATH = Path("data/articles_extracted_extra.jsonl")
+# These four articles all belong to QDaily's "城市" beat. If a future
+# import covers other beats, lift this into a per-source field instead.
+DEFAULT_CATEGORY = "城市"
 
 META_KEYS = {"Title", "Date", "Author", "Link", "Subtitle"}
 META_LINE_RE = re.compile(r"^([A-Za-z]+):\s*(.*)$")
@@ -127,7 +130,7 @@ def main() -> int:
             rec = {
                 "id": article_id,
                 "title": title,
-                "category": None,
+                "category": DEFAULT_CATEGORY,
                 "author": author,
                 "publish_time": dt.strftime("%Y-%m-%d %H:%M:%S"),
                 "publish_date": dt.strftime("%Y-%m-%d"),
