@@ -42,17 +42,18 @@
 </article>
 
 {# Hidden index source — Pagefind reads this for full-text search.
-   The visible article above is excluded via data-pagefind-ignore="all"
-   so we don't double-index, and so search excerpts come from the clean
-   meta excerpt rather than the jieba-segmented (with-spaces) body. #}
-<div hidden data-pagefind-body
-  data-pagefind-meta="title:{{ article.title }}"
-  data-pagefind-meta="date:{{ article.publish_date }}"
-  {% if article.author %}data-pagefind-meta="author:{{ article.author }}"{% endif %}
-  {% if article.category %}data-pagefind-meta="category:{{ article.category }}"{% endif %}
-  data-pagefind-meta="excerpt:{{ article.excerpt }}"
-  data-pagefind-filter="year:{{ article.publish_date[:4] }}"
-  {% if article.category %}data-pagefind-filter="category:{{ article.category }}"{% endif %}>
+   The visible article above is excluded via data-pagefind-ignore="all".
+   Each meta and filter goes on its own child element: HTML allows only
+   one attribute of a given name per element, so stacking multiple
+   data-pagefind-meta on one tag silently drops all but the first. #}
+<div hidden data-pagefind-body>
+  <span data-pagefind-meta="title:{{ article.title }}"></span>
+  <span data-pagefind-meta="date:{{ article.publish_date }}"></span>
+  {% if article.author %}<span data-pagefind-meta="author:{{ article.author }}"></span>{% endif %}
+  {% if article.category %}<span data-pagefind-meta="category:{{ article.category }}"></span>{% endif %}
+  <span data-pagefind-meta="excerpt:{{ article.excerpt }}"></span>
+  <span data-pagefind-filter="year:{{ article.publish_date[:4] }}"></span>
+  {% if article.category %}<span data-pagefind-filter="category:{{ article.category }}"></span>{% endif %}
   <h1>{{ article.title_seg }}</h1>
   <p>{{ article.body_seg }}</p>
 </div>
