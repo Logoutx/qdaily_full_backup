@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}{{ heading }} — {{ site_title }}{% endblock %}
+{% block main %}
+<h1>{{ heading }}</h1>
+{% if subnav %}<nav class="subnav">{% for label, href in subnav %}<a href="{{ href }}">{{ label }}</a>{% endfor %}</nav>{% endif %}
+<ul class="article-list">
+  {% for a in articles %}
+  <li>
+    <time datetime="{{ a.publish_date }}">{{ a.publish_date }}</time>
+    {% if a.category %}<span class="cat">{{ a.category }}</span>{% endif %}
+    <a href="{{ url('articles/' ~ a.id ~ '/') }}">{{ a.title }}</a>
+    {% if a.author %}<span class="author">{{ a.author }}</span>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endblock %}

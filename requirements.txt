@@ -1,0 +1,5 @@
+httpx>=0.27
+tenacity>=8.2
+beautifulsoup4>=4.12
+lxml>=5.0
+jinja2>=3.1

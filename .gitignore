@@ -1,0 +1,20 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Source clone (read-only mirror of qdaily_backup; not committed)
+source/
+
+# Stage outputs that are large or regenerable
+cache/
+public/
+
+# Asset images: kept separately depending on size — see RPD §5
+# assets/  # uncomment if assets get split to a sibling repo
+
+# Logs
+data/failures.jsonl
+data/*.log
+data/preview_*.html

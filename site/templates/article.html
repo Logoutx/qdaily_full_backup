@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}{{ article.title }} — {{ site_title }}{% endblock %}
+{% block description %}{{ article.title }}{% if article.author %}，{{ article.author }}{% endif %}{% endblock %}
+{% block main %}
+<article class="article">
+  <p class="breadcrumb">
+    <a href="{{ url('') }}">首页</a> ›
+    <a href="{{ url(article.publish_date[:4] ~ '/') }}">{{ article.publish_date[:4] }}</a> ›
+    <a href="{{ url(article.publish_date[:4] ~ '/' ~ article.publish_date[5:7] ~ '/') }}">{{ article.publish_date[5:7] }}</a>
+  </p>
+  {% if article.category %}<p class="cat">{{ article.category }}</p>{% endif %}
+  <h1>{{ article.title }}</h1>
+  <p class="meta">
+    {% if article.author %}{{ article.author }} · {% endif %}
+    <time datetime="{{ article.publish_date }}">{{ article.publish_time or article.publish_date }}</time>
+  </p>
+  {% if article.banner_image_resolved %}
+    <figure class="banner">
+      <img src="{{ article.banner_image_resolved }}" alt="" loading="lazy"{% if article.banner_broken %} data-broken="1"{% endif %}>
+    </figure>
+  {% endif %}
+  <div class="body">
+    {{ article.body_html_resolved | safe }}
+  </div>
+  <hr>
+  <p class="origin">
+    原文链接 (已下线): <a href="{{ article.original_url }}" rel="nofollow">{{ article.original_url }}</a><br>
+    Wayback 快照: <a href="{{ article.archive_url }}" rel="nofollow">{{ article.archive_url }}</a>
+    {% if article.screenshot_url %}<br>原始截图: <a href="{{ article.screenshot_url }}" rel="nofollow">{{ article.screenshot_url }}</a>{% endif %}
+  </p>
+</article>
+{% endblock %}

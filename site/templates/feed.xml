@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>{{ site_title }}</title>
+<link>{{ site_url }}</link>
+<description>{{ site_description }}</description>
+<language>zh-Hans</language>
+<lastBuildDate>{{ build_date }}</lastBuildDate>
+{% for a in latest %}
+<item>
+  <title>{{ a.title | e }}</title>
+  <link>{{ site_url }}{{ url('articles/' ~ a.id ~ '/') }}</link>
+  <guid isPermaLink="false">qdaily-archive-{{ a.id }}</guid>
+  <pubDate>{{ a.publish_rfc822 }}</pubDate>
+  {% if a.category %}<category>{{ a.category | e }}</category>{% endif %}
+  {% if a.author %}<author>{{ a.author | e }}</author>{% endif %}
+</item>
+{% endfor %}
+</channel>
+</rss>
