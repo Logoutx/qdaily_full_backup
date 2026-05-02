@@ -57,6 +57,17 @@ h3 { font-size: 1.1rem; }
 .article .body blockquote { border-left: 3px solid var(--rule); margin: 1.4em 0; padding: 0.2em 0 0.2em 1em; color: var(--fg-soft); }
 .article .body img[data-broken="1"] { display: none; }
 
+.notice {
+  background: rgba(180, 130, 0, 0.08);
+  border-left: 3px solid #b48200;
+  padding: 0.7em 1em;
+  margin: 1.2em 0;
+  color: var(--fg-soft);
+  font-size: 0.92rem;
+}
+.screenshot-fallback { margin: 1.2em 0; }
+.screenshot-fallback img { width: 100%; height: auto; display: block; border-radius: 2px; }
+
 .origin { color: var(--fg-soft); font-size: 0.86rem; word-break: break-all; }
 .origin a { color: var(--fg-soft); }
 

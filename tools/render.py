@@ -100,6 +100,8 @@ def rfc822(date_str: str) -> str:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--records", default="data/articles_extracted.jsonl")
+    ap.add_argument("--manifest", default="data/articles.jsonl",
+                    help="full manifest; entries missing from --records are rendered as screenshot-only stubs")
     ap.add_argument("--templates", default="site/templates")
     ap.add_argument("--static", default="site/static")
     ap.add_argument("--out", default="public")
@@ -154,6 +156,40 @@ def main() -> int:
         if not line.strip():
             continue
         records.append(json.loads(line))
+
+    # Synthesize screenshot-only stubs for manifest entries we never extracted
+    # (Wayback transport failure or Wayback-stub captures with no body).
+    n_stubs_added = 0
+    if Path(args.manifest).exists():
+        extracted_ids = {r["id"] for r in records}
+        for line in Path(args.manifest).read_text(encoding="utf-8").split("\n"):
+            if not line.strip():
+                continue
+            m = json.loads(line)
+            if m["id"] in extracted_ids:
+                continue
+            records.append({
+                "id": m["id"],
+                "title": m.get("title") or f"#{m['id']}",
+                "category": m.get("category"),
+                "author": m.get("author"),
+                "publish_time": None,
+                "publish_date": m["original_date"],
+                "folder_date": m["original_date"],
+                "date_mismatch": False,
+                "banner_image": None,
+                "body_html": "",
+                "body_text_len": 0,
+                "images": [],
+                "is_stub": True,
+                "is_screenshot_only": True,
+                "source_path": m.get("source_path", ""),
+                "archive_url": m.get("archive_url", ""),
+                "archive_ts": m.get("archive_ts", ""),
+                "original_url": m.get("original_url", ""),
+                "screenshot_url": m.get("screenshot_url"),
+            })
+            n_stubs_added += 1
 
     if not records:
         print("No records to render.")
@@ -259,6 +295,7 @@ def main() -> int:
 
     print(f"Rendered {len(rendered)} articles to {out}")
     print(f"  base_url={base_url}  image_mode={args.image_mode}")
+    print(f"  screenshot-only stubs: {n_stubs_added}")
     print(f"  broken images (hidden via CSS): {total_broken}")
     print(f"  years: {', '.join(years)}")
     return 0

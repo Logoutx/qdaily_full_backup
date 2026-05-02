@@ -14,14 +14,25 @@
     {% if article.author %}{{ article.author }} · {% endif %}
     <time datetime="{{ article.publish_date }}">{{ article.publish_time or article.publish_date }}</time>
   </p>
-  {% if article.banner_image_resolved %}
-    <figure class="banner">
-      <img src="{{ article.banner_image_resolved }}" alt="" loading="lazy"{% if article.banner_broken %} data-broken="1"{% endif %}>
-    </figure>
+  {% if article.is_screenshot_only %}
+    <p class="notice">Wayback Machine 未能完整保存这篇文章的正文。下方为原始截图。</p>
+    {% if article.screenshot_url %}
+      <figure class="screenshot-fallback">
+        <a href="{{ article.screenshot_url }}" target="_blank" rel="nofollow">
+          <img src="{{ article.screenshot_url }}" alt="{{ article.title }} 原始截图" loading="lazy">
+        </a>
+      </figure>
+    {% endif %}
+  {% else %}
+    {% if article.banner_image_resolved %}
+      <figure class="banner">
+        <img src="{{ article.banner_image_resolved }}" alt="" loading="lazy"{% if article.banner_broken %} data-broken="1"{% endif %}>
+      </figure>
+    {% endif %}
+    <div class="body">
+      {{ article.body_html_resolved | safe }}
+    </div>
   {% endif %}
-  <div class="body">
-    {{ article.body_html_resolved | safe }}
-  </div>
   <hr>
   <p class="origin">
     原文链接 (已下线): <a href="{{ article.original_url }}" rel="nofollow">{{ article.original_url }}</a><br>
