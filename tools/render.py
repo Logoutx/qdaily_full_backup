@@ -79,6 +79,10 @@ def resolve_url(orig: str, ts: str, mode: str, article_id: int, assets_root: Pat
         if local.exists():
             # rel path from public/articles/<id>/index.html → public/assets/<id>/file
             return f"../../assets/{article_id}/{digest}{ext}", broken
+    if not ts:
+        # No Wayback timestamp — this is an externally-sourced article
+        # (e.g. Medium) whose original images are still live. Pass through.
+        return orig, broken
     return wayback_im(orig, ts), broken
 
 
