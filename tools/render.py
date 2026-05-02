@@ -119,9 +119,10 @@ def rfc822(date_str: str) -> str:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--records", default="data/articles_extracted.jsonl")
+    ap.add_argument("--records-glob", default="data/articles_extracted_*.jsonl",
+                    help="glob pattern for per-year extracted record files")
     ap.add_argument("--manifest", default="data/articles.jsonl",
-                    help="full manifest; entries missing from --records are rendered as screenshot-only stubs")
+                    help="full manifest (kept for compatibility; not used for stub synthesis)")
     ap.add_argument("--templates", default="site/templates")
     ap.add_argument("--static", default="site/static")
     ap.add_argument("--out", default="public")
@@ -167,15 +168,24 @@ def main() -> int:
         url=url,
     )
 
-    # Load records.
+    # Load records from one-file-per-year layout.
     # NOTE: split on '\n' only — body_html may contain U+2028/U+2029 (valid
     # inside a JSON string per RFC 8259, but str.splitlines() treats them
     # as line breaks and would split a record in half).
+    import glob
+    record_files = sorted(glob.glob(args.records_glob))
+    if not record_files:
+        # Backwards-compatible fallback: single legacy file.
+        legacy = Path("data/articles_extracted.jsonl")
+        if legacy.exists():
+            record_files = [str(legacy)]
     records = []
-    for line in Path(args.records).read_text(encoding="utf-8").split("\n"):
-        if not line.strip():
-            continue
-        records.append(json.loads(line))
+    for path in record_files:
+        for line in Path(path).read_text(encoding="utf-8").split("\n"):
+            if not line.strip():
+                continue
+            records.append(json.loads(line))
+    print(f"loaded {len(records)} records from {len(record_files)} file(s)")
 
     # Stubs for unrecoverable articles are now baked into articles_extracted.jsonl
     # by extract.py (records with is_screenshot_only=True). render.py just

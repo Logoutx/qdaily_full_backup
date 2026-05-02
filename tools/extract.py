@@ -285,7 +285,8 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--manifest", default="data/articles.jsonl")
     ap.add_argument("--cache", default="cache")
-    ap.add_argument("--out", default="data/articles_extracted.jsonl")
+    ap.add_argument("--out-dir", default="data",
+                    help="extracted records are written one file per year as articles_extracted_<year>.jsonl")
     ap.add_argument("--errors", default="data/extract_errors.jsonl")
     ap.add_argument("--failures", default="data/failures.jsonl",
                     help="fetch failures; emitted as screenshot-only stubs if not otherwise extracted")
@@ -297,19 +298,31 @@ def main() -> int:
     by_id = {row["id"]: row for row in manifest}
     cache = Path(args.cache)
 
-    out_path = Path(args.out)
+    out_dir = Path(args.out_dir)
     err_path = Path(args.errors)
-    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_dir.mkdir(parents=True, exist_ok=True)
 
-    # Write to a tmp file and atomically rename — prevents readers (and
-    # cloud-sync agents like Google Drive) from ever observing a partial file.
-    tmp_out = out_path.with_suffix(out_path.suffix + ".tmp")
+    # Per-year output files. Each is buffered to a .tmp and atomically renamed
+    # at the end — prevents partial reads and cloud-sync confusion.
+    year_files: dict[str, list] = {}  # year -> [tmp_path, final_path, file_handle]
+
+    def out_for(year: str):
+        if year not in year_files:
+            final = out_dir / f"articles_extracted_{year}.jsonl"
+            tmp = final.with_suffix(final.suffix + ".tmp")
+            year_files[year] = [tmp, final, tmp.open("w", encoding="utf-8")]
+        return year_files[year][2]
+
+    def write_record(rec: Extracted) -> None:
+        year = rec.publish_date[:4] if rec.publish_date else "unknown"
+        out_for(year).write(json.dumps(asdict(rec), ensure_ascii=False) + "\n")
+
     tmp_err = err_path.with_suffix(err_path.suffix + ".tmp")
 
     n_in = n_out = n_no_cache = n_err = n_stub = n_mismatch = n_screenshot_only = 0
     emitted_ids: set[int] = set()
 
-    with tmp_out.open("w", encoding="utf-8") as fout, tmp_err.open("w", encoding="utf-8") as ferr:
+    with tmp_err.open("w", encoding="utf-8") as ferr:
         # Pass 1: every cached article. Emit either a full record or a
         # screenshot-only stub (when Wayback served a body-less capture).
         for row in manifest:
@@ -335,7 +348,7 @@ def main() -> int:
                     n_stub += 1
                 if rec.date_mismatch:
                     n_mismatch += 1
-            fout.write(json.dumps(asdict(rec), ensure_ascii=False) + "\n")
+            write_record(rec)
             emitted_ids.add(rec.id)
             n_out += 1
 
@@ -360,19 +373,31 @@ def main() -> int:
                     continue
                 seen_failed.add(fid)
                 rec = make_screenshot_only_stub(row)
-                fout.write(json.dumps(asdict(rec), ensure_ascii=False) + "\n")
+                write_record(rec)
                 emitted_ids.add(fid)
                 n_failed_stubs += 1
                 n_screenshot_only += 1
 
-    # Atomic rename: only after the full write succeeds.
-    tmp_out.replace(out_path)
+    # Close per-year handles and atomically rename them to their final paths.
+    for tmp, final, fh in year_files.values():
+        fh.close()
+        tmp.replace(final)
     tmp_err.replace(err_path)
+
+    # Remove the legacy single-file output if present (pre-split layouts).
+    legacy = out_dir / "articles_extracted.jsonl"
+    if legacy.exists():
+        legacy.unlink()
 
     print(f"manifest_in={n_in}  extracted={n_out - n_screenshot_only}  "
           f"screenshot_only={n_screenshot_only} (no_body={n_screenshot_only - n_failed_stubs}, "
           f"fetch_failures={n_failed_stubs})  no_cache={n_no_cache}  "
           f"errors={n_err}  stubs={n_stub}  date_mismatches={n_mismatch}")
+    print(f"per-year files in {out_dir}:")
+    for y in sorted(year_files):
+        final = year_files[y][1]
+        size_mb = final.stat().st_size / (1024 * 1024)
+        print(f"  {final.name}: {size_mb:.1f} MB")
     return 0
 
 

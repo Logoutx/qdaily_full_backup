@@ -4,8 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'data/articles.jsonl'
-      - 'data/articles_extracted.jsonl'
+      - 'data/articles_extracted_*.jsonl'
       - 'site/**'
       - 'tools/render.py'
       - 'tools/install_pagefind.sh'
