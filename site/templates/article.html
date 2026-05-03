@@ -61,6 +61,7 @@
   <span data-pagefind-meta="date:{{ article.publish_date }}"></span>
   {% if article.author %}<span data-pagefind-meta="author:{{ article.author }}"></span>{% endif %}
   {% if article.category %}<span data-pagefind-meta="category:{{ article.category }}"></span>{% endif %}
+  {% if article.is_long %}<span data-pagefind-meta="is_long:1"></span>{% endif %}
   <span data-pagefind-meta="excerpt:{{ article.excerpt }}"></span>
   <span data-pagefind-filter="year:{{ article.publish_date[:4] }}"></span>
   {% if article.category %}<span data-pagefind-filter="category:{{ article.category }}"></span>{% endif %}

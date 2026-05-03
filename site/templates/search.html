@@ -48,9 +48,15 @@
             if (result.meta.author) parts.push(result.meta.author);
             if (result.meta.category) parts.push(result.meta.category);
           }
+          var prefix = "";
+          if (result.meta && result.meta.is_long) {
+            prefix = '<span class="tag long" style="margin-right:.6em">长文章</span>';
+          }
           if (parts.length) {
-            result.excerpt = '<span class="result-meta">' + parts.join(' · ') +
+            result.excerpt = prefix + '<span class="result-meta">' + parts.join(' · ') +
                              '</span><br>' + (result.excerpt || '');
+          } else if (prefix) {
+            result.excerpt = prefix + (result.excerpt || '');
           }
           // Strip every non-title meta key so the default UI doesn't render
           // the duplicate "Author: … / Category: … / Date: … / Excerpt: …"
