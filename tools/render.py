@@ -53,7 +53,7 @@ _SATELLITE_TAG_IDS = {
 
 # Articles the user pinned manually that don't match the standard pattern.
 _TED_PIN_IDS = {54388}
-_STORY_2017_IDS = {47595, 47668, 47670, 47786, 47831, 49956}
+_STORY_2017_IDS = {46778, 47595, 47663, 47668, 47670, 47749, 47786, 47831, 49956}
 
 _TED_TITLE_RE = re.compile(r"TED\s*201[789]\s*现场报道")
 
