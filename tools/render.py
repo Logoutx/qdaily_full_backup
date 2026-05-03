@@ -365,7 +365,7 @@ def main() -> int:
         all_subnav = [(y, url(f"long/{y}/")) for y in years_with_long]
         (long_dir / "index.html").write_text(
             env.get_template("list.html").render(
-                heading=f"长文章 · {len(long_articles)} 篇 (≥ 4000 字)",
+                heading=f"长文章 · {len(long_articles)} 篇",
                 articles=long_sorted, subnav=all_subnav,
             ),
             encoding="utf-8",
@@ -379,7 +379,7 @@ def main() -> int:
             yp.mkdir(parents=True, exist_ok=True)
             (yp / "index.html").write_text(
                 env.get_template("list.html").render(
-                    heading=f"{y} 年长文章 · {len(items)} 篇 (≥ 4000 字)",
+                    heading=f"{y} 年长文章 · {len(items)} 篇",
                     articles=items_sorted, subnav=sub,
                 ),
                 encoding="utf-8",
