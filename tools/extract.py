@@ -88,6 +88,7 @@ BLOCKED_IMAGE_SUBSTRINGS = (
 # body. Match any element whose text contains one of these substrings.
 BLOCKED_TEXT_SUBSTRINGS = (
     "喜欢这篇文章？去 App 商店搜",  # "...好奇心日报，每天看点不一样的。"
+    "更多好文章请在各大应用商店",   # "本文来自《好奇心日报》，更多好文章请在各大应用商店搜索 …"
 )
 
 # WeChat mini-program / official-account AppIDs (wx + 16 hex chars). These
