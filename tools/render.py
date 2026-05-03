@@ -374,6 +374,10 @@ def main() -> int:
     LONG_THRESHOLD = 4000
     AUTHOR_PURE_CJK_RE = re.compile(r"^[一-鿿\s·、，,；; ]+$")
     REPRINT_TITLE_RE = re.compile(r"^[《【]")
+    # Series whose articles never get the 长文章 chip even if the body
+    # crosses the threshold (e.g. 大公司头条 daily roundups, which are
+    # long by aggregation rather than by feature-reporting depth).
+    LONG_EXCLUDED_SERIES = {"大公司头条"}
     for r in rendered:
         if (r.get("body_text_len") or 0) < LONG_THRESHOLD:
             r["is_long"] = False
@@ -384,6 +388,9 @@ def main() -> int:
             r["is_long"] = False
             continue
         if REPRINT_TITLE_RE.match(title):
+            r["is_long"] = False
+            continue
+        if any(_series_match(s, r) for s in LONG_EXCLUDED_SERIES):
             r["is_long"] = False
             continue
         r["is_long"] = True
