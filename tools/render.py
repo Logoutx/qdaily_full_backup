@@ -198,22 +198,32 @@ def main() -> int:
     # alphabetically, so files like articles_extracted_2017.jsonl precede
     # articles_extracted_extra.jsonl — meaning manually-curated overrides
     # in the _extra file win over auto-extracted Wayback content.
+    # Article IDs to drop from the site entirely (no page rendered, no
+    # listing entry, no search-index inclusion). Add an id here when an
+    # article shouldn't appear in the public archive.
+    EXCLUDED_IDS = {64091}
+
     record_map: dict = {}
     n_total = 0
     n_overrides = 0
+    n_excluded = 0
     for path in record_files:
         for line in Path(path).read_text(encoding="utf-8").split("\n"):
             if not line.strip():
                 continue
             rec = json.loads(line)
             n_total += 1
+            if rec["id"] in EXCLUDED_IDS:
+                n_excluded += 1
+                continue
             if rec["id"] in record_map:
                 n_overrides += 1
             record_map[rec["id"]] = rec
     records = list(record_map.values())
     print(
         f"loaded {n_total} records from {len(record_files)} file(s); "
-        f"{len(records)} unique after dedup (overrides applied: {n_overrides})"
+        f"{len(records)} unique after dedup "
+        f"(overrides applied: {n_overrides}, excluded: {n_excluded})"
     )
 
     # Stubs for unrecoverable articles are now baked into articles_extracted.jsonl
