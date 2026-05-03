@@ -56,6 +56,8 @@ _TED_PIN_IDS = {54388}
 _STORY_2017_IDS = {46778, 47595, 47663, 47668, 47670, 47749, 47786, 47831, 49956}
 
 _TED_TITLE_RE = re.compile(r"TED\s*201[789]\s*现场报道")
+_ANNUAL_GAME_RE = re.compile(r"\d{4}\s*年度游戏")
+_ANNUAL_TERMS = ("年度报道", "年度设计大赏", "年度公司", "年度图书", "年度报告")
 
 
 def _series_match(name: str, r: dict) -> bool:
@@ -92,6 +94,8 @@ def _series_match(name: str, r: dict) -> bool:
             return True
         return ("卫星新闻" in title) and ("大公司头条" not in title)
     if name == "2017 故事":    return aid in _STORY_2017_IDS
+    if name == "年度报道":
+        return any(term in title for term in _ANNUAL_TERMS) or bool(_ANNUAL_GAME_RE.search(title))
     return False
 
 
@@ -119,6 +123,7 @@ SERIES_NAMES = [
     "TED 现场报道",
     "卫星新闻",
     "2017 故事",
+    "年度报道",
 ]
 
 
