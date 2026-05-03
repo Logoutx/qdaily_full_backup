@@ -536,8 +536,6 @@ def main() -> int:
             sd = series_dir / name
             sd.mkdir(parents=True, exist_ok=True)
             heading = f"{name} · {len(items_sorted)} 篇"
-            if n_long:
-                heading += f" · 其中 {n_long} 篇长文章"
             (sd / "index.html").write_text(
                 env.get_template("list.html").render(
                     heading=heading,
