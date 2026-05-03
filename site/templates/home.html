@@ -14,12 +14,11 @@
 
 {% if series_stats %}
 <h2>按系列浏览 <small><a href="{{ url('series/') }}">查看全部</a></small></h2>
-<ul class="series-list">
+<ul class="series-list home-grid">
   {% for s in series_stats %}
   <li>
     <a href="{{ url('series/' ~ s.name ~ '/') }}">{{ s.name }}</a>
     <span class="count">{{ s.total }} 篇</span>
-    {% if s.long %}<span class="ratio">{{ s.long }} 篇长文章 · {{ '%.0f'|format(s.ratio * 100) }}%</span>{% endif %}
   </li>
   {% endfor %}
 </ul>
