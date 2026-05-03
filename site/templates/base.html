@@ -16,6 +16,7 @@
     <a href="{{ url('') }}">首页</a>
     {% for y in years %}<a href="{{ url(y ~ '/') }}">{{ y }}</a>{% endfor %}
     {% if has_long_index %}<a href="{{ url('long/') }}">长文章</a>{% endif %}
+    {% if has_series_index %}<a href="{{ url('series/') }}">系列</a>{% endif %}
     <a href="{{ url('search/') }}">搜索</a>
     <a href="{{ url('feed.xml') }}">RSS</a>
   </nav>

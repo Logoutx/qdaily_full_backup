@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}系列 — {{ site_title }}{% endblock %}
+{% block main %}
+<div data-pagefind-ignore="all">
+<h1>按系列浏览</h1>
+<p class="lead">QDaily 的固定栏目和重要专题。排序：长文章占比从高到低。</p>
+<ul class="series-list">
+  {% for s in series_stats %}
+  <li>
+    <a href="{{ url('series/' ~ s.name ~ '/') }}">{{ s.name }}</a>
+    <span class="count">{{ s.total }} 篇</span>
+    {% if s.long %}<span class="ratio">{{ s.long }} 篇长文章 · {{ '%.0f'|format(s.ratio * 100) }}%</span>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+</div>
+{% endblock %}

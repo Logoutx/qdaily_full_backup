@@ -35,6 +35,93 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 _CJK_RE = re.compile(r"[㐀-䶿一-鿿]")
 
 
+# --- Series definitions -----------------------------------------------------
+#
+# Each entry is (display_name, matcher). The matcher takes a record dict and
+# returns True iff the article belongs to the series. Display order on the
+# /series/ index page is determined dynamically by 长文章 ratio (see below).
+
+# 卫星新闻's earlier set comes from the QDaily tag page snapshot
+# (https://web.archive.org/web/20180322184409/http://www.qdaily.com:80/tags/47067.html);
+# the column continued past that snapshot, so we also catch later articles
+# that put '卫星新闻' in the title and don't double-count the
+# 大公司头条 daily roundups.
+_SATELLITE_TAG_IDS = {
+    49281, 49320, 49362, 49407, 49415, 49505, 49570, 49695, 49797, 49908,
+    49987, 50129, 50137, 50141, 50147, 50202, 50783, 50941, 51255, 51330,
+}
+
+# Articles the user pinned manually that don't match the standard pattern.
+_TED_PIN_IDS = {54388}
+_STORY_2017_IDS = {47595, 47668, 47670, 47786, 47831, 49956}
+
+_TED_TITLE_RE = re.compile(r"TED\s*201[789]\s*现场报道")
+
+
+def _series_match(name: str, r: dict) -> bool:
+    title = r.get("title") or ""
+    aid = r["id"]
+    if name == "大公司头条":
+        # 商业剪报 was the predecessor — merge it in per user instruction.
+        return ("大公司头条" in title) or ("商业剪报" in title)
+    if name == "今日娱乐":     return title.startswith("今日娱乐")
+    if name == "「这世界」":    return title.startswith("「这世界」")
+    if name == "看图":         return title.startswith("看图")
+    if name == "今日应用":     return title.startswith("今日应用")
+    if name == "「万物简史」":  return title.startswith("「万物简史」")
+    if name == "「日本語」":    return title.startswith("「日本語」")
+    if name == "「票房」":      return title.startswith("「票房」")
+    if name == "「本周新片」":  return title.startswith("「本周新片」")
+    if name == "浮华日报":     return "浮华日报" in title
+    if name == "好奇心小数据":  return "好奇心小数据" in title
+    if name == "乙方日报":     return "乙方日报" in title
+    if name == "好奇心研究所":  return "好奇心研究所" in title
+    if name == "好奇心辞典":   return "好奇心辞典" in title
+    if name == "好奇心商业史":  return "好奇心商业史" in title
+    if name == "100 个有想法的人":
+        return "100 个有想法的人" in title or "100个有想法的人" in title
+    if name == "这个人有好奇心":  return "这个人有好奇心" in title
+    if name == "访谈录":       return "访谈录" in title
+    if name == "上海时装周":    return "上海时装周" in title
+    if name == "这个设计了不起": return "这个设计了不起" in title
+    if name == "TED 现场报道":
+        return bool(_TED_TITLE_RE.search(title)) or aid in _TED_PIN_IDS
+    if name == "卫星新闻":
+        # Tag-page set OR title-search set (excluding 大公司头条 dailies).
+        if aid in _SATELLITE_TAG_IDS:
+            return True
+        return ("卫星新闻" in title) and ("大公司头条" not in title)
+    if name == "2017 故事":    return aid in _STORY_2017_IDS
+    return False
+
+
+SERIES_NAMES = [
+    "大公司头条",
+    "今日娱乐",
+    "「这世界」",
+    "看图",
+    "今日应用",
+    "「万物简史」",
+    "「日本語」",
+    "「票房」",
+    "「本周新片」",
+    "浮华日报",
+    "好奇心小数据",
+    "乙方日报",
+    "好奇心研究所",
+    "好奇心辞典",
+    "好奇心商业史",
+    "100 个有想法的人",
+    "这个人有好奇心",
+    "访谈录",
+    "上海时装周",
+    "这个设计了不起",
+    "TED 现场报道",
+    "卫星新闻",
+    "2017 故事",
+]
+
+
 def _segment(text: str) -> str:
     """Insert spaces around every CJK character so Pagefind treats each as
     its own token. Latin words and digits remain whole.
@@ -301,6 +388,26 @@ def main() -> int:
     env.globals["years"] = years
     env.globals["has_long_index"] = any(r["is_long"] for r in rendered)
 
+    # Compute series memberships once: name -> [records]
+    series_articles: dict[str, list] = {name: [] for name in SERIES_NAMES}
+    for r in rendered:
+        for name in SERIES_NAMES:
+            if _series_match(name, r):
+                series_articles[name].append(r)
+
+    series_stats = []
+    for name in SERIES_NAMES:
+        arts = series_articles.get(name, [])
+        if not arts:
+            continue
+        n_total = len(arts)
+        n_long = sum(1 for r in arts if r["is_long"])
+        ratio = (n_long / n_total) if n_total else 0
+        series_stats.append({"name": name, "total": n_total, "long": n_long, "ratio": ratio})
+    # Home-page order: 长文章 ratio desc; ties broken by total count desc.
+    series_stats.sort(key=lambda s: (-s["ratio"], -s["total"]))
+    env.globals["has_series_index"] = bool(series_stats)
+
     # Article pages
     for r in rendered:
         page_dir = out / "articles" / str(r["id"])
@@ -326,6 +433,7 @@ def main() -> int:
             latest=rendered[:50],
             years_with_counts=sorted(years_with_counts),
             long_total=len(long_articles),
+            series_stats=series_stats,
         ),
         encoding="utf-8",
     )
@@ -395,9 +503,57 @@ def main() -> int:
                 encoding="utf-8",
             )
 
-    # Search page
+    # Series pages
+    if series_stats:
+        series_dir = out / "series"
+        series_dir.mkdir(parents=True, exist_ok=True)
+        # /series/ — master index, ordered by 长文章 ratio desc
+        (series_dir / "index.html").write_text(
+            env.get_template("series_index.html").render(series_stats=series_stats),
+            encoding="utf-8",
+        )
+        # /series/<name>/ — articles in this series, newest first
+        for s in series_stats:
+            name = s["name"]
+            items = series_articles[name]
+            items_sorted = sorted(items, key=lambda r: (r["publish_date"], r["id"]), reverse=True)
+            n_long = s["long"]
+            sd = series_dir / name
+            sd.mkdir(parents=True, exist_ok=True)
+            heading = f"{name} · {len(items_sorted)} 篇"
+            if n_long:
+                heading += f" · 其中 {n_long} 篇长文章"
+            (sd / "index.html").write_text(
+                env.get_template("list.html").render(
+                    heading=heading,
+                    articles=items_sorted,
+                    subnav=[("← 全部系列", url("series/"))],
+                ),
+                encoding="utf-8",
+            )
+
+    # Lightweight per-article index for the title/author search-scope tabs.
+    # Pagefind handles full-text; for "title only" / "author only" we
+    # client-side filter this small JSON.
     search_dir = out / "search"
     search_dir.mkdir(parents=True, exist_ok=True)
+    articles_json = [
+        {
+            "id": r["id"],
+            "title": r.get("title") or "",
+            "author": r.get("author") or "",
+            "date": r.get("publish_date") or "",
+            "category": r.get("category") or "",
+            "long": bool(r.get("is_long")),
+        }
+        for r in sorted(rendered, key=lambda r: (r["publish_date"], r["id"]), reverse=True)
+    ]
+    (search_dir / "articles.json").write_text(
+        json.dumps(articles_json, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
+
+    # Search page
     (search_dir / "index.html").write_text(
         env.get_template("search.html").render(total=len(rendered)),
         encoding="utf-8",
@@ -420,6 +576,10 @@ def main() -> int:
     print(f"  screenshot-only stubs: {n_stubs_added}")
     print(f"  broken images (hidden via CSS): {total_broken}")
     print(f"  years: {', '.join(years)}")
+    if series_stats:
+        print(f"  series ({len(series_stats)}, sorted by 长文章 ratio):")
+        for s in series_stats:
+            print(f"    {s['name']:<14}  {s['total']:>5} ({s['long']:>3} long, {s['ratio']*100:>4.1f}%)")
     return 0
 
 

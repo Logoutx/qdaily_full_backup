@@ -7,10 +7,32 @@
 {% block main %}
 <div data-pagefind-ignore="all">
   <h1>搜索</h1>
-  <p class="lead">在 {{ total }} 篇文章的标题与正文中查找。支持中文。可按年份和分类筛选结果。</p>
-  <div id="search"></div>
+  <p class="lead">在 {{ total }} 篇文章中查找。支持中文。</p>
+
+  <div class="scope-tabs" role="tablist">
+    <button class="scope-tab active" data-scope="all" role="tab" aria-selected="true">搜全文</button>
+    <button class="scope-tab" data-scope="title" role="tab" aria-selected="false">只搜标题</button>
+    <button class="scope-tab" data-scope="author" role="tab" aria-selected="false">只搜作者</button>
+  </div>
+
+  <div id="panel-all" class="search-panel">
+    <div id="search"></div>
+  </div>
+
+  <div id="panel-meta" class="search-panel" hidden>
+    <input type="search" id="meta-q" class="meta-input" autocomplete="off"
+           placeholder="搜索好奇心日报存档…">
+    <p id="meta-summary" class="result-summary"></p>
+    <ul id="meta-results" class="article-list"></ul>
+    <p id="meta-more" class="result-more" hidden></p>
+  </div>
+
   <script>
+    var BASE_URL = {{ url('') | tojson }};
+    var ARTICLES_JSON = {{ url('search/articles.json') | tojson }};
+
     window.addEventListener("DOMContentLoaded", function () {
+      // ---- Pagefind UI for the 搜全文 tab ----
       new PagefindUI({
         element: "#search",
         showImages: false,
@@ -18,15 +40,11 @@
         resetStyles: false,
         showSubResults: false,
         processTerm: function (term) {
-          // The index is character-segmented for CJK (every Chinese char
-          // is its own token; Latin words stay whole). Apply the same
-          // segmentation to the query, then wrap the result in quotes so
-          // Pagefind treats it as exact-phrase across consecutive tokens.
-          // Net effect: substring search over Chinese.
-          //
-          // The user-typed input and the result-count message still show
-          // the raw query unchanged; only the underlying Pagefind call
-          // sees the segmented + quoted form.
+          // The body index is character-segmented for CJK (every Chinese
+          // char is its own token; Latin words stay whole). Apply the same
+          // segmentation to the query, then quote it so Pagefind treats it
+          // as an exact phrase across consecutive tokens — strict substring
+          // search for Chinese.
           if (!term) return term;
           if (term.startsWith('"') && term.endsWith('"')) return term;
           var seg = term.replace(/[㐀-䶿一-鿿]/g, function (c) {
@@ -36,12 +54,9 @@
           return '"' + seg.replace(/"/g, '\\"') + '"';
         },
         processResult: function (result) {
-          // The hidden index block is char-segmented (with spaces), so the
-          // auto-generated excerpt looks ugly. Swap in the clean meta excerpt.
           if (result.meta && result.meta.excerpt) {
             result.excerpt = result.meta.excerpt;
           }
-          // Prefix a meta line with date / author / category.
           var parts = [];
           if (result.meta) {
             if (result.meta.date) parts.push(result.meta.date);
@@ -58,9 +73,6 @@
           } else if (prefix) {
             result.excerpt = prefix + (result.excerpt || '');
           }
-          // Strip every non-title meta key so the default UI doesn't render
-          // the duplicate "Author: … / Category: … / Date: … / Excerpt: …"
-          // chip block below each result.
           if (result.meta) {
             var t = result.meta.title;
             result.meta = t ? { title: t } : {};
@@ -80,6 +92,130 @@
           search_suggestion: "没有匹配 [SEARCH_TERM] 的结果。请尝试以下搜索：",
           searching: "搜索 [SEARCH_TERM] 中…"
         }
+      });
+
+      // ---- Title / author scope: custom panel against articles.json ----
+      var articlesPromise = null;  // lazy
+      function loadArticles() {
+        if (!articlesPromise) {
+          articlesPromise = fetch(ARTICLES_JSON).then(function (r) { return r.json(); });
+        }
+        return articlesPromise;
+      }
+
+      var metaInput = document.getElementById("meta-q");
+      var metaSummary = document.getElementById("meta-summary");
+      var metaResults = document.getElementById("meta-results");
+      var metaMore = document.getElementById("meta-more");
+      var currentScope = "all";  // "all" | "title" | "author"
+
+      var SHOW_LIMIT = 100;
+
+      function escapeHtml(s) {
+        return (s || "").replace(/[&<>"']/g, function (c) {
+          return ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"})[c];
+        });
+      }
+
+      function highlight(text, query) {
+        if (!query) return escapeHtml(text);
+        var t = String(text || "");
+        var i = t.indexOf(query);
+        if (i < 0) return escapeHtml(t);
+        return escapeHtml(t.slice(0, i)) +
+               '<mark>' + escapeHtml(t.slice(i, i + query.length)) + '</mark>' +
+               escapeHtml(t.slice(i + query.length));
+      }
+
+      function renderMetaResults(items, q, total) {
+        if (!q) {
+          metaSummary.textContent = "";
+          metaResults.innerHTML = "";
+          metaMore.hidden = true;
+          return;
+        }
+        if (total === 0) {
+          metaSummary.textContent = "没有匹配 “" + q + "” 的结果";
+        } else if (total === 1) {
+          metaSummary.textContent = "找到 1 个匹配 “" + q + "” 的结果";
+        } else {
+          metaSummary.textContent = "找到 " + total + " 个匹配 “" + q + "” 的结果";
+        }
+
+        var html = items.map(function (a) {
+          var meta = [a.date];
+          if (a.author) meta.push(a.author);
+          if (a.category) meta.push(a.category);
+          var titleHtml = currentScope === "title"
+            ? highlight(a.title, q) : escapeHtml(a.title);
+          var authorHtml = currentScope === "author"
+            ? '<span class="author">' + highlight(a.author, q) + '</span>'
+            : (a.author ? '<span class="author">' + escapeHtml(a.author) + '</span>' : '');
+          return '' +
+            '<li>' +
+            '<time datetime="' + a.date + '">' + a.date + '</time>' +
+            (a.category ? '<span class="cat">' + escapeHtml(a.category) + '</span>' : '') +
+            (a.long ? '<span class="tag long">长文章</span>' : '') +
+            '<a href="' + BASE_URL + 'articles/' + a.id + '/">' + titleHtml + '</a>' +
+            authorHtml +
+            '</li>';
+        }).join("");
+        metaResults.innerHTML = html;
+
+        if (total > items.length) {
+          metaMore.hidden = false;
+          metaMore.textContent = "只显示前 " + items.length + " 条；共 " + total + " 条";
+        } else {
+          metaMore.hidden = true;
+        }
+      }
+
+      var metaSearchTimer = null;
+      function runMetaSearch() {
+        if (metaSearchTimer) clearTimeout(metaSearchTimer);
+        metaSearchTimer = setTimeout(async function () {
+          var q = metaInput.value.trim();
+          if (!q) { renderMetaResults([], "", 0); return; }
+          var arts = await loadArticles();
+          var field = currentScope === "title" ? "title" : "author";
+          var matches = [];
+          for (var i = 0; i < arts.length; i++) {
+            if ((arts[i][field] || "").indexOf(q) >= 0) {
+              matches.push(arts[i]);
+            }
+          }
+          // arts is already sorted newest-first by render.py
+          renderMetaResults(matches.slice(0, SHOW_LIMIT), q, matches.length);
+        }, 150);
+      }
+
+      metaInput.addEventListener("input", runMetaSearch);
+
+      // ---- Tab switching ----
+      var tabs = document.querySelectorAll(".scope-tab");
+      var panelAll = document.getElementById("panel-all");
+      var panelMeta = document.getElementById("panel-meta");
+      tabs.forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          var scope = btn.dataset.scope;
+          if (scope === currentScope) return;
+          currentScope = scope;
+          tabs.forEach(function (b) {
+            var on = (b === btn);
+            b.classList.toggle("active", on);
+            b.setAttribute("aria-selected", on ? "true" : "false");
+          });
+          if (scope === "all") {
+            panelAll.hidden = false;
+            panelMeta.hidden = true;
+          } else {
+            panelAll.hidden = true;
+            panelMeta.hidden = false;
+            metaInput.placeholder = scope === "title" ? "在标题中搜索…" : "在作者中搜索…";
+            metaInput.focus();
+            runMetaSearch();
+          }
+        });
       });
     });
   </script>
