@@ -96,6 +96,8 @@ def _series_match(name: str, r: dict) -> bool:
     if name == "2017 故事":    return aid in _STORY_2017_IDS
     if name == "年度报道":
         return any(term in title for term in _ANNUAL_TERMS) or bool(_ANNUAL_GAME_RE.search(title))
+    if name == "房子和我们的生活":
+        return "房子和我们的生活" in title
     return False
 
 
@@ -124,6 +126,7 @@ SERIES_NAMES = [
     "卫星新闻",
     "2017 故事",
     "年度报道",
+    "房子和我们的生活",
 ]
 
 
