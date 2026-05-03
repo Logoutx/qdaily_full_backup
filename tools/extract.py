@@ -76,6 +76,28 @@ ALLOWED_ATTRS = {
     "*": set(),  # nothing else by default
 }
 
+# Promo / template-injected images that QDaily appended to many or all
+# articles. Match any image whose URL contains one of these substrings.
+# Add new substrings (the unique part of the filename) when you spot more.
+BLOCKED_IMAGE_SUBSTRINGS = (
+    "JSpdaCk3eAlgqD5x",  # "去应用商店搜索下载「好奇心日报」" CTA banner (early variant)
+    "MvuXsg6iz3bhj7yi",  # "有种有料有信息量 还是原创" CTA banner with QR code
+)
+
+# Boilerplate paragraphs the QDaily template appended to every article
+# body. Match any element whose text contains one of these substrings.
+BLOCKED_TEXT_SUBSTRINGS = (
+    "喜欢这篇文章？去 App 商店搜",  # "...好奇心日报，每天看点不一样的。"
+)
+
+# WeChat mini-program / official-account AppIDs (wx + 16 hex chars). These
+# are public identifiers — you can't authenticate with one alone — but
+# GitHub's secret scanner pattern-matches them as "Tencent WeChat API App
+# ID" and opens an alert per occurrence. Redact in the body text and any
+# href so future scans stay clean.
+WECHAT_APPID_RE = re.compile(r"wx[a-f0-9]{16}\b")
+WECHAT_REDACTED = "wx[REDACTED]"
+
 DATE_RE = re.compile(r"\d{4}-\d{2}-\d{2}(?:\s+\d{2}:\d{2}:\d{2})?")
 DATE_SHORT_RE = re.compile(r"\d{4}-\d{2}-\d{2}")
 
@@ -173,6 +195,17 @@ def _clean_body(body: Tag) -> tuple[str, int, list[str]]:
             if not url:
                 el.decompose()
                 continue
+            # Drop boilerplate / template-inserted promo images.
+            if any(s in url for s in BLOCKED_IMAGE_SUBSTRINGS):
+                # Also remove any wrapping <figure>/<p> that has no other content.
+                wrapper = el.parent
+                el.decompose()
+                while wrapper is not None and wrapper.name in ("figure", "p", "div") \
+                        and not wrapper.get_text(strip=True) and not wrapper.find("img"):
+                    next_wrap = wrapper.parent
+                    wrapper.decompose()
+                    wrapper = next_wrap
+                continue
             # Normalise to a single src attribute for the rendered output
             el.attrs = {"src": url}
             if alt := el.get("alt"):
@@ -199,6 +232,24 @@ def _clean_body(body: Tag) -> tuple[str, int, list[str]]:
     for el in list(root.find_all(["div", "span"])):
         if not el.find("img") and not el.get_text(strip=True):
             el.decompose()
+
+    # 3a. Remove the QDaily template's standard CTA paragraph(s).
+    for txt in list(root.find_all(string=True)):
+        s = str(txt)
+        if any(p in s for p in BLOCKED_TEXT_SUBSTRINGS):
+            cur = txt.parent
+            while cur is not None and cur.name not in ("p", "div", "blockquote", "figure"):
+                cur = cur.parent
+            if cur is not None and cur is not root:
+                cur.decompose()
+
+    # 3b. Redact WeChat AppIDs from any text node and any href.
+    for el in root.find_all(True):
+        if el.name == "a" and el.get("href"):
+            el["href"] = WECHAT_APPID_RE.sub(WECHAT_REDACTED, el["href"])
+    for txt in list(root.find_all(string=True)):
+        if WECHAT_APPID_RE.search(str(txt)):
+            txt.replace_with(WECHAT_APPID_RE.sub(WECHAT_REDACTED, str(txt)))
 
     # 4. Inner HTML of the body container
     inner = root.decode_contents()

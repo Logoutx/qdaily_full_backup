@@ -18,21 +18,25 @@
         resetStyles: false,
         showSubResults: false,
         processTerm: function (term) {
-          // Force exact-phrase matching per term. Without this, Pagefind
-          // falls back to character-substring matching for unmatched
-          // CJK queries — e.g. "小红书" surfaces unrelated 书店 / 书屋
-          // hits because no doc has "小红书" as a contiguous indexed
-          // token (jieba kept it whole, but no 2014-2015 article uses it).
-          // The user's typed text and result-count message still show
+          // The index is character-segmented for CJK (every Chinese char
+          // is its own token; Latin words stay whole). Apply the same
+          // segmentation to the query, then wrap the result in quotes so
+          // Pagefind treats it as exact-phrase across consecutive tokens.
+          // Net effect: substring search over Chinese.
+          //
+          // The user-typed input and the result-count message still show
           // the raw query unchanged; only the underlying Pagefind call
-          // sees the quoted form.
+          // sees the segmented + quoted form.
           if (!term) return term;
-          // Already user-quoted? leave alone.
           if (term.startsWith('"') && term.endsWith('"')) return term;
-          return '"' + term.replace(/"/g, '\\"') + '"';
+          var seg = term.replace(/[㐀-䶿一-鿿]/g, function (c) {
+            return " " + c + " ";
+          }).replace(/\s+/g, " ").trim();
+          if (!seg) return term;
+          return '"' + seg.replace(/"/g, '\\"') + '"';
         },
         processResult: function (result) {
-          // The hidden index block is jieba-segmented (with spaces), so the
+          // The hidden index block is char-segmented (with spaces), so the
           // auto-generated excerpt looks ugly. Swap in the clean meta excerpt.
           if (result.meta && result.meta.excerpt) {
             result.excerpt = result.meta.excerpt;

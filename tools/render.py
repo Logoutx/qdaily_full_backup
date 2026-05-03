@@ -25,22 +25,33 @@ from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
 
-import jieba
+import re
+
 from bs4 import BeautifulSoup
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-# Suppress jieba's INFO-level startup chatter
-import logging
-jieba.setLogLevel(logging.WARNING)
+# Match a single CJK character (Unified Ideographs + Extension A; covers
+# all of modern Chinese plus most rare characters in QDaily content).
+_CJK_RE = re.compile(r"[㐀-䶿一-鿿]")
 
 
 def _segment(text: str) -> str:
-    """Tokenize Chinese text with jieba. Returns space-separated tokens
-    suitable for whitespace-tokenizing search engines like Pagefind."""
+    """Insert spaces around every CJK character so Pagefind treats each as
+    its own token. Latin words and digits remain whole.
+
+    This replaced an earlier jieba-word-segmenter approach: jieba's
+    tokenization is context-dependent — the same compound (小红书,
+    美团外卖, AI 芯片, 字节跳动 …) can split differently across articles,
+    so an auto-quoted exact-phrase query at search time would miss many
+    real occurrences. Per-character CJK tokenization gives strict
+    substring matching on Chinese (the natural mental model) while
+    preserving Latin word boundaries via existing whitespace.
+
+    "苹果iPhone发布会" -> "苹 果 iPhone 发 布 会"
+    """
     if not text:
         return ""
-    toks = (t.strip() for t in jieba.cut(text, cut_all=False, HMM=True))
-    return " ".join(t for t in toks if t)
+    return _CJK_RE.sub(lambda m: " " + m.group(0) + " ", text).replace("  ", " ").strip()
 
 
 def _plain_text(html: str) -> str:
