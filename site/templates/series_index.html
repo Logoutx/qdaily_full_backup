@@ -8,7 +8,7 @@
   {% for s in series_stats %}
   <li>
     <a href="{{ url('series/' ~ s.name ~ '/') }}">{{ s.name }}</a>
-    <span class="count">{{ s.total }} 篇</span>
+    <span class="count">（{{ s.total }}）</span>
     {% if s.long %}<span class="ratio">{{ s.long }} 篇长文章 · {{ '%.0f'|format(s.ratio * 100) }}%</span>{% endif %}
   </li>
   {% endfor %}
