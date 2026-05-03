@@ -52,6 +52,13 @@
             result.excerpt = '<span class="result-meta">' + parts.join(' · ') +
                              '</span><br>' + (result.excerpt || '');
           }
+          // Strip every non-title meta key so the default UI doesn't render
+          // the duplicate "Author: … / Category: … / Date: … / Excerpt: …"
+          // chip block below each result.
+          if (result.meta) {
+            var t = result.meta.title;
+            result.meta = t ? { title: t } : {};
+          }
           return result;
         },
         translations: {
