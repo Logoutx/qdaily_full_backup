@@ -75,9 +75,12 @@ h3 { font-size: 1.1rem; }
 
 .article-list { list-style: none; padding: 0; margin: 0; }
 .article-list li { padding: 0.55rem 0; border-bottom: 1px solid var(--rule); display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.7em; }
-.article-list time { color: var(--fg-soft); font-size: 0.86rem; font-variant-numeric: tabular-nums; min-width: 5.5em; }
-.article-list .cat { font-size: 0.8rem; color: var(--cat); min-width: 3em; }
-.article-list .author { color: var(--fg-soft); font-size: 0.86rem; margin-left: auto; }
+.article-list time { color: var(--fg-soft); font-size: 0.86rem; font-variant-numeric: tabular-nums; flex: 0 0 auto; }
+.article-list .cat { font-size: 0.8rem; color: var(--cat); flex: 0 0 auto; }
+/* Long titles should wrap *inside* their slot — flex: 1 + min-width: 0
+   stops the anchor from being pushed to a new flex row. */
+.article-list li > a { flex: 1 1 0; min-width: 0; word-break: break-word; }
+.article-list .author { color: var(--fg-soft); font-size: 0.86rem; flex: 0 0 auto; margin-left: auto; }
 
 .years { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 0.6rem; }
 .years li { padding: 0.5em 0.8em; border: 1px solid var(--rule); border-radius: 4px; }
