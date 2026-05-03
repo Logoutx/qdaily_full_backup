@@ -258,11 +258,30 @@ def main() -> int:
     # Sort newest-first for indexes
     rendered.sort(key=lambda r: (r["publish_date"], r["id"]), reverse=True)
 
-    # Tag long articles. Threshold is on body plain-text length (excluding
-    # screenshot-only stubs which have body_text_len=0).
+    # Tag long articles. The 长文章 designation is meant for QDaily's
+    # original feature reporting, so we exclude:
+    #   * articles below the body-text-length threshold
+    #   * foreign-source pieces (any non-CJK characters in the byline,
+    #     e.g. 'Kate Conger, Richard Fausset and Serge F. Kovaleski')
+    #   * historical-essay reprint series whose titles are wrapped in
+    #     《…》 or 【…】 brackets (e.g. the 2019-05-04 五四 reprints
+    #     of 胡适 / 陈独秀 / 周作人 essays)
     LONG_THRESHOLD = 4000
+    AUTHOR_PURE_CJK_RE = re.compile(r"^[一-鿿\s·、，,；; ]+$")
+    REPRINT_TITLE_RE = re.compile(r"^[《【]")
     for r in rendered:
-        r["is_long"] = (r.get("body_text_len") or 0) >= LONG_THRESHOLD
+        if (r.get("body_text_len") or 0) < LONG_THRESHOLD:
+            r["is_long"] = False
+            continue
+        author = r.get("author") or ""
+        title = r.get("title") or ""
+        if not AUTHOR_PURE_CJK_RE.match(author):
+            r["is_long"] = False
+            continue
+        if REPRINT_TITLE_RE.match(title):
+            r["is_long"] = False
+            continue
+        r["is_long"] = True
 
     # Years and counts
     years = sorted({r["publish_date"][:4] for r in rendered})

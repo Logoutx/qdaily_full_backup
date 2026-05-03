@@ -80,8 +80,17 @@ ALLOWED_ATTRS = {
 # articles. Match any image whose URL contains one of these substrings.
 # Add new substrings (the unique part of the filename) when you spot more.
 BLOCKED_IMAGE_SUBSTRINGS = (
-    "JSpdaCk3eAlgqD5x",  # "去应用商店搜索下载「好奇心日报」" CTA banner (early variant)
+    # "去应用商店搜索下载「好奇心日报」" CTA banner — early single-variant uploads:
+    "JSpdaCk3eAlgqD5x",
     "MvuXsg6iz3bhj7yi",  # "有种有料有信息量 还是原创" CTA banner with QR code
+    # The four mega-variants (different sizes of the same Q-logo + iPhones
+    # banner), all uploaded on 2016-09-18 12:46 and embedded by QDaily's
+    # template into ~26k articles' bodies. Block by their unique filename
+    # hashes:
+    "Jo20tv7p63SFNTHe",
+    "v5wnh60OmgCAUPGJ",
+    "WGE68r1QqaUwOxkt",
+    "tvJN5Uq9dWRZ60jS",
 )
 
 # Boilerplate paragraphs the QDaily template appended to every article
@@ -166,12 +175,25 @@ def _publish_time(soup: BeautifulSoup) -> str | None:
     return None
 
 
+WAYBACK_URL_PREFIX_RE = re.compile(
+    r"^https?://web\.archive\.org/web/\d+(?:[a-z]{1,3}_)?/"
+)
+
+
+def _strip_wayback_prefix(url: str) -> str:
+    """Toolbar-wrapped Wayback responses rewrite img/href to point through
+    web.archive.org. Strip that prefix so we end up storing the original
+    upstream URL — Stage E will Wayback-rewrite it again at render time
+    using the article's archive_ts."""
+    return WAYBACK_URL_PREFIX_RE.sub("", url) if url else url
+
+
 def _img_url(img: Tag) -> str:
     """QDaily uses lazyload: real URL is in data-src; src is often blank."""
     for attr in ("data-src", "data-original", "src"):
         v = (img.get(attr) or "").strip()
         if v and not v.startswith("data:"):
-            return v
+            return _strip_wayback_prefix(v)
     return ""
 
 
@@ -228,6 +250,8 @@ def _clean_body(body: Tag) -> tuple[str, int, list[str]]:
                 href = (el.attrs[attr] or "").strip()
                 if href.lower().startswith("javascript:"):
                     del el.attrs[attr]
+                else:
+                    el.attrs[attr] = _strip_wayback_prefix(href)
 
     # 3. Drop empty wrappers (div/span with no text and no images)
     for el in list(root.find_all(["div", "span"])):

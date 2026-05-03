@@ -80,7 +80,19 @@ h3 { font-size: 1.1rem; }
 /* Long titles should wrap *inside* their slot — flex: 1 + min-width: 0
    stops the anchor from being pushed to a new flex row. */
 .article-list li > a { flex: 1 1 0; min-width: 0; word-break: break-word; }
-.article-list .author { color: var(--fg-soft); font-size: 0.86rem; flex: 0 0 auto; margin-left: auto; }
+/* Long author names (e.g. "Kate Conger, Richard Fausset and Serge F.
+   Kovaleski") must not crowd the title to a single-character column.
+   Cap the slot, allow shrink, ellipsis-truncate. */
+.article-list .author {
+  color: var(--fg-soft);
+  font-size: 0.86rem;
+  flex: 0 1 14em;
+  min-width: 0;
+  margin-left: auto;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 
 .years { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 0.6rem; }
 .years li { padding: 0.5em 0.8em; border: 1px solid var(--rule); border-radius: 4px; }
