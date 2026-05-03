@@ -8,6 +8,10 @@
   <p class="stats">已收录 {{ total }} 篇文章 · 时间跨度 {{ first_date }} 至 {{ last_date }}</p>
 </section>
 
+{% if long_total %}
+<p class="cta"><a class="btn" href="{{ url('long/') }}">只看长文章 · {{ long_total }} 篇</a></p>
+{% endif %}
+
 <h2>按年份浏览</h2>
 <ul class="years">
   {% for y, n in years_with_counts %}
@@ -21,6 +25,7 @@
   <li>
     <time datetime="{{ a.publish_date }}">{{ a.publish_date }}</time>
     {% if a.category %}<span class="cat">{{ a.category }}</span>{% endif %}
+    {% if a.is_long %}<span class="tag long">长文章</span>{% endif %}
     <a href="{{ url('articles/' ~ a.id ~ '/') }}">{{ a.title }}</a>
   </li>
   {% endfor %}

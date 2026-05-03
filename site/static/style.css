@@ -86,6 +86,32 @@ h3 { font-size: 1.1rem; }
 .subnav { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 0.6rem 0 1.4rem; font-size: 0.92rem; }
 .subnav a { padding: 0.2em 0.55em; border: 1px solid var(--rule); border-radius: 3px; color: var(--fg-soft); }
 
+.tag.long {
+  display: inline-block;
+  padding: 0.05em 0.45em;
+  border-radius: 3px;
+  background: #b48200;
+  color: #fff;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  font-weight: 500;
+}
+@media (prefers-color-scheme: dark) {
+  .tag.long { background: #d29c1f; color: #111; }
+}
+
+.cta { margin: 1.4em 0 1em; }
+.btn {
+  display: inline-block;
+  padding: 0.5em 0.95em;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  color: var(--fg);
+  background: transparent;
+  font-size: 0.95rem;
+}
+.btn:hover { background: var(--rule); text-decoration: none; }
+
 .result-meta { color: var(--fg-soft); font-size: 0.85rem; font-variant-numeric: tabular-nums; }
 
 .site-footer { max-width: var(--max); margin: 0 auto; padding: 1.6rem 1.2rem 3rem; border-top: 1px solid var(--rule); color: var(--fg-soft); font-size: 0.86rem; }

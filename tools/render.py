@@ -247,12 +247,19 @@ def main() -> int:
     # Sort newest-first for indexes
     rendered.sort(key=lambda r: (r["publish_date"], r["id"]), reverse=True)
 
+    # Tag long articles. Threshold is on body plain-text length (excluding
+    # screenshot-only stubs which have body_text_len=0).
+    LONG_THRESHOLD = 4000
+    for r in rendered:
+        r["is_long"] = (r.get("body_text_len") or 0) >= LONG_THRESHOLD
+
     # Years and counts
     years = sorted({r["publish_date"][:4] for r in rendered})
     years_with_counts = []
     for y in years:
         years_with_counts.append((y, sum(1 for r in rendered if r["publish_date"].startswith(y))))
     env.globals["years"] = years
+    env.globals["has_long_index"] = any(r["is_long"] for r in rendered)
 
     # Article pages
     for r in rendered:
@@ -263,6 +270,13 @@ def main() -> int:
             encoding="utf-8",
         )
 
+    # Index of long articles (used by /long/, year subnav, home button)
+    long_articles = [r for r in rendered if r["is_long"]]
+    long_by_year: dict[str, list] = defaultdict(list)
+    for r in long_articles:
+        long_by_year[r["publish_date"][:4]].append(r)
+    years_with_long = sorted(long_by_year.keys())
+
     # Home
     (out / "index.html").write_text(
         env.get_template("home.html").render(
@@ -271,6 +285,7 @@ def main() -> int:
             last_date=rendered[0]["publish_date"],
             latest=rendered[:50],
             years_with_counts=sorted(years_with_counts),
+            long_total=len(long_articles),
         ),
         encoding="utf-8",
     )
@@ -281,9 +296,11 @@ def main() -> int:
         by_year[r["publish_date"][:4]].append(r)
     for y, items in by_year.items():
         items.sort(key=lambda r: (r["publish_date"], r["id"]))
-        # subnav: months in this year
         months = sorted({r["publish_date"][5:7] for r in items})
         subnav = [(m, url(f"{y}/{m}/")) for m in months]
+        long_in_year = sum(1 for r in items if r["is_long"])
+        if long_in_year:
+            subnav.append((f"只看长文章 ({long_in_year})", url(f"long/{y}/")))
         page_dir = out / y
         page_dir.mkdir(parents=True, exist_ok=True)
         (page_dir / "index.html").write_text(
@@ -305,6 +322,35 @@ def main() -> int:
                 env.get_template("list.html").render(
                     heading=f"{y} 年 {m} 月 · {len(mitems)} 篇",
                     articles=mitems, subnav=[("← 返回 " + y, url(y + "/"))],
+                ),
+                encoding="utf-8",
+            )
+
+    # Long-article aggregate pages
+    if long_articles:
+        long_dir = out / "long"
+        long_dir.mkdir(parents=True, exist_ok=True)
+        # /long/ — all long articles (newest first), with year subnav
+        long_sorted = sorted(long_articles, key=lambda r: (r["publish_date"], r["id"]), reverse=True)
+        all_subnav = [(y, url(f"long/{y}/")) for y in years_with_long]
+        (long_dir / "index.html").write_text(
+            env.get_template("list.html").render(
+                heading=f"长文章 · {len(long_articles)} 篇 (≥ 4000 字)",
+                articles=long_sorted, subnav=all_subnav,
+            ),
+            encoding="utf-8",
+        )
+        # /long/<YEAR>/ — long articles for that year (oldest first, like year pages)
+        for y, items in long_by_year.items():
+            items_sorted = sorted(items, key=lambda r: (r["publish_date"], r["id"]))
+            other = [(yy, url(f"long/{yy}/")) for yy in years_with_long if yy != y]
+            sub = [("← 全部长文章", url("long/"))] + other
+            yp = long_dir / y
+            yp.mkdir(parents=True, exist_ok=True)
+            (yp / "index.html").write_text(
+                env.get_template("list.html").render(
+                    heading=f"{y} 年长文章 · {len(items)} 篇 (≥ 4000 字)",
+                    articles=items_sorted, subnav=sub,
                 ),
                 encoding="utf-8",
             )
