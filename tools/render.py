@@ -343,10 +343,18 @@ def main() -> int:
         if banner:
             banner_resolved, banner_broken = resolve_url(banner, r["archive_ts"], args.image_mode, r["id"], assets_root)
         total_broken += broken_in_body + (1 if banner_broken else 0)
-        # Search index inputs (jieba-segmented, hidden block in article page)
+        # Search index inputs (char-segmented, hidden block in article page).
+        # Cap the body text shipped to Pagefind at SEARCH_BODY_CAP chars: with
+        # ~50k articles and per-character CJK tokenization the in-memory
+        # inverted index otherwise OOMs the GitHub-Actions runner during
+        # `pagefind --site public`. The vast majority of QDaily pieces are
+        # under this cap, and almost every meaningful term in a longer feature
+        # appears within the first few thousand chars. Excerpt + visible body
+        # are unaffected — readers still see the full article.
+        SEARCH_BODY_CAP = 2500
         plain_body = _plain_text(body_html)
         title_seg = _segment(r["title"])
-        body_seg = _segment(plain_body)
+        body_seg = _segment(plain_body[:SEARCH_BODY_CAP])
         excerpt = (plain_body[:140] + "…") if len(plain_body) > 140 else plain_body
 
         rendered.append({
