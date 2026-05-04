@@ -200,6 +200,14 @@ def resolve_url(orig: str, ts: str, mode: str, article_id: int, assets_root: Pat
     if not orig:
         return None, False
     broken = is_broken_host(orig)
+    # Live external CDNs — don't wrap in Wayback. The archive_ts we
+    # carry on manually-imported Medium articles refers to the QDaily
+    # snapshot URL, NOT to the Medium-hosted body/banner images. Those
+    # Medium URLs are still live and were never crawled by Wayback at
+    # the QDaily timestamp anyway, so wrapping them produces 404 stubs.
+    host = urlparse(orig).netloc.lower()
+    if host == "medium.com" or host.endswith(".medium.com"):
+        return orig, broken
     if mode == "local":
         # Try local asset first
         ext = Path(urlparse(orig).path).suffix.lower() or ".bin"
