@@ -109,6 +109,17 @@ def _series_match(name: str, r: dict) -> bool:
         return any(term in title for term in _ANNUAL_TERMS) or bool(_ANNUAL_GAME_RE.search(title))
     if name == "房子和我们的生活":
         return "房子和我们的生活" in title
+    if name == "Hack Your Life":
+        # Catch-all column. Only claim articles not already classified
+        # under any other series above.
+        if "hack your life" not in title.lower():
+            return False
+        for other in SERIES_NAMES:
+            if other == name:
+                continue
+            if _series_match(other, r):
+                return False
+        return True
     return False
 
 
@@ -138,6 +149,7 @@ SERIES_NAMES = [
     "2017 清退",
     "年度报道",
     "房子和我们的生活",
+    "Hack Your Life",
 ]
 
 
