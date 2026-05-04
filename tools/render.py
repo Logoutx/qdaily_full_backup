@@ -471,12 +471,41 @@ def main() -> int:
     years_with_long = sorted(long_by_year.keys())
 
     # Home
-    # Home-page series ordering: pin three editorial picks to the top,
-    # then fall through to the long-ratio order used everywhere else.
-    HOME_SERIES_PINNED = ["年度报道", "2017 清退", "好奇心商业史"]
-    pinned = [s for k in HOME_SERIES_PINNED for s in series_stats if s["name"] == k]
-    rest = [s for s in series_stats if s["name"] not in HOME_SERIES_PINNED]
-    home_series_stats = pinned + rest
+    # Home-page series ordering: explicit editorial sequence. Any series
+    # not in this list falls to the tail in series_stats's existing order
+    # (long-ratio desc) so a newly-added column doesn't silently vanish.
+    HOME_SERIES_ORDER = [
+        "年度报道",
+        "2017 清退",
+        "好奇心商业史",
+        "房子和我们的生活",
+        "访谈录",
+        "100 个有想法的人",
+        "卫星新闻",
+        "好奇心小数据",
+        "Hack Your Life",
+        "这个人有好奇心",
+        "TED 现场报道",
+        "上海时装周",
+        "好奇心研究所",
+        "「日本語」",
+        "好奇心辞典",
+        "大公司头条",
+        "乙方日报",
+        "浮华日报",
+        "这个设计了不起",
+        "「这世界」",
+        "看图",
+        "今日娱乐",
+        "今日应用",
+        "「万物简史」",
+        "「票房」",
+        "「本周新片」",
+    ]
+    by_name = {s["name"]: s for s in series_stats}
+    home_series_stats = [by_name[k] for k in HOME_SERIES_ORDER if k in by_name]
+    leftovers = [s for s in series_stats if s["name"] not in HOME_SERIES_ORDER]
+    home_series_stats.extend(leftovers)
     # "最后 50 篇" excludes the 广告 category.
     home_latest = [r for r in rendered if r.get("category") != "广告"][:50]
     (out / "index.html").write_text(
