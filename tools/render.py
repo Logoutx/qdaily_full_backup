@@ -199,18 +199,30 @@ def resolve_url(orig: str, ts: str, mode: str, article_id: int, assets_root: Pat
     """
     if not orig:
         return None, False
+    # Some legacy QDaily drafts have malformed src values like
+    # `file://C:\Users\…\TempPic\GAZFYR0PEV@{RS1%$PA[N_6.tmp` that crash
+    # urlparse on Python 3.12+ ("Invalid IPv6 URL" because of `[`).
+    # If we can't parse the URL or it isn't http(s), drop the image —
+    # it can't render in a browser anyway. Marked broken so the template
+    # hides it.
+    try:
+        parsed = urlparse(orig)
+    except ValueError:
+        return orig, True
+    if parsed.scheme not in ("http", "https"):
+        return orig, True
     broken = is_broken_host(orig)
     # Live external CDNs — don't wrap in Wayback. The archive_ts we
     # carry on manually-imported Medium articles refers to the QDaily
     # snapshot URL, NOT to the Medium-hosted body/banner images. Those
     # Medium URLs are still live and were never crawled by Wayback at
     # the QDaily timestamp anyway, so wrapping them produces 404 stubs.
-    host = urlparse(orig).netloc.lower()
+    host = parsed.netloc.lower()
     if host == "medium.com" or host.endswith(".medium.com"):
         return orig, broken
     if mode == "local":
         # Try local asset first
-        ext = Path(urlparse(orig).path).suffix.lower() or ".bin"
+        ext = Path(parsed.path).suffix.lower() or ".bin"
         digest = hashlib.sha1(orig.encode("utf-8")).hexdigest()[:16]
         local = assets_root / str(article_id) / f"{digest}{ext}"
         if local.exists():
