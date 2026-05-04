@@ -93,6 +93,19 @@ def main() -> int:
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     md = md_lib.Markdown(extensions=["extra", "sane_lists", "smarty"])
 
+    # Look up the Wayback URL+timestamp from the main manifest so footer can
+    # render a 'Wayback 快照' link alongside the dead 原文链接. 47595 used
+    # the m.qdaily.com mobile-cards URL which Wayback never crawled — for
+    # that one we fall back to leaving archive_url empty.
+    main_manifest = {}
+    main_path = Path("data/articles.jsonl")
+    if main_path.exists():
+        for line in main_path.read_text(encoding="utf-8").split("\n"):
+            if not line.strip():
+                continue
+            r = json.loads(line)
+            main_manifest[r["id"]] = r
+
     n = 0
     with OUT_PATH.open("w", encoding="utf-8") as fout:
         for src in SOURCES:
@@ -137,6 +150,14 @@ def main() -> int:
                 text_only[:140] + "…" if len(text_only) > 140 else text_only
             )
 
+            # Pull Wayback metadata from the main manifest if available
+            # (LampScript backed up the QDaily side too, so we already know
+            # a working snapshot for these IDs — except 47595 which was
+            # the mobile-cards URL Wayback never crawled).
+            main_rec = main_manifest.get(article_id, {})
+            archive_url = main_rec.get("archive_url", "") or ""
+            archive_ts = main_rec.get("archive_ts", "") or ""
+
             rec = {
                 "id": article_id,
                 "title": title,
@@ -153,8 +174,8 @@ def main() -> int:
                 "is_stub": False,
                 "is_screenshot_only": False,
                 "source_path": src.name,
-                "archive_url": "",  # no Wayback for these — manual import
-                "archive_ts": "",   # disables wayback rewrite of img URLs
+                "archive_url": archive_url,
+                "archive_ts": archive_ts,
                 "original_url": link,
                 "screenshot_url": None,
             }
