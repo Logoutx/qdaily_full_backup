@@ -101,6 +101,14 @@ h3 { font-size: 1.1rem; }
   overflow: hidden;
   text-overflow: ellipsis;
 }
+/* Author hyperlinks (article meta + listings) stay muted by default
+   to match the surrounding text; hover hints they're clickable. */
+.article-list .author a,
+.article-list .author a:visited,
+.article .meta a,
+.article .meta a:visited { color: inherit; text-decoration: none; }
+.article-list .author a:hover,
+.article .meta a:hover { color: var(--link); text-decoration: underline; }
 
 .years { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 0.6rem; }
 .years li { padding: 0.5em 0.8em; border: 1px solid var(--rule); border-radius: 4px; }

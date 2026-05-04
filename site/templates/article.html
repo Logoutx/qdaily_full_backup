@@ -11,7 +11,7 @@
   {% if article.category %}<p class="cat">{{ article.category }}</p>{% endif %}
   <h1>{{ article.title }}</h1>
   <p class="meta">
-    {% if article.author %}{{ article.author }} · {% endif %}
+    {% if article.authors %}{% for a in article.authors %}<a href="{{ author_url(a) }}">{{ a }}</a>{% if not loop.last %} · {% endif %}{% endfor %} · {% elif article.author %}{{ article.author }} · {% endif %}
     <time datetime="{{ article.publish_date }}">{{ article.publish_time or article.publish_date }}</time>
     {% if article.like_count is not none %} · <span class="likes" title="QDaily 原页面收到的点赞数">♥ {{ article.like_count }}</span>{% endif %}
   </p>

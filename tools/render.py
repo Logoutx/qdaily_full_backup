@@ -23,7 +23,7 @@ import time
 from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import quote, urlparse
 
 import re
 
@@ -177,6 +177,42 @@ def _plain_text(html: str) -> str:
         return ""
     return BeautifulSoup(html, "lxml").get_text(" ", strip=True)
 
+
+# CJK author names that contain only Chinese characters and · / spaces
+# (e.g. "黄俊杰", "黄俊杰 唐云路", "胡晓琪·").
+_AUTHOR_CJK_RE = re.compile(r"^[一-鿿·\s]+$")
+
+
+def split_authors(s: str) -> list[str]:
+    """
+    Split an author byline into one entry per individual author.
+
+    Patterns observed in the corpus:
+      "黄俊杰"                                           → 1 author
+      "黄俊杰 唐云路"                                     → 2 (CJK + space)
+      "MICHAEL MOSS、NEIL GOUGH"                         → 2 (、 separator)
+      "黄自庚、潘姜汐熹、龚鉴"                            → 3
+      "Kate Conger, Richard Fausset and Serge Kovaleski" → 3 (",", "and")
+      "Michael Cieply ，Brooks Barnes"                    → 2 (fullwidth ，)
+      "，郜艺"                                           → 1 (leading-comma typo)
+
+    Western names with internal spaces (e.g. "Kate Conger") must NOT
+    space-split — only CJK-only strings split on whitespace.
+    """
+    s = (s or "").strip()
+    if not s:
+        return []
+    # Normalize all comma-like separators and " and " to a single comma,
+    # then split.
+    norm = s.replace("、", ",").replace("，", ",")
+    norm = re.sub(r"\s+and\s+", ",", norm, flags=re.IGNORECASE)
+    if "," in norm:
+        return [p.strip() for p in norm.split(",") if p.strip()]
+    # Pure-CJK byline with whitespace → split each token as its own author.
+    if _AUTHOR_CJK_RE.match(s) and re.search(r"\s", s):
+        return [p for p in s.split() if p]
+    return [s]
+
 BROKEN_HOSTS = {"121.201.7.32:8001"}
 
 
@@ -314,11 +350,15 @@ def main() -> int:
         autoescape=select_autoescape(["html", "xml"]),
         trim_blocks=True, lstrip_blocks=True,
     )
+    def author_url(name: str) -> str:
+        return url("author/" + quote(name, safe="") + "/")
+
     env.globals.update(
         site_title=args.site_title,
         site_description=args.site_description,
         site_url=args.site_url,
         url=url,
+        author_url=author_url,
     )
 
     # Load records from one-file-per-year layout.
@@ -445,6 +485,13 @@ def main() -> int:
             r["is_long"] = False
             continue
         r["is_long"] = True
+
+    # Pre-split author bylines once. Templates iterate r["authors"]
+    # to render per-author hyperlinks; falls back to the raw string
+    # when only one author was inferred (single Chinese name, single
+    # Western name with internal spaces, etc.).
+    for r in rendered:
+        r["authors"] = split_authors(r.get("author"))
 
     # Years and counts
     years = sorted({r["publish_date"][:4] for r in rendered})
@@ -632,6 +679,33 @@ def main() -> int:
                 ),
                 encoding="utf-8",
             )
+
+    # Author pages — one per individual author, listing every article
+    # they (co-)bylined newest-first. The directory name is the
+    # percent-encoded form of the author so the on-disk path matches
+    # the URL pattern produced by author_url() (no surprises with
+    # spaces or punctuation in CJK / Western names).
+    author_articles: dict[str, list] = defaultdict(list)
+    for r in rendered:
+        for a in r.get("authors") or []:
+            author_articles[a].append(r)
+    author_dir = out / "author"
+    author_dir.mkdir(parents=True, exist_ok=True)
+    for name, items in author_articles.items():
+        items_sorted = sorted(items, key=lambda r: (r["publish_date"], r["id"]),
+                              reverse=True)
+        slug = quote(name, safe="")
+        ad = author_dir / slug
+        ad.mkdir(parents=True, exist_ok=True)
+        heading = f"{name} · {len(items_sorted)} 篇"
+        (ad / "index.html").write_text(
+            env.get_template("list.html").render(
+                heading=heading,
+                articles=items_sorted,
+                subnav=[],
+            ),
+            encoding="utf-8",
+        )
 
     # Lightweight per-article index for the title/author search-scope tabs.
     # Pagefind handles full-text; for "title only" / "author only" we
