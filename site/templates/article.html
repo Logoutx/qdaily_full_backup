@@ -13,6 +13,7 @@
   <p class="meta">
     {% if article.author %}{{ article.author }} · {% endif %}
     <time datetime="{{ article.publish_date }}">{{ article.publish_time or article.publish_date }}</time>
+    {% if article.like_count is not none %} · <span class="likes" title="QDaily 原页面收到的点赞数">♥ {{ article.like_count }}</span>{% endif %}
   </p>
   {% if article.is_screenshot_only %}
     <p class="notice">Wayback Machine 未能完整保存这篇文章的正文。下方为原始截图。</p>

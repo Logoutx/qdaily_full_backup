@@ -128,6 +128,7 @@ class Extracted:
     images: list[str]
     is_stub: bool
     is_screenshot_only: bool        # True when Wayback never gave us a body
+    like_count: int | None          # 点赞数 from QDaily's heart-icon widget
     source_path: str
     archive_url: str
     archive_ts: str
@@ -304,6 +305,16 @@ def extract_one(record: dict, html: str) -> Extracted | None:
     if body_el is None:
         return None
 
+    # Extract 点赞数 (heart-icon count) BEFORE _clean_body strips the
+    # .com-share-favor widget. The number sits in .favor.icon-heart
+    # (the heart-icon span on QDaily's article footer share row).
+    like_count = None
+    fav_el = body_el.select_one(".favor.icon-heart, .favor.iconfont.icon-heart")
+    if fav_el:
+        txt = fav_el.get_text(strip=True)
+        if txt.isdigit():
+            like_count = int(txt)
+
     body_html, body_text_len, images = _clean_body(body_el)
     is_stub = body_text_len < 40 and not images
 
@@ -322,6 +333,7 @@ def extract_one(record: dict, html: str) -> Extracted | None:
         images=images,
         is_stub=is_stub,
         is_screenshot_only=False,
+        like_count=like_count,
         source_path=record["source_path"],
         archive_url=record["archive_url"],
         archive_ts=record["archive_ts"],
@@ -349,6 +361,7 @@ def make_screenshot_only_stub(row: dict) -> Extracted:
         images=[],
         is_stub=True,
         is_screenshot_only=True,
+        like_count=None,
         source_path=row.get("source_path", ""),
         archive_url=row.get("archive_url", ""),
         archive_ts=row.get("archive_ts", ""),

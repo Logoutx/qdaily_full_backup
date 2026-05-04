@@ -173,6 +173,7 @@ def main() -> int:
                 "images": images,
                 "is_stub": False,
                 "is_screenshot_only": False,
+                "like_count": None,
                 "source_path": src.name,
                 "archive_url": archive_url,
                 "archive_ts": archive_ts,

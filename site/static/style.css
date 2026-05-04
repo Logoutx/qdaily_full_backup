@@ -49,6 +49,7 @@ h3 { font-size: 1.1rem; }
 
 .cat { color: var(--cat); font-size: 0.85rem; margin: 0; }
 .meta { color: var(--fg-soft); font-size: 0.92rem; margin: 0 0 1.4rem; }
+.meta .likes { color: #b48200; }
 .breadcrumb { color: var(--fg-soft); font-size: 0.88rem; margin: 0 0 1.2rem; }
 .breadcrumb a { color: var(--fg-soft); }
 
