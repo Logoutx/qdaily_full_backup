@@ -471,15 +471,23 @@ def main() -> int:
     years_with_long = sorted(long_by_year.keys())
 
     # Home
+    # Home-page series ordering: pin three editorial picks to the top,
+    # then fall through to the long-ratio order used everywhere else.
+    HOME_SERIES_PINNED = ["年度报道", "2017 清退", "好奇心商业史"]
+    pinned = [s for k in HOME_SERIES_PINNED for s in series_stats if s["name"] == k]
+    rest = [s for s in series_stats if s["name"] not in HOME_SERIES_PINNED]
+    home_series_stats = pinned + rest
+    # "最后 50 篇" excludes the 广告 category.
+    home_latest = [r for r in rendered if r.get("category") != "广告"][:50]
     (out / "index.html").write_text(
         env.get_template("home.html").render(
             total=len(rendered),
             first_date=rendered[-1]["publish_date"],
             last_date=rendered[0]["publish_date"],
-            latest=rendered[:50],
+            latest=home_latest,
             years_with_counts=sorted(years_with_counts),
             long_total=len(long_articles),
-            series_stats=series_stats,
+            series_stats=home_series_stats,
         ),
         encoding="utf-8",
     )

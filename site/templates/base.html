@@ -11,7 +11,6 @@
 </head>
 <body>
 <header class="site-header">
-  <a class="brand" href="{{ url('') }}">{{ site_title }}</a>
   <nav>
     <a href="{{ url('') }}">首页</a>
     {% for y in years %}<a href="{{ url(y ~ '/') }}">{{ y }}</a>{% endfor %}
