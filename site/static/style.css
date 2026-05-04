@@ -117,6 +117,24 @@ h3 { font-size: 1.1rem; }
 @media (max-width: 800px) { .series-list.home-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 460px) { .series-list.home-grid { grid-template-columns: 1fr; } }
 
+/* Pure-CSS expand for the home series grid. The checkbox lives just
+   before the <ul> so we use the general-sibling combinator (~) to
+   reach into the list. Default state: hide the .series-extra tiles
+   and show the "查看所有栏目" tile. Once the box is checked: flip
+   both. JS-free. */
+.series-expand-toggle ~ ul .series-extra { display: none; }
+.series-expand-toggle:checked ~ ul .series-expand-tile { display: none; }
+.series-expand-toggle:checked ~ ul .series-extra { display: flex; }
+.series-list .series-expand-tile { justify-content: center; cursor: pointer; }
+.series-list .series-expand-tile label {
+  cursor: pointer;
+  color: var(--fg-soft);
+  font-weight: 500;
+  width: 100%;
+  text-align: center;
+}
+.series-list .series-expand-tile:hover { background: var(--rule); }
+
 h2 small { font-weight: normal; font-size: 0.7em; margin-left: 0.6em; }
 h2 small a { color: var(--fg-soft); }
 

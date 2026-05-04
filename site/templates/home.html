@@ -8,6 +8,9 @@
 
 {% if series_stats %}
 <h2>按系列浏览</h2>
+{# Pure-CSS expand: hidden checkbox toggles .series-extra visibility
+   and hides the "查看所有栏目" tile once the rest are revealed. #}
+<input type="checkbox" id="series-expand" class="series-expand-toggle" hidden>
 <ul class="series-list home-grid">
   {% if long_total %}
   <li>
@@ -15,12 +18,23 @@
     <span class="count">{{ long_total }}</span>
   </li>
   {% endif %}
-  {% for s in series_stats %}
+  {% for s in series_stats[:11] %}
   <li>
     <a href="{{ url('series/' ~ s.name ~ '/') }}">{{ s.name }}</a>
     <span class="count">{{ s.total }}</span>
   </li>
   {% endfor %}
+  {% if series_stats|length > 11 %}
+  <li class="series-expand-tile">
+    <label for="series-expand">查看所有栏目</label>
+  </li>
+  {% for s in series_stats[11:] %}
+  <li class="series-extra">
+    <a href="{{ url('series/' ~ s.name ~ '/') }}">{{ s.name }}</a>
+    <span class="count">{{ s.total }}</span>
+  </li>
+  {% endfor %}
+  {% endif %}
 </ul>
 {% endif %}
 
