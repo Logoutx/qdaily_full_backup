@@ -95,6 +95,14 @@ def _series_match(name: str, r: dict) -> bool:
         return ("卫星新闻" in title) and ("大公司头条" not in title)
     if name == "2017 清退":    return aid in _STORY_2017_IDS
     if name == "年度报道":
+        # Exclude 年度图书推荐 (treated as a separate annual reading-list
+        # column, not part of the 年度报道 feature-length set), and
+        # require the article to be a 长文章 — short year-end blurbs and
+        # 大公司头条 daily roundups don't belong here.
+        if "年度图书推荐" in title:
+            return False
+        if not r.get("is_long"):
+            return False
         return any(term in title for term in _ANNUAL_TERMS) or bool(_ANNUAL_GAME_RE.search(title))
     if name == "房子和我们的生活":
         return "房子和我们的生活" in title
