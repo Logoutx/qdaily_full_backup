@@ -338,6 +338,14 @@ def main() -> int:
     if static_src.exists():
         shutil.copytree(static_src, out / "static")
 
+    # In local image mode, copy mirrored Wayback assets so the
+    # `../../assets/<id>/<digest>.<ext>` paths emitted by resolve_url()
+    # resolve under public/assets/. We use copy (rather than symlink)
+    # because GitHub Pages serves the artifact verbatim.
+    assets_src = Path(args.assets)
+    if args.image_mode == "local" and assets_src.exists():
+        shutil.copytree(assets_src, out / "assets")
+
     base_url = args.base_url if args.base_url.endswith("/") else args.base_url + "/"
 
     def url(path: str) -> str:

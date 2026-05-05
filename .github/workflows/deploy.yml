@@ -5,6 +5,8 @@ on:
     branches: [main]
     paths:
       - 'data/articles_extracted_*.jsonl'
+      - 'data/images.jsonl'
+      - 'assets/**'
       - 'site/**'
       - 'tools/render.py'
       - 'tools/install_pagefind.sh'
@@ -39,7 +41,7 @@ jobs:
           python tools/render.py \
             --base-url "/qdaily_full_backup/" \
             --site-url "https://logoutx.github.io" \
-            --image-mode wayback
+            --image-mode local
 
       - name: Install Pagefind
         run: bash tools/install_pagefind.sh
