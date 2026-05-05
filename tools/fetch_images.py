@@ -30,7 +30,9 @@ import hashlib
 import json
 import re
 import sys
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from urllib.parse import quote, urlparse
 
@@ -183,6 +185,101 @@ def asset_path(assets_root: Path, article_id: int, url: str) -> Path:
     return assets_root / str(article_id) / f"{digest}{ext}"
 
 
+class RateLimiter:
+    """Token-bucket-ish thread-safe gate. Holds the global request rate
+    constant regardless of how many workers compete for it — the point
+    of concurrency here is to overlap network latency, NOT to fire
+    more requests/sec at Wayback (which would just trigger harder
+    throttling)."""
+
+    def __init__(self, rps: float):
+        self.interval = 1.0 / max(rps, 0.1)
+        self._lock = threading.Lock()
+        self._next_at = 0.0
+
+    def wait(self) -> None:
+        with self._lock:
+            now = time.monotonic()
+            wait_for = max(0.0, self._next_at - now)
+            self._next_at = max(now, self._next_at) + self.interval
+        if wait_for > 0:
+            time.sleep(wait_for)
+
+
+def process_one(
+    url: str,
+    ids: list[int],
+    client: httpx.Client,
+    limiter: RateLimiter,
+    assets_root: Path,
+    asset_lock: threading.Lock,
+) -> dict:
+    """Worker function: do one URL end-to-end and return its manifest
+    record. Designed to be called from a ThreadPoolExecutor — the
+    only shared state is `limiter` (rate-limited request gate) and
+    `asset_lock` (serializes filesystem mkdir + hardlink fanout to
+    avoid any racy double-creates)."""
+    primary_id = ids[0]
+
+    # Pass through medium.com / live URLs without saving.
+    host = urlparse(url).netloc.lower()
+    if host == "medium.com" or host.endswith(".medium.com"):
+        return {"url": url, "status": "skip-live",
+                "ts": None, "path": None, "length": None}
+
+    # 1) CDX lookup (exact, then prefix fallback)
+    limiter.wait()
+    kind, ts, cdx_length, fetch_url = cdx_lookup(client, url)
+    if kind == "error":
+        return {"url": url, "status": "cdx-error",
+                "ts": None, "path": None, "length": None}
+    if kind == "empty":
+        return {"url": url, "status": "no-snapshot-prefix",
+                "ts": None, "path": None, "length": None}
+
+    # 2) Fetch the image bytes
+    limiter.wait()
+    wb = f"https://web.archive.org/web/{ts}id_/{fetch_url}"
+    try:
+        r = http_get(client, wb)
+    except Exception as e:
+        return {"url": url, "status": "fetch-error", "ts": ts,
+                "path": None, "length": cdx_length, "error": str(e)[:120]}
+
+    if r.status_code != 200 or len(r.content) < 200:
+        return {"url": url, "status": "http-error", "ts": ts,
+                "http_status": r.status_code, "path": None,
+                "length": len(r.content)}
+
+    # 3) Filesystem fan-out — one canonical write under primary_id,
+    #    hard-linked under every other referencing article id. Held
+    #    under asset_lock so two workers writing different URLs that
+    #    happen to share the same article folder don't race on mkdir.
+    with asset_lock:
+        target = asset_path(assets_root, primary_id, url)
+        target.parent.mkdir(parents=True, exist_ok=True)
+        tmp = target.with_suffix(target.suffix + ".tmp")
+        tmp.write_bytes(r.content)
+        tmp.rename(target)
+        for other_id in ids[1:]:
+            link_target = asset_path(assets_root, other_id, url)
+            link_target.parent.mkdir(parents=True, exist_ok=True)
+            if link_target.exists():
+                continue
+            try:
+                link_target.hardlink_to(target)
+            except OSError:
+                link_target.write_bytes(r.content)
+
+    return {
+        "url": url, "status": "ok", "ts": ts,
+        "path": str(target.relative_to(Path("."))),
+        "length": len(r.content),
+        "linked_ids": ids,
+        "fetch_url": fetch_url if fetch_url != url else None,
+    }
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--records-glob", default="data/articles_extracted_*.jsonl")
@@ -190,7 +287,11 @@ def main() -> int:
     ap.add_argument("--assets", default="assets")
     ap.add_argument("--manifest", default="data/images.jsonl")
     ap.add_argument("--rate", type=float, default=2.0,
-                    help="requests per second (CDX is sensitive)")
+                    help="GLOBAL requests per second — shared across "
+                    "workers. Don't crank this; CDX throttles aggressively.")
+    ap.add_argument("--workers", type=int, default=3,
+                    help="parallel workers. Hides network latency without "
+                    "raising the request rate (rate is global, not per-worker).")
     ap.add_argument("--limit", type=int, default=0,
                     help="stop after N URLs (0 = no limit)")
     args = ap.parse_args()
@@ -252,120 +353,48 @@ def main() -> int:
 
     assets_root = Path(args.assets)
 
-    # CDX is the bottleneck (rate-limited). One client for both endpoints.
+    # One client shared across workers. httpx.Client is thread-safe
+    # for concurrent reads/writes per the docs.
     client = httpx.Client(headers={"User-Agent": UA}, timeout=TIMEOUT)
-    delay = 1.0 / max(args.rate, 0.1)
+    limiter = RateLimiter(args.rate)
+    asset_lock = threading.Lock()
+    write_lock = threading.Lock()
+
+    todo = [u for u in url_to_ids if u not in seen_urls]
+    if args.limit:
+        todo = todo[: args.limit]
 
     n_ok = n_miss = n_err = n_skip = 0
     n_processed = 0
-    todo = [u for u in url_to_ids if u not in seen_urls]
+    print(f"starting {args.workers} workers @ {args.rate} req/s "
+          f"(global, not per-worker)…", flush=True)
 
     with manifest_path.open("a", encoding="utf-8") as mfout:
-        for url in todo:
-            if args.limit and n_processed >= args.limit:
-                break
-            ids = url_to_ids[url]
-            primary_id = ids[0]
-
-            # Pass through medium.com / live URLs without saving
-            host = urlparse(url).netloc.lower()
-            if host == "medium.com" or host.endswith(".medium.com"):
-                rec = {"url": url, "status": "skip-live",
-                       "ts": None, "path": None, "length": None}
-                mfout.write(json.dumps(rec, ensure_ascii=False) + "\n")
-                mfout.flush()
-                n_skip += 1
-                n_processed += 1
-                continue
-
-            # 1) CDX lookup (exact, then prefix fallback)
-            kind, ts, cdx_length, fetch_url = cdx_lookup(client, url)
-            time.sleep(delay)
-            if kind == "error":
-                rec = {"url": url, "status": "cdx-error",
-                       "ts": None, "path": None, "length": None}
-                mfout.write(json.dumps(rec, ensure_ascii=False) + "\n")
-                mfout.flush()
-                n_err += 1
-                n_processed += 1
-                continue
-            if kind == "empty":
-                rec = {"url": url, "status": "no-snapshot-prefix",
-                       "ts": None, "path": None, "length": None}
-                mfout.write(json.dumps(rec, ensure_ascii=False) + "\n")
-                mfout.flush()
-                n_miss += 1
-                n_processed += 1
-                if n_processed % 50 == 0:
-                    print(f"  {n_processed:>5}/{len(todo):<5} "
-                          f"ok={n_ok} miss={n_miss} err={n_err} skip={n_skip}",
-                          flush=True)
-                continue
-
-            # 2) Fetch the image bytes (via the actual captured variant
-            #    URL — may differ from `url` when prefix fallback hit)
-            wb = f"https://web.archive.org/web/{ts}id_/{fetch_url}"
-            target = asset_path(assets_root, primary_id, url)
-            target.parent.mkdir(parents=True, exist_ok=True)
-            try:
-                r = http_get(client, wb)
-            except Exception as e:
-                rec = {"url": url, "status": "fetch-error", "ts": ts,
-                       "path": None, "length": cdx_length, "error": str(e)[:120]}
-                mfout.write(json.dumps(rec, ensure_ascii=False) + "\n")
-                mfout.flush()
-                n_err += 1
-                n_processed += 1
-                time.sleep(delay)
-                continue
-
-            if r.status_code != 200 or len(r.content) < 200:
-                rec = {"url": url, "status": "http-error", "ts": ts,
-                       "http_status": r.status_code, "path": None,
-                       "length": len(r.content)}
-                mfout.write(json.dumps(rec, ensure_ascii=False) + "\n")
-                mfout.flush()
-                n_err += 1
-                n_processed += 1
-                time.sleep(delay)
-                continue
-
-            # Atomic write
-            tmp = target.with_suffix(target.suffix + ".tmp")
-            tmp.write_bytes(r.content)
-            tmp.rename(target)
-
-            # Hard-link the same blob under every other referencing article id
-            # so resolve_url(article_id, url) finds it without a per-id refetch.
-            for other_id in ids[1:]:
-                link_target = asset_path(assets_root, other_id, url)
-                link_target.parent.mkdir(parents=True, exist_ok=True)
-                if link_target.exists():
-                    continue
-                try:
-                    link_target.hardlink_to(target)
-                except OSError:
-                    # Fallback to a copy if FS doesn't support hard links
-                    link_target.write_bytes(r.content)
-
-            rec = {
-                "url": url, "status": "ok", "ts": ts,
-                "path": str(target.relative_to(Path("."))),
-                "length": len(r.content),
-                "linked_ids": ids,
-                # When the prefix fallback found a variant, fetch_url
-                # differs from url. Record it for traceability.
-                "fetch_url": fetch_url if fetch_url != url else None,
+        with ThreadPoolExecutor(max_workers=args.workers) as ex:
+            futs = {
+                ex.submit(process_one, u, url_to_ids[u], client,
+                          limiter, assets_root, asset_lock): u
+                for u in todo
             }
-            mfout.write(json.dumps(rec, ensure_ascii=False) + "\n")
-            mfout.flush()
-            n_ok += 1
-            n_processed += 1
-            time.sleep(delay)
-            if n_processed % 50 == 0:
-                print(f"  {n_processed:>5}/{len(todo):<5} "
-                      f"ok={n_ok} miss={n_miss} err={n_err} skip={n_skip}",
-                      flush=True)
+            for fut in as_completed(futs):
+                rec = fut.result()
+                with write_lock:
+                    mfout.write(json.dumps(rec, ensure_ascii=False) + "\n")
+                    mfout.flush()
+                    n_processed += 1
+                    s = rec["status"]
+                    if s == "ok":
+                        n_ok += 1
+                    elif s in ("no-snapshot-prefix",):
+                        n_miss += 1
+                    elif s == "skip-live":
+                        n_skip += 1
+                    else:
+                        n_err += 1
+                    if n_processed % 50 == 0:
+                        print(f"  {n_processed:>5}/{len(todo):<5} "
+                              f"ok={n_ok} miss={n_miss} err={n_err} "
+                              f"skip={n_skip}", flush=True)
 
     print()
     print(f"done. ok={n_ok}  miss={n_miss}  err={n_err}  skip={n_skip}  "
