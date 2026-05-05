@@ -85,46 +85,96 @@ def http_get(client: httpx.Client, url: str) -> httpx.Response:
     return r
 
 
-def cdx_lookup(client: httpx.Client, url: str) -> tuple[str, str | None, int | None]:
-    """Return (kind, ts, length) where kind is one of:
-       - "ok"     : found a 200 snapshot
-       - "empty"  : CDX returned empty list (no snapshot exists)
-       - "error"  : CDX request failed (transient — caller may retry)
-    Distinguishing these matters for resume: 'empty' is a permanent
-    skip; 'error' should be retried on the next run.
-    """
-    cdx = (
-        "https://web.archive.org/cdx/search/cdx?"
-        f"url={quote(url, safe='')}"
-        "&filter=statuscode:200"
-        "&output=json"
-        "&limit=1"
-    )
+def _cdx_call(client: httpx.Client, cdx_url: str) -> tuple[str, list]:
+    """Returns (state, rows) where state ∈ {"ok", "empty", "error"}
+    and rows excludes the header row."""
     try:
-        r = http_get(client, cdx)
+        r = http_get(client, cdx_url)
     except Exception:
-        return "error", None, None
+        return "error", []
     if r.status_code != 200:
-        return "error", None, None
+        return "error", []
     text = r.text.strip()
     if not text:
-        return "empty", None, None
+        return "empty", []
     if not text.startswith("["):
-        # HTML error page from upstream — treat as transient.
-        return "error", None, None
+        # HTML "Temporarily Offline" or similar — treat as transient.
+        return "error", []
     try:
         data = json.loads(text)
     except json.JSONDecodeError:
-        return "error", None, None
+        return "error", []
     if len(data) < 2:
-        return "empty", None, None
-    row = data[1]
-    ts = row[1]
-    try:
-        length = int(row[6])
-    except (ValueError, IndexError):
-        length = None
-    return "ok", ts, length
+        return "empty", []
+    return "ok", data[1:]
+
+
+# QDaily image transform suffix: ".jpg-w600", ".jpeg-WebpWebW640", etc.
+# Strip back to the bare ".ext" form so prefix-match catches every
+# transform variant Wayback might have captured.
+_TRANSFORM_SUFFIX_RE = re.compile(r"(\.[A-Za-z0-9]+)-[A-Za-z0-9]+$")
+
+
+def cdx_lookup(
+    client: httpx.Client, url: str
+) -> tuple[str, str | None, int | None, str | None]:
+    """Find best 200-snapshot for `url`.
+
+    Two-stage search:
+      1. exact-URL CDX query
+      2. on empty: prefix-match on the base file path (querystring
+         stripped, transform suffix like "-w600" / "-WebpWebW640"
+         stripped) — catches the case where Wayback only captured
+         a different size/format variant of the same master image.
+
+    Returns (kind, ts, length, fetch_url) where:
+      - kind   ∈ {"ok", "empty", "error"}
+      - fetch_url is the URL to actually retrieve from Wayback (may
+        differ from `url` when the prefix fallback located a variant)
+    """
+    # 1) Exact match
+    cdx = (
+        "https://web.archive.org/cdx/search/cdx?"
+        f"url={quote(url, safe='')}"
+        "&filter=statuscode:200&output=json&limit=1"
+    )
+    state, rows = _cdx_call(client, cdx)
+    if state == "ok":
+        row = rows[0]
+        try:
+            length = int(row[6])
+        except (ValueError, IndexError):
+            length = None
+        return "ok", row[1], length, url
+    if state == "error":
+        return "error", None, None, None
+    # 2) Prefix fallback — strip querystring + transform suffix.
+    base = url.split("?", 1)[0]
+    base = _TRANSFORM_SUFFIX_RE.sub(r"\1", base)
+    # CDX `matchType=prefix` is a true prefix match — DO NOT append `*`,
+    # which the API interprets literally and returns nothing.
+    cdx = (
+        "https://web.archive.org/cdx/search/cdx?"
+        f"url={quote(base, safe='')}"
+        "&matchType=prefix"
+        "&filter=statuscode:200"
+        "&filter=mimetype:image/.*"
+        "&output=json&limit=1"
+    )
+    state, rows = _cdx_call(client, cdx)
+    if state == "ok":
+        row = rows[0]
+        try:
+            length = int(row[6])
+        except (ValueError, IndexError):
+            length = None
+        # row[2] is the original URL — use that for the id_ fetch so
+        # Wayback returns the exact captured bytes.
+        return "ok", row[1], length, row[2]
+    if state == "error":
+        return "error", None, None, None
+    # 2-stage exhausted — Wayback truly has nothing.
+    return "empty", None, None, None
 
 
 def asset_path(assets_root: Path, article_id: int, url: str) -> Path:
@@ -179,7 +229,11 @@ def main() -> int:
 
     # Resume: skip URLs that finished cleanly. Transient errors
     # ("cdx-error", "fetch-error", "http-error") get retried.
-    PERMANENT_STATUSES = {"ok", "no-snapshot", "skip-live"}
+    # NOTE: legacy "no-snapshot" records (from before the prefix
+    # fallback existed) are NOT in this set — they get re-tried on
+    # this pass with the new two-stage logic. Only "no-snapshot-prefix"
+    # (failed BOTH exact and prefix lookups) is permanent.
+    PERMANENT_STATUSES = {"ok", "no-snapshot-prefix", "skip-live"}
     manifest_path = Path(args.manifest)
     manifest_path.parent.mkdir(parents=True, exist_ok=True)
     seen_urls: set[str] = set()
@@ -224,8 +278,8 @@ def main() -> int:
                 n_processed += 1
                 continue
 
-            # 1) CDX lookup
-            kind, ts, cdx_length = cdx_lookup(client, url)
+            # 1) CDX lookup (exact, then prefix fallback)
+            kind, ts, cdx_length, fetch_url = cdx_lookup(client, url)
             time.sleep(delay)
             if kind == "error":
                 rec = {"url": url, "status": "cdx-error",
@@ -236,7 +290,7 @@ def main() -> int:
                 n_processed += 1
                 continue
             if kind == "empty":
-                rec = {"url": url, "status": "no-snapshot",
+                rec = {"url": url, "status": "no-snapshot-prefix",
                        "ts": None, "path": None, "length": None}
                 mfout.write(json.dumps(rec, ensure_ascii=False) + "\n")
                 mfout.flush()
@@ -248,8 +302,9 @@ def main() -> int:
                           flush=True)
                 continue
 
-            # 2) Fetch the image bytes
-            wb = f"https://web.archive.org/web/{ts}id_/{url}"
+            # 2) Fetch the image bytes (via the actual captured variant
+            #    URL — may differ from `url` when prefix fallback hit)
+            wb = f"https://web.archive.org/web/{ts}id_/{fetch_url}"
             target = asset_path(assets_root, primary_id, url)
             target.parent.mkdir(parents=True, exist_ok=True)
             try:
@@ -298,6 +353,9 @@ def main() -> int:
                 "path": str(target.relative_to(Path("."))),
                 "length": len(r.content),
                 "linked_ids": ids,
+                # When the prefix fallback found a variant, fetch_url
+                # differs from url. Record it for traceability.
+                "fetch_url": fetch_url if fetch_url != url else None,
             }
             mfout.write(json.dumps(rec, ensure_ascii=False) + "\n")
             mfout.flush()
