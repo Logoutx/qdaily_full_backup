@@ -358,7 +358,22 @@ def main() -> int:
         autoescape=select_autoescape(["html", "xml"]),
         trim_blocks=True, lstrip_blocks=True,
     )
-    def author_url(name: str) -> str:
+    # Author hyperlinking + dedicated /author/<name>/ page only for
+    # purely-Chinese-character bylines. Names like "Kate Conger" or
+    # "Selina 胡晨希" render as plain text and don't get a page.
+    _PURE_CJK_AUTHOR_RE = re.compile(r"^[一-鿿]+$")
+
+    def is_cjk_author(name: str) -> bool:
+        return bool(name and _PURE_CJK_AUTHOR_RE.match(name))
+
+    def author_url(name: str) -> str | None:
+        # Returns None for non-CJK authors so templates can fall back
+        # to plain text. The raw `name` goes into the URL path; the
+        # browser percent-encodes it on the wire, GH Pages decodes
+        # before lookup, and the on-disk dir is also named by `name`
+        # (NOT the percent-encoded form — earlier bug).
+        if not is_cjk_author(name):
+            return None
         return url("author/" + quote(name, safe="") + "/")
 
     env.globals.update(
@@ -688,22 +703,31 @@ def main() -> int:
                 encoding="utf-8",
             )
 
-    # Author pages — one per individual author, listing every article
-    # they (co-)bylined newest-first. The directory name is the
-    # percent-encoded form of the author so the on-disk path matches
-    # the URL pattern produced by author_url() (no surprises with
-    # spaces or punctuation in CJK / Western names).
+    # Author pages — one per individual purely-CJK author, listing
+    # every article they (co-)bylined newest-first.
+    #
+    # On-disk directory name is the RAW author name (UTF-8 bytes), NOT
+    # the percent-encoded form. GitHub Pages URL-decodes the request
+    # before lookup, so a request for `/author/%E9%BB%84%E4%BF%8A%E6
+    # %9D%B0/` (黄俊杰) becomes a filesystem lookup for `黄俊杰` —
+    # which only matches if the directory is literally named with the
+    # CJK characters. An earlier version named the dir with the
+    # percent-encoded slug, producing 1,715 directories that the live
+    # site couldn't find.
+    #
+    # Non-CJK authors are skipped entirely: no page generated, no
+    # hyperlink rendered (author_url() returns None for them).
     author_articles: dict[str, list] = defaultdict(list)
     for r in rendered:
         for a in r.get("authors") or []:
-            author_articles[a].append(r)
+            if is_cjk_author(a):
+                author_articles[a].append(r)
     author_dir = out / "author"
     author_dir.mkdir(parents=True, exist_ok=True)
     for name, items in author_articles.items():
         items_sorted = sorted(items, key=lambda r: (r["publish_date"], r["id"]),
                               reverse=True)
-        slug = quote(name, safe="")
-        ad = author_dir / slug
+        ad = author_dir / name
         ad.mkdir(parents=True, exist_ok=True)
         heading = f"{name} · {len(items_sorted)} 篇"
         (ad / "index.html").write_text(
