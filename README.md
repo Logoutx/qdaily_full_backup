@@ -1,6 +1,6 @@
-# [《好奇心日报》存档网站](https://logoutx.github.io/qdaily_full_backup/)
+# [《好奇心日报》存档网站](https://www.qdaily.org)
 
-直接访问网址 [https://logoutx.github.io/qdaily_full_backup/](https://logoutx.github.io/qdaily_full_backup/)
+直接访问网址 [https://www.qdaily.org](https://www.qdaily.org)
 
 原始数据 [LampScript 已经备份](https://github.com/LampScript/qdaily_backup/tree/master)，但备份内容显示为截图和 Wayback Machine 链接，不便于搜索和阅读。
 
