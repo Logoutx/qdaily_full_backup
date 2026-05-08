@@ -653,20 +653,26 @@ def main() -> int:
     # not in this list falls to the tail in series_stats's existing order
     # (long-ratio desc) so a newly-added column doesn't silently vanish.
     HOME_SERIES_ORDER = [
+        # Above-the-fold (the 11 series shown before the 查看所有栏目
+        # toggle; combined with the always-pinned 只看长文章 link in the
+        # template, this is the user-curated "top 12").
         "年度观察",
         "2017 清退",
         "好奇心商业史",
         "房子和我们的生活",
-        "访谈录",
         "100 个有想法的人",
-        "22 岁，他们在想什么",
-        "这个社会，对年轻人太好了吗？",
         "也许欧洲有答案",
         "好莱坞报告",
-        "创始人说",
-        "市场发明家",
         "卫星新闻",
+        "创始人说",
         "好奇心小数据",
+        "好奇心辞典",
+        # Rest — previous editorial order, with the above entries removed
+        # so each series appears exactly once.
+        "访谈录",
+        "22 岁，他们在想什么",
+        "这个社会，对年轻人太好了吗？",
+        "市场发明家",
         "所长の大数据",
         "这个人有好奇心",
         "TED 现场报道",
@@ -678,7 +684,6 @@ def main() -> int:
         "Hack Your Life",
         "好奇心研究所",
         "「日本語」",
-        "好奇心辞典",
         "大公司头条",
         "乙方日报",
         "浮华日报",
