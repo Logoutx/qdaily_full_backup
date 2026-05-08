@@ -39,8 +39,8 @@ jobs:
       - name: Render site
         run: |
           python tools/render.py \
-            --base-url "/qdaily_full_backup/" \
-            --site-url "https://logoutx.github.io" \
+            --base-url "/" \
+            --site-url "https://www.qdaily.org" \
             --image-mode local
 
       - name: Install Pagefind

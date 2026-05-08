@@ -58,6 +58,61 @@ _STORY_2017_IDS = {
     47831, 47907, 48006, 48092, 48187, 48367, 48410, 49956,
 }
 
+# Per-column article-ID anchor sets, harvested from the QDaily
+# /special_columns/<id>.html snapshots on Wayback (the "first page" each
+# column page exposed before the site went down). For columns whose
+# titles don't follow a reliable pattern, these sets ARE the membership.
+_FOUNDER_SAYS_IDS = {  # 创始人说 — special_columns/6
+    11220, 11227, 12311, 12521, 12736, 13068, 13232, 15178,
+    15542, 15934, 16763, 16940, 17654, 17719, 17842, 18094,
+    19719, 20259, 20431, 24425,
+}
+_MARKET_INVENTOR_IDS = {  # 市场发明家 — special_columns/7
+    3699, 4173, 4370, 7172, 12299, 12692, 13092, 13117,
+    14059, 17129, 17997, 18119, 18355, 18607, 19324, 20697,
+    23491, 23816, 24152, 24515,
+}
+_REARVIEW_IDS = {  # 后视镜 — special_columns/11
+    21598, 21599, 21600, 21649, 21651, 21662, 21729, 37100,
+    37102, 37113, 37114, 37116, 37117, 37119,
+}
+_HOLLYWOOD_IDS = {  # 好莱坞报告 — special_columns/25
+    12278, 12359, 12425, 12535, 12581, 12703, 12796, 12984,
+    13124, 13276, 13905, 14002, 14194, 14363, 14633, 14871,
+    15038, 15997, 21031, 31740,
+}
+_LAB_DATA_IDS = {  # 所长の大数据 — special_columns/33
+    23285, 23355, 23395, 23441, 23487, 23638, 23650, 23786,
+    23879, 23971, 24047, 24050, 24219, 24285, 24335, 24416,
+    24500, 24517, 24626, 24673,
+}
+_WHY_READ_IDS = {  # 为什么读书 — special_columns/29
+    23061, 23068, 23253, 23267, 23268, 23269, 23465, 23475,
+    23478, 23532, 23710, 23716, 23717, 23821, 23824, 24128,
+    24129, 24150, 24496, 24498,
+}
+_DISTRICT_42_IDS = {  # 42 区 — special_columns/34
+    20988, 20994, 21067, 21234, 21249, 21255, 21535, 22597,
+    22706, 22769, 23085, 23904, 24120, 24790,
+}
+_THINKING_22_IDS = {  # 22岁，他们在想什么 — special_columns/35
+    28421, 28436, 28533, 28562, 28636, 28695, 28707, 28737,
+    28851, 28911, 28915, 28920, 28974, 29045, 29099, 29148,
+    29226, 29274, 29351,
+}
+_EUROPE_IDS = {  # 也许欧洲有答案 — special_columns/39
+    29585, 30209, 30417, 30813, 30906, 31461, 32001,
+}
+_SOCIETY_YOUTH_IDS = {  # 这个社会，对年轻人太好了吗？ — special_columns/54
+    37071, 37280, 37376, 37418, 37742, 37745, 37985,
+}
+# special_columns/41 — "2016 大公司数字化". Per user instruction, fold all
+# 11 articles into the 年度观察 series (the renamed 年度报道).
+_DIGITAL_CO_2016_IDS = {
+    34053, 34166, 34296, 34457, 34559, 34693, 34794, 35104,
+    35296, 35463, 35561,
+}
+
 _TED_TITLE_RE = re.compile(r"TED\s*201[789]\s*现场报道")
 _ANNUAL_GAME_RE = re.compile(r"\d{4}\s*年度游戏")
 _ANNUAL_TERMS = ("年度报道", "年度设计大赏", "年度公司", "年度图书", "年度报告")
@@ -97,9 +152,14 @@ def _series_match(name: str, r: dict) -> bool:
             return True
         return ("卫星新闻" in title) and ("大公司头条" not in title)
     if name == "2017 清退":    return aid in _STORY_2017_IDS
-    if name == "年度报道":
+    if name == "年度观察":
+        # Renamed from "年度报道" — now also includes the 11 articles of
+        # the 2016 大公司数字化 column (special_columns/41), folded in
+        # whole per user instruction.
+        if aid in _DIGITAL_CO_2016_IDS:
+            return True
         # Exclude 年度图书推荐 (treated as a separate annual reading-list
-        # column, not part of the 年度报道 feature-length set), and
+        # column, not part of the 年度观察 feature-length set), and
         # require the article to be a 长文章 — short year-end blurbs and
         # 大公司头条 daily roundups don't belong here.
         if "年度图书推荐" in title:
@@ -109,6 +169,22 @@ def _series_match(name: str, r: dict) -> bool:
         return any(term in title for term in _ANNUAL_TERMS) or bool(_ANNUAL_GAME_RE.search(title))
     if name == "房子和我们的生活":
         return "房子和我们的生活" in title
+    # --- New series harvested from /special_columns/<id>.html snapshots --
+    if name == "创始人说":               return aid in _FOUNDER_SAYS_IDS
+    if name == "市场发明家":              return aid in _MARKET_INVENTOR_IDS
+    if name == "后视镜":                 return aid in _REARVIEW_IDS
+    if name == "好莱坞报告":              return aid in _HOLLYWOOD_IDS
+    if name == "所长の大数据":             return aid in _LAB_DATA_IDS
+    if name == "为什么读书":              return aid in _WHY_READ_IDS
+    if name == "42 区":                 return aid in _DISTRICT_42_IDS
+    if name == "22 岁，他们在想什么":       return aid in _THINKING_22_IDS
+    if name == "也许欧洲有答案":           return aid in _EUROPE_IDS
+    if name == "这个社会，对年轻人太好了吗？":  return aid in _SOCIETY_YOUTH_IDS
+    if name == "历史上的今天":
+        # Title pattern is highly reliable for this column; the snapshot's
+        # first-page seed list (~20 IDs) is incomplete vs. the ~80 articles
+        # actually in the corpus, so match by title.
+        return "历史上的今天" in title
     if name == "Hack Your Life":
         # Catch-all column. Only claim articles not already classified
         # under any other series above.
@@ -147,8 +223,20 @@ SERIES_NAMES = [
     "TED 现场报道",
     "卫星新闻",
     "2017 清退",
-    "年度报道",
+    "年度观察",
     "房子和我们的生活",
+    # Newly added from QDaily /special_columns/<id> Wayback snapshots:
+    "创始人说",
+    "市场发明家",
+    "后视镜",
+    "好莱坞报告",
+    "所长の大数据",
+    "为什么读书",
+    "42 区",
+    "22 岁，他们在想什么",
+    "也许欧洲有答案",
+    "这个社会，对年轻人太好了吗？",
+    "历史上的今天",
     "Hack Your Life",
 ]
 
@@ -317,8 +405,8 @@ def main() -> int:
     ap.add_argument("--out", default="public")
     ap.add_argument("--assets", default="assets")
     ap.add_argument("--image-mode", choices=("wayback", "local"), default="wayback")
-    ap.add_argument("--base-url", default="/", help="URL prefix; '/' for local preview, '/qdaily_full_backup/' for GitHub Pages")
-    ap.add_argument("--site-url", default="https://logoutx.github.io", help="absolute origin for RSS")
+    ap.add_argument("--base-url", default="/", help="URL prefix; '/' for the live site (qdaily.org) and local preview")
+    ap.add_argument("--site-url", default="https://www.qdaily.org", help="absolute origin for RSS / canonical URLs")
     ap.add_argument("--site-title", default="QDaily 好奇心日报存档")
     ap.add_argument("--site-description", default="好奇心日报所刊发内容存档，通过 Internet Archive 重建。")
     args = ap.parse_args()
@@ -565,17 +653,28 @@ def main() -> int:
     # not in this list falls to the tail in series_stats's existing order
     # (long-ratio desc) so a newly-added column doesn't silently vanish.
     HOME_SERIES_ORDER = [
-        "年度报道",
+        "年度观察",
         "2017 清退",
         "好奇心商业史",
         "房子和我们的生活",
         "访谈录",
         "100 个有想法的人",
+        "22 岁，他们在想什么",
+        "这个社会，对年轻人太好了吗？",
+        "也许欧洲有答案",
+        "好莱坞报告",
+        "创始人说",
+        "市场发明家",
         "卫星新闻",
         "好奇心小数据",
+        "所长の大数据",
         "这个人有好奇心",
         "TED 现场报道",
         "上海时装周",
+        "为什么读书",
+        "42 区",
+        "后视镜",
+        "历史上的今天",
         "Hack Your Life",
         "好奇心研究所",
         "「日本語」",
@@ -777,6 +876,14 @@ def main() -> int:
 
     # No-jekyll: prevent GH Pages from running Jekyll
     (out / ".nojekyll").write_text("")
+
+    # CNAME — tells GitHub Pages to serve this artifact at the custom domain.
+    # Derived from --site-url so it stays in sync with the canonical origin.
+    # If the site_url isn't a custom domain (e.g. local preview pointing at
+    # *.github.io), skip writing CNAME so GH Pages falls back to default.
+    site_host = urlparse(args.site_url).hostname or ""
+    if site_host and not site_host.endswith(".github.io"):
+        (out / "CNAME").write_text(site_host + "\n")
 
     print(f"Rendered {len(rendered)} articles to {out}")
     print(f"  base_url={base_url}  image_mode={args.image_mode}")

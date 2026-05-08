@@ -28,6 +28,7 @@ import argparse
 import glob
 import hashlib
 import json
+import random
 import re
 import sys
 import threading
@@ -364,41 +365,100 @@ def main() -> int:
     if args.limit:
         todo = todo[: args.limit]
 
+    # Two traffic profiles, chosen randomly per batch to look organic.
+    PROFILES = [
+        {"rate": 2.0, "workers": 4},
+        {"rate": 4.0, "workers": 3},
+    ]
+
+    # Throttle detection: if a batch has >= THROTTLE_PCT% cdx-errors,
+    # back off with exponentially growing cooldowns before the next batch.
+    THROTTLE_PCT = 60        # % of batch results that are errors
+    COOLDOWN_BASE = 30.0     # initial backoff seconds
+    COOLDOWN_MAX = 600.0     # cap at 10 minutes
+    COOLDOWN_RESET_OK = 20   # consecutive non-error results to reset backoff
+
     n_ok = n_miss = n_err = n_skip = 0
     n_processed = 0
-    print(f"starting {args.workers} workers @ {args.rate} req/s "
-          f"(global, not per-worker)…", flush=True)
+    batch_num = 0
+    consecutive_throttles = 0
+
+    print(f"random-profile mode: alternating between "
+          f"{PROFILES[0]} and {PROFILES[1]}", flush=True)
+    print(f"throttle detection: backoff when ≥{THROTTLE_PCT}% errors in a batch",
+          flush=True)
 
     with manifest_path.open("a", encoding="utf-8") as mfout:
-        with ThreadPoolExecutor(max_workers=args.workers) as ex:
-            futs = {
-                ex.submit(process_one, u, url_to_ids[u], client,
-                          limiter, assets_root, asset_lock): u
-                for u in todo
-            }
-            for fut in as_completed(futs):
-                rec = fut.result()
-                with write_lock:
-                    mfout.write(json.dumps(rec, ensure_ascii=False) + "\n")
-                    mfout.flush()
-                    n_processed += 1
-                    s = rec["status"]
-                    if s == "ok":
-                        n_ok += 1
-                    elif s in ("no-snapshot-prefix",):
-                        n_miss += 1
-                    elif s == "skip-live":
-                        n_skip += 1
-                    else:
-                        n_err += 1
-                    if n_processed % 50 == 0:
-                        print(f"  {n_processed:>5}/{len(todo):<5} "
-                              f"ok={n_ok} miss={n_miss} err={n_err} "
-                              f"skip={n_skip}", flush=True)
+        offset = 0
+        while offset < len(todo):
+            profile = random.choice(PROFILES)
+            batch_size = random.randint(80, 200)
+            batch = todo[offset : offset + batch_size]
+            offset += len(batch)
+            batch_num += 1
+
+            limiter = RateLimiter(profile["rate"])
+            tag = (f"batch {batch_num}: {len(batch)} URLs, "
+                   f"{profile['rate']} req/s × {profile['workers']}w")
+            print(f"\n▸ {tag}", flush=True)
+
+            batch_ok = 0
+            batch_err = 0
+
+            with ThreadPoolExecutor(max_workers=profile["workers"]) as ex:
+                futs = {
+                    ex.submit(process_one, u, url_to_ids[u], client,
+                              limiter, assets_root, asset_lock): u
+                    for u in batch
+                }
+                for fut in as_completed(futs):
+                    rec = fut.result()
+                    with write_lock:
+                        mfout.write(json.dumps(rec, ensure_ascii=False) + "\n")
+                        mfout.flush()
+                        n_processed += 1
+                        s = rec["status"]
+                        if s == "ok":
+                            n_ok += 1
+                            batch_ok += 1
+                        elif s in ("no-snapshot-prefix",):
+                            n_miss += 1
+                            batch_ok += 1  # legit miss, not throttle
+                        elif s == "skip-live":
+                            n_skip += 1
+                            batch_ok += 1
+                        else:
+                            n_err += 1
+                            batch_err += 1
+                        if n_processed % 50 == 0:
+                            print(f"  {n_processed:>5}/{len(todo):<5} "
+                                  f"ok={n_ok} miss={n_miss} err={n_err} "
+                                  f"skip={n_skip}", flush=True)
+
+            # Throttle detection
+            err_pct = (batch_err / len(batch) * 100) if batch else 0
+            if err_pct >= THROTTLE_PCT:
+                consecutive_throttles += 1
+                cooldown = min(COOLDOWN_BASE * (2 ** (consecutive_throttles - 1)),
+                               COOLDOWN_MAX)
+                print(f"  ⚠ batch {batch_num}: {err_pct:.0f}% errors — "
+                      f"throttled (streak {consecutive_throttles}), "
+                      f"cooling down {cooldown:.0f}s", flush=True)
+                time.sleep(cooldown)
+            else:
+                if consecutive_throttles:
+                    print(f"  ✓ throttle cleared after {consecutive_throttles} "
+                          f"consecutive throttled batches", flush=True)
+                consecutive_throttles = 0
+                # Normal inter-batch pause (1–4s)
+                gap = random.uniform(1.0, 4.0)
+                print(f"  ✓ batch {batch_num} done ({batch_ok} ok, "
+                      f"{batch_err} err) — pausing {gap:.1f}s", flush=True)
+                time.sleep(gap)
 
     print()
     print(f"done. ok={n_ok}  miss={n_miss}  err={n_err}  skip={n_skip}  "
-          f"({n_processed} processed this run)")
+          f"({n_processed} processed this run, {batch_num} batches)")
     return 0
 
 
