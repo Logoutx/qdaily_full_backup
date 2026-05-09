@@ -365,8 +365,12 @@ def main() -> int:
     if args.limit:
         todo = todo[: args.limit]
 
-    # Two traffic profiles, chosen randomly per batch to look organic.
+    # Three traffic profiles, chosen randomly per batch. The slow profile
+    # gets us through Wayback's throttle windows when the faster two start
+    # collecting cdx-errors; mixing all three keeps the request shape from
+    # looking like a clean stair-step.
     PROFILES = [
+        {"rate": 1.0, "workers": 2},
         {"rate": 2.0, "workers": 4},
         {"rate": 4.0, "workers": 3},
     ]
