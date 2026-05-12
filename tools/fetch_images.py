@@ -285,6 +285,10 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--records-glob", default="data/articles_extracted_*.jsonl")
     ap.add_argument("--scope", choices=("xsj", "long", "both", "all"), default="xsj")
+    ap.add_argument("--ids-file",
+                    help="Optional: file with one article id per line (ignored "
+                    "if blank/#-prefix). When set, only those articles are "
+                    "in-scope and --scope is ignored.")
     ap.add_argument("--assets", default="assets")
     ap.add_argument("--manifest", default="data/images.jsonl")
     ap.add_argument("--rate", type=float, default=2.0,
@@ -307,9 +311,26 @@ def main() -> int:
             record_map[r["id"]] = r
 
     # Build {url: [article_ids]} for scoped articles
+    only_ids: set[int] | None = None
+    if args.ids_file:
+        only_ids = set()
+        for line in Path(args.ids_file).read_text(encoding="utf-8").split("\n"):
+            line = line.split("#", 1)[0].strip()
+            if not line:
+                continue
+            try:
+                only_ids.add(int(line))
+            except ValueError:
+                continue
+        print(f"--ids-file: filtering to {len(only_ids):,} specific article ids",
+              flush=True)
+
     url_to_ids: dict[str, list[int]] = {}
     for r in record_map.values():
-        if args.scope == "xsj" and not is_xsj(r):
+        if only_ids is not None:
+            if r["id"] not in only_ids:
+                continue
+        elif args.scope == "xsj" and not is_xsj(r):
             continue
         elif args.scope == "long" and not is_long(r):
             continue
