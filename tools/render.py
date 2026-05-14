@@ -315,7 +315,8 @@ def is_broken_host(url: str) -> bool:
         return False
 
 
-def resolve_url(orig: str, ts: str, mode: str, article_id: int, assets_root: Path) -> tuple[str | None, bool]:
+def resolve_url(orig: str, ts: str, mode: str, article_id: int, assets_root: Path,
+                asset_base_url: str = "") -> tuple[str | None, bool]:
     """
     Returns (resolved_url, is_broken). If broken host, resolved_url is the
     Wayback URL anyway (so a click-through still has a chance) but the
@@ -350,6 +351,10 @@ def resolve_url(orig: str, ts: str, mode: str, article_id: int, assets_root: Pat
         digest = hashlib.sha1(orig.encode("utf-8")).hexdigest()[:16]
         local = assets_root / str(article_id) / f"{digest}{ext}"
         if local.exists():
+            if asset_base_url:
+                # Absolute CDN URL — assets/ is NOT copied into public/.
+                # asset_base_url is normalised to no-trailing-slash by main().
+                return f"{asset_base_url}/{article_id}/{digest}{ext}", broken
             # rel path from public/articles/<id>/index.html → public/assets/<id>/file
             return f"../../assets/{article_id}/{digest}{ext}", broken
     if not ts:
@@ -359,7 +364,8 @@ def resolve_url(orig: str, ts: str, mode: str, article_id: int, assets_root: Pat
     return wayback_im(orig, ts), broken
 
 
-def resolve_body(body_html: str, ts: str, article_id: int, mode: str, assets_root: Path) -> tuple[str, int]:
+def resolve_body(body_html: str, ts: str, article_id: int, mode: str, assets_root: Path,
+                 asset_base_url: str = "") -> tuple[str, int]:
     """Rewrite <img src> in body_html. Returns (rewritten_html, broken_count)."""
     if not body_html:
         return "", 0
@@ -371,7 +377,7 @@ def resolve_body(body_html: str, ts: str, article_id: int, mode: str, assets_roo
         if not src:
             img.decompose()
             continue
-        new, broken = resolve_url(src, ts, mode, article_id, assets_root)
+        new, broken = resolve_url(src, ts, mode, article_id, assets_root, asset_base_url)
         img["src"] = new or src
         if broken:
             img["data-broken"] = "1"
@@ -405,6 +411,10 @@ def main() -> int:
     ap.add_argument("--out", default="public")
     ap.add_argument("--assets", default="assets")
     ap.add_argument("--image-mode", choices=("wayback", "local"), default="wayback")
+    ap.add_argument("--asset-base-url", default="",
+                    help="If set (e.g. https://cdn.qdaily.org), emit absolute CDN "
+                         "URLs for local-mode images and DO NOT copy assets/ into "
+                         "public/. Used in CI to keep the Pages artifact small.")
     ap.add_argument("--base-url", default="/", help="URL prefix; '/' for the live site (qdaily.org) and local preview")
     ap.add_argument("--site-url", default="https://www.qdaily.org", help="absolute origin for RSS / canonical URLs")
     ap.add_argument("--site-title", default="QDaily 好奇心日报存档")
@@ -430,8 +440,12 @@ def main() -> int:
     # `../../assets/<id>/<digest>.<ext>` paths emitted by resolve_url()
     # resolve under public/assets/. We use copy (rather than symlink)
     # because GitHub Pages serves the artifact verbatim.
+    # Skipped when --asset-base-url is set: in that case resolve_url() emits
+    # absolute CDN URLs (e.g. https://cdn.qdaily.org/...) and the assets are
+    # uploaded out-of-band to R2 by tools/upload_assets_r2.py.
     assets_src = Path(args.assets)
-    if args.image_mode == "local" and assets_src.exists():
+    asset_base_url = args.asset_base_url.rstrip("/")
+    if args.image_mode == "local" and assets_src.exists() and not asset_base_url:
         shutil.copytree(assets_src, out / "assets")
 
     base_url = args.base_url if args.base_url.endswith("/") else args.base_url + "/"
@@ -530,12 +544,15 @@ def main() -> int:
     total_broken = 0
     for r in records:
         body_html, broken_in_body = resolve_body(
-            r.get("body_html") or "", r["archive_ts"], r["id"], args.image_mode, assets_root
+            r.get("body_html") or "", r["archive_ts"], r["id"], args.image_mode, assets_root,
+            asset_base_url,
         )
         banner = r.get("banner_image")
         banner_resolved, banner_broken = (None, False)
         if banner:
-            banner_resolved, banner_broken = resolve_url(banner, r["archive_ts"], args.image_mode, r["id"], assets_root)
+            banner_resolved, banner_broken = resolve_url(
+                banner, r["archive_ts"], args.image_mode, r["id"], assets_root, asset_base_url,
+            )
         total_broken += broken_in_body + (1 if banner_broken else 0)
         # Search index inputs (char-segmented, hidden block in article page).
         # Cap the body text shipped to Pagefind at SEARCH_BODY_CAP chars: with
@@ -891,7 +908,8 @@ def main() -> int:
         (out / "CNAME").write_text(site_host + "\n")
 
     print(f"Rendered {len(rendered)} articles to {out}")
-    print(f"  base_url={base_url}  image_mode={args.image_mode}")
+    print(f"  base_url={base_url}  image_mode={args.image_mode}"
+          + (f"  asset_base_url={asset_base_url}" if asset_base_url else ""))
     print(f"  screenshot-only stubs: {n_stubs_added}")
     print(f"  broken images (hidden via CSS): {total_broken}")
     print(f"  years: {', '.join(years)}")
