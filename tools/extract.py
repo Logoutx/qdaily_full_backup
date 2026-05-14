@@ -375,7 +375,7 @@ def main() -> int:
     ap.add_argument("--manifest", default="data/articles.jsonl")
     ap.add_argument("--cache", default="cache")
     ap.add_argument("--out-dir", default="data",
-                    help="extracted records are written one file per year as articles_extracted_<year>.jsonl")
+                    help="extracted records are written one file per year+quarter as articles_extracted_<year>_Q<n>.jsonl")
     ap.add_argument("--errors", default="data/extract_errors.jsonl")
     ap.add_argument("--failures", default="data/failures.jsonl",
                     help="fetch failures; emitted as screenshot-only stubs if not otherwise extracted")
@@ -391,20 +391,33 @@ def main() -> int:
     err_path = Path(args.errors)
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    # Per-year output files. Each is buffered to a .tmp and atomically renamed
+    # Per-quarter output files. Each is buffered to a .tmp and atomically renamed
     # at the end — prevents partial reads and cloud-sync confusion.
-    year_files: dict[str, list] = {}  # year -> [tmp_path, final_path, file_handle]
+    # Quarter buckets keep individual files comfortably under GitHub's 50 MB
+    # warning / 100 MB hard cap as the archive grows.
+    bucket_files: dict[str, list] = {}  # bucket key -> [tmp_path, final_path, file_handle]
 
-    def out_for(year: str):
-        if year not in year_files:
-            final = out_dir / f"articles_extracted_{year}.jsonl"
+    def out_for(bucket: str):
+        if bucket not in bucket_files:
+            final = out_dir / f"articles_extracted_{bucket}.jsonl"
             tmp = final.with_suffix(final.suffix + ".tmp")
-            year_files[year] = [tmp, final, tmp.open("w", encoding="utf-8")]
-        return year_files[year][2]
+            bucket_files[bucket] = [tmp, final, tmp.open("w", encoding="utf-8")]
+        return bucket_files[bucket][2]
+
+    def bucket_for(publish_date: str) -> str:
+        # publish_date is YYYY-MM-DD; produce "YYYY_Qn" or "unknown".
+        if not publish_date or len(publish_date) < 7:
+            return "unknown"
+        try:
+            month = int(publish_date[5:7])
+        except ValueError:
+            return "unknown"
+        if not 1 <= month <= 12:
+            return "unknown"
+        return f"{publish_date[:4]}_Q{(month - 1) // 3 + 1}"
 
     def write_record(rec: Extracted) -> None:
-        year = rec.publish_date[:4] if rec.publish_date else "unknown"
-        out_for(year).write(json.dumps(asdict(rec), ensure_ascii=False) + "\n")
+        out_for(bucket_for(rec.publish_date)).write(json.dumps(asdict(rec), ensure_ascii=False) + "\n")
 
     tmp_err = err_path.with_suffix(err_path.suffix + ".tmp")
 
@@ -467,8 +480,8 @@ def main() -> int:
                 n_failed_stubs += 1
                 n_screenshot_only += 1
 
-    # Close per-year handles and atomically rename them to their final paths.
-    for tmp, final, fh in year_files.values():
+    # Close per-bucket handles and atomically rename them to their final paths.
+    for tmp, final, fh in bucket_files.values():
         fh.close()
         tmp.replace(final)
     tmp_err.replace(err_path)
@@ -477,14 +490,20 @@ def main() -> int:
     legacy = out_dir / "articles_extracted.jsonl"
     if legacy.exists():
         legacy.unlink()
+    # Also remove any old per-year files that this run would otherwise leave
+    # stale alongside the new per-quarter buckets.
+    import re as _re
+    for old in out_dir.glob("articles_extracted_*.jsonl"):
+        if _re.fullmatch(r"articles_extracted_\d{4}\.jsonl", old.name):
+            old.unlink()
 
     print(f"manifest_in={n_in}  extracted={n_out - n_screenshot_only}  "
           f"screenshot_only={n_screenshot_only} (no_body={n_screenshot_only - n_failed_stubs}, "
           f"fetch_failures={n_failed_stubs})  no_cache={n_no_cache}  "
           f"errors={n_err}  stubs={n_stub}  date_mismatches={n_mismatch}")
-    print(f"per-year files in {out_dir}:")
-    for y in sorted(year_files):
-        final = year_files[y][1]
+    print(f"per-quarter files in {out_dir}:")
+    for b in sorted(bucket_files):
+        final = bucket_files[b][1]
         size_mb = final.stat().st_size / (1024 * 1024)
         print(f"  {final.name}: {size_mb:.1f} MB")
     return 0
