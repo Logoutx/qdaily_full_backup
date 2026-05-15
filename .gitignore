@@ -21,3 +21,8 @@ data/preview_*.html
 
 # Pagefind binary (downloaded by tools/install_pagefind.sh, ~50 MB)
 bin/
+
+# Local-only runtime state for the fetcher 48/48 cycle (each Mac has its own
+# anchor + PID — see tools/fetcher_cycle.sh)
+data/fetcher_cycle_state
+data/fetcher.pid
