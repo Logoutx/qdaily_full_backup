@@ -37,6 +37,11 @@ SOURCES: list[Path] = [
     DOWNLOADS / "晚上 8 点半，连续 7 天，距离首都机场 2 公里. 转自《好奇心日报》，2017 年 12 月 2 日 22 点发布，3 日下午…  by PEK Express  Medium.md",
 ]
 OUT_PATH = Path("data/articles_extracted_extra.jsonl")
+
+# Hard cutoff — keep in sync with extract.py / fetch_images.py.
+# Anything later than QDaily's actual final article (id=64092, 2019-05-27)
+# is out-of-archive and gets skipped.
+QDAILY_FINAL_DATE = "2019-05-27"
 # These four articles all belong to QDaily's "城市" beat. If a future
 # import covers other beats, lift this into a per-source field instead.
 DEFAULT_CATEGORY = "城市"
@@ -158,13 +163,18 @@ def main() -> int:
             archive_url = main_rec.get("archive_url", "") or ""
             archive_ts = main_rec.get("archive_ts", "") or ""
 
+            publish_date_str = dt.strftime("%Y-%m-%d")
+            if publish_date_str > QDAILY_FINAL_DATE:
+                print(f"  SKIP id={article_id}  date={publish_date_str} "
+                      f"(after {QDAILY_FINAL_DATE} cutoff)")
+                continue
             rec = {
                 "id": article_id,
                 "title": title,
                 "category": DEFAULT_CATEGORY,
                 "author": author,
                 "publish_time": dt.strftime("%Y-%m-%d %H:%M:%S"),
-                "publish_date": dt.strftime("%Y-%m-%d"),
+                "publish_date": publish_date_str,
                 "folder_date": dt.strftime("%Y-%m-%d"),
                 "date_mismatch": False,
                 "banner_image": images[0] if images else None,

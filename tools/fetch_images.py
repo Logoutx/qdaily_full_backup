@@ -48,6 +48,11 @@ from tenacity import (
 UA = "qdaily-archive/0.1 (+contact: logoutx)"
 TIMEOUT = httpx.Timeout(60.0, connect=15.0)
 
+# Hard cutoff: keep in sync with tools/extract.py — anything published after
+# QDaily's actual final article (id=64092, 2019-05-27) is treated as
+# out-of-archive and gets no image fetching.
+QDAILY_FINAL_DATE = "2019-05-27"
+
 # Same long-article rules as render.py — keep in sync.
 LONG_THRESHOLD = 4000
 AUTHOR_PURE_CJK_RE = re.compile(r"^[一-鿿\s·、，,；; ]+$")
@@ -326,7 +331,13 @@ def main() -> int:
               flush=True)
 
     url_to_ids: dict[str, list[int]] = {}
+    n_skipped_post_cutoff = 0
     for r in record_map.values():
+        # Hard date cutoff — skip anything after QDaily's actual final date.
+        pd = r.get("publish_date") or ""
+        if pd and pd > QDAILY_FINAL_DATE:
+            n_skipped_post_cutoff += 1
+            continue
         if only_ids is not None:
             if r["id"] not in only_ids:
                 continue
@@ -349,6 +360,9 @@ def main() -> int:
     n_urls = len(url_to_ids)
     print(f"scope={args.scope}: {n_urls:,} unique image URLs across "
           f"{sum(len(v) for v in url_to_ids.values()):,} references", flush=True)
+    if n_skipped_post_cutoff:
+        print(f"  (skipped {n_skipped_post_cutoff} article(s) dated after "
+              f"{QDAILY_FINAL_DATE} — out of archive)", flush=True)
 
     # Resume: skip URLs that finished cleanly. Transient errors
     # ("cdx-error", "fetch-error", "http-error") get retried.

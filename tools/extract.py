@@ -34,6 +34,12 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup, NavigableString, Tag
 
+# Hard cutoff: QDaily's final article (id=64092, "好奇心日报将停更 3 个月") was
+# published on this date. A handful of pieces leaked into the manifest with
+# later publish_dates (drafts that got auto-published months later, plus
+# unrelated bot/test content). They aren't part of the canonical archive.
+QDAILY_FINAL_DATE = "2019-05-27"
+
 # --- selectors ---
 SEL_TITLE = ".article-detail-hd h2.title, .article-detail-hd .title"
 # .category-title wraps BOTH category and title; the category itself is in
@@ -450,6 +456,9 @@ def main() -> int:
                     n_stub += 1
                 if rec.date_mismatch:
                     n_mismatch += 1
+            # Skip anything published after QDaily's actual final date.
+            if rec.publish_date and rec.publish_date > QDAILY_FINAL_DATE:
+                continue
             write_record(rec)
             emitted_ids.add(rec.id)
             n_out += 1
@@ -475,6 +484,9 @@ def main() -> int:
                     continue
                 seen_failed.add(fid)
                 rec = make_screenshot_only_stub(row)
+                # Same cutoff applies to failure stubs.
+                if rec.publish_date and rec.publish_date > QDAILY_FINAL_DATE:
+                    continue
                 write_record(rec)
                 emitted_ids.add(fid)
                 n_failed_stubs += 1
