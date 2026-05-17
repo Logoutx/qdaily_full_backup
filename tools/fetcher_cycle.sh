@@ -59,13 +59,17 @@ on)
     if [ -n "$CURRENT_PID" ]; then
         echo "[$ts] ON window — fetcher running (PID $CURRENT_PID, ${hrs_left}h left in window)" >> "$LOG"
     else
-        # Fresh start: nohup-detach so launchd's child reaping doesn't kill us.
-        # Append to fetch_images_long.log so the full throttle history survives across cycles.
-        cd "$REPO"
-        nohup .venv/bin/python tools/fetch_images.py --scope long >> "$FETCH_LOG" 2>&1 &
-        new_pid=$!
-        echo "$new_pid" > "$PIDFILE"
-        echo "[$ts] ON window — started fetcher PID $new_pid (${hrs_left}h left in window)" >> "$LOG"
+        # Fresh start: double-fork via tools/daemonize.py to escape launchd's
+        # process group. `nohup` alone is NOT enough for launchd-spawned
+        # children — the previous version of this script restarted a new PID
+        # every hour because launchd killed each one when this script exited.
+        # daemonize.py prints the grandchild PID to stdout.
+        new_pid=$(.venv/bin/python tools/daemonize.py \
+            --log "$FETCH_LOG" \
+            --chdir "$REPO" \
+            -- .venv/bin/python tools/fetch_images.py --scope long)
+        echo "${new_pid}" > "$PIDFILE"
+        echo "[$ts] ON window — started fetcher PID ${new_pid} (${hrs_left}h left in window)" >> "$LOG"
     fi
     ;;
 off)
