@@ -26,3 +26,22 @@ bin/
 # anchor + PID — see tools/fetcher_cycle.sh)
 data/fetcher_cycle_state
 data/fetcher.pid
+
+# Internal handoff / agent-scratch documents — not part of the website
+HANDOFF.md
+
+# Planning, exploration, and error-log outputs — not consumed by render.py.
+# These are working artifacts from recovery sessions; the live site doesn't
+# need them and they bloat the repo as the project grows.
+data/cdx_*.json
+data/douban_index.jsonl
+data/douban_misses.jsonl
+data/douban_notes.jsonl
+data/long_douban_matches.jsonl
+data/long_missing_targets.jsonl
+data/qdaily_recoverable_gaps.jsonl
+data/xsj_full_targets.jsonl
+data/xsj_partial_targets.jsonl
+data/cdt_matches.tsv
+data/extract_errors.jsonl
+data/inventory_errors.tsv
