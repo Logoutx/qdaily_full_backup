@@ -4,4 +4,4 @@
 
 原始数据 [LampScript 已经备份](https://github.com/LampScript/qdaily_backup/tree/master)，但备份内容显示为截图和 Wayback Machine 链接，不便于搜索和阅读。
 
-现在开发成本降低，因为找不到一篇文章，遂用 Claude Code 重建了一个简化网站，增加搜索功能。文章从 Wayback Machine 重新提取，补充了之前备份缺少的文章。 
+现在开发成本降低，因为找不到一篇文章，遂用 Claude Code 重建了一个简化网站，增加搜索功能。文章大部分从 Wayback Machine 重新提取，包括之前备份遗漏的内容；陆续从其他渠道补充缺失的图片。 
