@@ -1,13 +1,18 @@
 #!/bin/bash
-# 48h-off / 48h-on cycle controller for the long-scope Wayback fetcher.
+# 72h-off / 48h-on cycle controller for the long-scope Wayback fetcher.
+#
+# Bumped from 48/48 → 72/48 on 2026-05-18: with only 48h cooldown, ON #1
+# delivered ~1,500 OK before throttle (vs ~6,500 for ON #0), and started
+# throttled almost immediately. Wayback's per-IP rate state wasn't fully
+# clearing in 48h.
 #
 # Fired hourly by ~/Library/LaunchAgents/org.qdaily.fetcher-cycle.plist.
 # Reads the cycle anchor from data/fetcher_cycle_state (Unix epoch seconds,
 # marks the start of the FIRST OFF window). Computes the current position in
-# the 96-hour cycle and reconciles:
+# the 120-hour cycle and reconciles:
 #
-#   pos < 48h   →  desired state OFF  (kill fetcher if running)
-#   pos ≥ 48h   →  desired state ON   (launch fetcher if not running)
+#   pos < 72h   →  desired state OFF  (kill fetcher if running)
+#   pos ≥ 72h   →  desired state ON   (launch fetcher if not running)
 #
 # Logs every decision to data/fetcher_cycle.log. Safe to run repeatedly;
 # convergence-style — only acts when actual state differs from desired.
@@ -30,8 +35,8 @@ fi
 T0=$(cat "$STATE")
 NOW=$(date +%s)
 ELAPSED=$((NOW - T0))
-CYCLE=$((96 * 3600))         # 48h off + 48h on
-OFF_LEN=$((48 * 3600))
+CYCLE=$((120 * 3600))        # 72h off + 48h on
+OFF_LEN=$((72 * 3600))
 POS=$((ELAPSED % CYCLE))
 
 if [ "$POS" -lt "$OFF_LEN" ]; then

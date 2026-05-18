@@ -64,11 +64,16 @@ def all_search_hits(client: httpx.Client, term: str) -> list[dict]:
 
 
 def fetch_date_range(client: httpx.Client, after_iso: str, before_iso: str,
-                     page: int) -> tuple[list[dict], int]:
-    """One page of /posts?after=...&before=..., returns (chunk, total_pages)."""
+                     page: int, per_page: int = 25) -> tuple[list[dict], int]:
+    """One page of /posts?after=...&before=..., returns (chunk, total_pages).
+
+    per_page is capped low because CDT's WP REST is slow to serialise full
+    post content; 100/page was timing out on every request. 25/page comes
+    back within ~5-15s and lets us recover gracefully on timeout.
+    """
     r = client.get(
         "https://chinadigitaltimes.net/chinese/wp-json/wp/v2/posts",
-        params={"per_page": 100, "page": page,
+        params={"per_page": per_page, "page": page,
                 "after": after_iso, "before": before_iso,
                 "orderby": "date", "order": "desc",
                 "_fields": "id,link,title,content,date"},
@@ -87,16 +92,22 @@ def crawl_date_range(client: httpx.Client, after_iso: str, before_iso: str,
     page = 1
     total_pages = None
     while True:
-        try:
-            chunk, total_pages = fetch_date_range(client, after_iso, before_iso, page)
-        except httpx.HTTPError as e:
-            print(f"  page {page}: {type(e).__name__} — retrying after 5s", flush=True)
-            time.sleep(5)
+        chunk = None
+        total_pages_this = None
+        # Up to 4 attempts with exponential backoff before giving up on a page.
+        for attempt in range(4):
             try:
-                chunk, total_pages = fetch_date_range(client, after_iso, before_iso, page)
-            except httpx.HTTPError as e2:
-                print(f"  page {page}: failed twice, aborting range — {e2}", flush=True)
+                chunk, total_pages_this = fetch_date_range(client, after_iso, before_iso, page)
                 break
+            except httpx.HTTPError as e:
+                wait = 5 * (2 ** attempt)
+                print(f"  page {page}: {type(e).__name__} (attempt {attempt + 1}/4) — retrying in {wait}s",
+                      flush=True)
+                time.sleep(wait)
+        if chunk is None:
+            print(f"  page {page}: failed 4 times, aborting range", flush=True)
+            break
+        total_pages = total_pages_this if total_pages_this is not None else total_pages
         if not chunk:
             break
         kept_this_page = 0
@@ -193,7 +204,7 @@ def main() -> int:
                     help="also print unmatched but image-confirmed posts")
     args = ap.parse_args()
 
-    client = httpx.Client(headers=HEADERS, timeout=httpx.Timeout(45.0, connect=15.0),
+    client = httpx.Client(headers=HEADERS, timeout=httpx.Timeout(90.0, connect=20.0),
                           follow_redirects=True)
 
     print("loading QDaily title index ...", flush=True)
