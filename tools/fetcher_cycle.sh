@@ -23,7 +23,7 @@ REPO="$HOME/code/qdaily_full_backup"
 STATE="$REPO/data/fetcher_cycle_state"
 PIDFILE="$REPO/data/fetcher.pid"
 LOG="$REPO/data/fetcher_cycle.log"
-FETCH_LOG="$REPO/data/fetch_images_long.log"
+FETCH_LOG="$REPO/data/fetch_images_article.log"
 
 cd "$REPO" || { echo "[$(date '+%F %T')] repo not found" >> "$LOG"; exit 1; }
 
@@ -72,7 +72,7 @@ on)
         new_pid=$(.venv/bin/python tools/daemonize.py \
             --log "$FETCH_LOG" \
             --chdir "$REPO" \
-            -- .venv/bin/python tools/fetch_images.py --scope long)
+            -- .venv/bin/python tools/fetch_images.py --scope article)
         echo "${new_pid}" > "$PIDFILE"
         echo "[$ts] ON window — started fetcher PID ${new_pid} (${hrs_left}h left in window)" >> "$LOG"
     fi

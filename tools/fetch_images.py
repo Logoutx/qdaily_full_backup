@@ -76,6 +76,22 @@ def is_xsj(r: dict) -> bool:
     return "好奇心小数据" in (r.get("title") or "")
 
 
+def is_article(r: dict) -> bool:
+    """Standard editorial articles: same exclusions as is_long (CJK author,
+    not a reprint, not a 大公司头条/商业剪报 news brief) but WITHOUT the
+    4000-char length threshold. So is_long ⊂ is_article — this scope picks up
+    every real piece QDaily wrote, just not the daily news-brief digests or
+    syndicated reprints. Used by the 48/48 cycle once --scope long exhausts."""
+    if not AUTHOR_PURE_CJK_RE.match(r.get("author") or ""):
+        return False
+    if REPRINT_TITLE_RE.match(r.get("title") or ""):
+        return False
+    title = r.get("title") or ""
+    if ("大公司头条" in title) or ("商业剪报" in title):
+        return False
+    return True
+
+
 class TransientError(Exception):
     pass
 
@@ -289,7 +305,7 @@ def process_one(
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--records-glob", default="data/articles_extracted_*.jsonl")
-    ap.add_argument("--scope", choices=("xsj", "long", "both", "all"), default="xsj")
+    ap.add_argument("--scope", choices=("xsj", "long", "article", "both", "all"), default="xsj")
     ap.add_argument("--ids-file",
                     help="Optional: file with one article id per line (ignored "
                     "if blank/#-prefix). When set, only those articles are "
@@ -344,6 +360,8 @@ def main() -> int:
         elif args.scope == "xsj" and not is_xsj(r):
             continue
         elif args.scope == "long" and not is_long(r):
+            continue
+        elif args.scope == "article" and not is_article(r):
             continue
         elif args.scope == "both" and not (is_xsj(r) or is_long(r)):
             continue

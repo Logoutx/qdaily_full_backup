@@ -156,21 +156,34 @@ def load_qd_titles(records_glob: str) -> dict[str, int]:
 
 
 def title_match(cdt_title: str, qd_index: dict[str, int]) -> int | None:
-    """Find a matching QDaily article id, or None."""
-    # CDT titles often look like "好奇心日报 | <real_title>" or "<source> | <real_title>"
-    # — but the separator can be ASCII '|' OR full-width '｜'.
+    """Find a matching QDaily article id, or None.
+
+    CDT titles look like "好奇心日报 | <real_title>" — separator is ASCII '|'
+    or full-width '｜'. We try candidates in DECREASING length order so the
+    real article title beats the source attribution. We also drop candidates
+    that are short/source-only ("好奇心日报", "好奇心" etc.), because at least
+    one QDaily article literally has title "好奇心日报" and would otherwise
+    swallow every prefixed CDT post.
+    """
     raw = cdt_title
-    # Try every "| <part>" segment and the raw title.
-    candidates = [raw]
+    candidates: list[str] = [raw]
     for sep in ("|", "｜"):
         if sep in raw:
             for part in raw.split(sep):
                 p = part.strip()
                 if p:
                     candidates.append(p)
+    # Source-attribution placeholders we never want to match against.
+    blocklist = {"好奇心日报", "好奇心", "qdaily", "Qdaily", "QDaily"}
+    # Try longest first — real titles outweigh the "<source> | " prefix.
+    candidates.sort(key=len, reverse=True)
     for c in candidates:
+        if c in blocklist:
+            continue
         key = normalise(c)
-        if key and key in qd_index:
+        if not key or len(key) < 4:
+            continue
+        if key in qd_index:
             return qd_index[key]
     return None
 

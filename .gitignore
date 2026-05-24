@@ -48,6 +48,8 @@ data/inventory_errors.tsv
 data/douban_new_notes.json
 data/douban_new_matches.tsv
 data/douban_notes_scraped.json
+data/douban_fuzzy_matches.tsv
+data/douban_fuzzy_scraped.json
 
 # Transient cache for Douban recovery (~280 MB) — see tools/fetch_douban_batch.py
 .douban_cache/
