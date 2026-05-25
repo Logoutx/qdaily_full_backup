@@ -38,7 +38,7 @@ NEW_FILES=$("$GIT" diff --cached --name-only --diff-filter=A -- 'assets/**' | wc
 JSONL_LINES=$("$GIT" diff --cached --numstat data/images.jsonl | awk '{print $1}')
 JSONL_LINES=${JSONL_LINES:-0}
 
-MSG="Mirror +${NEW_FILES} imgs from long-scope fetcher (daily auto-push)
+MSG="Mirror +${NEW_FILES} imgs from Wayback fetcher (daily auto-push)
 
 ${NEW_FILES} new assets, +${JSONL_LINES} images.jsonl rows since last commit.
 "
