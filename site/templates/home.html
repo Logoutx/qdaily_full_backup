@@ -50,8 +50,8 @@
   {% for a in latest %}
   <li class="tile">
     <a class="tile-photo" href="{{ url('articles/' ~ a.id ~ '/') }}">
-      {% if a.banner_image_resolved and not a.banner_broken %}
-      <img src="{{ a.banner_image_resolved }}" alt="" loading="lazy" onerror="this.style.display='none'">
+      {% if a.tile_banner_resolved %}
+      <img src="{{ a.tile_banner_resolved }}" alt="" loading="lazy" onerror="this.style.display='none'">
       {% endif %}
     </a>
     <div class="tile-body">

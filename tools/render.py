@@ -566,6 +566,19 @@ def main() -> int:
             banner_resolved, banner_broken = resolve_url(
                 banner, r["archive_ts"], args.image_mode, r["id"], assets_root, asset_base_url,
             )
+        # Tile fallback: when there's no usable banner, promote the first
+        # non-broken inline image to act as the tile thumbnail on list pages.
+        # Kept separate from banner_image_resolved so the article page itself
+        # doesn't gain a duplicate lead image.
+        tile_banner_resolved = banner_resolved if (banner_resolved and not banner_broken) else None
+        if not tile_banner_resolved:
+            for img_url in (r.get("images") or []):
+                fb_url, fb_broken = resolve_url(
+                    img_url, r["archive_ts"], args.image_mode, r["id"], assets_root, asset_base_url,
+                )
+                if fb_url and not fb_broken:
+                    tile_banner_resolved = fb_url
+                    break
         total_broken += broken_in_body + (1 if banner_broken else 0)
         # Search index inputs (char-segmented, hidden block in article page).
         # Cap the body text shipped to Pagefind at SEARCH_BODY_CAP chars: with
@@ -586,6 +599,7 @@ def main() -> int:
             "body_html_resolved": body_html,
             "banner_image_resolved": banner_resolved,
             "banner_broken": banner_broken,
+            "tile_banner_resolved": tile_banner_resolved,
             "publish_rfc822": rfc822(r.get("publish_time") or r["publish_date"]),
             "title_seg": title_seg,
             "body_seg": body_seg,
