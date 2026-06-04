@@ -478,12 +478,25 @@ def main() -> int:
             return None
         return url("author/" + quote(name, safe="") + "/")
 
+    # Cache-buster: short content hash for files under site/static. Templates
+    # call `static_v('style.css')` and append `?v={{ ... }}` to the asset URL,
+    # so any change to the file invalidates browser caches automatically.
+    _static_v_cache: dict[str, str] = {}
+    def static_v(name: str) -> str:
+        if name in _static_v_cache:
+            return _static_v_cache[name]
+        p = Path(args.static) / name
+        v = hashlib.sha1(p.read_bytes()).hexdigest()[:8] if p.exists() else ""
+        _static_v_cache[name] = v
+        return v
+
     env.globals.update(
         site_title=args.site_title,
         site_description=args.site_description,
         site_url=args.site_url,
         url=url,
         author_url=author_url,
+        static_v=static_v,
     )
 
     # Load records from one-file-per-year layout.
