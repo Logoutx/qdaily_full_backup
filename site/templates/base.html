@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{% block title %}{{ site_title }}{% endblock %}</title>
 <meta name="description" content="{% block description %}{{ site_description }}{% endblock %}">
+<link rel="icon" type="image/png" href="{{ url('static/favicon.png') }}">
 <link rel="stylesheet" href="{{ url('static/style.css') }}">
 <link rel="alternate" type="application/rss+xml" title="{{ site_title }}" href="{{ url('feed.xml') }}">
 {% block head %}{% endblock %}
