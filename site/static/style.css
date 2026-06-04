@@ -110,6 +110,53 @@ h3 { font-size: 1.1rem; }
 .article-list .author a:hover,
 .article .meta a:hover { color: var(--link); text-decoration: underline; }
 
+/* Tile grid — original qdaily.com style article cards (photo + headline + meta).
+   Used by list.html and home.html "最后 50 篇". The text-row .article-list above
+   is kept for search results and other contexts that don't carry banner images. */
+.article-tiles {
+  list-style: none; padding: 0; margin: 1rem 0 0;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 2.2rem 1.4rem;
+}
+@media (max-width: 800px) {
+  .article-tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.6rem 1rem; }
+}
+.tile { display: flex; flex-direction: column; }
+/* Skyline placeholder sits behind EVERY tile. A successful banner img
+   covers it; a failed one (onerror in the template hides the broken
+   <img>) reveals it. So both "no banner record" and "banner URL 404s
+   at load time" land on the same illustration — no broken-icon ever. */
+.tile-photo {
+  display: block;
+  aspect-ratio: 4 / 3;
+  background: url('/static/placeholder.webp') center/cover no-repeat #eee;
+  overflow: hidden;
+  border-radius: 2px;
+  line-height: 0;
+}
+.tile-photo img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform .25s ease;
+}
+.tile-photo:hover { text-decoration: none; }
+.tile-photo:hover img { transform: scale(1.03); }
+.tile-body { padding: 0.6rem 0 0; }
+.tile-tags { margin: 0 0 0.25rem; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center; font-size: 0.78rem; }
+.tile-tags .cat { color: #b48200; font-weight: 500; letter-spacing: 0.02em; }
+.tile-title { font-size: 1.05rem; line-height: 1.5; margin: 0.15em 0 0.45em; font-weight: 500; }
+.tile-title a, .tile-title a:visited { color: var(--fg); }
+.tile-title a:hover { color: var(--link); text-decoration: none; }
+.tile-meta { color: var(--fg-soft); font-size: 0.85rem; margin: 0; }
+.tile-meta time { font-variant-numeric: tabular-nums; }
+.tile-meta .author a, .tile-meta .author a:visited { color: inherit; text-decoration: none; }
+.tile-meta .author a:hover { color: var(--link); text-decoration: underline; }
+
+/* Wider container for any page that shows the tile grid (list.html + home). */
+main:has(.article-tiles) { max-width: 64rem; }
+
 .years { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 0.6rem; }
 .years li { padding: 0.5em 0.8em; border: 1px solid var(--rule); border-radius: 4px; }
 .years .count { color: var(--fg-soft); font-size: 0.85rem; margin-left: 0.4em; }

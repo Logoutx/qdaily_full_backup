@@ -46,13 +46,25 @@
 </ul>
 
 <h2>最后 50 篇</h2>
-<ul class="article-list">
+<ul class="article-tiles">
   {% for a in latest %}
-  <li>
-    <time datetime="{{ a.publish_date }}">{{ a.publish_date }}</time>
-    {% if a.category %}<span class="cat">{{ a.category }}</span>{% endif %}
-    {% if a.is_long %}<span class="tag long">长文章</span>{% endif %}
-    <a href="{{ url('articles/' ~ a.id ~ '/') }}">{{ a.title }}</a>
+  <li class="tile">
+    <a class="tile-photo" href="{{ url('articles/' ~ a.id ~ '/') }}">
+      {% if a.banner_image_resolved and not a.banner_broken %}
+      <img src="{{ a.banner_image_resolved }}" alt="" loading="lazy" onerror="this.style.display='none'">
+      {% endif %}
+    </a>
+    <div class="tile-body">
+      <p class="tile-tags">
+        {% if a.category %}<span class="cat">{{ a.category }}</span>{% endif %}
+        {% if a.is_long %}<span class="tag long">长文章</span>{% endif %}
+      </p>
+      <h3 class="tile-title"><a href="{{ url('articles/' ~ a.id ~ '/') }}">{{ a.title }}</a></h3>
+      <p class="tile-meta">
+        <time datetime="{{ a.publish_date }}">{{ a.publish_date }}</time>
+        {% if a.authors %} · <span class="author">{% for au in a.authors %}{% if not loop.first %} · {% endif %}{% set link = author_url(au) %}{% if link %}<a href="{{ link }}">{{ au }}</a>{% else %}{{ au }}{% endif %}{% endfor %}</span>{% elif a.author %} · <span class="author">{{ a.author }}</span>{% endif %}
+      </p>
+    </div>
   </li>
   {% endfor %}
 </ul>
