@@ -225,6 +225,34 @@ h3 { font-size: 1.1rem; }
 .tile-meta .author a, .tile-meta .author a:visited { color: inherit; text-decoration: none; }
 .tile-meta .author a:hover { color: var(--link); text-decoration: underline; }
 
+/* "按年份查看" call-to-action tile at the end of 最后 50 篇 — looks like an
+   article tile but its photo box is a black/yellow label and its body lists
+   the year links. */
+.tile-cta .tile-photo.tile-cta-box {
+  background: #000;
+  display: flex; align-items: center; justify-content: center;
+  color: #ffc81f;
+  font-size: 1.3rem; font-weight: 600; letter-spacing: 0.06em;
+}
+.tile-cta .tile-photo.tile-cta-box:hover { opacity: 0.92; }
+/* Year buttons: a 3-column grid that fills the full tile width, so the two
+   rows line up edge-to-edge with the banner box above. */
+.tile-years {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5em;
+}
+.tile-years a {
+  text-align: center;
+  padding: 0.55em 0;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  font-size: 0.95rem;
+  color: var(--fg);
+  font-variant-numeric: tabular-nums;
+}
+.tile-years a:hover { background: var(--rule); text-decoration: none; }
+
 /* Wider container for any page that shows the tile grid (list.html + home). */
 main:has(.article-tiles) { max-width: 64rem; }
 

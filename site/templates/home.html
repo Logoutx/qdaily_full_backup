@@ -12,12 +12,6 @@
    and hides the "查看所有栏目" tile once the rest are revealed. #}
 <input type="checkbox" id="series-expand" class="series-expand-toggle" hidden>
 <ul class="series-list home-grid">
-  {% if long_total %}
-  <li>
-    <a href="{{ url('long/') }}">只看长文章</a>
-    <span class="count">{{ long_total }}</span>
-  </li>
-  {% endif %}
   {% for s in series_stats[:11] %}
   <li>
     <a href="{{ url('series/' ~ s.name ~ '/') }}">{{ s.name }}</a>
@@ -60,6 +54,12 @@
     </div>
   </li>
   {% endfor %}
+  <li class="tile tile-cta">
+    <span class="tile-photo tile-cta-box">按年份查看</span>
+    <div class="tile-body tile-years">
+      {% for y in years %}<a href="{{ url(y ~ '/') }}">{{ y }}</a>{% endfor %}
+    </div>
+  </li>
 </ul>
 </div>
 {% endblock %}
