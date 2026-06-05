@@ -38,13 +38,6 @@
 </ul>
 {% endif %}
 
-<h2>按年份浏览</h2>
-<ul class="years">
-  {% for y, n in years_with_counts %}
-  <li><a href="{{ url(y ~ '/') }}">{{ y }}</a> <span class="count">{{ n }}</span></li>
-  {% endfor %}
-</ul>
-
 <h2>最后 50 篇</h2>
 <ul class="article-tiles">
   {% for a in latest %}
