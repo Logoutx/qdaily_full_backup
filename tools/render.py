@@ -1049,7 +1049,11 @@ def main() -> int:
     # (see site/static/sitemap.xsl). Crawlers ignore it.
     xsl_pi = f'<?xml-stylesheet type="text/xsl" href="{url("static/sitemap.xsl")}"?>\n'
 
-    CHUNK = 45000
+    # 10k URLs/chunk (~0.9 MB each). Google's hard limit is 50k/50 MB, but
+    # smaller files fetch far more reliably — a 45k/4.1 MB chunk intermittently
+    # returned "Couldn't fetch" in Search Console while a 10k chunk always
+    # succeeded. Smaller chunks also render faster in the human XSL view.
+    CHUNK = 10000
     chunks = [sitemap_entries[i:i + CHUNK] for i in range(0, len(sitemap_entries), CHUNK)] or [[]]
     for ci, chunk in enumerate(chunks, 1):
         rows = "\n".join(
