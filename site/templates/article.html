@@ -31,9 +31,9 @@
       </figure>
     {% endif %}
   {% else %}
-    {% if article.banner_image_resolved %}
+    {% if article.banner_image_resolved and not article.banner_broken %}
       <figure class="banner">
-        <img src="{{ article.banner_image_resolved }}" alt="" loading="lazy"{% if article.banner_broken %} data-broken="1"{% endif %}>
+        <img src="{{ article.banner_image_resolved }}" alt="" loading="lazy" onerror="this.onerror=null;this.src='{{ url('static/placeholder.webp') }}';this.classList.add('img-missing')">
       </figure>
     {% endif %}
     <div class="body">

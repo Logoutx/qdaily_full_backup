@@ -364,24 +364,53 @@ def resolve_url(orig: str, ts: str, mode: str, article_id: int, assets_root: Pat
     return wayback_im(orig, ts), broken
 
 
+def _add_class(img, cls: str) -> None:
+    """Append a CSS class to a bs4 <img> (class attr is stored as a list)."""
+    existing = img.get("class") or []
+    if isinstance(existing, str):
+        existing = existing.split()
+    if cls not in existing:
+        existing.append(cls)
+    img["class"] = existing
+
+
 def resolve_body(body_html: str, ts: str, article_id: int, mode: str, assets_root: Path,
-                 asset_base_url: str = "") -> tuple[str, int]:
-    """Rewrite <img src> in body_html. Returns (rewritten_html, broken_count)."""
+                 asset_base_url: str = "", placeholder_url: str = "") -> tuple[str, int]:
+    """Rewrite <img src> in body_html. Returns (rewritten_html, broken_count).
+
+    Missing images fall back to the skyline placeholder two ways:
+      * known-broken hosts -> src is set to the placeholder up-front (no
+        doomed network request), tagged .img-missing.
+      * everything else -> an onerror handler swaps to the placeholder if
+        the image 404s at load time (e.g. a Wayback snapshot that vanished).
+    """
     if not body_html:
         return "", 0
     soup = BeautifulSoup(body_html, "lxml")
     # decode_contents on the parsed soup unwraps the auto-added <html><body>
     broken_count = 0
+    onerror_js = (
+        f"this.onerror=null;this.src='{placeholder_url}';"
+        "this.classList.add('img-missing')"
+    ) if placeholder_url else ""
     for img in soup.find_all("img"):
         src = (img.get("src") or "").strip()
         if not src:
             img.decompose()
             continue
         new, broken = resolve_url(src, ts, mode, article_id, assets_root, asset_base_url)
-        img["src"] = new or src
-        if broken:
-            img["data-broken"] = "1"
+        if broken and placeholder_url:
+            # Host is known dead — point straight at the placeholder.
+            img["src"] = placeholder_url
+            _add_class(img, "img-missing")
             broken_count += 1
+        else:
+            img["src"] = new or src
+            if broken:
+                img["data-broken"] = "1"
+                broken_count += 1
+            elif onerror_js:
+                img["onerror"] = onerror_js
         if "loading" not in img.attrs:
             img["loading"] = "lazy"
     body = soup.body or soup
@@ -566,10 +595,11 @@ def main() -> int:
     assets_root = Path(args.assets)
     rendered = []
     total_broken = 0
+    placeholder_url = url("static/placeholder.webp")
     for r in records:
         body_html, broken_in_body = resolve_body(
             r.get("body_html") or "", r["archive_ts"], r["id"], args.image_mode, assets_root,
-            asset_base_url,
+            asset_base_url, placeholder_url,
         )
         banner = r.get("banner_image")
         banner_resolved, banner_broken = (None, False)
@@ -1015,6 +1045,10 @@ def main() -> int:
         loc = site_url_base + "/" + quote(rel, safe="/")
         sitemap_entries.append((loc, lastmod))
 
+    # Processing instruction that makes browsers render the XML as a table
+    # (see site/static/sitemap.xsl). Crawlers ignore it.
+    xsl_pi = f'<?xml-stylesheet type="text/xsl" href="{url("static/sitemap.xsl")}"?>\n'
+
     CHUNK = 45000
     chunks = [sitemap_entries[i:i + CHUNK] for i in range(0, len(sitemap_entries), CHUNK)] or [[]]
     for ci, chunk in enumerate(chunks, 1):
@@ -1024,6 +1058,7 @@ def main() -> int:
         )
         (out / f"sitemap-{ci}.xml").write_text(
             '<?xml version="1.0" encoding="UTF-8"?>\n'
+            + xsl_pi +
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
             f"{rows}\n</urlset>\n",
             encoding="utf-8",
@@ -1035,6 +1070,7 @@ def main() -> int:
     )
     (out / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>\n'
+        + xsl_pi +
         '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
         f"{index_rows}\n</sitemapindex>\n",
         encoding="utf-8",
