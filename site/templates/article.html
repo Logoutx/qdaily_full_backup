@@ -1,6 +1,12 @@
 {% extends "base.html" %}
 {% block title %}{{ article.title }} — {{ site_title }}{% endblock %}
-{% block description %}{{ article.title }}{% if article.author %}，{{ article.author }}{% endif %}{% endblock %}
+{% block description %}{{ article.excerpt or article.title }}{% endblock %}
+{% block head_extra %}
+<meta property="article:published_time" content="{{ article.iso_published }}">
+{% for a in article.authors %}<meta property="article:author" content="{{ a }}">
+{% endfor %}{% if article.category %}<meta property="article:section" content="{{ article.category }}">{% endif %}
+<script type="application/ld+json">{{ article.jsonld | safe }}</script>
+{% endblock %}
 {% block main %}
 <article class="article" data-pagefind-ignore="all">
   <p class="breadcrumb">

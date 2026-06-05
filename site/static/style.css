@@ -24,17 +24,76 @@ a { color: var(--link); text-decoration: none; }
 a:visited { color: var(--link-visited); }
 a:hover { text-decoration: underline; }
 
+/* Top bar — exact qdaily.com proportions: 80px black bar, white 16px nav,
+   #ffc81f (yellow) hover, items padded 0 20px with #4d4d4d dividers. The
+   brand box is 90×120 black, overhanging 40px below the bar, holding a
+   small 30px Q over a 50px "daily" wordmark (lots of black around them —
+   matches the original margins exactly). */
 .site-header {
-  display: flex; flex-wrap: wrap; align-items: baseline; gap: 1rem;
-  max-width: var(--max); margin: 0 auto; padding: 1.4rem 1.2rem 0.6rem;
-  border-bottom: 1px solid var(--rule);
+  position: sticky; top: 0; z-index: 100;
+  background: #000;
+  color: #fff;
+  height: 80px;
+  border-bottom: none;
+  font: 16px/80px "PingFang SC", "Microsoft YaHei", "Hiragino Sans GB",
+        -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
 }
-.site-header .brand { font-weight: 600; font-size: 1.05rem; }
-.site-header nav { display: flex; flex-wrap: wrap; align-items: center; gap: 0.9rem; font-size: 0.92rem; }
-.site-header nav a { color: var(--fg-soft); }
-.site-header .brand-logo { display: inline-flex; padding: 0; line-height: 0; }
-.site-header .brand-logo img { display: block; height: 32px; width: auto; }
-.site-header .brand-logo:hover { text-decoration: none; opacity: 0.85; }
+.site-header .header-inner {
+  position: relative;
+  max-width: 1400px;
+  margin: 0 auto;
+  height: 100%;
+  padding-left: 110px; /* 90px logo box + 20px gap */
+}
+.site-header .brand-logo {
+  position: absolute;
+  top: 0; left: 0;
+  width: 90px; height: 120px;
+  background: #000;
+  z-index: 2;
+  display: block;
+  text-align: center;
+  line-height: 0;
+}
+.site-header .brand-logo .logo-q    { display: block; margin: 12px auto 0; width: 30px; height: auto; }
+.site-header .brand-logo .logo-daily { display: block; margin: 5px auto 0;  width: 50px; height: auto; }
+.site-header .brand-logo:hover { text-decoration: none; opacity: 0.92; }
+.site-header nav {
+  display: flex; align-items: stretch;
+  flex-wrap: nowrap;
+  height: 100%;
+  overflow-x: auto;
+  scrollbar-width: none; /* Firefox */
+}
+.site-header nav::-webkit-scrollbar { display: none; }
+.site-header nav a {
+  display: inline-flex; align-items: center;
+  padding: 0 20px;
+  color: #fff;
+  border-right: 1px solid #4d4d4d;
+  height: 100%;
+  white-space: nowrap;
+}
+.site-header nav a:first-child { border-left: 1px solid #4d4d4d; }
+.site-header nav a:hover { color: #ffc81f; text-decoration: none; }
+/* Years read as one cluster: no dividers between them, tighter padding.
+   The first non-year item still gets a left divider so the year group
+   stays visually separated from 长文章 | 系列 | 搜索 | RSS. */
+.site-header nav a.year { border-right: none; padding: 0 11px; }
+.site-header nav a.year:first-child { border-left: none; }
+.site-header nav a.year + a:not(.year) { border-left: 1px solid #4d4d4d; }
+
+/* Phone: scale the whole bar down proportionally (keeps the 90:120 logo
+   ratio and the 80→56 bar ratio) so it still reads as the qdaily bar. */
+@media (max-width: 800px) {
+  .site-header { height: 56px; line-height: 56px; font-size: 14px; }
+  .site-header .header-inner { padding-left: 74px; }
+  .site-header .brand-logo { width: 60px; height: 80px; }
+  .site-header .brand-logo .logo-q    { margin-top: 9px;  width: 20px; }
+  .site-header .brand-logo .logo-daily { margin-top: 4px; width: 33px; }
+  .site-header nav a { padding: 0 13px; }
+  .site-header nav a.year { padding: 0 8px; }
+}
 
 main { max-width: var(--measure); margin: 0 auto; padding: 1.4rem 1.2rem 4rem; }
 /* Listing pages (home, year, month, /long/, search) get the wider --max

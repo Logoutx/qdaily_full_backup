@@ -455,6 +455,16 @@ def main() -> int:
             path = path[1:]
         return base_url + path
 
+    # Absolute canonical origin (no trailing slash), e.g. https://www.qdaily.org.
+    # Used for <link rel="canonical">, Open Graph og:url, JSON-LD @id, and the
+    # XML sitemap — search engines and AI crawlers need fully-qualified URLs.
+    site_url_base = args.site_url.rstrip("/")
+
+    def canon(path: str) -> str:
+        """Absolute URL for a site-relative path (e.g. 'articles/31/')."""
+        p = path[1:] if path.startswith("/") else path
+        return f"{site_url_base}/{p}" if p else f"{site_url_base}/"
+
     env = Environment(
         loader=FileSystemLoader(args.templates),
         autoescape=select_autoescape(["html", "xml"]),
@@ -493,8 +503,9 @@ def main() -> int:
     env.globals.update(
         site_title=args.site_title,
         site_description=args.site_description,
-        site_url=args.site_url,
+        site_url=site_url_base,
         url=url,
+        canon=canon,
         author_url=author_url,
         static_v=static_v,
     )
@@ -648,6 +659,49 @@ def main() -> int:
     for r in rendered:
         r["authors"] = split_authors(r.get("author"))
 
+    # Per-article SEO metadata: ISO-8601 publish time (Beijing, +08:00),
+    # a social/OG image (best available banner, else the site logo), and a
+    # schema.org NewsArticle JSON-LD blob. Done here because it needs the
+    # split authors + is_long tag computed above.
+    logo_abs = f"{site_url_base}/static/qdaily.png"
+    for r in rendered:
+        pt = r.get("publish_time") or ""
+        if len(pt) >= 19:
+            iso = pt[:10] + "T" + pt[11:19] + "+08:00"
+        else:
+            iso = r["publish_date"] + "T00:00:00+08:00"
+        r["iso_published"] = iso
+        og_image = r.get("tile_banner_resolved") or logo_abs
+        r["og_image"] = og_image
+        canonical = canon(f"articles/{r['id']}/")
+        authors = r.get("authors") or []
+        if authors:
+            author_ld = [{"@type": "Person", "name": a} for a in authors]
+        else:
+            author_ld = {"@type": "Organization", "name": "好奇心日报"}
+        jsonld = {
+            "@context": "https://schema.org",
+            "@type": "NewsArticle",
+            "headline": r["title"][:110],
+            "datePublished": iso,
+            "dateModified": iso,
+            "author": author_ld,
+            "publisher": {
+                "@type": "Organization",
+                "name": "好奇心日报存档",
+                "logo": {"@type": "ImageObject", "url": logo_abs},
+            },
+            "mainEntityOfPage": {"@type": "WebPage", "@id": canonical},
+            "inLanguage": "zh-Hans",
+            "description": r.get("excerpt") or r["title"],
+        }
+        if r.get("tile_banner_resolved"):
+            jsonld["image"] = [r["tile_banner_resolved"]]
+        if r.get("category"):
+            jsonld["articleSection"] = r["category"]
+        # Escape `</` so the blob can't break out of the <script> element.
+        r["jsonld"] = json.dumps(jsonld, ensure_ascii=False).replace("</", "<\\/")
+
     # Years and counts
     years = sorted({r["publish_date"][:4] for r in rendered})
     years_with_counts = []
@@ -681,7 +735,12 @@ def main() -> int:
         page_dir = out / "articles" / str(r["id"])
         page_dir.mkdir(parents=True, exist_ok=True)
         (page_dir / "index.html").write_text(
-            env.get_template("article.html").render(article=r),
+            env.get_template("article.html").render(
+                article=r,
+                canonical=canon(f"articles/{r['id']}/"),
+                og_image=r["og_image"],
+                og_type="article",
+            ),
             encoding="utf-8",
         )
 
@@ -755,6 +814,7 @@ def main() -> int:
             years_with_counts=sorted(years_with_counts),
             long_total=len(long_articles),
             series_stats=home_series_stats,
+            canonical=canon(""),
         ),
         encoding="utf-8",
     )
@@ -776,6 +836,7 @@ def main() -> int:
             env.get_template("list.html").render(
                 heading=f"{y} 年 · {len(items)} 篇",
                 articles=items, subnav=subnav,
+                canonical=canon(f"{y}/"),
             ),
             encoding="utf-8",
         )
@@ -791,6 +852,7 @@ def main() -> int:
                 env.get_template("list.html").render(
                     heading=f"{y} 年 {m} 月 · {len(mitems)} 篇",
                     articles=mitems, subnav=[("← 返回 " + y, url(y + "/"))],
+                    canonical=canon(f"{y}/{m}/"),
                 ),
                 encoding="utf-8",
             )
@@ -806,6 +868,7 @@ def main() -> int:
             env.get_template("list.html").render(
                 heading=f"长文章 · {len(long_articles)} 篇",
                 articles=long_sorted, subnav=all_subnav,
+                canonical=canon("long/"),
             ),
             encoding="utf-8",
         )
@@ -820,6 +883,7 @@ def main() -> int:
                 env.get_template("list.html").render(
                     heading=f"{y} 年长文章 · {len(items)} 篇",
                     articles=items_sorted, subnav=sub,
+                    canonical=canon(f"long/{y}/"),
                 ),
                 encoding="utf-8",
             )
@@ -830,7 +894,9 @@ def main() -> int:
         series_dir.mkdir(parents=True, exist_ok=True)
         # /series/ — master index, ordered by 长文章 ratio desc
         (series_dir / "index.html").write_text(
-            env.get_template("series_index.html").render(series_stats=series_stats),
+            env.get_template("series_index.html").render(
+                series_stats=series_stats, canonical=canon("series/"),
+            ),
             encoding="utf-8",
         )
         # /series/<name>/ — articles in this series, newest first
@@ -847,6 +913,7 @@ def main() -> int:
                     heading=heading,
                     articles=items_sorted,
                     subnav=[("← 全部系列", url("series/"))],
+                    canonical=canon("series/" + quote(name, safe="") + "/"),
                 ),
                 encoding="utf-8",
             )
@@ -883,6 +950,7 @@ def main() -> int:
                 heading=heading,
                 articles=items_sorted,
                 subnav=[],
+                canonical=canon("author/" + quote(name, safe="") + "/"),
             ),
             encoding="utf-8",
         )
@@ -910,7 +978,9 @@ def main() -> int:
 
     # Search page
     (search_dir / "index.html").write_text(
-        env.get_template("search.html").render(total=len(rendered)),
+        env.get_template("search.html").render(
+            total=len(rendered), canonical=canon("search/"),
+        ),
         encoding="utf-8",
     )
 
@@ -922,6 +992,95 @@ def main() -> int:
         ),
         encoding="utf-8",
     )
+
+    # ---- SEO: XML sitemap (chunked + index), robots.txt, llms.txt ----------
+    # Walk every generated index.html and map it back to its absolute URL.
+    # Article pages carry their publish_date as <lastmod>; navigation pages
+    # use the newest article date. Non-ASCII path segments (series/author
+    # names) are percent-encoded so the <loc> is a valid URL.
+    def _xml_escape(s: str) -> str:
+        return (s.replace("&", "&amp;").replace("<", "&lt;")
+                 .replace(">", "&gt;").replace('"', "&quot;").replace("'", "&#39;"))
+
+    id_to_date = {r["id"]: r["publish_date"] for r in rendered}
+    newest_date = rendered[0]["publish_date"] if rendered else "2019-05-27"
+    sitemap_entries: list[tuple[str, str]] = []
+    for idx_file in sorted(out.rglob("index.html")):
+        rel_dir = idx_file.parent.relative_to(out)
+        rel = "" if str(rel_dir) == "." else rel_dir.as_posix() + "/"
+        segs = [s for s in rel.split("/") if s]
+        lastmod = newest_date
+        if len(segs) == 2 and segs[0] == "articles" and segs[1].isdigit():
+            lastmod = id_to_date.get(int(segs[1]), newest_date)
+        loc = site_url_base + "/" + quote(rel, safe="/")
+        sitemap_entries.append((loc, lastmod))
+
+    CHUNK = 45000
+    chunks = [sitemap_entries[i:i + CHUNK] for i in range(0, len(sitemap_entries), CHUNK)] or [[]]
+    for ci, chunk in enumerate(chunks, 1):
+        rows = "\n".join(
+            f"  <url><loc>{_xml_escape(loc)}</loc><lastmod>{lm}</lastmod></url>"
+            for loc, lm in chunk
+        )
+        (out / f"sitemap-{ci}.xml").write_text(
+            '<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+            f"{rows}\n</urlset>\n",
+            encoding="utf-8",
+        )
+    index_rows = "\n".join(
+        f"  <sitemap><loc>{site_url_base}/sitemap-{ci}.xml</loc>"
+        f"<lastmod>{newest_date}</lastmod></sitemap>"
+        for ci in range(1, len(chunks) + 1)
+    )
+    (out / "sitemap.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f"{index_rows}\n</sitemapindex>\n",
+        encoding="utf-8",
+    )
+
+    # robots.txt — allow everyone, including AI crawlers, and point to the
+    # sitemap. This archive *wants* to be indexed and cited.
+    ai_agents = [
+        "GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-Web",
+        "anthropic-ai", "PerplexityBot", "Perplexity-User", "Google-Extended",
+        "CCBot", "Applebot-Extended", "Bytespider", "Amazonbot", "cohere-ai",
+        "Meta-ExternalAgent", "DuckAssistBot", "YouBot", "Diffbot",
+    ]
+    robots_lines = ["User-agent: *", "Allow: /", ""]
+    for a in ai_agents:
+        robots_lines += [f"User-agent: {a}", "Allow: /", ""]
+    robots_lines += [f"Sitemap: {site_url_base}/sitemap.xml", ""]
+    (out / "robots.txt").write_text("\n".join(robots_lines), encoding="utf-8")
+
+    # llms.txt — emerging convention giving AI agents a concise, linkable
+    # map of the site. https://llmstxt.org/
+    n_articles = len(rendered)
+    llms = f"""# 好奇心日报存档 (QDaily Archive)
+
+> {args.site_description} {n_articles:,} 篇文章，覆盖 {rendered[-1]['publish_date'] if rendered else ''} 至 {newest_date}。原站 qdaily.com（好奇心日报）已于 2019 年停运，本站是基于 Internet Archive 等渠道重建的完整存档，由黄俊杰维护。
+
+## Browse
+
+- [首页 / 最新文章]({site_url_base}/): the latest 50 pieces
+- [长文章]({site_url_base}/long/): QDaily's original long-form features
+- [系列]({site_url_base}/series/): editorial columns and series
+- [搜索]({site_url_base}/search/): full-text search
+- [RSS]({site_url_base}/feed.xml)
+- [Sitemap]({site_url_base}/sitemap.xml): all {n_articles:,} article URLs
+
+## By year
+
+{chr(10).join(f"- [{y}]({site_url_base}/{y}/)" for y in years)}
+
+## Notes
+
+- Article URLs mirror the original: {site_url_base}/articles/<id>/
+- Content is in Simplified Chinese (zh-Hans).
+- Each article page carries schema.org NewsArticle metadata.
+"""
+    (out / "llms.txt").write_text(llms, encoding="utf-8")
 
     # No-jekyll: prevent GH Pages from running Jekyll
     (out / ".nojekyll").write_text("")
