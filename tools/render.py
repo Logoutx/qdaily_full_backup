@@ -364,6 +364,21 @@ def resolve_url(orig: str, ts: str, mode: str, article_id: int, assets_root: Pat
     return wayback_im(orig, ts), broken
 
 
+def mp4_for(orig: str, article_id: int, mode: str, assets_root: Path,
+            asset_base_url: str = "") -> str | None:
+    """If a GIF/animated-WebP was converted to MP4 (tools/convert_*), return the
+    MP4's URL so the caller can emit <video> instead of <img>. Keyed by the same
+    sha1(url) digest, so it's found regardless of the original odd extension."""
+    if mode != "local" or not orig:
+        return None
+    digest = hashlib.sha1(orig.encode("utf-8")).hexdigest()[:16]
+    if not (assets_root / str(article_id) / f"{digest}.mp4").exists():
+        return None
+    if asset_base_url:
+        return f"{asset_base_url}/{article_id}/{digest}.mp4"
+    return f"../../assets/{article_id}/{digest}.mp4"
+
+
 def _add_class(img, cls: str) -> None:
     """Append a CSS class to a bs4 <img> (class attr is stored as a list)."""
     existing = img.get("class") or []
@@ -397,6 +412,18 @@ def resolve_body(body_html: str, ts: str, article_id: int, mode: str, assets_roo
         src = (img.get("src") or "").strip()
         if not src:
             img.decompose()
+            continue
+        # GIF / animated-WebP converted to MP4 -> emit an autoplaying muted
+        # loop <video> (visually identical to the GIF, a fraction of the size).
+        mp4 = mp4_for(src, article_id, mode, assets_root, asset_base_url)
+        if mp4:
+            video = soup.new_tag("video")
+            video["src"] = mp4
+            for attr in ("autoplay", "loop", "muted", "playsinline"):
+                video[attr] = ""
+            video["preload"] = "metadata"
+            _add_class(video, "body-video")
+            img.replace_with(video)
             continue
         new, broken = resolve_url(src, ts, mode, article_id, assets_root, asset_base_url)
         if broken and placeholder_url:
@@ -614,6 +641,9 @@ def main() -> int:
         tile_banner_resolved = banner_resolved if (banner_resolved and not banner_broken) else None
         if not tile_banner_resolved:
             for img_url in (r.get("images") or []):
+                # Skip animations (GIF/WebP -> MP4) — they can't be a still tile.
+                if mp4_for(img_url, r["id"], args.image_mode, assets_root, asset_base_url):
+                    continue
                 fb_url, fb_broken = resolve_url(
                     img_url, r["archive_ts"], args.image_mode, r["id"], assets_root, asset_base_url,
                 )

@@ -85,7 +85,7 @@
   "is_current": true,
   "article_count": 15,
   "has_author_page": true,
-  "photo_file": "a757aae9b793.png",
+  "photo_file": "a757aae9b793.jpg",
   "start_fmt": "2019.03",
   "end_fmt": "2019.05"
  },
@@ -145,7 +145,7 @@
   "is_current": true,
   "article_count": 1234,
   "has_author_page": true,
-  "photo_file": "a9b4131a5903.png",
+  "photo_file": "a9b4131a5903.jpg",
   "start_fmt": "2015.03",
   "end_fmt": "2019.05"
  },
@@ -205,7 +205,7 @@
   "is_current": true,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "25fedfec31f6.png",
+  "photo_file": "25fedfec31f6.jpg",
   "start_fmt": "2015.09",
   "end_fmt": "2019.05"
  },
@@ -490,7 +490,7 @@
   "is_current": true,
   "article_count": 359,
   "has_author_page": true,
-  "photo_file": "0c5be7dce979.png",
+  "photo_file": "0c5be7dce979.jpg",
   "start_fmt": "2018.04",
   "end_fmt": "2019.05"
  },
@@ -550,7 +550,7 @@
   "is_current": true,
   "article_count": 1500,
   "has_author_page": true,
-  "photo_file": "889db436e0dd.png",
+  "photo_file": "889db436e0dd.jpg",
   "start_fmt": "2014.07",
   "end_fmt": "2019.05"
  },
@@ -640,7 +640,7 @@
   "is_current": true,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "e11f3d30e64e.png",
+  "photo_file": "e11f3d30e64e.jpg",
   "start_fmt": "2018.12",
   "end_fmt": "2019.05"
  },
@@ -715,7 +715,7 @@
   "is_current": true,
   "article_count": 381,
   "has_author_page": true,
-  "photo_file": "bfedfe4253ae.png",
+  "photo_file": "bfedfe4253ae.jpg",
   "start_fmt": "2018.01",
   "end_fmt": "2019.05"
  },
@@ -730,7 +730,7 @@
   "is_current": true,
   "article_count": 78,
   "has_author_page": true,
-  "photo_file": "0567dd803dd3.png",
+  "photo_file": "0567dd803dd3.jpg",
   "start_fmt": "2019.01",
   "end_fmt": "2019.05"
  },
@@ -790,7 +790,7 @@
   "is_current": true,
   "article_count": 150,
   "has_author_page": true,
-  "photo_file": "8bd609445e06.png",
+  "photo_file": "8bd609445e06.jpg",
   "start_fmt": "2018.07",
   "end_fmt": "2019.05"
  },
@@ -910,7 +910,7 @@
   "is_current": false,
   "article_count": 471,
   "has_author_page": true,
-  "photo_file": "f0333d81928a.png",
+  "photo_file": "f0333d81928a.jpg",
   "start_fmt": "2015.04",
   "end_fmt": "2019.05"
  },
@@ -1150,7 +1150,7 @@
   "is_current": false,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "dc9224623687.png",
+  "photo_file": "dc9224623687.jpg",
   "start_fmt": "2015.09",
   "end_fmt": "2018.04"
  },
@@ -1210,7 +1210,7 @@
   "is_current": false,
   "article_count": 748,
   "has_author_page": true,
-  "photo_file": "ad8416a458ed.png",
+  "photo_file": "ad8416a458ed.jpg",
   "start_fmt": "2015.04",
   "end_fmt": "2017.07"
  },
@@ -1225,7 +1225,7 @@
   "is_current": false,
   "article_count": 647,
   "has_author_page": true,
-  "photo_file": "73391f255cec.png",
+  "photo_file": "73391f255cec.jpg",
   "start_fmt": "2014.11",
   "end_fmt": "2017.02"
  },
@@ -1525,7 +1525,7 @@
   "is_current": false,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "cf8a83833037.png",
+  "photo_file": "cf8a83833037.jpg",
   "start_fmt": "2016.03",
   "end_fmt": "2017.11"
  },
@@ -1660,7 +1660,7 @@
   "is_current": false,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "7822c5bcae1d.png",
+  "photo_file": "7822c5bcae1d.jpg",
   "start_fmt": "2015.09",
   "end_fmt": "2017.01"
  },
@@ -1690,7 +1690,7 @@
   "is_current": false,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "5787d1897298.png",
+  "photo_file": "5787d1897298.jpg",
   "start_fmt": "2015.09",
   "end_fmt": "2017.01"
  },
@@ -1705,7 +1705,7 @@
   "is_current": false,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "7be5cbc61b00.png",
+  "photo_file": "7be5cbc61b00.jpg",
   "start_fmt": "2015.09",
   "end_fmt": "2017.01"
  },
@@ -1765,7 +1765,7 @@
   "is_current": false,
   "article_count": 23,
   "has_author_page": true,
-  "photo_file": "3b7912330ac4.png",
+  "photo_file": "",
   "start_fmt": "2015.04",
   "end_fmt": "2016.06"
  },
@@ -1795,7 +1795,7 @@
   "is_current": false,
   "article_count": 471,
   "has_author_page": true,
-  "photo_file": "d9c62c00a768.png",
+  "photo_file": "",
   "start_fmt": "2015.02",
   "end_fmt": "2016.03"
  },
@@ -1810,7 +1810,7 @@
   "is_current": false,
   "article_count": 399,
   "has_author_page": true,
-  "photo_file": "44a0ea508427.png",
+  "photo_file": "",
   "start_fmt": "2015.04",
   "end_fmt": "2016.05"
  },
@@ -1900,7 +1900,7 @@
   "is_current": false,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "a9b443bfa90d.png",
+  "photo_file": "a9b443bfa90d.jpg",
   "start_fmt": "2018.04",
   "end_fmt": "2019.04"
  },
@@ -1930,7 +1930,7 @@
   "is_current": false,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "d0f226eb9d9e.png",
+  "photo_file": "d0f226eb9d9e.jpg",
   "start_fmt": "2018.04",
   "end_fmt": "2019.04"
  },
@@ -1975,7 +1975,7 @@
   "is_current": false,
   "article_count": 257,
   "has_author_page": true,
-  "photo_file": "6b34032e5d7e.png",
+  "photo_file": "",
   "start_fmt": "2015.04",
   "end_fmt": "2016.03"
  },
@@ -2245,7 +2245,7 @@
   "is_current": false,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "724aed70a613.png",
+  "photo_file": "",
   "start_fmt": "2015.09",
   "end_fmt": "2016.03"
  },
@@ -2470,7 +2470,7 @@
   "is_current": false,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "205149c0d9b0.png",
+  "photo_file": "205149c0d9b0.jpg",
   "start_fmt": "2016.12",
   "end_fmt": "2017.01"
  },
@@ -2485,7 +2485,7 @@
   "is_current": false,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "d83170035669.png",
+  "photo_file": "",
   "start_fmt": "2015.09",
   "end_fmt": "2015.09"
  },
@@ -2515,7 +2515,7 @@
   "is_current": false,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "8b6796375d57.png",
+  "photo_file": "",
   "start_fmt": "2015.09",
   "end_fmt": "2015.09"
  },
@@ -2530,7 +2530,7 @@
   "is_current": false,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "9ac75eaaabfc.png",
+  "photo_file": "",
   "start_fmt": "2015.09",
   "end_fmt": "2015.09"
  }

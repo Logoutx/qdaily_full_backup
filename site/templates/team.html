@@ -25,14 +25,10 @@
 </ul>
 
 {% if historical %}
-<input type="checkbox" id="hist-toggle" class="hist-toggle" hidden>
-<label for="hist-toggle" class="hist-btn">更早的成员（{{ historical|length }} 人）</label>
-<div class="hist-reveal">
-  <h2>更早的成员</h2>
-  <ul class="team-grid">
-    {% for m in historical %}{{ card(m) }}{% endfor %}
-  </ul>
-</div>
+<h2>更早的成员</h2>
+<ul class="team-grid">
+  {% for m in historical %}{{ card(m) }}{% endfor %}
+</ul>
 {% endif %}
 </div>
 {% endblock %}
