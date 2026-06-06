@@ -40,6 +40,13 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 # unrelated bot/test content). They aren't part of the canonical archive.
 QDAILY_FINAL_DATE = "2019-05-27"
 
+# Manual publish-date corrections, keyed by article id. A few articles carry
+# the wrong on-page date (e.g. a draft stamped with its creation date, not
+# publication). Applied in extract_one so the fix is durable across re-extracts.
+DATE_OVERRIDES = {
+    20: "2015-08-09",   # 好莱坞计划 — page date was 2014-05-05, actually 2015-08-09
+}
+
 # --- selectors ---
 SEL_TITLE = ".article-detail-hd h2.title, .article-detail-hd .title"
 # .category-title wraps BOTH category and title; the category itself is in
@@ -305,6 +312,12 @@ def extract_one(record: dict, html: str) -> Extracted | None:
         m = DATE_SHORT_RE.match(pub_time)
         if m:
             pub_date = m.group(0)
+
+    # Durable manual date corrections (see DATE_OVERRIDES).
+    if record["id"] in DATE_OVERRIDES:
+        pub_date = DATE_OVERRIDES[record["id"]]
+        tod = pub_time[10:] if (pub_time and len(pub_time) >= 19) else " 00:00:00"
+        pub_time = pub_date + tod
 
     folder_date = record["original_date"]
     body_el = soup.select_one(SEL_BODY)

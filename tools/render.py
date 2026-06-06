@@ -759,6 +759,7 @@ def main() -> int:
     # Home-page order: 长文章 ratio desc; ties broken by total count desc.
     series_stats.sort(key=lambda s: (-s["ratio"], -s["total"]))
     env.globals["has_series_index"] = bool(series_stats)
+    env.globals["has_team_index"] = Path("data/team_members.json").exists()
 
     # Article pages
     for r in rendered:
@@ -981,6 +982,25 @@ def main() -> int:
                 articles=items_sorted,
                 subnav=[],
                 canonical=canon("author/" + quote(name, safe="") + "/"),
+            ),
+            encoding="utf-8",
+        )
+
+    # Team / authors page — driven by data/team_members.json (built offline by
+    # tools/team/*; tenure derived from monthly aboutus.html snapshots + article
+    # history). Current members first (in-job at 2019-05 shutdown), historical
+    # behind a toggle; both ranked by tenure length.
+    team_path = Path("data/team_members.json")
+    if team_path.exists():
+        team = json.loads(team_path.read_text(encoding="utf-8"))
+        current = [m for m in team if m.get("is_current")]
+        historical = [m for m in team if not m.get("is_current")]
+        team_dir = out / "team"
+        team_dir.mkdir(parents=True, exist_ok=True)
+        (team_dir / "index.html").write_text(
+            env.get_template("team.html").render(
+                current=current, historical=historical,
+                all_count=len(team), canonical=canon("team/"),
             ),
             encoding="utf-8",
         )

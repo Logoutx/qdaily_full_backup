@@ -256,6 +256,63 @@ h3 { font-size: 1.1rem; }
 /* Wider container for any page that shows the tile grid (list.html + home). */
 main:has(.article-tiles) { max-width: 64rem; }
 
+/* ---- Team / authors page ------------------------------------------------ */
+main:has(.team-grid) { max-width: 64rem; }
+.team-grid {
+  list-style: none; padding: 0; margin: 1.6rem 0 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2.4rem 1.4rem;
+}
+@media (max-width: 800px) { .team-grid { grid-template-columns: repeat(2, 1fr); gap: 1.8rem 1rem; } }
+.member-card { text-align: center; }
+.member-avatar {
+  display: block;
+  width: 104px; height: 104px;
+  margin: 0 auto 0.65rem;
+  border-radius: 50%;
+  overflow: hidden;
+  background: #eee;
+}
+.member-avatar img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+}
+.avatar-initial {
+  display: flex; align-items: center; justify-content: center;
+  width: 100%; height: 100%;
+  font-size: 2.6rem; color: #fff; background: #c9c9c9;
+}
+.member-link { color: inherit; }
+.member-link:hover { text-decoration: none; }
+.member-name { display: block; font-weight: 600; font-size: 1.05rem; }
+.member-arrow { color: var(--fg-soft); margin-left: 0.15em; font-weight: 400; }
+.member-link:hover .member-name { color: var(--link); }
+.member-tenure {
+  display: block;
+  color: var(--fg-soft); font-size: 0.84rem;
+  font-variant-numeric: tabular-nums;
+  margin: 0.1rem 0 0.35rem;
+}
+.member-tagline { color: var(--fg-soft); font-size: 0.88rem; line-height: 1.5; margin: 0; }
+
+/* "历史成员" reveal — pure-CSS checkbox toggle (same pattern as series). */
+.hist-btn {
+  display: inline-block;
+  margin: 2.4rem 0 0;
+  padding: 0.55em 1.5em;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  cursor: pointer;
+  color: var(--fg);
+  font-size: 0.95rem;
+}
+.hist-btn:hover { background: var(--rule); }
+.hist-reveal { display: none; }
+.hist-reveal h2 { margin-top: 2.4rem; }
+.hist-toggle:checked ~ .hist-btn { display: none; }
+.hist-toggle:checked ~ .hist-reveal { display: block; }
+
 .years { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 0.6rem; }
 .years li { padding: 0.5em 0.8em; border: 1px solid var(--rule); border-radius: 4px; }
 .years .count { color: var(--fg-soft); font-size: 0.85rem; margin-left: 0.4em; }

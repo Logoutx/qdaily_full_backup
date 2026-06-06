@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}团队成员 — {{ site_title }}{% endblock %}
+{% block description %}五年间，先后有超过 200 人在好奇心日报工作。这是 2019 年 5 月停刊时的团队。{% endblock %}
+{% block main %}
+<div data-pagefind-ignore="all">
+<h1>团队成员</h1>
+<p class="stats">五年间，先后有超过 200 人在此工作。</p>
+
+{% macro card(m) %}
+<li class="member-card{% if not m.is_current %} historical{% endif %}">
+  {% if m.has_author_page %}<a class="member-link" href="{{ url('author/' ~ m.name ~ '/') }}">{% endif %}
+    <span class="member-avatar">
+      {% if m.photo_file %}<img src="{{ url('static/team/' ~ m.photo_file) }}?v={{ static_v('team/' ~ m.photo_file) }}" alt="{{ m.name }}" loading="lazy">
+      {% else %}<span class="avatar-initial">{{ m.name[0] }}</span>{% endif %}
+    </span>
+    <span class="member-name">{{ m.name }}{% if m.has_author_page %}<span class="member-arrow">›</span>{% endif %}</span>
+  {% if m.has_author_page %}</a>{% endif %}
+  <span class="member-tenure">{% if m.is_current %}Since {{ m.start_fmt }}{% else %}{{ m.start_fmt }}–{{ m.end_fmt }}{% endif %}</span>
+  {% if m.tagline %}<p class="member-tagline">{{ m.tagline }}</p>{% endif %}
+</li>
+{% endmacro %}
+
+<ul class="team-grid">
+  {% for m in current %}{{ card(m) }}{% endfor %}
+</ul>
+
+{% if historical %}
+<input type="checkbox" id="hist-toggle" class="hist-toggle" hidden>
+<label for="hist-toggle" class="hist-btn">更早的成员（{{ historical|length }} 人）</label>
+<div class="hist-reveal">
+  <h2>更早的成员</h2>
+  <ul class="team-grid">
+    {% for m in historical %}{{ card(m) }}{% endfor %}
+  </ul>
+</div>
+{% endif %}
+</div>
+{% endblock %}

@@ -31,6 +31,7 @@
       {% for y in years %}<a class="year" href="{{ url(y ~ '/') }}">{{ y }}</a>{% endfor %}
       {% if has_long_index %}<a href="{{ url('long/') }}">长文章</a>{% endif %}
       {% if has_series_index %}<a href="{{ url('series/') }}">系列</a>{% endif %}
+      {% if has_team_index %}<a href="{{ url('team/') }}">团队</a>{% endif %}
       <a href="{{ url('search/') }}">搜索</a>
       <a href="{{ url('feed.xml') }}">RSS</a>
     </nav>
