@@ -133,3 +133,37 @@ images. Mainland aggregators reprint from many sources with QDaily a small slice
 Taiwanese sources re-typeset infographics into Traditional Chinese (photos still OK).
 Recommended remaining leads if pursuing: 股感 `stockfeel.com.tw/author/qdaily/` and
 数英 `digitaling.com` (both dedicated-ish QDaily pages, expect Manager-Today-scale yield).
+
+
+## 股感 StockFeel — BIG WIN (385 images, exact mapping)
+
+`stockfeel.com.tw/author/qdaily/` (WordPress, REST author 73) re-published **235**
+QDaily articles and re-hosted every image **keeping QDaily's original filename**
+(`images.stockfeel.com.tw/.../<qdaily-timestamp-hash>.jpg-w600.jpeg`). That yields an
+**exact filename → QDaily-slot mapping** — no positional guessing, no hand-verification —
+and the bytes are the **original QDaily files** (faithful, charts included). Recovered
+**385 missing images across 68 articles** (incl. 42318 NITORI, which Manager Today could
+only offer as a Traditional-Chinese re-typeset). Enumerated via the WP REST API; matched
+by filename; downloaded + wired in one pass. This is the template for an ideal source:
+*dedicated account + original filenames preserved.*
+
+## 数英 digitaling — NOT viable
+
+`digitaling.com` QDaily company page is a JS SPA (articles return identical ~5 KB
+login/shell HTML to a plain fetch), and its images sit on `file.digitaling.com` under
+**its own** naming — no QDaily-filename preservation, so no clean mapping. Would need a
+browser session *plus* per-image hand-verification for a small, likely-overlapping set.
+Skipped.
+
+## Final tally — image recovery this campaign
+
+| Source | Images | Mapping | Friction |
+|--------|-------:|---------|----------|
+| Wayback retry (2 passes) | 78 | exact URL | none (automated) |
+| 股感 stockfeel | 385 | exact filename | none (automated) |
+| Manager Today | 33 | caption/visual | high (hand-verified) |
+| **Total** | **496** | | |
+
+Best lever by far: **dedicated republisher accounts that preserve original filenames**
+(stockfeel). Lesson: check for filename preservation first — it decides whether a source
+is a one-pass automated win or a hand-verification slog.
