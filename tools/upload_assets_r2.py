@@ -121,6 +121,12 @@ def main() -> int:
                     help="show what would upload without sending bytes")
     ap.add_argument("--limit", type=int, default=None,
                     help="cap on number of uploads this run (smoke-test aid)")
+    ap.add_argument("--prune", action="store_true",
+                    help="DELETE remote objects that no longer exist locally "
+                         "(e.g. GIFs replaced by MP4). Lists them and requires "
+                         "--yes to actually delete; otherwise dry-run only.")
+    ap.add_argument("--yes", action="store_true",
+                    help="confirm destructive --prune deletions")
     args = ap.parse_args()
 
     if not args.account_id:
@@ -190,6 +196,31 @@ def main() -> int:
             print(f"  {key}: {msg}", file=sys.stderr)
         return 1
     print(f"done. uploaded {ok} files.")
+
+    # Optional prune: delete remote keys with no local counterpart.
+    if args.prune:
+        local_keys = {key for key, _, _ in local}
+        stale = sorted(k for k in remote if k not in local_keys)
+        stale_bytes = sum(remote[k] for k in stale)
+        print(f"\nprune: {len(stale):,} remote objects not present locally "
+              f"({stale_bytes/1024/1024:.1f} MB)")
+        for k in stale[:15]:
+            print(f"  stale: {k}")
+        if len(stale) > 15:
+            print(f"  ... and {len(stale) - 15} more")
+        if not stale:
+            print("  nothing to prune.")
+        elif not args.yes:
+            print("  DRY RUN — re-run with --prune --yes to delete these.")
+        else:
+            deleted = 0
+            # S3 delete_objects takes up to 1000 keys per call.
+            for i in range(0, len(stale), 1000):
+                batch = [{"Key": k} for k in stale[i:i + 1000]]
+                client.delete_objects(Bucket=args.bucket, Delete={"Objects": batch})
+                deleted += len(batch)
+                print(f"  deleted {deleted}/{len(stale)}")
+            print(f"prune done. removed {deleted} objects.")
     return 0
 
 
