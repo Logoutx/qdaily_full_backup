@@ -111,19 +111,25 @@ infographics that Manager Today **recreated in Traditional Chinese** were exclud
 - **51545** one keynote photo whose slot couldn't be pinned with confidence.
 
 
-## Other republishers found (not yet harvested)
 
-- **TOPYS** `topys.cn` — mainland creative platform; confirmed carrying QDaily
-  articles with full image sets on a single CDN date (clean). Promising for scale.
-- **股感 StockFeel** `stockfeel.com.tw/author/qdaily/` — QDaily author page (finance).
-- **數英 digitaling** `digitaling.com/company/articles/11479` — QDaily company page.
-- **數位時代 bnext** `bnext.com.tw/author/1305` — same content as Manager Today.
+## TOPYS — investigated, NOT viable (browser + sitemap + sampling)
 
-## Recommended next steps
+Drove a real browser session to get past TOPYS's signed search API, then used its
+sitemap (`topys.cn/sitemap.xml`, robots-allowed). Findings:
+- TOPYS has **15,723 articles** but **no source-based aggregation** — searching
+  "好奇心日报" returns a single result, and reposts are attributed to TOPYS editors.
+- A 150-article evenly-spaced sample found **0 QDaily reposts** (detector verified
+  working on the one known case, /article/26645 → qdaily 53005). QDaily content on
+  TOPYS is a negligible fraction; the ACE Hotel article was an exception, not a mirror.
+- Conclusion: a 15k-page crawl would surface only a tiny handful of articles — not
+  worth it. (Bonus: every TOPYS repost IS Simplified + carries a qdaily.com link, so
+  individual ones found via search engine can still be recovered cheaply if desired.)
 
-1. Harvest **TOPYS** (likely the largest mainland mirror) the same way.
-2. For Manager Today `trunc`/`over` articles, recover with manual order review
-   (≈42 more images across 8 articles) — or pull them from TOPYS where the image
-   set is complete and single-dated.
-3. Cross-source agreement (MT vs TOPYS image counts) raises confidence enough to
-   auto-wire even non-exact cases.
+## Strategic takeaway
+
+Republisher recovery is **low-yield, high-friction, long-tail**. The best source found
+was Manager Today (a dedicated 好奇心日报 column) and it yielded only 33 verifiable
+images. Mainland aggregators reprint from many sources with QDaily a small slice, and
+Taiwanese sources re-typeset infographics into Traditional Chinese (photos still OK).
+Recommended remaining leads if pursuing: 股感 `stockfeel.com.tw/author/qdaily/` and
+数英 `digitaling.com` (both dedicated-ish QDaily pages, expect Manager-Today-scale yield).
