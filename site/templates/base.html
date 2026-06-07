@@ -33,7 +33,6 @@
       {% if has_series_index %}<a href="{{ url('series/') }}">系列</a>{% endif %}
       {% if has_team_index %}<a href="{{ url('team/') }}">团队</a>{% endif %}
       <a href="{{ url('search/') }}">搜索</a>
-      <a href="{{ url('feed.xml') }}">RSS</a>
     </nav>
   </div>
 </header>
@@ -42,6 +41,7 @@
 </main>
 <footer class="site-footer">
   <p>QDaily 好奇心日报存档 · 根据 <a href="https://web.archive.org/">Internet Archive</a> 等渠道重建 · <a href="https://github.com/Logoutx/qdaily_full_backup">by 黄俊杰 via Claude</a></p>
+  <p><a href="{{ url('feed.xml') }}">RSS</a></p>
 </footer>
 <script data-goatcounter="https://qdaily.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

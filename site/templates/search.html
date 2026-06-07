@@ -196,10 +196,22 @@
       var tabs = document.querySelectorAll(".scope-tab");
       var panelAll = document.getElementById("panel-all");
       var panelMeta = document.getElementById("panel-meta");
+      // Pagefind renders its own <input>; grab it lazily (created async).
+      function pfInput() {
+        return document.querySelector(".pagefind-ui__search-input") ||
+               document.querySelector("#search input");
+      }
       tabs.forEach(function (btn) {
         btn.addEventListener("click", function () {
           var scope = btn.dataset.scope;
           if (scope === currentScope) return;
+          // Carry whatever's typed in the panel we're leaving into the next one,
+          // so switching scope keeps the query (title<->author already shares the
+          // input; this also bridges to/from the 搜全文 Pagefind box).
+          var pf = pfInput();
+          var carry = (currentScope === "all")
+            ? (pf ? pf.value : "")
+            : metaInput.value;
           currentScope = scope;
           tabs.forEach(function (b) {
             var on = (b === btn);
@@ -209,9 +221,17 @@
           if (scope === "all") {
             panelAll.hidden = false;
             panelMeta.hidden = true;
+            pf = pfInput();
+            if (pf && carry && pf.value !== carry) {
+              pf.value = carry;
+              // Pagefind listens for 'input' to run a search.
+              pf.dispatchEvent(new Event("input", { bubbles: true }));
+            }
+            if (pf) pf.focus();
           } else {
             panelAll.hidden = true;
             panelMeta.hidden = false;
+            if (carry && metaInput.value !== carry) metaInput.value = carry;
             metaInput.placeholder = scope === "title" ? "在标题中搜索…" : "在作者中搜索…";
             metaInput.focus();
             runMetaSearch();
