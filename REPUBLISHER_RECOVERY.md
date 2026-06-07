@@ -167,3 +167,32 @@ Skipped.
 Best lever by far: **dedicated republisher accounts that preserve original filenames**
 (stockfeel). Lesson: check for filename preservation first — it decides whether a source
 is a one-pass automated win or a hand-verification slog.
+
+
+## Discovery sweep — 10 random long-form headlines (21-agent workflow)
+
+Searched 10 random QDaily 长文章 headlines for republishers we'd missed. Found 10
+candidate domains; assessed each for harvest potential. **No second stockfeel-style
+exact-filename win exists** — the recurring pattern is: full text reposted faithfully,
+but images re-hosted on the republisher's own *recompressing* CDN with QDaily's original
+filenames destroyed (so no exact mapping; needs per-article position matching).
+
+| Domain | Rec. | Dedicated acct | Filenames kept | Enumerable | ~Articles | Note |
+|--------|------|----------------|----------------|-----------|----------:|------|
+| **sohu.com** (媒体号 139533) | **medium** | yes | no (Sohu md5) | yes — JSON API, no login | ~993 | faithful Simplified; late-2018→2019 window; needs position matching |
+| baike.baidu.com (TA说) | low | yes | no (bkimg CDN) | yes — JSON API | ~2005 | partial image subset/article; pagination friction |
+| acgedu.cn | low | no | no | no | few | scattered, unattributed |
+| 163.com (NetEase) | none | dead (404) | no | no | — | body images stripped |
+| douban.com | low | yes | no | gated (anti-bot) | ~40-50 | small + login/PoW wall |
+| daily.zhihu.com | none | no | no (zhimg) | no (JS) | scattered | re-hosted, JS-gated |
+| alighting.cn / china-led.net / cdstm.cn | none | — | — | — | 0 | FALSE LEADS (lighting/science sites; URL-pattern collisions) |
+
+**Sohu API:** `v2.sohu.com/author-page-api/author-articles/pc/139533?pNo=1..50` (no auth);
+per article parse plaintext `sohucs.com` URLs from the JSON-LD `<script>` block / `og:image`
+(ignore the encrypted `data-src`).
+
+**Verdict:** coverage is effectively **saturated**. 6/10 headlines surfaced nothing
+recoverable; the rest pointed at the same mainland aggregators (Sohu/Baidu/NetEase/Douban),
+all filename-stripping + recompressing. Sohu is the one genuinely new source worth
+considering — a content-faithful fallback for the late-2018/2019 window — but it's
+Manager-Today-style friction (position matching), not an automated win.
