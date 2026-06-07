@@ -90,24 +90,25 @@ Same account also mirrored at 數位時代 `bnext.com.tw/author/1305` (same grou
 | 39470 | 54332 | 10 | 10 | 1 | trunc(MT<QD) | 为什么是达美乐而不是 Google，成了 2004 年至今美 |
 | 39000 | 54257 | 6 | 6 | 4 | trunc(MT<QD) | 一风堂上市，这个日本拉面店如何一路火到了纽约、新加坡、香港和 |
 
-## Recovered & live (13 images, 1 article)
+## Recovered & live (33 images, 3 articles)
 
-| QDaily | imgs | confidence | title |
-|-------:|-----:|------------|-------|
-| 53005 | 13/13 | high (exact count, cross-checked vs topys.cn/26645) | 全球最时髦的酒店之一 ACE Hotel |
+All hand-verified: each image visually confirmed to match its QDaily caption/slot.
+Only faithful images kept — photos and English-source charts. QDaily-authored
+infographics that Manager Today **recreated in Traditional Chinese** were excluded
+(language mismatch with the Simplified original).
 
-## Identified & held for review (not deployed)
+| QDaily | imgs | how verified | title |
+|-------:|-----:|--------------|-------|
+| 53005 | 13/13 | exact count, cross-checked vs topys.cn/26645 | ACE Hotel |
+| 50723 | 12/25 | image↔caption hand-verified (photos + app screens) | Amazon Go |
+| 51545 | 8/15  | image↔caption hand-verified (photos + EN charts) | new iPad |
 
-Member-gated Manager Today articles with no QDaily banner — first-K body images
-in reading order can be prefix-mapped safely, but held pending manual review of
-ordering. Re-fetchable from `data/managertoday_mapping.json`.
+## Skipped (not faithfully recoverable from Manager Today)
 
-| QDaily | recoverable | MgrToday | title |
-|-------:|------------:|---------:|-------|
-| 50723 | 12 of 25 | 55775 | 亚马逊无人便利店 (Amazon Go) |
-| 51545 | 9 of 15  | 55883 | 针对教育市场的新 iPad |
-| 42318 | 1 of 10  | 54692 | NITORI 日本家具 |
-| 39470 | 1 of 10  | 54332 | 达美乐 vs Google |
+- **42318** (NITORI) & **39470** (Domino's): the only republished images are QDaily
+  infographics that Manager Today **re-typeset in Traditional Chinese** (Q daily logo
+  + 繁體 labels) — using them in the Simplified original would be a language mismatch.
+- **51545** one keynote photo whose slot couldn't be pinned with confidence.
 
 
 ## Other republishers found (not yet harvested)
