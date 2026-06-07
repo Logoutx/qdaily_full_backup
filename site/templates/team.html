@@ -22,13 +22,7 @@
 
 <ul class="team-grid">
   {% for m in current %}{{ card(m) }}{% endfor %}
-</ul>
-
-{% if historical %}
-<h2>更早的成员</h2>
-<ul class="team-grid">
   {% for m in historical %}{{ card(m) }}{% endfor %}
 </ul>
-{% endif %}
 </div>
 {% endblock %}
