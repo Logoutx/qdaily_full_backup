@@ -1339,15 +1339,15 @@
   "tagline": "特约记者，曾经从事金融分析和 IT。她热爱数学，热爱关于世界运转规律的模型。她对人类和无机物体非常好奇，经常手持毛巾在家门口张望等待。",
   "photo": "/system/partners/faces/5/medium/5.jpg",
   "start": "201408",
-  "end": "201606",
-  "tenure_str": "2014.08-2016.06",
-  "tenure_months": 23,
+  "end": "201502",
+  "tenure_str": "2014.08-2015.02",
+  "tenure_months": 7,
   "is_current": false,
   "article_count": 395,
   "has_author_page": true,
   "photo_file": "854701fb0fa5.jpg",
   "start_fmt": "2014.08",
-  "end_fmt": "2016.06"
+  "end_fmt": "2015.02"
  },
  {
   "name": "罗芊",
@@ -1547,7 +1547,7 @@
  {
   "name": "石玉",
   "tagline": "记者。前凤凰网读书频道、评论频道编辑。接触商业报道不久，觉得很好玩。",
-  "photo": "http://img.qdaily.com/partner/face/201606071941152tGXZvBqN5lAPE1D.jpg",
+  "photo": "http://www.qdaily.com/system/partners/faces/36/medium/36.jpg",
   "start": "201501",
   "end": "201607",
   "tenure_str": "2015.01-2016.07",
@@ -1555,7 +1555,7 @@
   "is_current": false,
   "article_count": 590,
   "has_author_page": true,
-  "photo_file": "",
+  "photo_file": "29823b03b685.jpg",
   "start_fmt": "2015.01",
   "end_fmt": "2016.07"
  },
@@ -1607,7 +1607,7 @@
  {
   "name": "赵长存",
   "tagline": "一个爱折腾各种应用的记者，并有志于把生活和世界游戏化。",
-  "photo": "http://img.qdaily.com/partner/face/201606071941163NZP6lixcy4JRotO.jpg",
+  "photo": "http://www.qdaily.com/system/partners/faces/43/medium/43.jpg",
   "start": "201503",
   "end": "201607",
   "tenure_str": "2015.03-2016.07",
@@ -1615,7 +1615,7 @@
   "is_current": false,
   "article_count": 342,
   "has_author_page": true,
-  "photo_file": "",
+  "photo_file": "f08605978692.jpg",
   "start_fmt": "2015.03",
   "end_fmt": "2016.07"
  },
@@ -1742,7 +1742,7 @@
  {
   "name": "卢曦",
   "tagline": "毕业于浙江大学，2005 年进入媒体行业。热爱时尚新闻，还想研究一下背后钱的事儿。",
-  "photo": "/system/partners/faces/44/medium/44.png",
+  "photo": "http://www.qdaily.com/system/partners/faces/44/medium/44.png",
   "start": "201504",
   "end": "201606",
   "tenure_str": "2015.04-2016.06",
@@ -1750,7 +1750,7 @@
   "is_current": false,
   "article_count": 23,
   "has_author_page": true,
-  "photo_file": "",
+  "photo_file": "5b49b1c094c5.jpg",
   "start_fmt": "2015.04",
   "end_fmt": "2016.06"
  },
@@ -1772,7 +1772,7 @@
  {
   "name": "张金晶",
   "tagline": "记者，负责时尚报道，对人心和世界的运转抱有好奇心，热爱一对一的交流，认为绝大部分的多人社交都是一种内耗。",
-  "photo": "/system/partners/faces/35/medium/35.png",
+  "photo": "http://www.qdaily.com/system/partners/faces/35/medium/35.png",
   "start": "201502",
   "end": "201603",
   "tenure_str": "2015.02-2016.03",
@@ -1780,14 +1780,14 @@
   "is_current": false,
   "article_count": 471,
   "has_author_page": true,
-  "photo_file": "",
+  "photo_file": "ecf0ebbed9a3.jpg",
   "start_fmt": "2015.02",
   "end_fmt": "2016.03"
  },
  {
   "name": "谢舒敏",
   "tagline": "记者，一直在学习与体验文化中的“差异”。相信自己已知领域的边界总是能再远一些。",
-  "photo": "/system/partners/faces/38/medium/38.png",
+  "photo": "http://www.qdaily.com/system/partners/faces/38/medium/38.png",
   "start": "201504",
   "end": "201605",
   "tenure_str": "2015.04-2016.05",
@@ -1795,7 +1795,7 @@
   "is_current": false,
   "article_count": 399,
   "has_author_page": true,
-  "photo_file": "",
+  "photo_file": "05f1e60f4d08.jpg",
   "start_fmt": "2015.04",
   "end_fmt": "2016.05"
  },
@@ -1952,7 +1952,7 @@
  {
   "name": "钟舒婷",
   "tagline": "记者，什么都想知道一点但什么都不擅长，关注硅谷里身价超过 10 亿的男人以及他们的公司，理想是在三年后转型做码农。",
-  "photo": "/system/partners/faces/50/medium/50.png",
+  "photo": "http://www.qdaily.com/system/partners/faces/50/medium/50.png",
   "start": "201504",
   "end": "201603",
   "tenure_str": "2015.04-2016.03",
@@ -1960,7 +1960,7 @@
   "is_current": false,
   "article_count": 257,
   "has_author_page": true,
-  "photo_file": "",
+  "photo_file": "5bfce5224531.jpg",
   "start_fmt": "2015.04",
   "end_fmt": "2016.03"
  },
@@ -2175,21 +2175,6 @@
   "end_fmt": "2016.11"
  },
  {
-  "name": "包峥",
-  "tagline": "产品，\n一个靠谱的人，通过独处获取能量。\n喜欢研究一点心理学，脑袋里不止两个小人。\n对燃系音乐和西装毫无抵抗力；\n对未知和险远充满向往。",
-  "photo": "http://img.qdaily.com/partner/face/20160702183458TItKXf1gxjDkOVb6.jpg",
-  "start": "201602",
-  "end": "201608",
-  "tenure_str": "2016.02-2016.08",
-  "tenure_months": 7,
-  "is_current": false,
-  "article_count": 0,
-  "has_author_page": false,
-  "photo_file": "f05fa980e84a.jpg",
-  "start_fmt": "2016.02",
-  "end_fmt": "2016.08"
- },
- {
   "name": "徐睿",
   "tagline": "广告界女汉子一枚，充满好奇心的大白羊。喜欢一切高颜值，酷酷的事，骑马射箭，改装车，养恶霸，最近又迷上了泰拳和巴柔...先不论玩的怎么样，行头必须先到位！人生就要work hard, play hard.",
   "photo": "http://img.qdaily.com/partner/face/20170220174954CgrH5KYEdkNvwqZJ.jpg",
@@ -2222,7 +2207,7 @@
  {
   "name": "龙睛",
   "tagline": "「好奇心日报」的 UI 设计师，毕业于神奇的印度。热爱手工的手残党。",
-  "photo": "/system/partners/faces/19/medium/19.png",
+  "photo": "http://www.qdaily.com/system/partners/faces/19/medium/19.png",
   "start": "201509",
   "end": "201603",
   "tenure_str": "2015.09-2016.03",
@@ -2230,7 +2215,7 @@
   "is_current": false,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "",
+  "photo_file": "e016a84238ed.jpg",
   "start_fmt": "2015.09",
   "end_fmt": "2016.03"
  },
@@ -2492,7 +2477,7 @@
  {
   "name": "施霁涵",
   "tagline": "版权编辑，毕业于五角场文秘技术学院，辗转过数家媒体，现在对好奇心很好奇。",
-  "photo": "/system/partners/faces/46/medium/46.png",
+  "photo": "http://www.qdaily.com/system/partners/faces/46/medium/46.png",
   "start": "201509",
   "end": "201509",
   "tenure_str": "2015.09-2015.09",
@@ -2500,14 +2485,14 @@
   "is_current": false,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "",
+  "photo_file": "64ebedea386f.jpg",
   "start_fmt": "2015.09",
   "end_fmt": "2015.09"
  },
  {
   "name": "都基鹏",
   "tagline": "还需要简介？",
-  "photo": "/system/partners/faces/65/medium/65.png",
+  "photo": "http://www.qdaily.com/system/partners/faces/65/medium/65.png",
   "start": "201509",
   "end": "201509",
   "tenure_str": "2015.09-2015.09",
@@ -2515,7 +2500,7 @@
   "is_current": false,
   "article_count": 0,
   "has_author_page": false,
-  "photo_file": "",
+  "photo_file": "6fa6a9c03c82.jpg",
   "start_fmt": "2015.09",
   "end_fmt": "2015.09"
  }
