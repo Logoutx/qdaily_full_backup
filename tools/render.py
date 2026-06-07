@@ -180,6 +180,14 @@ def _series_match(name: str, r: dict) -> bool:
     if name == "22 岁，他们在想什么":       return aid in _THINKING_22_IDS
     if name == "也许欧洲有答案":           return aid in _EUROPE_IDS
     if name == "这个社会，对年轻人太好了吗？":  return aid in _SOCIETY_YOUTH_IDS
+    if name == "NYT":
+        # Licensed New York Times translation column. Membership is computed
+        # from the article body (footer/photo-credit/byline) once during the
+        # render loop and cached on the record as `_is_nyt`.
+        return bool(r.get("_is_nyt"))
+    if name == "Medium 授权":
+        # Licensed Medium translation column ("本文由 Medium … 授权…发布").
+        return bool(r.get("_is_medium"))
     if name == "历史上的今天":
         # Title pattern is highly reliable for this column; the snapshot's
         # first-page seed list (~20 IDs) is incomplete vs. the ~80 articles
@@ -237,6 +245,9 @@ SERIES_NAMES = [
     "也许欧洲有答案",
     "这个社会，对年轻人太好了吗？",
     "历史上的今天",
+    # Licensed foreign-source translation columns (membership from body):
+    "NYT",
+    "Medium 授权",
     "Hack Your Life",
 ]
 
@@ -264,6 +275,39 @@ def _plain_text(html: str) -> str:
     if not html:
         return ""
     return BeautifulSoup(html, "lxml").get_text(" ", strip=True)
+
+
+# --- Foreign-source syndication detection (drives the NYT / Medium 授权 series) -
+# QDaily ran two licensed-translation columns. Each translated piece carries a
+# standard credit/footer we can match on:
+#   * The New York Times  → footer "© <year> THE NEW YORK TIMES"; older 2014–15
+#     pieces predate that footer but are still recognisable by the English
+#     byline + a "… for The New York Times" photo credit + the 熊猫译社 team.
+#   * Medium              → credit line "本文由 Medium … 授权《好奇心日报》发布".
+# A handful of QDaily-original pieces merely *cite* the NYT in prose; those have
+# CJK staff bylines and no footer/photo-credit, so they're correctly excluded.
+_NYT_FOOTER_RE = re.compile(r"©\s*\d{0,4}\s*the new york times")
+_NYT_IMG_CREDIT_RE = re.compile(r"(?:for|/)\s*the new york times")
+_MEDIUM_CREDIT_RE = re.compile(r"由\s*Medium")
+
+
+def detect_foreign_source(body_html: str, author: str) -> tuple[bool, bool]:
+    """Return (is_nyt, is_medium) from a QDaily article's body + byline."""
+    text = _plain_text(body_html)
+    low = text.lower()
+    is_medium = bool(_MEDIUM_CREDIT_RE.search(text)) and ("授权" in text)
+    is_nyt = False
+    if "the new york times" in low:
+        if _NYT_FOOTER_RE.search(low):
+            is_nyt = True
+        else:
+            author_cjk = bool(author) and any("一" <= c <= "鿿" for c in author)
+            is_nyt = (
+                ("熊猫译社" in text)
+                or bool(_NYT_IMG_CREDIT_RE.search(low))
+                or (not author_cjk)
+            )
+    return is_nyt, is_medium
 
 
 # CJK author names that contain only Chinese characters and · / spaces
@@ -672,8 +716,13 @@ def main() -> int:
         body_seg = _segment(plain_body[:SEARCH_BODY_CAP])
         excerpt = (plain_body[:140] + "…") if len(plain_body) > 140 else plain_body
 
+        # Foreign-source column membership (NYT / Medium 授权), from the raw body.
+        is_nyt, is_medium = detect_foreign_source(r.get("body_html") or "", r.get("author") or "")
+
         rendered.append({
             **r,
+            "_is_nyt": is_nyt,
+            "_is_medium": is_medium,
             "body_html_resolved": body_html,
             "banner_image_resolved": banner_resolved,
             "banner_broken": banner_broken,
@@ -841,6 +890,8 @@ def main() -> int:
         # Rest — previous editorial order, with the above entries removed
         # so each series appears exactly once.
         "访谈录",
+        "NYT",
+        "Medium 授权",
         "22 岁，他们在想什么",
         "这个社会，对年轻人太好了吗？",
         "市场发明家",
