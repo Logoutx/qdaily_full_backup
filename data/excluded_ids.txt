@@ -1,0 +1,43 @@
+# Article IDs excluded from the public archive (no page, no listing,
+# no sitemap/search entry). Loaded by tools/render.py.
+#
+# Empty placeholder articles (no body text, no images, no banner) —
+# kept the 设计 / 广告 ones; these are everything else.
+
+# 专题 (15)
+108  # 2014-05-05 Maker Faire2014
+581  # 2014-05-20 「智能」精选，不可错过
+968  # 2014-05-31 For Our Future
+1298  # 2014-06-29 Android L 带来的 11 项改变值得注意
+1336  # 2014-07-03 LGBT
+2343  # 2014-09-14 2014苹果大会
+2361  # 2014-09-15 2015 Spring NY Fashion Week
+2479  # 2014-09-20 阿里 IPO
+2480  # 2014-09-20 阿里巴巴这家公司
+2492  # 2014-09-22 Best of London Fashion Week
+2680  # 2014-10-02 Best of Milan Fashion Week SS2
+2681  # 2014-10-02 No Music, No Life
+2682  # 2014-10-02 换个方式和人沟通
+2693  # 2014-10-04 Best of Paris Fashion Week
+3203  # 2014-10-31 LGBT
+
+# 智能 (1)
+14322  # 2015-09-02 你在互联网上留下的黑历史，何时才能“被遗忘”？
+
+# 组合 (16)
+42  # 2014-04-27 Hello，海豚！你听到吗？
+51  # 2014-04-28 有部电影叫《她》，有个网站叫“他”
+61  # 2014-05-01 新版Macbook Air 降价，最低899刀
+66  # 2014-04-30 奢侈品牌在中国5个出奇制胜的秀场
+156  # 2014-05-05 纯洁汉语之今日新闻概要
+232  # 2014-05-07 沃尔玛网络销售增幅首超亚马逊
+362  # 2014-05-12 LVMH 出资 1 亿美元，以后就要遍地翡翠了
+417  # 2014-05-13 iPhone 6 又现谍照，这回是真的吗？
+427  # 2014-05-14 你可以在 ios 上和谷歌搜索对话了
+668  # 2014-05-21 优衣库 UT 又玩了个新东西
+859  # 2014-05-27 马航 MH370 卫星原始数据公布
+992  # 2014-06-04 那个卖萌贱表情的 Line 要上市了
+1139  # 2014-06-16 手机应用帮你在酒店大堂结交新朋友
+1184  # 2014-06-18 我们麻瓜也有魁地奇世界杯的好吗
+1334  # 2014-07-03 Google 为你请的音乐管家 Songza
+1360  # 2014-07-04 韦恩斯坦将拆分电视剧部门

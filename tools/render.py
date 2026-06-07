@@ -582,9 +582,16 @@ def main() -> int:
     # articles_extracted_extra.jsonl — meaning manually-curated overrides
     # in the _extra file win over auto-extracted Wayback content.
     # Article IDs to drop from the site entirely (no page rendered, no
-    # listing entry, no search-index inclusion). Add an id here when an
-    # article shouldn't appear in the public archive.
+    # listing entry, no search-index inclusion). The base set is literal;
+    # bulk exclusions (e.g. empty placeholder articles) live in
+    # data/excluded_ids.txt — one id per line, '#' starts a comment.
     EXCLUDED_IDS = {64091}
+    _excl_file = Path("data/excluded_ids.txt")
+    if _excl_file.exists():
+        for _ln in _excl_file.read_text(encoding="utf-8").split("\n"):
+            _ln = _ln.split("#", 1)[0].strip()
+            if _ln.isdigit():
+                EXCLUDED_IDS.add(int(_ln))
 
     record_map: dict = {}
     n_total = 0
