@@ -71,6 +71,11 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    # Secrets surfaced as env so the purge step can be conditioned on them —
+    # the `secrets` context is NOT allowed in `if:` expressions, but `env` is.
+    env:
+      CF_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CF_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
@@ -81,10 +86,10 @@ jobs:
       # the main lever for mainland-China reachability. Skipped automatically
       # until CLOUDFLARE_API_TOKEN / CLOUDFLARE_ZONE_ID secrets are set.
       - name: Purge Cloudflare cache
-        if: ${{ secrets.CLOUDFLARE_API_TOKEN != '' && secrets.CLOUDFLARE_ZONE_ID != '' }}
+        if: ${{ env.CF_API_TOKEN != '' && env.CF_ZONE_ID != '' }}
         run: |
           curl -sS -X POST \
-            "https://api.cloudflare.com/client/v4/zones/${{ secrets.CLOUDFLARE_ZONE_ID }}/purge_cache" \
-            -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+            "https://api.cloudflare.com/client/v4/zones/${CF_ZONE_ID}/purge_cache" \
+            -H "Authorization: Bearer ${CF_API_TOKEN}" \
             -H "Content-Type: application/json" \
             --data '{"purge_everything":true}' | tee /dev/stderr | grep -q '"success":true'
