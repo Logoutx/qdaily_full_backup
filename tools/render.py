@@ -290,6 +290,19 @@ _NYT_FOOTER_RE = re.compile(r"©\s*\d{0,4}\s*the new york times")
 _NYT_IMG_CREDIT_RE = re.compile(r"(?:for|/)\s*the new york times")
 _MEDIUM_CREDIT_RE = re.compile(r"由\s*Medium")
 
+# In-article links to the defunct original site, e.g.
+# https://www.qdaily.com/articles/52218.html — rewritten to the rebuilt site's
+# own /articles/<id>/ URL. Matched anywhere in the href (re.search) so it also
+# catches scheme-less hrefs (www.qdaily.com/...), sub-host forms
+# (cms.qdaily.com/...), redirect wrappers, and hrefs with stray leading
+# punctuation; the entire href is replaced, dropping any scheme/query/fragment.
+# Note: requires the literal "qdaily.com/articles/" — so /display/articles/
+# links (a different, non-rebuilt content type) are deliberately NOT matched.
+_QDAILY_ARTICLE_LINK_RE = re.compile(
+    r"(?:www\.|m\.)?qdaily\.com/articles/(\d+)\.html",
+    re.I,
+)
+
 
 def detect_foreign_source(body_html: str, author: str) -> tuple[bool, bool]:
     """Return (is_nyt, is_medium) from a QDaily article's body + byline."""
@@ -347,9 +360,36 @@ def split_authors(s: str) -> list[str]:
 
 BROKEN_HOSTS = {"121.201.7.32:8001"}
 
+# URLs that Wayback is known to have NO snapshot for (status no-snapshot-prefix
+# in data/images.jsonl). Hot-linking web.archive.org for these only buys a
+# doomed cross-origin request + latency before the onerror placeholder swap, so
+# render routes them straight to the placeholder. Populated by main() via
+# load_dead_image_urls(); empty by default so unit tests / ad-hoc calls behave.
+DEAD_IMAGE_URLS: set[str] = set()
+
 
 def wayback_im(orig: str, ts: str) -> str:
     return f"https://web.archive.org/web/{ts}im_/{orig}"
+
+
+def load_dead_image_urls(manifest: Path) -> set[str]:
+    """URLs whose LATEST fetch status is no-snapshot-prefix (Wayback has no
+    archived copy). A URL recovered later (status ok) is excluded, so this only
+    ever contains genuinely-unservable images."""
+    if not manifest.exists():
+        return set()
+    latest: dict[str, str] = {}
+    for line in manifest.read_text(encoding="utf-8").split("\n"):
+        if not line.strip():
+            continue
+        try:
+            rec = json.loads(line)
+        except json.JSONDecodeError:
+            continue
+        u = rec.get("url")
+        if u:
+            latest[u] = rec.get("status")
+    return {u for u, s in latest.items() if s == "no-snapshot-prefix"}
 
 
 def is_broken_host(url: str) -> bool:
@@ -401,6 +441,11 @@ def resolve_url(orig: str, ts: str, mode: str, article_id: int, assets_root: Pat
                 return f"{asset_base_url}/{article_id}/{digest}{ext}", broken
             # rel path from public/articles/<id>/index.html → public/assets/<id>/file
             return f"../../assets/{article_id}/{digest}{ext}", broken
+    # No local asset. If Wayback is known to have no snapshot, don't emit a
+    # doomed web.archive.org URL — mark broken so the caller uses the
+    # placeholder immediately (no failed cross-origin request, no latency).
+    if orig in DEAD_IMAGE_URLS:
+        return orig, True
     if not ts:
         # No Wayback timestamp — this is an externally-sourced article
         # (e.g. Medium) whose original images are still live. Pass through.
@@ -433,8 +478,28 @@ def _add_class(img, cls: str) -> None:
     img["class"] = existing
 
 
+def load_image_alts(path: Path) -> dict:
+    """Map original image URL -> LLM-generated alt text.
+
+    Populated by tools/gen_image_alts.py (vision pass over the on-disk asset
+    files). Keyed by the ORIGINAL image URL exactly as it appears in the
+    article records, so render lookups need no path math. Missing file -> {}.
+    """
+    if not path.exists():
+        return {}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    # Accept either {url: alt} or {url: {"alt": ...}} shapes.
+    out = {}
+    for k, v in data.items():
+        alt = v.get("alt") if isinstance(v, dict) else v
+        if alt:
+            out[k] = alt.strip()
+    return out
+
+
 def resolve_body(body_html: str, ts: str, article_id: int, mode: str, assets_root: Path,
-                 asset_base_url: str = "", placeholder_url: str = "") -> tuple[str, int]:
+                 asset_base_url: str = "", placeholder_url: str = "",
+                 base_url: str = "/", alt_map: dict | None = None) -> tuple[str, int]:
     """Rewrite <img src> in body_html. Returns (rewritten_html, broken_count).
 
     Missing images fall back to the skyline placeholder two ways:
@@ -484,6 +549,18 @@ def resolve_body(body_html: str, ts: str, article_id: int, mode: str, assets_roo
                 img["onerror"] = onerror_js
         if "loading" not in img.attrs:
             img["loading"] = "lazy"
+        # LLM-generated alt (keyed by the original src), when available and the
+        # image isn't broken. Overrides any empty/placeholder original alt.
+        if alt_map and not broken:
+            alt = alt_map.get(src)
+            if alt:
+                img["alt"] = alt
+    # Rewrite links to the defunct original site back into the archive:
+    # https://www.qdaily.com/articles/<id>.html -> {base_url}articles/<id>/
+    for a in soup.find_all("a", href=True):
+        m = _QDAILY_ARTICLE_LINK_RE.search(a["href"])
+        if m:
+            a["href"] = f"{base_url}articles/{m.group(1)}/"
     body = soup.body or soup
     return body.decode_contents(), broken_count
 
@@ -519,6 +596,12 @@ def main() -> int:
     ap.add_argument("--site-url", default="https://www.qdaily.org", help="absolute origin for RSS / canonical URLs")
     ap.add_argument("--site-title", default="QDaily 好奇心日报存档")
     ap.add_argument("--site-description", default="好奇心日报所刊发内容存档，通过 Internet Archive 重建。")
+    ap.add_argument("--image-alts", default="data/image_alts.json",
+                    help="JSON map of original-image-URL -> alt text "
+                         "(LLM-generated by tools/gen_image_alts.py)")
+    ap.add_argument("--image-manifest", default="data/images.jsonl",
+                    help="fetch manifest; URLs marked no-snapshot-prefix are "
+                         "routed to the placeholder instead of web.archive.org")
     args = ap.parse_args()
 
     out = Path(args.out)
@@ -671,13 +754,21 @@ def main() -> int:
 
     # Resolve image URLs and prepare per-article view objects
     assets_root = Path(args.assets)
+    global DEAD_IMAGE_URLS
+    DEAD_IMAGE_URLS = load_dead_image_urls(Path(args.image_manifest))
+    if DEAD_IMAGE_URLS:
+        print(f"loaded {len(DEAD_IMAGE_URLS):,} known-no-snapshot image URLs "
+              f"-> placeholder (no Wayback request)")
+    alt_map = load_image_alts(Path(args.image_alts))
+    if alt_map:
+        print(f"loaded {len(alt_map):,} LLM image alt texts from {args.image_alts}")
     rendered = []
     total_broken = 0
     placeholder_url = url("static/placeholder.webp")
     for r in records:
         body_html, broken_in_body = resolve_body(
             r.get("body_html") or "", r["archive_ts"], r["id"], args.image_mode, assets_root,
-            asset_base_url, placeholder_url,
+            asset_base_url, placeholder_url, base_url, alt_map,
         )
         banner = r.get("banner_image")
         banner_resolved, banner_broken = (None, False)
@@ -690,6 +781,7 @@ def main() -> int:
         # Kept separate from banner_image_resolved so the article page itself
         # doesn't gain a duplicate lead image.
         tile_banner_resolved = banner_resolved if (banner_resolved and not banner_broken) else None
+        tile_src = banner if tile_banner_resolved else None
         if not tile_banner_resolved:
             for img_url in (r.get("images") or []):
                 # Skip animations (GIF/WebP -> MP4) — they can't be a still tile.
@@ -700,7 +792,12 @@ def main() -> int:
                 )
                 if fb_url and not fb_broken:
                     tile_banner_resolved = fb_url
+                    tile_src = img_url
                     break
+        # LLM alt for the lead image (banner on the article page; same photo on
+        # the card). Skipped automatically for broken images (no resolved src).
+        banner_alt = alt_map.get(banner, "") if (banner and not banner_broken) else ""
+        tile_alt = alt_map.get(tile_src, "") if tile_src else ""
         total_broken += broken_in_body + (1 if banner_broken else 0)
         # Search index inputs (char-segmented, hidden block in article page).
         # Cap the body text shipped to Pagefind at SEARCH_BODY_CAP chars: with
@@ -726,7 +823,9 @@ def main() -> int:
             "body_html_resolved": body_html,
             "banner_image_resolved": banner_resolved,
             "banner_broken": banner_broken,
+            "banner_alt": banner_alt,
             "tile_banner_resolved": tile_banner_resolved,
+            "tile_alt": tile_alt,
             "publish_rfc822": rfc822(r.get("publish_time") or r["publish_date"]),
             "title_seg": title_seg,
             "body_seg": body_seg,

@@ -38,7 +38,7 @@
   <li class="tile">
     <a class="tile-photo" href="{{ url('articles/' ~ a.id ~ '/') }}">
       {% if a.tile_banner_resolved %}
-      <img src="{{ a.tile_banner_resolved }}" alt="" loading="lazy" onerror="this.style.display='none'">
+      <img src="{{ a.tile_banner_resolved }}" alt="{{ a.tile_alt }}" loading="lazy" onerror="this.style.display='none'">
       {% endif %}
     </a>
     <div class="tile-body">
