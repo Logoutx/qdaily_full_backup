@@ -1370,6 +1370,27 @@ def main() -> int:
         encoding="utf-8",
     )
 
+    # Flat single-file sitemap for Baidu: 百度 rejects index-type sitemaps, and
+    # throttles non-备案 (non-ICP) sites to a single stored sitemap file. So emit
+    # one <urlset> capped at Baidu's per-file limit (50,000 URLs / <10 MB).
+    # Submit https://www.qdaily.org/sitemap-flat.xml in 普通收录 → sitemap.
+    BAIDU_MAX = 50000
+    flat = sitemap_entries[:BAIDU_MAX]
+    flat_rows = "\n".join(
+        f"  <url><loc>{_xml_escape(loc)}</loc><lastmod>{lm}</lastmod></url>"
+        for loc, lm in flat
+    )
+    (out / "sitemap-flat.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        + xsl_pi +
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f"{flat_rows}\n</urlset>\n",
+        encoding="utf-8",
+    )
+    if len(sitemap_entries) > BAIDU_MAX:
+        print(f"sitemap-flat.xml: capped at {BAIDU_MAX:,}/{len(sitemap_entries):,} "
+              f"URLs (Baidu per-file limit)")
+
     # robots.txt — allow everyone, including AI crawlers, and point to the
     # sitemap. This archive *wants* to be indexed and cited.
     ai_agents = [
