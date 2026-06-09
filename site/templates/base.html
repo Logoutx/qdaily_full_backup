@@ -20,6 +20,36 @@
 <link rel="icon" type="image/png" href="{{ url('static/favicon.png') }}?v={{ static_v('favicon.png') }}">
 <link rel="stylesheet" href="{{ url('static/style.css') }}?v={{ static_v('style.css') }}">
 <link rel="alternate" type="application/rss+xml" title="{{ site_title }}" href="{{ url('feed.xml') }}">
+<script>
+// Image fallback chain: cdn.qdaily.org (primary, incl. WebP <source>) ->
+// web.archive.org (data-wb, a safety net) -> placeholder. Defined in <head> so
+// it exists when an <img onerror> fires during parse.
+window.QD_PLACEHOLDER = "{{ url('static/placeholder.webp') }}";
+function qdWayback(el){
+  var wb = el.getAttribute('data-wb');
+  if(!wb) return false;
+  el.removeAttribute('data-wb');
+  var p = el.parentNode;
+  if(p && p.tagName === 'PICTURE'){
+    var s = p.getElementsByTagName('source');
+    while(s.length){ s[0].parentNode.removeChild(s[0]); }
+  }
+  el.removeAttribute('srcset');
+  el.src = wb;            // onerror stays armed: a Wayback miss falls through
+  return true;
+}
+function qdImg(el){            // article banner + body images
+  if(qdWayback(el)) return;
+  el.onerror = null;
+  el.src = window.QD_PLACEHOLDER;
+  el.classList.add('img-missing');
+}
+function qdImgTile(el){        // list/home cards: reveal the CSS skyline behind
+  if(qdWayback(el)) return;
+  el.onerror = null;
+  el.style.display = 'none';
+}
+</script>
 {% block head_extra %}{% endblock %}
 {% block head %}{% endblock %}
 </head>

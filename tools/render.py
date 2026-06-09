@@ -468,6 +468,55 @@ def mp4_for(orig: str, article_id: int, mode: str, assets_root: Path,
     return f"../../assets/{article_id}/{digest}.mp4"
 
 
+def webp_for(orig: str, article_id: int, mode: str, assets_root: Path,
+             asset_base_url: str = "") -> str | None:
+    """URL of the WebP variant (assets/<id>/<digest>.webp) if it exists, for use
+    as a <picture><source type="image/webp">. Same sha1(url) digest keying as the
+    base asset, so it's found regardless of the base's odd extension."""
+    if mode != "local" or not orig:
+        return None
+    digest = hashlib.sha1(orig.encode("utf-8")).hexdigest()[:16]
+    if not (assets_root / str(article_id) / f"{digest}.webp").exists():
+        return None
+    if asset_base_url:
+        return f"{asset_base_url}/{article_id}/{digest}.webp"
+    return f"../../assets/{article_id}/{digest}.webp"
+
+
+def resolve_picture(orig: str, ts: str, mode: str, article_id: int,
+                    assets_root: Path, asset_base_url: str = "") -> dict:
+    """Resolve one image to a responsive <picture> spec:
+        {src, webp, wb, broken}
+    where `src` is the primary (cdn.qdaily.org when mirrored, else the Wayback
+    im_ URL when not), `webp` is the WebP <source> URL or None, and `wb` is the
+    Wayback fallback used by the onerror chain — set ONLY for mirrored assets, so
+    a CDN/R2 miss falls back to Wayback instead of the primary already being
+    Wayback. Broken/known-dead images return broken=True (caller -> placeholder).
+    """
+    src, broken = resolve_url(orig, ts, mode, article_id, assets_root, asset_base_url)
+    if not src or broken:
+        return {"src": src, "webp": None, "wb": None, "broken": bool(broken)}
+    # Is `src` our own mirrored asset (vs a Wayback im_ URL or a live external)?
+    on_disk = False
+    if mode == "local":
+        try:
+            ext = Path(urlparse(orig).path).suffix.lower() or ".bin"
+        except ValueError:
+            ext = ".bin"
+        digest = hashlib.sha1(orig.encode("utf-8")).hexdigest()[:16]
+        on_disk = (assets_root / str(article_id) / f"{digest}{ext}").exists()
+    if on_disk:
+        return {
+            "src": src,
+            "webp": webp_for(orig, article_id, mode, assets_root, asset_base_url),
+            "wb": wayback_im(orig, ts) if ts else None,
+            "broken": False,
+        }
+    # Not mirrored: `src` is already Wayback (or a live external) — it IS the
+    # fallback; onerror goes straight to the placeholder.
+    return {"src": src, "webp": None, "wb": None, "broken": False}
+
+
 def _add_class(img, cls: str) -> None:
     """Append a CSS class to a bs4 <img> (class attr is stored as a list)."""
     existing = img.get("class") or []
@@ -534,27 +583,38 @@ def resolve_body(body_html: str, ts: str, article_id: int, mode: str, assets_roo
             _add_class(video, "body-video")
             img.replace_with(video)
             continue
-        new, broken = resolve_url(src, ts, mode, article_id, assets_root, asset_base_url)
-        if broken and placeholder_url:
-            # Host is known dead — point straight at the placeholder.
+        pic = resolve_picture(src, ts, mode, article_id, assets_root, asset_base_url)
+        if pic["broken"] and placeholder_url:
+            # Known dead — point straight at the placeholder.
             img["src"] = placeholder_url
             _add_class(img, "img-missing")
             broken_count += 1
         else:
-            img["src"] = new or src
-            if broken:
+            img["src"] = pic["src"] or src
+            if pic["broken"]:
                 img["data-broken"] = "1"
                 broken_count += 1
-            elif onerror_js:
-                img["onerror"] = onerror_js
+            else:
+                # CDN -> Wayback (if mirrored) -> placeholder, via the qdImg JS.
+                if pic["wb"]:
+                    img["data-wb"] = pic["wb"]
+                img["onerror"] = "qdImg(this)"
+                # LLM alt (keyed by original src); overrides any empty original.
+                if alt_map:
+                    alt = alt_map.get(src)
+                    if alt:
+                        img["alt"] = alt
+                # Wrap in <picture> with a WebP <source> when a variant exists.
+                if pic["webp"]:
+                    picture = soup.new_tag("picture")
+                    source = soup.new_tag("source")
+                    source["type"] = "image/webp"
+                    source["srcset"] = pic["webp"]
+                    img.replace_with(picture)
+                    picture.append(source)
+                    picture.append(img)
         if "loading" not in img.attrs:
             img["loading"] = "lazy"
-        # LLM-generated alt (keyed by the original src), when available and the
-        # image isn't broken. Overrides any empty/placeholder original alt.
-        if alt_map and not broken:
-            alt = alt_map.get(src)
-            if alt:
-                img["alt"] = alt
     # Rewrite links to the defunct original site back into the archive:
     # https://www.qdaily.com/articles/<id>.html -> {base_url}articles/<id>/
     for a in soup.find_all("a", href=True):
@@ -772,10 +832,13 @@ def main() -> int:
         )
         banner = r.get("banner_image")
         banner_resolved, banner_broken = (None, False)
+        banner_webp = banner_wb = None
         if banner:
-            banner_resolved, banner_broken = resolve_url(
+            _bp = resolve_picture(
                 banner, r["archive_ts"], args.image_mode, r["id"], assets_root, asset_base_url,
             )
+            banner_resolved, banner_broken = _bp["src"], _bp["broken"]
+            banner_webp, banner_wb = _bp["webp"], _bp["wb"]
         # Tile fallback: when there's no usable banner, promote the first
         # non-broken inline image to act as the tile thumbnail on list pages.
         # Kept separate from banner_image_resolved so the article page itself
@@ -794,6 +857,13 @@ def main() -> int:
                     tile_banner_resolved = fb_url
                     tile_src = img_url
                     break
+        # WebP/Wayback-fallback spec for the tile's chosen image.
+        tile_webp = tile_wb = None
+        if tile_src:
+            _tp = resolve_picture(
+                tile_src, r["archive_ts"], args.image_mode, r["id"], assets_root, asset_base_url,
+            )
+            tile_webp, tile_wb = _tp["webp"], _tp["wb"]
         # LLM alt for the lead image (banner on the article page; same photo on
         # the card). Skipped automatically for broken images (no resolved src).
         banner_alt = alt_map.get(banner, "") if (banner and not banner_broken) else ""
@@ -824,8 +894,12 @@ def main() -> int:
             "banner_image_resolved": banner_resolved,
             "banner_broken": banner_broken,
             "banner_alt": banner_alt,
+            "banner_webp": banner_webp,
+            "banner_wb": banner_wb,
             "tile_banner_resolved": tile_banner_resolved,
             "tile_alt": tile_alt,
+            "tile_webp": tile_webp,
+            "tile_wb": tile_wb,
             "publish_rfc822": rfc822(r.get("publish_time") or r["publish_date"]),
             "title_seg": title_seg,
             "body_seg": body_seg,

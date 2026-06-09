@@ -33,7 +33,10 @@
   {% else %}
     {% if article.banner_image_resolved and not article.banner_broken %}
       <figure class="banner">
-        <img src="{{ article.banner_image_resolved }}" alt="{{ article.banner_alt }}" loading="lazy" onerror="this.onerror=null;this.src='{{ url('static/placeholder.webp') }}';this.classList.add('img-missing')">
+        <picture>
+          {% if article.banner_webp %}<source type="image/webp" srcset="{{ article.banner_webp }}">{% endif %}
+          <img src="{{ article.banner_image_resolved }}" alt="{{ article.banner_alt }}" loading="lazy"{% if article.banner_wb %} data-wb="{{ article.banner_wb }}"{% endif %} onerror="qdImg(this)">
+        </picture>
       </figure>
     {% endif %}
     <div class="body">
