@@ -679,6 +679,15 @@ def main() -> int:
     if static_src.exists():
         shutil.copytree(static_src, out / "static")
 
+    # Passthrough files served at the SITE ROOT (public/<file>): search-engine
+    # ownership-verification files (Baidu/Bing/Sogou/360/Shenma) and the
+    # IndexNow key. Drop any file into site/root/ and it lands at /<file>.
+    root_src = Path("site/root")
+    if root_src.exists():
+        for f in root_src.iterdir():
+            if f.is_file() and f.suffix.lower() != ".md":
+                shutil.copy2(f, out / f.name)
+
     # In local image mode, copy mirrored Wayback assets so the
     # `../../assets/<id>/<digest>.<ext>` paths emitted by resolve_url()
     # resolve under public/assets/. We use copy (rather than symlink)
@@ -1369,8 +1378,14 @@ def main() -> int:
         "CCBot", "Applebot-Extended", "Bytespider", "Amazonbot", "cohere-ai",
         "Meta-ExternalAgent", "DuckAssistBot", "YouBot", "Diffbot",
     ]
+    # Chinese search engines (Baidu/Sogou/360/Shenma) + Bing. Covered by '*'
+    # already, but named explicitly so intent is unambiguous to those crawlers.
+    cn_agents = [
+        "Baiduspider", "Sogou web spider", "360Spider", "HaosouSpider",
+        "YisouSpider", "Bingbot", "Sosospider",
+    ]
     robots_lines = ["User-agent: *", "Allow: /", ""]
-    for a in ai_agents:
+    for a in ai_agents + cn_agents:
         robots_lines += [f"User-agent: {a}", "Allow: /", ""]
     robots_lines += [f"Sitemap: {site_url_base}/sitemap.xml", ""]
     (out / "robots.txt").write_text("\n".join(robots_lines), encoding="utf-8")
