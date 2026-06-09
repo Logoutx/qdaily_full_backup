@@ -1,0 +1,47 @@
+name: Validate data
+
+# Data-correctness gate. Runs on every PR and on pushes that touch the corpus,
+# the tools, or the templates — so a parsing/normalization change or a bad merge
+# into data/articles_extracted_*.jsonl fails here instead of silently shipping.
+# Independent of deploy.yml (no secrets, no Pages).
+
+on:
+  pull_request:
+    paths:
+      - 'data/articles_extracted_*.jsonl'
+      - 'data/excluded_ids.txt'
+      - 'data/corpus_stats.baseline.json'
+      - 'tools/**'
+      - 'site/templates/**'
+  push:
+    branches: [main]
+    paths:
+      - 'data/articles_extracted_*.jsonl'
+      - 'data/excluded_ids.txt'
+      - 'data/corpus_stats.baseline.json'
+      - 'tools/**'
+      - 'site/templates/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Validate corpus invariants (Layer 1)
+        run: python tools/validate_corpus.py
+
+      - name: Check aggregate drift vs baseline (Layer 2)
+        run: python tools/corpus_stats.py --check

@@ -1,0 +1,8 @@
+# Dev/test dependencies (not needed at build/deploy time).
+# Layers 1–2 (validate_corpus.py, corpus_stats.py) run on the prod deps in
+# requirements.txt alone. These land the toolchain for the deferred Layers 3–5:
+# golden extraction fixtures, unit/property tests on the pure normalizers, and
+# the full-corpus diff harness.
+#   pip install -r requirements.txt -r requirements-dev.txt
+pytest>=8
+hypothesis>=6
