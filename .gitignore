@@ -53,3 +53,6 @@ data/douban_fuzzy_scraped.json
 
 # Transient cache for Douban recovery (~280 MB) — see tools/fetch_douban_batch.py
 .douban_cache/
+
+# Wayback submission progress (resumable cursor, regenerated)
+data/wayback_submitted.txt
