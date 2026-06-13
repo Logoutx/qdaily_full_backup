@@ -56,14 +56,17 @@ def find_indexnow_key() -> str | None:
 
 def push_baidu(urls: list[str], token: str, send: bool) -> None:
     api = f"http://data.zz.baidu.com/urls?site={SITE}&token={token}"
-    body = "\n".join(urls).encode("utf-8")
-    print(f"[baidu] {len(urls):,} urls -> {api.split('token=')[0]}token=***")
+    batches = [urls[i:i + 2000] for i in range(0, len(urls), 2000)]
+    print(f"[baidu] {len(urls):,} urls in {len(batches)} batch(es) -> "
+          f"{api.split('token=')[0]}token=***")
     if not send:
         print("[baidu] dry-run (pass --send to submit)")
         return
-    r = httpx.post(api, content=body,
-                   headers={"Content-Type": "text/plain"}, timeout=60)
-    print(f"[baidu] HTTP {r.status_code}: {r.text[:300]}")
+    with httpx.Client(timeout=60) as c:
+        for i, batch in enumerate(batches, 1):
+            body = "\n".join(batch).encode("utf-8")
+            r = c.post(api, content=body, headers={"Content-Type": "text/plain"})
+            print(f"[baidu] batch {i}/{len(batches)}: HTTP {r.status_code}: {r.text[:200]}")
 
 
 def push_indexnow(urls: list[str], key: str, send: bool) -> None:
