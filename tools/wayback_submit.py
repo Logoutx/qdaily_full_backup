@@ -103,7 +103,11 @@ def main() -> int:
                          "Omit for anonymous mode.")
     ap.add_argument("--rate", type=float, default=0.0,
                     help="seconds to sleep between requests "
-                         "(default: 8 anon / 5 authenticated)")
+                         "(default: 8 anon / 10 authenticated)")
+    ap.add_argument("--backoff", type=float, default=30.0,
+                    help="seconds to wait when SPN2 session limit is hit")
+    ap.add_argument("--max-retries", type=int, default=10,
+                    help="how many times to wait-and-retry one url on session limit")
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--send", action="store_true",
                     help="actually submit (otherwise dry-run)")
@@ -116,8 +120,9 @@ def main() -> int:
         todo = todo[: args.limit]
 
     mode = "authenticated SPN2" if args.s3 else "anonymous SPN"
-    rate = args.rate or (5.0 if args.s3 else 8.0)
-    print(f"scope={args.scope} mode={mode} rate={rate}s")
+    rate = args.rate or (10.0 if args.s3 else 8.0)
+    print(f"scope={args.scope} mode={mode} rate={rate}s "
+          f"backoff={args.backoff}s max_retries={args.max_retries}")
     print(f"{len(urls):,} canonical URLs, {len(done):,} already submitted, "
           f"{len(todo):,} to go\n")
     if not args.send:
@@ -132,13 +137,22 @@ def main() -> int:
     ok = fail = 0
     with httpx.Client(timeout=90) as c:
         for i, url in enumerate(todo, 1):
-            try:
-                if args.s3:
-                    good, msg = submit_s3(c, url, args.s3)
-                else:
-                    good, msg = submit_anon(c, url)
-            except httpx.HTTPError as e:
-                good, msg = False, f"{type(e).__name__}: {e}"
+            # SPN2 caps how many of our captures may be in flight at once
+            # ("error:user-session-limit"). When we hit it, the slot just needs
+            # time to drain — wait and retry the SAME url rather than skipping.
+            for attempt in range(1, args.max_retries + 2):
+                try:
+                    if args.s3:
+                        good, msg = submit_s3(c, url, args.s3)
+                    else:
+                        good, msg = submit_anon(c, url)
+                except httpx.HTTPError as e:
+                    good, msg = False, f"{type(e).__name__}: {e}"
+                if good or "user-session-limit" not in msg or attempt > args.max_retries:
+                    break
+                print(f"[{i}/{len(todo)}] .. session full, wait {args.backoff}s "
+                      f"(retry {attempt}/{args.max_retries})")
+                time.sleep(args.backoff)
             if good:
                 ok += 1
                 mark_done(url)
@@ -146,10 +160,7 @@ def main() -> int:
                 fail += 1
             tag = "ok " if good else "ERR"
             print(f"[{i}/{len(todo)}] {tag} {url}  {msg}")
-            # back off on throttling
-            if not good and "429" in msg:
-                time.sleep(rate * 4)
-            elif i < len(todo):
+            if i < len(todo):
                 time.sleep(rate)
     print(f"\ndone: {ok} submitted, {fail} failed")
     return 0
