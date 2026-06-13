@@ -56,3 +56,6 @@ data/douban_fuzzy_scraped.json
 
 # Wayback submission progress (resumable cursor, regenerated)
 data/wayback_submitted.txt
+
+# archive.org S3 keys for Wayback submission (secret, never commit)
+data/.wayback_s3

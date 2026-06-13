@@ -108,6 +108,9 @@ def main() -> int:
                     help="seconds to wait when SPN2 session limit is hit")
     ap.add_argument("--max-retries", type=int, default=10,
                     help="how many times to wait-and-retry one url on session limit")
+    ap.add_argument("--max-seconds", type=float, default=0.0,
+                    help="stop this run after N seconds of wall-clock (0 = no cap); "
+                         "resume continues where it left off")
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--send", action="store_true",
                     help="actually submit (otherwise dry-run)")
@@ -135,8 +138,13 @@ def main() -> int:
               "Provide --s3 / WAYBACK_S3 for the ~55k run.\n")
 
     ok = fail = 0
+    start = time.monotonic()
     with httpx.Client(timeout=90) as c:
         for i, url in enumerate(todo, 1):
+            if args.max_seconds and time.monotonic() - start > args.max_seconds:
+                print(f"\n[time budget {args.max_seconds:.0f}s reached — "
+                      f"stopping at {i-1}/{len(todo)}; rerun to resume]")
+                break
             # SPN2 caps how many of our captures may be in flight at once
             # ("error:user-session-limit"). When we hit it, the slot just needs
             # time to drain — wait and retry the SAME url rather than skipping.
