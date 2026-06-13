@@ -14,7 +14,7 @@
     </span>
     <span class="member-name">{{ m.name }}{% if m.has_author_page %}<span class="member-arrow">›</span>{% endif %}</span>
   {% if m.has_author_page %}</a>{% endif %}
-  <span class="member-tenure">{% if m.is_current %}Since {{ m.start_fmt }}{% else %}{{ m.start_fmt }}–{{ m.end_fmt }}{% endif %}</span>
+  <span class="member-tenure">{% if m.is_current %}{{ m.start_fmt }} - Shutdown{% else %}{{ m.start_fmt }}–{{ m.end_fmt }}{% endif %}</span>
   {% if m.tagline %}<p class="member-tagline">{{ m.tagline }}</p>{% endif %}
 </li>
 {% endmacro %}
