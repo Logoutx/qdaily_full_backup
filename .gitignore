@@ -59,3 +59,7 @@ data/wayback_submitted.txt
 
 # archive.org S3 keys for Wayback submission (secret, never commit)
 data/.wayback_s3
+data/wayback.log
+
+# downscaled caption thumbnails (regenerated, local)
+data/caption_thumbs/
