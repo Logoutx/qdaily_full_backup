@@ -1134,6 +1134,20 @@ def main() -> int:
         encoding="utf-8",
     )
 
+    # Permanent dated digest page for the day's picks — the honestly-dated,
+    # indexable artifact (auto-picked up by the sitemap walk as an index.html;
+    # its <lastmod> is set to today below, not the archive's 2019 date).
+    if todays_pick:
+        ddir = out / "daily" / todays_pick["date"]
+        ddir.mkdir(parents=True, exist_ok=True)
+        (ddir / "index.html").write_text(
+            env.get_template("daily.html").render(
+                pick=todays_pick,
+                canonical=canon(f"daily/{todays_pick['date']}/"),
+            ),
+            encoding="utf-8",
+        )
+
     # Year pages
     by_year = defaultdict(list)
     for r in rendered:
@@ -1322,6 +1336,7 @@ def main() -> int:
     (out / "feed.xml").write_text(
         env.get_template("feed.xml").render(
             latest=rendered[:200],
+            digest=todays_pick,
             build_date=email.utils.format_datetime(datetime.utcnow()),
         ),
         encoding="utf-8",
@@ -1346,6 +1361,8 @@ def main() -> int:
         lastmod = newest_date
         if len(segs) == 2 and segs[0] == "articles" and segs[1].isdigit():
             lastmod = id_to_date.get(int(segs[1]), newest_date)
+        elif len(segs) == 2 and segs[0] == "daily":
+            lastmod = segs[1]  # /daily/<YYYY-MM-DD>/ — the digest IS fresh today
         loc = site_url_base + "/" + quote(rel, safe="/")
         sitemap_entries.append((loc, lastmod))
 

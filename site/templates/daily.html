@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}{{ pick.title or ("Today's Pick · " ~ pick.date) }} — {{ site_title }}{% endblock %}
+{% block description %}好奇心日报档案精选 · {{ pick.date }}：{{ pick.articles[:3] | map(attribute='title') | join('、') }}{% endblock %}
+{% block main %}
+<div data-pagefind-ignore="all">
+<nav class="breadcrumb"><a href="{{ url('') }}">首页</a> › Today's Pick</nav>
+<h1>{{ pick.title or ("Today's Pick · " ~ pick.date) }}</h1>
+<p class="meta">{{ pick.date }} · 从好奇心日报五年档案中选出的 {{ pick.articles | length }} 篇</p>
+<ul class="article-list">
+  {% for a in pick.articles %}
+  <li>
+    <time datetime="{{ a.publish_date }}">{{ a.publish_date }}</time>
+    {% if a.category %}<span class="cat">{{ a.category }}</span>{% endif %}
+    <a href="{{ url('articles/' ~ a.id ~ '/') }}">{{ a.title }}</a>
+    {% if a.authors %}<span class="author">{% for au in a.authors %}{% if not loop.first %} · {% endif %}{{ au }}{% endfor %}</span>{% elif a.author %}<span class="author">{{ a.author }}</span>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+</div>
+{% endblock %}

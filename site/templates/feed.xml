@@ -6,6 +6,15 @@
 <description>{{ site_description }}</description>
 <language>zh-Hans</language>
 <lastBuildDate>{{ build_date }}</lastBuildDate>
+{% if digest %}
+<item>
+  <title>Today's Pick · {{ digest.date }}{% if digest.title %}：{{ digest.title | e }}{% endif %}</title>
+  <link>{{ site_url }}{{ url('daily/' ~ digest.date ~ '/') }}</link>
+  <guid isPermaLink="false">qdaily-daily-{{ digest.date }}</guid>
+  <pubDate>{{ build_date }}</pubDate>
+  <description>{{ digest.articles | map(attribute='title') | join(' / ') | e }}</description>
+</item>
+{% endif %}
 {% for a in latest %}
 <item>
   <title>{{ a.title | e }}</title>
