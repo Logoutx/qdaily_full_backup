@@ -6,6 +6,35 @@
   <p class="stats">{{ total }} 篇文章，2014-04-27 上线至 2019-05-27 停更，五年的真实记录</p>
 </section>
 
+{% if todays_pick %}
+<h2>Today's Pick{% if todays_pick.date %} <small>{{ todays_pick.date }}</small>{% endif %}</h2>
+<ul class="article-tiles">
+  {% for a in todays_pick.articles %}
+  <li class="tile">
+    <a class="tile-photo" href="{{ url('articles/' ~ a.id ~ '/') }}">
+      {% if a.tile_banner_resolved %}
+      <picture>
+        {% if a.tile_webp %}<source type="image/webp" srcset="{{ a.tile_webp }}">{% endif %}
+        <img src="{{ a.tile_banner_resolved }}" alt="{{ a.tile_alt }}" loading="lazy"{% if a.tile_wb %} data-wb="{{ a.tile_wb }}"{% endif %} onerror="qdImgTile(this)">
+      </picture>
+      {% endif %}
+    </a>
+    <div class="tile-body">
+      <p class="tile-tags">
+        {% if a.category %}<span class="cat">{{ a.category }}</span>{% endif %}
+        {% if a.is_long %}<span class="tag long">长文章</span>{% endif %}
+      </p>
+      <h3 class="tile-title"><a href="{{ url('articles/' ~ a.id ~ '/') }}">{{ a.title }}</a></h3>
+      <p class="tile-meta">
+        <time datetime="{{ a.publish_date }}">{{ a.publish_date }}</time>
+        {% if a.authors %} · <span class="author">{% for au in a.authors %}{% if not loop.first %} · {% endif %}{% set link = author_url(au) %}{% if link %}<a href="{{ link }}">{{ au }}</a>{% else %}{{ au }}{% endif %}{% endfor %}</span>{% elif a.author %} · <span class="author">{{ a.author }}</span>{% endif %}
+      </p>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
 {% if series_stats %}
 <h2>按系列浏览</h2>
 {# Pure-CSS expand: hidden checkbox toggles .series-extra visibility

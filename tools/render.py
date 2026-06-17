@@ -1106,12 +1106,26 @@ def main() -> int:
     home_series_stats.extend(leftovers)
     # "最后 50 篇" excludes the 广告 category.
     home_latest = [r for r in rendered if r.get("category") != "广告"][:50]
+    # Today's Pick — optional daily curation surfaced on the home page. Driven
+    # by data/daily_picks.json ({date, title, picks:[{id,...}]}); the picks are
+    # existing archive articles, so they already carry every tile field. No-op
+    # when the file is absent.
+    todays_pick = None
+    picks_path = Path("data/daily_picks.json")
+    if picks_path.exists():
+        dp = json.loads(picks_path.read_text(encoding="utf-8"))
+        rid = {r["id"]: r for r in rendered}
+        pick_articles = [rid[p["id"]] for p in dp.get("picks", []) if p.get("id") in rid]
+        if pick_articles:
+            todays_pick = {"date": dp.get("date", ""), "title": dp.get("title", ""),
+                           "articles": pick_articles}
     (out / "index.html").write_text(
         env.get_template("home.html").render(
             total=len(rendered),
             first_date=rendered[-1]["publish_date"],
             last_date=rendered[0]["publish_date"],
             latest=home_latest,
+            todays_pick=todays_pick,
             years_with_counts=sorted(years_with_counts),
             long_total=len(long_articles),
             series_stats=home_series_stats,

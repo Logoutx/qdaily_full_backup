@@ -63,3 +63,10 @@ data/wayback.log
 
 # downscaled caption thumbnails (regenerated, local)
 data/caption_thumbs/
+data/.search_excerpts.jsonl
+data/.fulltext_cache.jsonl
+data/hotspots/
+data/match_candidates/
+data/daily_candidates/
+# NOTE: data/daily_picks.json IS tracked — it's the rendered input for the
+# "Today's Pick" home block; the daily curator re-commits it each run.
