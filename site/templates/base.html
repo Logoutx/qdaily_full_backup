@@ -59,10 +59,10 @@ function qdImgTile(el){        // list/home cards: reveal the CSS skyline behind
     <a class="brand-logo" href="{{ url('') }}" aria-label="首页"><img class="logo-q" src="{{ url('static/logo-q.png') }}?v={{ static_v('logo-q.png') }}" alt="好奇心日报"><img class="logo-daily" src="{{ url('static/logo-daily.png') }}?v={{ static_v('logo-daily.png') }}" alt=""></a>
     <nav>
       {% for y in years %}<a class="year" href="{{ url(y ~ '/') }}">{{ y }}</a>{% endfor %}
+      <a href="{{ url('search/') }}">搜索</a>
       {% if has_long_index %}<a href="{{ url('long/') }}">长文章</a>{% endif %}
       {% if has_series_index %}<a href="{{ url('series/') }}">系列</a>{% endif %}
       {% if has_team_index %}<a href="{{ url('team/') }}">团队</a>{% endif %}
-      <a href="{{ url('search/') }}">搜索</a>
     </nav>
   </div>
 </header>
