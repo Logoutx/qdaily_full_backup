@@ -679,14 +679,17 @@ def main() -> int:
     if static_src.exists():
         shutil.copytree(static_src, out / "static")
 
-    # Passthrough files served at the SITE ROOT (public/<file>): search-engine
-    # ownership-verification files (Baidu/Bing/Sogou/360/Shenma) and the
-    # IndexNow key. Drop any file into site/root/ and it lands at /<file>.
+    # Passthrough files served at the SITE ROOT (public/<rel>): search-engine
+    # ownership-verification files (Baidu/Bing/Sogou/360/Shenma), the IndexNow
+    # key, and /.well-known/ files (e.g. security.txt). Drop a file into
+    # site/root/ and it lands at /<rel>, subdirectories preserved.
     root_src = Path("site/root")
     if root_src.exists():
-        for f in root_src.iterdir():
+        for f in root_src.rglob("*"):
             if f.is_file() and f.suffix.lower() != ".md":
-                shutil.copy2(f, out / f.name)
+                dest = out / f.relative_to(root_src)
+                dest.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(f, dest)
 
     # In local image mode, copy mirrored Wayback assets so the
     # `../../assets/<id>/<digest>.<ext>` paths emitted by resolve_url()

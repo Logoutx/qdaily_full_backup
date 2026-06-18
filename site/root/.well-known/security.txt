@@ -1,0 +1,4 @@
+Contact: mailto:jethorg@gmail.com
+Expires: 2027-06-18T00:00:00Z
+Preferred-Languages: en, zh
+Canonical: https://www.qdaily.org/.well-known/security.txt
