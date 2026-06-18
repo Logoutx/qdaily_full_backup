@@ -1,61 +1,52 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "editor_id": "v1-auto",
-  "title": "音乐节、必胜客与梅西：今日12篇",
+  "title": "中兴芯片、电视剧与音乐节：今日12篇",
   "picks": [
     {
-      "id": 26229,
-      "url": "https://www.qdaily.org/articles/26229/",
-      "title": "你们马上要奔赴的音乐节，背后有一位洋洋得意的策划者｜音乐节上的4个人",
-      "publish_date": "2016-04-29",
+      "id": 18376,
+      "url": "https://www.qdaily.org/articles/18376/",
+      "title": "电视剧在这么多年家长里短之后，终于想着要为年轻人做点什么了吗？| 2015 年轻化系列",
+      "publish_date": "2015-12-02",
       "bucket": "cn-trend",
-      "hotspot": "广州汽水音乐节毕业季",
-      "source": "60s-douyin"
-    },
-    {
-      "id": 9798,
-      "url": "https://www.qdaily.org/articles/9798/",
-      "title": "28年后，拥有肯德基、必胜客的百胜集团，让百胜中国成为了一个独立的公司",
-      "publish_date": "2015-10-21",
-      "bucket": "cn-trend",
-      "hotspot": "必胜客被卖了，百胜中国12亿美元收购中国大陆品牌所有权，卖身原因有哪些？如何看待其中国市场前景？",
-      "source": "60s-zhihu"
-    },
-    {
-      "id": 1455,
-      "url": "https://www.qdaily.org/articles/1455/",
-      "title": "世界杯结束，中产阶级梅西先生不是马拉多纳",
-      "publish_date": "2014-07-14",
-      "bucket": "cn-trend",
-      "hotspot": "梅西世界波",
-      "source": "60s-douyin"
-    },
-    {
-      "id": 29004,
-      "url": "https://www.qdaily.org/articles/29004/",
-      "title": "支付宝余额要有限制了，这是怎么回事？",
-      "publish_date": "2016-07-01",
-      "bucket": "cn-trend",
-      "hotspot": "AI支付",
+      "hotspot": "电视剧炽夏",
       "source": "60s-weibo"
     },
     {
-      "id": 28671,
-      "url": "https://www.qdaily.org/articles/28671/",
-      "title": "英国离开欧盟，是反精英、民粹主义和民族主义情绪的胜利吗？",
-      "publish_date": "2016-06-24",
-      "bucket": "global-trend",
-      "hotspot": "brexit",
-      "source": "google-trends-GB"
+      "id": 2964,
+      "url": "https://www.qdaily.org/articles/2964/",
+      "title": "图解苹果 2014 财报，库克时代的苹果变了",
+      "publish_date": "2014-10-21",
+      "bucket": "cn-trend",
+      "hotspot": "库克：苹果将涨价",
+      "source": "60s-toutiao"
     },
     {
-      "id": 60990,
-      "url": "https://www.qdaily.org/articles/60990/",
-      "title": "92 岁前美联储主席新书，回忆如何控制1980年代美国通胀",
-      "publish_date": "2019-02-10",
+      "id": 36789,
+      "url": "https://www.qdaily.org/articles/36789/",
+      "title": "万科终获深圳地铁入股，这次恒大要和华润一起套现离场",
+      "publish_date": "2017-01-13",
+      "bucket": "cn-trend",
+      "hotspot": "深圳地铁",
+      "source": "google-trends-HK"
+    },
+    {
+      "id": 60656,
+      "url": "https://www.qdaily.org/articles/60656/",
+      "title": "部分纸尿裤化学物质超标，法国要求生产商 15 天内出应对措施",
+      "publish_date": "2019-01-26",
+      "bucket": "cn-trend",
+      "hotspot": "毒纸尿裤",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 52269,
+      "url": "https://www.qdaily.org/articles/52269/",
+      "title": "在全球化分工的手机行当里，中兴不能买美国芯片和软件意味着什么？",
+      "publish_date": "2018-04-19",
       "bucket": "global-trend",
-      "hotspot": "inflation rates",
-      "source": "google-trends-GB"
+      "hotspot": "US holds off blacklisting DeepSeek",
+      "source": "hacker-news"
     },
     {
       "id": 46362,
@@ -63,42 +54,49 @@
       "title": "美国大学研究经费不断减少，引发未来对经济发展的担忧",
       "publish_date": "2017-10-23",
       "bucket": "global-trend",
-      "hotspot": "U.S. Science Is in Chaos",
+      "hotspot": "U.S. science is in chaos",
       "source": "hacker-news"
     },
     {
-      "id": 43818,
-      "url": "https://www.qdaily.org/articles/43818/",
-      "title": "花 6 年修复一座百年历史的上海老房子，是怎样一个过程？| 100 个有想法的人",
-      "publish_date": "2017-08-07",
+      "id": 53210,
+      "url": "https://www.qdaily.org/articles/53210/",
+      "title": "600 个性别平等倡导者在瑞典开了一个会，真诚地探讨了若干问题",
+      "publish_date": "2018-05-16",
       "bucket": "longform"
     },
     {
-      "id": 22915,
-      "url": "https://www.qdaily.org/articles/22915/",
-      "title": "这个复印机公司，曾经有机会比苹果和微软加起来还大",
-      "publish_date": "2016-02-27",
+      "id": 2093,
+      "url": "https://www.qdaily.org/articles/2093/",
+      "title": "10 个图告诉你万达做电商，成功的可能性有多大？",
+      "publish_date": "2014-09-01",
       "bucket": "longform"
     },
     {
-      "id": 23192,
-      "url": "https://www.qdaily.org/articles/23192/",
-      "title": "那些你不要的衣服都去哪儿了？",
-      "publish_date": "2016-03-03",
+      "id": 45351,
+      "url": "https://www.qdaily.org/articles/45351/",
+      "title": "如果“做一场好展览和做一本好杂志没什么两样”，这家公司能给我们什么借鉴？",
+      "publish_date": "2017-09-30",
       "bucket": "longform"
     },
     {
-      "id": 49305,
-      "url": "https://www.qdaily.org/articles/49305/",
-      "title": "创刊10年，“世界上最嬉皮的室内设计杂志”如何展示乱糟糟的美好生活？",
-      "publish_date": "2018-01-23",
+      "id": 63231,
+      "url": "https://www.qdaily.org/articles/63231/",
+      "title": "不存在真正的“包豪斯城市”，但包豪斯的确塑造了我们的城市空间 | 好奇心商业史",
+      "publish_date": "2019-04-25",
       "bucket": "longform"
     },
     {
-      "id": 42226,
-      "url": "https://www.qdaily.org/articles/42226/",
-      "title": "百威英博、汉堡王、亨氏、卡夫背后的资本，有着怎样的传奇故事？",
-      "publish_date": "2017-06-21",
+      "id": 53081,
+      "url": "https://www.qdaily.org/articles/53081/",
+      "title": "袁隆平参与开发的海水稻即将试种，粮食安全是一个怎样的问题？",
+      "publish_date": "2018-05-14",
+      "bucket": "longform"
+    },
+    {
+      "id": 64021,
+      "url": "https://www.qdaily.org/articles/64021/",
+      "title": "纳粹如何塑造犹太人为全民公敌，又如何操纵舆论？",
+      "publish_date": "2019-05-24",
       "bucket": "longform"
     }
   ]
