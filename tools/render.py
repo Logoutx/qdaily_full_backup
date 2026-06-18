@@ -17,6 +17,7 @@ import argparse
 import email.utils
 import hashlib
 import json
+import random
 import shutil
 import sys
 import time
@@ -1120,6 +1121,10 @@ def main() -> int:
         rid = {r["id"]: r for r in rendered}
         pick_articles = [rid[p["id"]] for p in dp.get("picks", []) if p.get("id") in rid]
         if pick_articles:
+            # Randomize display order (date-seeded → stable per day, reshuffled
+            # each new day) so the cn-trend / global-trend / longform buckets
+            # aren't visually grouped. The data file stays grouped for attribution.
+            random.Random(dp.get("date", "")).shuffle(pick_articles)
             todays_pick = {"date": dp.get("date", ""), "title": dp.get("title", ""),
                            "articles": pick_articles}
     (out / "index.html").write_text(
