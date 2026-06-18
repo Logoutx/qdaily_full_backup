@@ -6,6 +6,7 @@ on:
     paths:
       - 'data/articles_extracted_*.jsonl'
       - 'data/images.jsonl'
+      - 'data/daily_picks.json'
       - 'assets/**'
       - 'site/**'
       - 'tools/render.py'
