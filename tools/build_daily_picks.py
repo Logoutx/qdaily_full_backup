@@ -75,6 +75,14 @@ def main() -> int:
             and r.get("publish_date") and (r.get("title") or "").strip()]
     excerpts = build_excerpt_cache(recs)
 
+    # Backstage quality exclusions (broken galleries, thin-text, Apple
+    # announcements, light financial reports) — see tools/tag_pick_exclusions.py.
+    ex_path = Path("data/pick_exclusions.json")
+    EXCLUDED: set[int] = set()
+    if ex_path.exists():
+        EXCLUDED = {int(k) for k in
+                    json.loads(ex_path.read_text(encoding="utf-8")).get("excluded", {})}
+
     # Inverted char-bigram index (title×3 + category×2 + excerpt×1) — same shape
     # as tools/match_archive.py.
     index: dict[str, list[tuple[int, int]]] = defaultdict(list)
@@ -117,6 +125,8 @@ def main() -> int:
         for score, idx in lexical(hs["title"]):
             if score < MIN_SCORE:
                 break
+            if recs[idx]["id"] in EXCLUDED:
+                continue
             recs_out.append(card(recs[idx], score=score))
             if len(recs_out) >= PER_TREND:
                 break
@@ -132,7 +142,8 @@ def main() -> int:
                      for hs in hotspots if not is_cn_source(hs["source"])]
 
     # --- longform serendipity pool (date-seeded random, excludes cn-trend picks) ---
-    longs = [r for r in recs if is_longform(r) and r["id"] not in cn_seen]
+    longs = [r for r in recs if is_longform(r)
+             and r["id"] not in cn_seen and r["id"] not in EXCLUDED]
     rng = random.Random(int(args.date.replace("-", "")))
     rng.shuffle(longs)
     longform_pool = [card(r) for r in longs[:LONGFORM_POOL]]
