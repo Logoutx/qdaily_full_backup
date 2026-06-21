@@ -6,12 +6,12 @@
     "light-financial": "<3000 chars company financial report"
   },
   "counts": {
-    "broken-gallery-thin": 5636,
-    "broken-no-text": 3345,
+    "broken-gallery-thin": 6091,
+    "broken-no-text": 3350,
     "apple-announcement": 206,
     "light-financial": 829
   },
-  "n_excluded": 9779,
+  "n_excluded": 10217,
   "excluded": {
     "97": [
       "broken-gallery-thin",
@@ -29083,29 +29083,129 @@
     "58430": [
       "broken-gallery-thin"
     ],
+    "58442": [
+      "broken-gallery-thin"
+    ],
+    "58444": [
+      "broken-gallery-thin"
+    ],
     "58457": [
       "light-financial"
+    ],
+    "58468": [
+      "broken-gallery-thin"
     ],
     "58472": [
       "light-financial"
     ],
     "58492": [
+      "broken-gallery-thin",
       "light-financial"
+    ],
+    "58515": [
+      "broken-gallery-thin"
+    ],
+    "58535": [
+      "broken-gallery-thin"
+    ],
+    "58537": [
+      "broken-gallery-thin"
+    ],
+    "58559": [
+      "broken-gallery-thin"
+    ],
+    "58567": [
+      "broken-gallery-thin"
+    ],
+    "58575": [
+      "broken-gallery-thin"
+    ],
+    "58589": [
+      "broken-gallery-thin"
     ],
     "58590": [
       "light-financial"
     ],
+    "58595": [
+      "broken-gallery-thin"
+    ],
+    "58596": [
+      "broken-gallery-thin"
+    ],
     "58604": [
       "apple-announcement"
+    ],
+    "58608": [
+      "broken-gallery-thin"
+    ],
+    "58620": [
+      "broken-gallery-thin"
+    ],
+    "58622": [
+      "broken-gallery-thin"
+    ],
+    "58629": [
+      "broken-gallery-thin"
     ],
     "58634": [
       "light-financial"
     ],
+    "58658": [
+      "broken-gallery-thin"
+    ],
+    "58675": [
+      "broken-gallery-thin"
+    ],
+    "58677": [
+      "broken-gallery-thin"
+    ],
+    "58678": [
+      "broken-gallery-thin"
+    ],
+    "58689": [
+      "broken-gallery-thin"
+    ],
+    "58693": [
+      "broken-gallery-thin"
+    ],
+    "58702": [
+      "broken-gallery-thin"
+    ],
+    "58705": [
+      "broken-gallery-thin"
+    ],
+    "58716": [
+      "broken-gallery-thin"
+    ],
     "58722": [
       "light-financial"
     ],
+    "58726": [
+      "broken-gallery-thin"
+    ],
+    "58753": [
+      "broken-gallery-thin"
+    ],
+    "58762": [
+      "broken-gallery-thin"
+    ],
     "58772": [
       "light-financial"
+    ],
+    "58794": [
+      "broken-gallery-thin"
+    ],
+    "58795": [
+      "broken-gallery-thin"
+    ],
+    "58804": [
+      "broken-gallery-thin"
+    ],
+    "58808": [
+      "broken-gallery-thin"
+    ],
+    "58810": [
+      "broken-gallery-thin"
     ],
     "58812": [
       "light-financial"
@@ -29113,62 +29213,366 @@
     "58819": [
       "light-financial"
     ],
+    "58832": [
+      "broken-gallery-thin"
+    ],
     "58833": [
       "light-financial"
     ],
+    "58839": [
+      "broken-gallery-thin"
+    ],
+    "58849": [
+      "broken-gallery-thin"
+    ],
     "58852": [
+      "broken-gallery-thin",
       "light-financial"
     ],
     "58855": [
       "light-financial"
     ],
+    "58887": [
+      "broken-gallery-thin"
+    ],
+    "58898": [
+      "broken-gallery-thin"
+    ],
+    "58910": [
+      "broken-gallery-thin"
+    ],
     "58913": [
       "apple-announcement"
+    ],
+    "58914": [
+      "broken-gallery-thin"
+    ],
+    "58936": [
+      "broken-gallery-thin"
     ],
     "58997": [
       "light-financial"
     ],
+    "59033": [
+      "broken-gallery-thin"
+    ],
+    "59062": [
+      "broken-gallery-thin"
+    ],
+    "59063": [
+      "broken-gallery-thin"
+    ],
+    "59083": [
+      "broken-gallery-thin"
+    ],
     "59086": [
       "light-financial"
+    ],
+    "59102": [
+      "broken-gallery-thin"
+    ],
+    "59104": [
+      "broken-gallery-thin"
     ],
     "59110": [
       "light-financial"
     ],
+    "59112": [
+      "broken-gallery-thin"
+    ],
+    "59124": [
+      "broken-gallery-thin"
+    ],
+    "59137": [
+      "broken-gallery-thin"
+    ],
+    "59157": [
+      "broken-gallery-thin"
+    ],
+    "59160": [
+      "broken-gallery-thin"
+    ],
+    "59173": [
+      "broken-gallery-thin"
+    ],
+    "59180": [
+      "broken-gallery-thin"
+    ],
+    "59182": [
+      "broken-gallery-thin"
+    ],
+    "59202": [
+      "broken-gallery-thin"
+    ],
+    "59208": [
+      "broken-gallery-thin"
+    ],
+    "59213": [
+      "broken-gallery-thin"
+    ],
+    "59223": [
+      "broken-gallery-thin"
+    ],
     "59239": [
       "light-financial"
+    ],
+    "59246": [
+      "broken-gallery-thin"
+    ],
+    "59266": [
+      "broken-gallery-thin"
+    ],
+    "59267": [
+      "broken-gallery-thin"
     ],
     "59270": [
       "apple-announcement"
     ],
+    "59285": [
+      "broken-gallery-thin"
+    ],
+    "59288": [
+      "broken-gallery-thin"
+    ],
+    "59303": [
+      "broken-gallery-thin"
+    ],
+    "59304": [
+      "broken-gallery-thin"
+    ],
+    "59341": [
+      "broken-gallery-thin"
+    ],
+    "59348": [
+      "broken-gallery-thin"
+    ],
+    "59349": [
+      "broken-gallery-thin"
+    ],
+    "59362": [
+      "broken-gallery-thin"
+    ],
+    "59366": [
+      "broken-gallery-thin"
+    ],
+    "59384": [
+      "broken-gallery-thin"
+    ],
+    "59387": [
+      "broken-gallery-thin"
+    ],
+    "59396": [
+      "broken-gallery-thin"
+    ],
+    "59401": [
+      "broken-gallery-thin"
+    ],
     "59418": [
       "light-financial"
+    ],
+    "59437": [
+      "broken-gallery-thin"
+    ],
+    "59460": [
+      "broken-gallery-thin"
+    ],
+    "59473": [
+      "broken-gallery-thin"
+    ],
+    "59481": [
+      "broken-gallery-thin"
+    ],
+    "59485": [
+      "broken-gallery-thin"
+    ],
+    "59496": [
+      "broken-gallery-thin"
     ],
     "59498": [
       "light-financial"
     ],
+    "59513": [
+      "broken-gallery-thin"
+    ],
+    "59541": [
+      "broken-gallery-thin"
+    ],
+    "59543": [
+      "broken-gallery-thin"
+    ],
     "59550": [
       "light-financial"
+    ],
+    "59568": [
+      "broken-gallery-thin"
+    ],
+    "59573": [
+      "broken-gallery-thin"
+    ],
+    "59604": [
+      "broken-gallery-thin"
+    ],
+    "59607": [
+      "broken-gallery-thin"
+    ],
+    "59640": [
+      "broken-gallery-thin"
+    ],
+    "59658": [
+      "broken-gallery-thin"
     ],
     "59673": [
       "light-financial"
     ],
+    "59674": [
+      "broken-gallery-thin"
+    ],
+    "59683": [
+      "broken-gallery-thin"
+    ],
+    "59689": [
+      "broken-gallery-thin"
+    ],
+    "59695": [
+      "broken-gallery-thin"
+    ],
+    "59697": [
+      "broken-gallery-thin"
+    ],
+    "59698": [
+      "broken-gallery-thin"
+    ],
+    "59723": [
+      "broken-gallery-thin"
+    ],
+    "59735": [
+      "broken-gallery-thin"
+    ],
+    "59740": [
+      "broken-gallery-thin"
+    ],
+    "59762": [
+      "broken-gallery-thin"
+    ],
+    "59778": [
+      "broken-gallery-thin"
+    ],
+    "59779": [
+      "broken-gallery-thin"
+    ],
     "59783": [
       "light-financial"
     ],
+    "59796": [
+      "broken-gallery-thin"
+    ],
     "59815": [
+      "broken-gallery-thin",
       "apple-announcement"
+    ],
+    "59816": [
+      "broken-gallery-thin"
+    ],
+    "59824": [
+      "broken-gallery-thin"
+    ],
+    "59861": [
+      "broken-gallery-thin"
+    ],
+    "59864": [
+      "broken-gallery-thin"
+    ],
+    "59880": [
+      "broken-gallery-thin"
+    ],
+    "59883": [
+      "broken-gallery-thin"
+    ],
+    "59889": [
+      "broken-gallery-thin",
+      "broken-no-text"
+    ],
+    "59911": [
+      "broken-gallery-thin"
+    ],
+    "59915": [
+      "broken-gallery-thin"
+    ],
+    "59920": [
+      "broken-gallery-thin"
+    ],
+    "59926": [
+      "broken-gallery-thin"
     ],
     "59945": [
       "light-financial"
     ],
+    "59959": [
+      "broken-gallery-thin"
+    ],
+    "59970": [
+      "broken-gallery-thin"
+    ],
+    "59985": [
+      "broken-gallery-thin"
+    ],
+    "60002": [
+      "broken-gallery-thin"
+    ],
+    "60023": [
+      "broken-gallery-thin"
+    ],
+    "60024": [
+      "broken-gallery-thin"
+    ],
+    "60060": [
+      "broken-gallery-thin"
+    ],
     "60072": [
+      "broken-gallery-thin",
       "apple-announcement"
+    ],
+    "60084": [
+      "broken-gallery-thin"
     ],
     "60090": [
       "light-financial"
     ],
+    "60098": [
+      "broken-gallery-thin"
+    ],
     "60106": [
       "light-financial"
+    ],
+    "60113": [
+      "broken-gallery-thin"
+    ],
+    "60131": [
+      "broken-gallery-thin"
+    ],
+    "60148": [
+      "broken-gallery-thin"
+    ],
+    "60152": [
+      "broken-gallery-thin"
+    ],
+    "60154": [
+      "broken-gallery-thin"
+    ],
+    "60167": [
+      "broken-gallery-thin"
+    ],
+    "60172": [
+      "broken-gallery-thin"
+    ],
+    "60173": [
+      "broken-gallery-thin"
+    ],
+    "60188": [
+      "broken-gallery-thin"
+    ],
+    "60191": [
+      "broken-gallery-thin"
     ],
     "60205": [
       "light-financial"
@@ -29176,11 +29580,68 @@
     "60207": [
       "apple-announcement"
     ],
+    "60219": [
+      "broken-gallery-thin"
+    ],
+    "60222": [
+      "broken-gallery-thin"
+    ],
+    "60231": [
+      "broken-gallery-thin"
+    ],
+    "60237": [
+      "broken-gallery-thin"
+    ],
+    "60238": [
+      "broken-gallery-thin"
+    ],
+    "60241": [
+      "broken-gallery-thin"
+    ],
     "60242": [
       "light-financial"
     ],
     "60249": [
       "apple-announcement"
+    ],
+    "60251": [
+      "broken-gallery-thin"
+    ],
+    "60277": [
+      "broken-gallery-thin"
+    ],
+    "60279": [
+      "broken-gallery-thin"
+    ],
+    "60293": [
+      "broken-gallery-thin"
+    ],
+    "60305": [
+      "broken-gallery-thin"
+    ],
+    "60318": [
+      "broken-gallery-thin"
+    ],
+    "60325": [
+      "broken-gallery-thin"
+    ],
+    "60340": [
+      "broken-gallery-thin"
+    ],
+    "60345": [
+      "broken-gallery-thin"
+    ],
+    "60349": [
+      "broken-gallery-thin"
+    ],
+    "60361": [
+      "broken-gallery-thin"
+    ],
+    "60371": [
+      "broken-gallery-thin"
+    ],
+    "60398": [
+      "broken-gallery-thin"
     ],
     "60418": [
       "apple-announcement"
@@ -29188,68 +29649,241 @@
     "60424": [
       "light-financial"
     ],
+    "60428": [
+      "broken-gallery-thin"
+    ],
+    "60433": [
+      "broken-gallery-thin"
+    ],
+    "60454": [
+      "broken-gallery-thin"
+    ],
+    "60455": [
+      "broken-gallery-thin"
+    ],
+    "60471": [
+      "broken-gallery-thin"
+    ],
+    "60476": [
+      "broken-gallery-thin"
+    ],
+    "60487": [
+      "broken-gallery-thin"
+    ],
     "60494": [
       "light-financial"
+    ],
+    "60497": [
+      "broken-gallery-thin"
+    ],
+    "60502": [
+      "broken-gallery-thin"
+    ],
+    "60507": [
+      "broken-gallery-thin"
+    ],
+    "60511": [
+      "broken-gallery-thin"
     ],
     "60521": [
       "light-financial"
     ],
+    "60523": [
+      "broken-gallery-thin"
+    ],
+    "60544": [
+      "broken-gallery-thin"
+    ],
+    "60546": [
+      "broken-gallery-thin"
+    ],
+    "60580": [
+      "broken-gallery-thin"
+    ],
+    "60592": [
+      "broken-gallery-thin"
+    ],
     "60594": [
+      "broken-gallery-thin",
       "light-financial"
+    ],
+    "60618": [
+      "broken-gallery-thin"
+    ],
+    "60626": [
+      "broken-gallery-thin"
     ],
     "60635": [
       "light-financial"
     ],
+    "60657": [
+      "broken-gallery-thin"
+    ],
+    "60697": [
+      "broken-gallery-thin"
+    ],
+    "60698": [
+      "broken-gallery-thin"
+    ],
+    "60700": [
+      "broken-gallery-thin"
+    ],
+    "60703": [
+      "broken-gallery-thin"
+    ],
+    "60709": [
+      "broken-gallery-thin"
+    ],
     "60716": [
       "light-financial"
+    ],
+    "60718": [
+      "broken-gallery-thin"
+    ],
+    "60736": [
+      "broken-gallery-thin"
     ],
     "60738": [
       "light-financial"
     ],
+    "60739": [
+      "broken-gallery-thin"
+    ],
+    "60760": [
+      "broken-gallery-thin"
+    ],
     "60768": [
       "light-financial"
+    ],
+    "60783": [
+      "broken-gallery-thin"
+    ],
+    "60784": [
+      "broken-gallery-thin"
+    ],
+    "60797": [
+      "broken-gallery-thin"
     ],
     "60823": [
       "light-financial"
     ],
+    "60825": [
+      "broken-gallery-thin"
+    ],
     "60834": [
       "light-financial"
+    ],
+    "60836": [
+      "broken-gallery-thin"
+    ],
+    "60837": [
+      "broken-gallery-thin"
+    ],
+    "60860": [
+      "broken-gallery-thin"
+    ],
+    "60863": [
+      "broken-gallery-thin"
     ],
     "60868": [
       "light-financial"
     ],
+    "60877": [
+      "broken-gallery-thin"
+    ],
     "60880": [
       "light-financial"
     ],
+    "60905": [
+      "broken-gallery-thin"
+    ],
+    "60912": [
+      "broken-gallery-thin"
+    ],
     "60934": [
+      "broken-gallery-thin",
       "light-financial"
     ],
     "60963": [
       "light-financial"
     ],
     "60968": [
+      "broken-gallery-thin",
       "light-financial"
+    ],
+    "60969": [
+      "broken-gallery-thin"
+    ],
+    "60974": [
+      "broken-gallery-thin"
+    ],
+    "60986": [
+      "broken-gallery-thin"
     ],
     "60997": [
       "light-financial"
     ],
+    "61004": [
+      "broken-gallery-thin"
+    ],
+    "61013": [
+      "broken-gallery-thin"
+    ],
+    "61020": [
+      "broken-gallery-thin"
+    ],
     "61026": [
       "light-financial"
+    ],
+    "61032": [
+      "broken-gallery-thin"
+    ],
+    "61062": [
+      "broken-gallery-thin"
+    ],
+    "61064": [
+      "broken-gallery-thin"
     ],
     "61076": [
       "light-financial"
     ],
+    "61084": [
+      "broken-gallery-thin"
+    ],
     "61089": [
+      "broken-gallery-thin",
       "apple-announcement"
+    ],
+    "61117": [
+      "broken-gallery-thin"
+    ],
+    "61120": [
+      "broken-gallery-thin"
     ],
     "61131": [
       "light-financial"
     ],
+    "61151": [
+      "broken-gallery-thin"
+    ],
     "61160": [
       "light-financial"
     ],
+    "61169": [
+      "broken-gallery-thin"
+    ],
+    "61171": [
+      "broken-gallery-thin"
+    ],
     "61180": [
+      "broken-gallery-thin",
       "light-financial"
+    ],
+    "61183": [
+      "broken-gallery-thin"
+    ],
+    "61187": [
+      "broken-gallery-thin"
     ],
     "61193": [
       "light-financial"
@@ -29257,11 +29891,41 @@
     "61198": [
       "apple-announcement"
     ],
+    "61201": [
+      "broken-gallery-thin"
+    ],
+    "61203": [
+      "broken-gallery-thin"
+    ],
+    "61205": [
+      "broken-gallery-thin"
+    ],
+    "61207": [
+      "broken-gallery-thin"
+    ],
     "61223": [
       "light-financial"
     ],
+    "61225": [
+      "broken-gallery-thin"
+    ],
+    "61251": [
+      "broken-gallery-thin"
+    ],
     "61254": [
       "light-financial"
+    ],
+    "61262": [
+      "broken-gallery-thin"
+    ],
+    "61267": [
+      "broken-gallery-thin"
+    ],
+    "61285": [
+      "broken-gallery-thin"
+    ],
+    "61290": [
+      "broken-gallery-thin"
     ],
     "61295": [
       "apple-announcement"
@@ -29272,44 +29936,152 @@
     "61310": [
       "light-financial"
     ],
+    "61322": [
+      "broken-gallery-thin"
+    ],
+    "61334": [
+      "broken-gallery-thin"
+    ],
+    "61339": [
+      "broken-gallery-thin"
+    ],
+    "61341": [
+      "broken-gallery-thin"
+    ],
+    "61357": [
+      "broken-gallery-thin"
+    ],
+    "61361": [
+      "broken-gallery-thin"
+    ],
+    "61364": [
+      "broken-gallery-thin"
+    ],
     "61382": [
       "light-financial"
     ],
     "61383": [
       "light-financial"
     ],
+    "61390": [
+      "broken-gallery-thin"
+    ],
     "61399": [
+      "broken-gallery-thin",
       "light-financial"
+    ],
+    "61434": [
+      "broken-gallery-thin"
+    ],
+    "61436": [
+      "broken-gallery-thin"
     ],
     "61449": [
       "light-financial"
     ],
+    "61474": [
+      "broken-gallery-thin"
+    ],
+    "61494": [
+      "broken-gallery-thin"
+    ],
     "61500": [
+      "broken-gallery-thin",
       "light-financial"
+    ],
+    "61504": [
+      "broken-gallery-thin"
+    ],
+    "61533": [
+      "broken-gallery-thin"
+    ],
+    "61536": [
+      "broken-gallery-thin"
     ],
     "61537": [
       "light-financial"
     ],
+    "61546": [
+      "broken-gallery-thin"
+    ],
+    "61547": [
+      "broken-gallery-thin"
+    ],
+    "61548": [
+      "broken-gallery-thin"
+    ],
+    "61549": [
+      "broken-gallery-thin"
+    ],
+    "61570": [
+      "broken-gallery-thin"
+    ],
+    "61571": [
+      "broken-gallery-thin"
+    ],
+    "61572": [
+      "broken-gallery-thin"
+    ],
     "61578": [
       "light-financial"
+    ],
+    "61582": [
+      "broken-gallery-thin"
+    ],
+    "61586": [
+      "broken-gallery-thin"
+    ],
+    "61603": [
+      "broken-gallery-thin"
     ],
     "61604": [
       "light-financial"
     ],
+    "61610": [
+      "broken-gallery-thin"
+    ],
+    "61627": [
+      "broken-gallery-thin"
+    ],
+    "61628": [
+      "broken-gallery-thin"
+    ],
+    "61640": [
+      "broken-gallery-thin"
+    ],
     "61642": [
       "light-financial"
+    ],
+    "61646": [
+      "broken-gallery-thin"
+    ],
+    "61648": [
+      "broken-gallery-thin"
+    ],
+    "61660": [
+      "broken-gallery-thin"
     ],
     "61663": [
       "light-financial"
     ],
     "61668": [
+      "broken-gallery-thin",
       "light-financial"
     ],
     "61681": [
       "light-financial"
     ],
+    "61682": [
+      "broken-gallery-thin"
+    ],
     "61686": [
       "light-financial"
+    ],
+    "61697": [
+      "broken-gallery-thin"
+    ],
+    "61699": [
+      "broken-gallery-thin"
     ],
     "61705": [
       "light-financial"
@@ -29317,20 +30089,80 @@
     "61707": [
       "light-financial"
     ],
+    "61733": [
+      "broken-gallery-thin"
+    ],
     "61749": [
       "light-financial"
+    ],
+    "61751": [
+      "broken-gallery-thin"
+    ],
+    "61760": [
+      "broken-gallery-thin"
     ],
     "61773": [
       "light-financial"
     ],
+    "61777": [
+      "broken-gallery-thin"
+    ],
     "61781": [
       "light-financial"
+    ],
+    "61799": [
+      "broken-gallery-thin"
+    ],
+    "61800": [
+      "broken-gallery-thin"
+    ],
+    "61823": [
+      "broken-gallery-thin"
+    ],
+    "61824": [
+      "broken-gallery-thin"
+    ],
+    "61850": [
+      "broken-gallery-thin"
     ],
     "61857": [
       "light-financial"
     ],
+    "61870": [
+      "broken-gallery-thin"
+    ],
+    "61874": [
+      "broken-gallery-thin"
+    ],
+    "61875": [
+      "broken-gallery-thin"
+    ],
+    "61877": [
+      "broken-gallery-thin"
+    ],
+    "61886": [
+      "broken-gallery-thin"
+    ],
+    "61890": [
+      "broken-gallery-thin"
+    ],
     "61898": [
       "light-financial"
+    ],
+    "61901": [
+      "broken-gallery-thin"
+    ],
+    "61904": [
+      "broken-gallery-thin"
+    ],
+    "61920": [
+      "broken-gallery-thin"
+    ],
+    "61928": [
+      "broken-gallery-thin"
+    ],
+    "61962": [
+      "broken-gallery-thin"
     ],
     "61965": [
       "light-financial"
@@ -29338,17 +30170,56 @@
     "61969": [
       "light-financial"
     ],
+    "61972": [
+      "broken-gallery-thin"
+    ],
+    "61978": [
+      "broken-gallery-thin"
+    ],
+    "61992": [
+      "broken-gallery-thin"
+    ],
+    "61995": [
+      "broken-gallery-thin"
+    ],
+    "62015": [
+      "broken-gallery-thin"
+    ],
+    "62019": [
+      "broken-gallery-thin"
+    ],
     "62033": [
       "light-financial"
+    ],
+    "62036": [
+      "broken-gallery-thin"
     ],
     "62046": [
       "light-financial"
     ],
+    "62051": [
+      "broken-gallery-thin"
+    ],
     "62056": [
       "light-financial"
     ],
+    "62060": [
+      "broken-gallery-thin"
+    ],
     "62063": [
       "light-financial"
+    ],
+    "62069": [
+      "broken-gallery-thin"
+    ],
+    "62073": [
+      "broken-gallery-thin"
+    ],
+    "62076": [
+      "broken-gallery-thin"
+    ],
+    "62083": [
+      "broken-gallery-thin"
     ],
     "62086": [
       "light-financial"
@@ -29356,20 +30227,50 @@
     "62098": [
       "light-financial"
     ],
+    "62117": [
+      "broken-gallery-thin"
+    ],
+    "62122": [
+      "broken-gallery-thin"
+    ],
+    "62134": [
+      "broken-gallery-thin"
+    ],
+    "62139": [
+      "broken-gallery-thin"
+    ],
+    "62144": [
+      "broken-gallery-thin"
+    ],
     "62148": [
       "light-financial"
+    ],
+    "62156": [
+      "broken-gallery-thin"
     ],
     "62166": [
       "apple-announcement"
     ],
+    "62174": [
+      "broken-gallery-thin"
+    ],
     "62177": [
       "light-financial"
+    ],
+    "62179": [
+      "broken-gallery-thin"
     ],
     "62200": [
       "light-financial"
     ],
+    "62201": [
+      "broken-gallery-thin"
+    ],
     "62206": [
       "light-financial"
+    ],
+    "62207": [
+      "broken-gallery-thin"
     ],
     "62213": [
       "apple-announcement"
@@ -29377,35 +30278,79 @@
     "62218": [
       "light-financial"
     ],
+    "62222": [
+      "broken-gallery-thin"
+    ],
     "62244": [
       "apple-announcement"
+    ],
+    "62246": [
+      "broken-gallery-thin"
     ],
     "62250": [
       "apple-announcement"
     ],
+    "62257": [
+      "broken-gallery-thin"
+    ],
     "62259": [
       "light-financial"
+    ],
+    "62263": [
+      "broken-gallery-thin"
+    ],
+    "62265": [
+      "broken-gallery-thin"
+    ],
+    "62273": [
+      "broken-gallery-thin"
     ],
     "62274": [
       "light-financial"
     ],
+    "62277": [
+      "broken-gallery-thin"
+    ],
+    "62287": [
+      "broken-gallery-thin"
+    ],
+    "62294": [
+      "broken-gallery-thin"
+    ],
     "62297": [
+      "broken-gallery-thin",
       "light-financial"
+    ],
+    "62313": [
+      "broken-gallery-thin"
     ],
     "62325": [
       "apple-announcement"
+    ],
+    "62336": [
+      "broken-gallery-thin"
     ],
     "62341": [
       "light-financial"
     ],
     "62343": [
+      "broken-gallery-thin",
       "light-financial"
     ],
     "62345": [
       "apple-announcement"
     ],
+    "62346": [
+      "broken-gallery-thin"
+    ],
     "62363": [
       "light-financial"
+    ],
+    "62370": [
+      "broken-gallery-thin"
+    ],
+    "62380": [
+      "broken-gallery-thin"
     ],
     "62381": [
       "apple-announcement"
@@ -29413,14 +30358,36 @@
     "62385": [
       "apple-announcement"
     ],
+    "62387": [
+      "broken-gallery-thin"
+    ],
     "62402": [
       "apple-announcement"
+    ],
+    "62406": [
+      "broken-gallery-thin"
+    ],
+    "62410": [
+      "broken-gallery-thin"
+    ],
+    "62418": [
+      "broken-gallery-thin"
+    ],
+    "62424": [
+      "broken-gallery-thin"
     ],
     "62449": [
       "light-financial"
     ],
     "62456": [
+      "broken-gallery-thin",
       "light-financial"
+    ],
+    "62464": [
+      "broken-gallery-thin"
+    ],
+    "62465": [
+      "broken-gallery-thin"
     ],
     "62468": [
       "apple-announcement"
@@ -29431,29 +30398,134 @@
     "62486": [
       "light-financial"
     ],
+    "62493": [
+      "broken-gallery-thin"
+    ],
+    "62499": [
+      "broken-gallery-thin"
+    ],
+    "62502": [
+      "broken-gallery-thin"
+    ],
+    "62507": [
+      "broken-gallery-thin"
+    ],
+    "62512": [
+      "broken-gallery-thin"
+    ],
+    "62531": [
+      "broken-gallery-thin"
+    ],
+    "62541": [
+      "broken-gallery-thin"
+    ],
+    "62546": [
+      "broken-gallery-thin"
+    ],
     "62550": [
       "apple-announcement"
+    ],
+    "62555": [
+      "broken-gallery-thin"
+    ],
+    "63008": [
+      "broken-gallery-thin"
     ],
     "63007": [
       "light-financial"
     ],
+    "63031": [
+      "broken-gallery-thin"
+    ],
+    "63006": [
+      "broken-gallery-thin"
+    ],
+    "63085": [
+      "broken-gallery-thin"
+    ],
+    "63049": [
+      "broken-gallery-thin"
+    ],
+    "63090": [
+      "broken-gallery-thin"
+    ],
+    "63106": [
+      "broken-gallery-thin"
+    ],
+    "63119": [
+      "broken-gallery-thin"
+    ],
     "63111": [
       "light-financial"
+    ],
+    "63127": [
+      "broken-gallery-thin"
+    ],
+    "63151": [
+      "broken-gallery-thin"
+    ],
+    "63154": [
+      "broken-gallery-thin"
+    ],
+    "63147": [
+      "broken-gallery-thin"
     ],
     "63158": [
       "light-financial"
     ],
+    "63153": [
+      "broken-gallery-thin"
+    ],
+    "63140": [
+      "broken-gallery-thin"
+    ],
+    "63194": [
+      "broken-gallery-thin"
+    ],
+    "63185": [
+      "broken-gallery-thin"
+    ],
+    "63170": [
+      "broken-gallery-thin"
+    ],
     "63188": [
       "light-financial"
+    ],
+    "63203": [
+      "broken-gallery-thin"
+    ],
+    "63227": [
+      "broken-gallery-thin"
+    ],
+    "63220": [
+      "broken-gallery-thin"
     ],
     "63230": [
       "light-financial"
     ],
+    "63265": [
+      "broken-gallery-thin"
+    ],
+    "63255": [
+      "broken-gallery-thin"
+    ],
     "63254": [
       "light-financial"
     ],
+    "63249": [
+      "broken-gallery-thin"
+    ],
+    "63242": [
+      "broken-gallery-thin"
+    ],
+    "63297": [
+      "broken-gallery-thin"
+    ],
     "63303": [
       "light-financial"
+    ],
+    "63275": [
+      "broken-gallery-thin"
     ],
     "63294": [
       "light-financial"
@@ -29461,8 +30533,14 @@
     "63305": [
       "light-financial"
     ],
+    "63315": [
+      "broken-gallery-thin"
+    ],
     "63300": [
       "light-financial"
+    ],
+    "63333": [
+      "broken-gallery-thin"
     ],
     "63353": [
       "light-financial"
@@ -29470,11 +30548,29 @@
     "63356": [
       "light-financial"
     ],
+    "63380": [
+      "broken-gallery-thin"
+    ],
+    "63381": [
+      "broken-gallery-thin"
+    ],
+    "63387": [
+      "broken-gallery-thin"
+    ],
+    "63363": [
+      "broken-gallery-thin"
+    ],
+    "63415": [
+      "broken-gallery-thin"
+    ],
     "63377": [
       "light-financial"
     ],
     "63397": [
       "light-financial"
+    ],
+    "63395": [
+      "broken-gallery-thin"
     ],
     "63420": [
       "light-financial"
@@ -29488,8 +30584,47 @@
     "63438": [
       "light-financial"
     ],
+    "63451": [
+      "broken-gallery-thin"
+    ],
+    "63429": [
+      "broken-gallery-thin"
+    ],
     "63495": [
       "light-financial"
+    ],
+    "63508": [
+      "broken-gallery-thin"
+    ],
+    "63496": [
+      "broken-gallery-thin"
+    ],
+    "63537": [
+      "broken-gallery-thin"
+    ],
+    "63526": [
+      "broken-gallery-thin"
+    ],
+    "63533": [
+      "broken-gallery-thin"
+    ],
+    "63525": [
+      "broken-gallery-thin"
+    ],
+    "63560": [
+      "broken-gallery-thin"
+    ],
+    "63546": [
+      "broken-gallery-thin"
+    ],
+    "63543": [
+      "broken-gallery-thin"
+    ],
+    "63578": [
+      "broken-gallery-thin"
+    ],
+    "63631": [
+      "broken-gallery-thin"
     ],
     "63597": [
       "light-financial"
@@ -29500,8 +30635,17 @@
     "63632": [
       "light-financial"
     ],
+    "63633": [
+      "broken-gallery-thin"
+    ],
     "63622": [
       "light-financial"
+    ],
+    "63627": [
+      "broken-gallery-thin"
+    ],
+    "63645": [
+      "broken-gallery-thin"
     ],
     "63647": [
       "light-financial"
@@ -29512,20 +30656,41 @@
     "63703": [
       "light-financial"
     ],
+    "63691": [
+      "broken-gallery-thin"
+    ],
+    "63726": [
+      "broken-gallery-thin"
+    ],
+    "63723": [
+      "broken-gallery-thin"
+    ],
     "63744": [
       "light-financial"
     ],
     "63764": [
+      "broken-gallery-thin",
       "light-financial"
     ],
     "63797": [
+      "broken-gallery-thin",
       "light-financial"
+    ],
+    "63809": [
+      "broken-gallery-thin"
+    ],
+    "63812": [
+      "broken-gallery-thin"
     ],
     "63818": [
       "light-financial"
     ],
     "63849": [
+      "broken-gallery-thin",
       "light-financial"
+    ],
+    "63841": [
+      "broken-gallery-thin"
     ],
     "63829": [
       "light-financial"
@@ -29536,14 +30701,44 @@
     "63810": [
       "light-financial"
     ],
+    "63823": [
+      "broken-gallery-thin"
+    ],
     "63824": [
       "light-financial"
+    ],
+    "63888": [
+      "broken-gallery-thin"
+    ],
+    "63910": [
+      "broken-gallery-thin"
     ],
     "63927": [
       "light-financial"
     ],
+    "63923": [
+      "broken-gallery-thin"
+    ],
+    "63953": [
+      "broken-gallery-thin"
+    ],
+    "63935": [
+      "broken-gallery-thin"
+    ],
+    "63964": [
+      "broken-gallery-thin"
+    ],
+    "63928": [
+      "broken-gallery-thin"
+    ],
+    "63992": [
+      "broken-gallery-thin"
+    ],
     "63967": [
       "light-financial"
+    ],
+    "64013": [
+      "broken-gallery-thin"
     ],
     "64019": [
       "light-financial"
@@ -29551,11 +30746,35 @@
     "64032": [
       "light-financial"
     ],
+    "64001": [
+      "broken-gallery-thin"
+    ],
+    "64035": [
+      "broken-gallery-thin"
+    ],
+    "62538": [
+      "broken-gallery-thin"
+    ],
+    "62560": [
+      "broken-gallery-thin"
+    ],
+    "62570": [
+      "broken-gallery-thin"
+    ],
     "62572": [
       "light-financial"
     ],
     "62584": [
       "light-financial"
+    ],
+    "62586": [
+      "broken-gallery-thin"
+    ],
+    "62590": [
+      "broken-gallery-thin"
+    ],
+    "62598": [
+      "broken-gallery-thin"
     ],
     "62605": [
       "light-financial"
@@ -29563,29 +30782,146 @@
     "62612": [
       "light-financial"
     ],
+    "62623": [
+      "broken-gallery-thin"
+    ],
+    "62630": [
+      "broken-gallery-thin"
+    ],
+    "62636": [
+      "broken-gallery-thin"
+    ],
+    "62651": [
+      "broken-gallery-thin"
+    ],
+    "62664": [
+      "broken-gallery-thin"
+    ],
     "62677": [
       "apple-announcement"
     ],
     "62681": [
       "light-financial"
     ],
+    "62682": [
+      "broken-gallery-thin"
+    ],
+    "62702": [
+      "broken-gallery-thin"
+    ],
+    "62706": [
+      "broken-gallery-thin"
+    ],
+    "62725": [
+      "broken-gallery-thin"
+    ],
+    "62755": [
+      "broken-gallery-thin"
+    ],
+    "62763": [
+      "broken-gallery-thin"
+    ],
+    "62764": [
+      "broken-gallery-thin"
+    ],
     "62766": [
       "light-financial"
+    ],
+    "62773": [
+      "broken-gallery-thin"
+    ],
+    "62780": [
+      "broken-gallery-thin"
+    ],
+    "62802": [
+      "broken-gallery-thin"
+    ],
+    "62807": [
+      "broken-gallery-thin"
+    ],
+    "62828": [
+      "broken-gallery-thin"
+    ],
+    "62838": [
+      "broken-gallery-thin"
+    ],
+    "62853": [
+      "broken-gallery-thin"
+    ],
+    "62873": [
+      "broken-gallery-thin"
     ],
     "62886": [
       "light-financial"
     ],
+    "62890": [
+      "broken-gallery-thin"
+    ],
     "62896": [
+      "broken-gallery-thin",
       "light-financial"
     ],
+    "62906": [
+      "broken-gallery-thin"
+    ],
+    "62932": [
+      "broken-gallery-thin"
+    ],
+    "62945": [
+      "broken-gallery-thin"
+    ],
+    "62949": [
+      "broken-gallery-thin"
+    ],
     "62966": [
+      "broken-gallery-thin",
       "light-financial"
+    ],
+    "62967": [
+      "broken-gallery-thin"
     ],
     "62975": [
       "light-financial"
     ],
+    "62985": [
+      "broken-gallery-thin"
+    ],
     "63174": [
       "light-financial"
+    ],
+    "63378": [
+      "broken-gallery-thin"
+    ],
+    "1082": [
+      "broken-gallery-thin"
+    ],
+    "1517": [
+      "broken-gallery-thin"
+    ],
+    "16263": [
+      "broken-no-text"
+    ],
+    "29671": [
+      "broken-gallery-thin",
+      "broken-no-text"
+    ],
+    "23928": [
+      "broken-gallery-thin"
+    ],
+    "46998": [
+      "broken-no-text"
+    ],
+    "55235": [
+      "broken-no-text"
+    ],
+    "60052": [
+      "broken-gallery-thin"
+    ],
+    "61185": [
+      "broken-gallery-thin"
+    ],
+    "62444": [
+      "broken-gallery-thin"
     ]
   }
 }
