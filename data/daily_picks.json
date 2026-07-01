@@ -1,106 +1,106 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-07-01",
   "editor_id": "claude-manual",
-  "title": "香港海洋公园、世界杯与苹果涨价：今日12篇",
+  "title": "机器人伴侣、AI 与人的工作、石墙 50 年：今日 12 篇",
   "picks": [
     {
-      "id": 35482,
-      "url": "https://www.qdaily.org/articles/35482/",
-      "title": "十年前“起死回生”的香港海洋公园，如今又陷入了泥潭 | 好奇心小数据",
-      "publish_date": "2016-12-12",
+      "id": 60470,
+      "url": "https://www.qdaily.org/articles/60470/",
+      "title": "为什么有人会伤害机器人？也许这是“弗兰肯斯坦综合症”",
+      "publish_date": "2019-01-22",
       "bucket": "cn-trend",
-      "hotspot": "香港海洋公園",
-      "source": "google-trends-HK"
-    },
-    {
-      "id": 57856,
-      "url": "https://www.qdaily.org/articles/57856/",
-      "title": "国泰航空940万乘客资料外泄，过去五年民航业已经泄漏近1000万用户信息 | 好奇心小数据",
-      "publish_date": "2018-10-31",
-      "bucket": "cn-trend",
-      "hotspot": "吴尊喊话国泰航空",
-      "source": "60s-douyin"
-    },
-    {
-      "id": 36578,
-      "url": "https://www.qdaily.org/articles/36578/",
-      "title": "在日本和在中国，同样倡导“简约生活”的无印良品为什么那么不一样？",
-      "publish_date": "2017-01-12",
-      "bucket": "cn-trend",
-      "hotspot": "胶囊旅馆为什么在日本那么盛行，在中国却难以推广？",
-      "source": "60s-zhihu"
-    },
-    {
-      "id": 57382,
-      "url": "https://www.qdaily.org/articles/57382/",
-      "title": "夏洛克的同款密室逃脱游戏，即将在伦敦市中心出现",
-      "publish_date": "2018-10-17",
-      "bucket": "cn-trend",
-      "hotspot": "密室大逃脱",
+      "hotspot": "机器人伴侣你会买吗",
       "source": "60s-weibo"
     },
     {
-      "id": 45122,
-      "url": "https://www.qdaily.org/articles/45122/",
-      "title": "iPhone X 上手体验，这是十年来变化最大的 iPhone，但你要 8388 元才能买到",
-      "publish_date": "2017-09-13",
+      "id": 57864,
+      "url": "https://www.qdaily.org/articles/57864/",
+      "title": "未来在美国出生不一定能获得公民权，特朗普打算停止这项权利",
+      "publish_date": "2018-11-01",
+      "bucket": "cn-trend",
+      "hotspot": "美最高法院驳回特朗普限制「出生公民权」行政令",
+      "source": "60s-zhihu"
+    },
+    {
+      "id": 58947,
+      "url": "https://www.qdaily.org/articles/58947/",
+      "title": "油价 30 天内下跌 23%，已有国内航司下调燃油附加费",
+      "publish_date": "2018-12-04",
+      "bucket": "cn-trend",
+      "hotspot": "国内航线燃油附加费将下调",
+      "source": "60s-douyin"
+    },
+    {
+      "id": 31601,
+      "url": "https://www.qdaily.org/articles/31601/",
+      "title": "比亚迪卖得那么好，为什么还是令人担忧",
+      "publish_date": "2016-08-30",
+      "bucket": "cn-trend",
+      "hotspot": "比亚迪 6 月新能源汽车销量创新高",
+      "source": "60s-toutiao"
+    },
+    {
+      "id": 48677,
+      "url": "https://www.qdaily.org/articles/48677/",
+      "title": "人工智能将会如何影响人类的职业？这里有 11 个趋势预测",
+      "publish_date": "2017-12-29",
       "bucket": "global-trend",
-      "hotspot": "Apple raises prices of MacBooks, iPads",
+      "hotspot": "Claude Sonnet 5",
       "source": "hacker-news"
     },
     {
-      "id": 54326,
-      "url": "https://www.qdaily.org/articles/54326/",
-      "title": "世界杯昨日揭幕，中国队不在，但中国元素挺多",
-      "publish_date": "2018-06-15",
+      "id": 54079,
+      "url": "https://www.qdaily.org/articles/54079/",
+      "title": "不变成武器，不用于监控，Google 为使用人工智能划下了界限",
+      "publish_date": "2018-06-08",
       "bucket": "global-trend",
-      "hotspot": "usa world cup jersey",
-      "source": "google-trends-US"
+      "hotspot": "drone warfare",
+      "source": "google-trends-GB"
     },
     {
-      "id": 61994,
-      "url": "https://www.qdaily.org/articles/61994/",
-      "title": "一个明星 IT 记者和他在 2000 年创立的 IT 社区 | 1999 回忆录⑥",
-      "publish_date": "2019-03-13",
+      "id": 41273,
+      "url": "https://www.qdaily.org/articles/41273/",
+      "title": "1996 年，《数字化生存》和互联网在中国的起步 | 畅销书让我们看到了什么样的中国⑦",
+      "publish_date": "2017-05-26",
       "bucket": "global-trend",
-      "hotspot": "Om Malik has died",
+      "hotspot": "The Internet I Grew Up with Doesn't Exist Anymore",
       "source": "hacker-news"
     },
     {
-      "id": 40233,
-      "url": "https://www.qdaily.org/articles/40233/",
-      "title": "霍金说，人类应该暂停人工智能的研究和开发",
-      "publish_date": "2017-04-27",
+      "id": 46649,
+      "url": "https://www.qdaily.org/articles/46649/",
+      "title": "Kinect 停产，这个想解放玩家双手的游戏设备为什么失败了？",
+      "publish_date": "2017-10-30",
       "bucket": "global-trend",
-      "hotspot": "AI children's books, body horror edition",
+      "hotspot": "Sony Deletes 551 Movies PlayStation Owners Paid For",
       "source": "hacker-news"
     },
     {
-      "id": 48703,
-      "url": "https://www.qdaily.org/articles/48703/",
-      "title": "微波炉 50 年，它的样子一直没什么变化，但食品业和吃饭习惯都因它而改变  | 好奇心商业史",
-      "publish_date": "2018-01-03",
+      "id": 63745,
+      "url": "https://www.qdaily.org/articles/63745/",
+      "title": "50 年前纽约酒吧里的一场骚乱，和美国人的同性平权 | 石墙 50 年",
+      "publish_date": "2019-05-15",
       "bucket": "longform"
     },
     {
-      "id": 60595,
-      "url": "https://www.qdaily.org/articles/60595/",
-      "title": "她花 6 年调查了 217 个家庭，美国贫民区黑人青年过着什么生活？",
-      "publish_date": "2019-01-25",
+      "id": 42033,
+      "url": "https://www.qdaily.org/articles/42033/",
+      "title": "329 天，德国统一外部问题谈判负责人回忆了推倒柏林墙的全过程",
+      "publish_date": "2017-06-22",
       "bucket": "longform"
     },
     {
-      "id": 34871,
-      "url": "https://www.qdaily.org/articles/34871/",
-      "title": "20 世纪的爵士乐，有着怎样的传奇人物和故事？",
-      "publish_date": "2016-11-30",
+      "id": 32531,
+      "url": "https://www.qdaily.org/articles/32531/",
+      "title": "乔伊·萨特走了，波音 747 的时代真的要结束了",
+      "publish_date": "2016-09-26",
       "bucket": "longform"
     },
     {
-      "id": 33961,
-      "url": "https://www.qdaily.org/articles/33961/",
-      "title": "CrossFit 这么 Hard 的健身项目，是如何流行起来的？|市场发明家",
-      "publish_date": "2016-11-02",
+      "id": 46657,
+      "url": "https://www.qdaily.org/articles/46657/",
+      "title": "那些令人不解的当代艺术品的价格，到底是如何确立的？",
+      "publish_date": "2017-10-30",
       "bucket": "longform"
     }
   ]
