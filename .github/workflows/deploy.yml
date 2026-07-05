@@ -28,6 +28,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          lfs: true  # data/images.jsonl is in Git LFS; render.py reads it as the image manifest
 
       - uses: actions/setup-python@v5
         with:
