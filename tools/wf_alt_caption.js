@@ -11,9 +11,9 @@ export const meta = {
 // inclusive, into the worklist JSONL: {url, asset, id, title, ctx, kind}. ----
 const WORKLIST = 'data/alt_worklist.jsonl'
 const OUTDIR = 'data/alt_parts'
-const START = 1        // first worklist line to process — updated by scheduler each run
-const END = 100        // last worklist line to process (inclusive) — updated by scheduler each run
-const BATCH = 10       // images per agent (100/10 = 10 agents per run); assets are ~512px thumbs now
+const START = 301        // first worklist line to process — updated by scheduler each run
+const END = 400        // last worklist line to process (inclusive) — updated by scheduler each run
+const BATCH = 10       // images per agent; assets are ~512px thumbs
 
 const ranges = []
 let i = 1

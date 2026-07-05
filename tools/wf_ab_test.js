@@ -4,7 +4,7 @@ export const meta = {
   phases: [{ title: 'Caption' }, { title: 'Summary' }],
 }
 
-const REPO = '/Users/logoutx/code/qdaily_full_backup'
+const REPO = '/Users/logoutx/Library/CloudStorage/Dropbox/Projects/qdaily_full_backup'
 
 const IMAGES = [
   { asset: 'assets/5653/29d83df6a35a8478.png',         title: '今年2月，比尔·盖茨要给一个科技网站当客座编辑了', kind: 'banner', type: 'PNG banner' },

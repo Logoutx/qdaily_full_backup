@@ -70,3 +70,8 @@ data/match_candidates/
 data/daily_candidates/
 # NOTE: data/daily_picks.json IS tracked — it's the rendered input for the
 # "Today's Pick" home block; the daily curator re-commits it each run.
+
+# Alt-caption pipeline transient state (worklist + cursor + split shards, regenerable)
+data/alt_worklist.jsonl
+data/alt_caption_cursor.txt
+data/alt_parts/

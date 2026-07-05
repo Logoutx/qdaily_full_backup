@@ -67,7 +67,7 @@ Baidu/Bing/IndexNow are already wired — the digest URLs should be pushed there
 not just aimed at Google.
 
 ## English translation (decided 2026-06-17 — NOT started)
-Reuse the LatePost zh→en pipeline (`/Users/logoutx/Projects-FOB/LatePost2026/translation/`)
+Reuse the LatePost zh→en pipeline (`/Users/logoutx/Library/CloudStorage/Dropbox/Projects/LatePost2026/translation/`)
 — ~80% generic, runs on **Max-plan subagents (no billed API key)**:
 - **Reuse as-is:** two-pass Workflow (Sonnet draft → Opus polish), the pure-function
   QA core (`translation/core/qa.mjs` — dropped-image / untranslated-CJK / truncation /
