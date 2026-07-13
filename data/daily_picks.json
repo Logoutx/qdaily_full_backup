@@ -1,34 +1,34 @@
 {
   "date": "2026-07-13",
   "editor_id": "v1-auto",
-  "title": "世界杯、Xbox 元老与读书这件事",
+  "title": "奥特曼、比亚迪与重新学会读书",
   "picks": [
     {
-      "id": 1216,
-      "url": "https://www.qdaily.org/articles/1216/",
-      "title": "黑马逆袭：世界杯上7个亮了的小众赞助商",
-      "publish_date": "2014-06-23",
+      "id": 37643,
+      "url": "https://www.qdaily.org/articles/37643/",
+      "title": "为了做 24 小时营业、不卖年卡的健身房，她遇上了哪些挑战？| 100 个创业者",
+      "publish_date": "2017-02-12",
       "bucket": "cn-trend",
-      "hotspot": "世界杯史上最强半决赛",
-      "source": "60s-weibo"
+      "hotspot": "健身房",
+      "source": "google-trends-TW"
     },
     {
-      "id": 34335,
-      "url": "https://www.qdaily.org/articles/34335/",
-      "title": "「这世界」特朗普当上美国总统后，都发生了些什么事",
-      "publish_date": "2016-11-10",
+      "id": 44390,
+      "url": "https://www.qdaily.org/articles/44390/",
+      "title": "政府补贴 3 年后要停，比亚迪说要主推低价电动车了",
+      "publish_date": "2017-08-23",
       "bucket": "cn-trend",
-      "hotspot": "特朗普担心被暗杀立报复遗嘱",
-      "source": "60s-weibo"
+      "hotspot": "比亚迪开启电动车“炫耀之旅”",
+      "source": "60s-toutiao"
     },
     {
-      "id": 43550,
-      "url": "https://www.qdaily.org/articles/43550/",
-      "title": "故宫将再展出《千里江山图》，上一次还是在 4 年前",
-      "publish_date": "2017-07-30",
+      "id": 54955,
+      "url": "https://www.qdaily.org/articles/54955/",
+      "title": "点球被淘汰后，哥伦比亚球员受到死亡威胁",
+      "publish_date": "2018-07-06",
       "bucket": "cn-trend",
-      "hotspot": "火烧云落进千里江山图美到窒息",
-      "source": "60s-douyin"
+      "hotspot": "哥伦比亚前锋坎帕斯因错失良机收到死亡威胁",
+      "source": "60s-zhihu"
     },
     {
       "id": 23543,
@@ -40,21 +40,21 @@
       "source": "60s-douyin"
     },
     {
-      "id": 61868,
-      "url": "https://www.qdaily.org/articles/61868/",
-      "title": "中国研发经费总量居世界第二，但决定国家原创力的基础研究只占 5% | 好奇心小数据",
-      "publish_date": "2019-03-07",
+      "id": 49774,
+      "url": "https://www.qdaily.org/articles/49774/",
+      "title": "一边拯救好莱坞，一边对它落井下石，Netflix 如何靠全球化渠道改造了娱乐业？",
+      "publish_date": "2018-02-01",
       "bucket": "global-trend",
-      "hotspot": "AI Boosts Research Careers but Flattens Scientific Discovery",
-      "source": "hacker-news"
+      "hotspot": "netflix subscription",
+      "source": "google-trends-GB"
     },
     {
-      "id": 29898,
-      "url": "https://www.qdaily.org/articles/29898/",
-      "title": "有重度阅读习惯？不妨试试这个订阅应用",
-      "publish_date": "2016-07-21",
+      "id": 1844,
+      "url": "https://www.qdaily.org/articles/1844/",
+      "title": "娱乐至死，亚马逊凭什么让阅读重生？",
+      "publish_date": "2014-08-14",
       "bucket": "global-trend",
-      "hotspot": "How to Read More Books",
+      "hotspot": "I Learned to Read Again",
       "source": "hacker-news"
     },
     {
@@ -63,44 +63,44 @@
       "title": "应对交通拥堵，伦敦、新加坡、斯德哥尔摩都是怎么做的？",
       "publish_date": "2018-03-02",
       "bucket": "global-trend",
-      "hotspot": "The power of collaboration: How we can reduce traffic congestion",
+      "hotspot": "How we can reduce traffic congestion",
       "source": "hacker-news"
     },
     {
-      "id": 4835,
-      "url": "https://www.qdaily.org/articles/4835/",
-      "title": "那些创造了 Xbox 的人，现在基本都走了",
-      "publish_date": "2014-12-31",
+      "id": 45306,
+      "url": "https://www.qdaily.org/articles/45306/",
+      "title": "苹果要屏蔽浏览器 Cookie，为什么广告业急眼了？",
+      "publish_date": "2017-09-18",
       "bucket": "global-trend",
-      "hotspot": "Xbox 'OG' Adventures",
+      "hotspot": "Math.tanh fingerprintable to link underlying OS",
       "source": "hacker-news"
     },
     {
-      "id": 49976,
-      "url": "https://www.qdaily.org/articles/49976/",
-      "title": "过去 600 多年来，贸易如何打造了世界？",
-      "publish_date": "2018-02-06",
+      "id": 21023,
+      "url": "https://www.qdaily.org/articles/21023/",
+      "title": "过去 130 年，可口可乐“时代口号”的四十八变丨好奇心商业史",
+      "publish_date": "2016-01-21",
       "bucket": "longform"
     },
     {
-      "id": 32593,
-      "url": "https://www.qdaily.org/articles/32593/",
-      "title": "中国一个家族的千年故事会是什么样？",
-      "publish_date": "2016-09-27",
+      "id": 62007,
+      "url": "https://www.qdaily.org/articles/62007/",
+      "title": "一本科学哲学的导论小册子，科学的本质、方法、目的是什么？",
+      "publish_date": "2019-03-15",
       "bucket": "longform"
     },
     {
-      "id": 17222,
-      "url": "https://www.qdaily.org/articles/17222/",
-      "title": "为什么美国人就是没办法喜欢优衣库？",
-      "publish_date": "2015-11-09",
+      "id": 61711,
+      "url": "https://www.qdaily.org/articles/61711/",
+      "title": "“作为设计师，创新之前你最好能够想清楚能给社会带来多少帮助” | 100个有想法的人",
+      "publish_date": "2019-03-06",
       "bucket": "longform"
     },
     {
-      "id": 60164,
-      "url": "https://www.qdaily.org/articles/60164/",
-      "title": "作家张大春讲解 46 个汉字，觉得见字如见故人来",
-      "publish_date": "2019-01-10",
+      "id": 58897,
+      "url": "https://www.qdaily.org/articles/58897/",
+      "title": "离开东京，去冲绳开一家 5.5 平米的旧书店！| 吉井忍的二次会",
+      "publish_date": "2018-12-03",
       "bucket": "longform"
     }
   ]
