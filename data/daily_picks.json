@@ -1,106 +1,106 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-24",
   "editor_id": "v1-auto",
-  "title": "失业率、网红与技术焦虑：旧文对照今天",
+  "title": "菲尔兹奖、数据中心与旧世界回声",
   "picks": [
     {
-      "id": 52297,
-      "url": "https://www.qdaily.org/articles/52297/",
-      "title": "中国调查失业率数据首次公布，数值在 5% 左右",
-      "publish_date": "2018-04-19",
+      "id": 55894,
+      "url": "https://www.qdaily.org/articles/55894/",
+      "title": "数学界四年一度的菲尔兹奖揭晓，认识一下 4 位获奖数学家",
+      "publish_date": "2018-08-03",
       "bucket": "cn-trend",
-      "hotspot": "上半年全国城镇调查失业率均值5.2%",
-      "source": "60s-toutiao"
-    },
-    {
-      "id": 34335,
-      "url": "https://www.qdaily.org/articles/34335/",
-      "title": "「这世界」特朗普当上美国总统后，都发生了些什么事",
-      "publish_date": "2016-11-10",
-      "bucket": "cn-trend",
-      "hotspot": "胡锡进说特朗普第一次被吓住了",
+      "hotspot": "中国籍数学家首获菲尔兹奖",
       "source": "60s-weibo"
     },
     {
-      "id": 44694,
-      "url": "https://www.qdaily.org/articles/44694/",
-      "title": "香港“四大探长”的故事又被搬上银幕，郭富城与梁朝伟主演",
+      "id": 46004,
+      "url": "https://www.qdaily.org/articles/46004/",
+      "title": "中国成了最大的电动汽车市场，这对全球汽车业的布局影响何在？",
+      "publish_date": "2017-10-12",
+      "bucket": "cn-trend",
+      "hotspot": "中国汽车加速全球化布局",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 60437,
+      "url": "https://www.qdaily.org/articles/60437/",
+      "title": "三天两次接受国内外媒体采访，华为创始人任正非说了什么？",
+      "publish_date": "2019-01-19",
+      "bucket": "cn-trend",
+      "hotspot": "任正非：韬定律是华为唯一突围道路",
+      "source": "60s-toutiao"
+    },
+    {
+      "id": 54326,
+      "url": "https://www.qdaily.org/articles/54326/",
+      "title": "世界杯昨日揭幕，中国队不在，但中国元素挺多",
+      "publish_date": "2018-06-15",
+      "bucket": "cn-trend",
+      "hotspot": "如何整体评价本次世界杯？",
+      "source": "60s-zhihu"
+    },
+    {
+      "id": 49984,
+      "url": "https://www.qdaily.org/articles/49984/",
+      "title": "天文学家首次发现了 38 亿光年外的银河系外行星，有一大群",
+      "publish_date": "2018-02-07",
+      "bucket": "global-trend",
+      "hotspot": "Astronomers may have found the first exomoon",
+      "source": "hacker-news"
+    },
+    {
+      "id": 58724,
+      "url": "https://www.qdaily.org/articles/58724/",
+      "title": "全球互联网一年消耗 2 万亿度电，大约相当于美国年用电量的一半 | 好奇心小数据",
+      "publish_date": "2018-11-27",
+      "bucket": "global-trend",
+      "hotspot": "How much energy do data centers and artificial intelligence use?",
+      "source": "hacker-news"
+    },
+    {
+      "id": 31090,
+      "url": "https://www.qdaily.org/articles/31090/",
+      "title": "“棱镜”监视对象首次曝光，两个拥有十多亿用户的公司泄密了",
+      "publish_date": "2016-08-17",
+      "bucket": "global-trend",
+      "hotspot": "Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate",
+      "source": "hacker-news"
+    },
+    {
+      "id": 43758,
+      "url": "https://www.qdaily.org/articles/43758/",
+      "title": "如今一整套太阳能光伏系统，你都能在英国宜家买到了",
+      "publish_date": "2017-08-04",
+      "bucket": "global-trend",
+      "hotspot": "UK households free to install plug-in balcony solar panels from end of August",
+      "source": "hacker-news"
+    },
+    {
+      "id": 56450,
+      "url": "https://www.qdaily.org/articles/56450/",
+      "title": "北欧特产詹代法则：赐你平等满足，又赐你永远别出头",
+      "publish_date": "2018-09-21",
+      "bucket": "longform"
+    },
+    {
+      "id": 44675,
+      "url": "https://www.qdaily.org/articles/44675/",
+      "title": "二手球鞋，一个你意想不到的亚文化圈子和生意 | 好奇心人类学",
       "publish_date": "2017-08-31",
-      "bucket": "cn-trend",
-      "hotspot": "郭富城",
-      "source": "google-trends-HK"
-    },
-    {
-      "id": 57685,
-      "url": "https://www.qdaily.org/articles/57685/",
-      "title": "《王者荣耀》启动强制公安实名校验，禁止未成年人以小号登录",
-      "publish_date": "2018-10-25",
-      "bucket": "cn-trend",
-      "hotspot": "未成年如何申领网号网证",
-      "source": "60s-douyin"
-    },
-    {
-      "id": 17409,
-      "url": "https://www.qdaily.org/articles/17409/",
-      "title": "技术，真的在让人变蠢吗？",
-      "publish_date": "2015-11-12",
-      "bucket": "global-trend",
-      "hotspot": "Are we offloading too much of our thinking to AI?",
-      "source": "hacker-news"
-    },
-    {
-      "id": 18473,
-      "url": "https://www.qdaily.org/articles/18473/",
-      "title": "那些收了品牌钱的意见领袖，他们的话还能信吗？",
-      "publish_date": "2015-12-04",
-      "bucket": "global-trend",
-      "hotspot": "インフルエンサーとは",
-      "source": "google-trends-JP"
-    },
-    {
-      "id": 12267,
-      "url": "https://www.qdaily.org/articles/12267/",
-      "title": "「日本語」是什么让日本人有了5.2万家便利店",
-      "publish_date": "2015-07-18",
-      "bucket": "global-trend",
-      "hotspot": "The bread paradox: why convenience always wins, and why SaaS isn't doomed",
-      "source": "hacker-news"
-    },
-    {
-      "id": 26739,
-      "url": "https://www.qdaily.org/articles/26739/",
-      "title": "「这世界」15岁少年发现玛雅古城，科学家们怎么看？",
-      "publish_date": "2016-05-12",
-      "bucket": "global-trend",
-      "hotspot": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
-      "source": "hacker-news"
-    },
-    {
-      "id": 35602,
-      "url": "https://www.qdaily.org/articles/35602/",
-      "title": "茶叶如何影响了人类文明？翻翻这本人类学著作",
-      "publish_date": "2016-12-14",
       "bucket": "longform"
     },
     {
-      "id": 56037,
-      "url": "https://www.qdaily.org/articles/56037/",
-      "title": "奥斯曼帝国的解体，如何促成了现代中东的诞生？",
-      "publish_date": "2018-09-04",
+      "id": 52621,
+      "url": "https://www.qdaily.org/articles/52621/",
+      "title": "寻访 7 国 11 地，这是村上春树的旅行随笔集",
+      "publish_date": "2018-04-28",
       "bucket": "longform"
     },
     {
-      "id": 57092,
-      "url": "https://www.qdaily.org/articles/57092/",
-      "title": "无钢圈内衣为什么越来越流行了？｜市场发明家",
-      "publish_date": "2018-10-09",
-      "bucket": "longform"
-    },
-    {
-      "id": 12926,
-      "url": "https://www.qdaily.org/articles/12926/",
-      "title": "几位艺术教师的 10 年前小发明，如何催生了今天的智能硬件产业？",
-      "publish_date": "2015-08-03",
+      "id": 27285,
+      "url": "https://www.qdaily.org/articles/27285/",
+      "title": "100 年前爱迪生、特斯拉那些人的“电流大战”要拍成电影了，是个很刺激的故事",
+      "publish_date": "2016-05-25",
       "bucket": "longform"
     }
   ]
