@@ -547,6 +547,42 @@ def load_image_alts(path: Path) -> dict:
     return out
 
 
+# --- Malformed-href repair -------------------------------------------------
+# The original QDaily body HTML is full of anchors whose href is not a URL:
+# scheme-less domains ("www.iqiyi.com/…", "linkedin.com"), plain prose used as
+# an href ("during the third quarter", Chinese sentences), or scheme garbage
+# ('"https', "[http://…]", "。http://…").  Browsers resolve those relative to
+# the article page, so Googlebot crawls /articles/<id>/<junk> → 404 (236 such
+# URLs in Search Console as of 2026-07-24).  Repair at render time:
+#   * embedded http(s):// somewhere in the string → extract that URL;
+#   * scheme-less but domain-shaped → prepend https://;
+#   * anything else → not a link at all; caller unwraps the anchor.
+_EMBEDDED_URL_RE = re.compile(r"https?://[^\s一-鿿\"'\]）》」»]+")
+_SCHEMELESS_DOMAIN_RE = re.compile(
+    r"^[A-Za-z0-9][A-Za-z0-9-]*(\.[A-Za-z0-9][A-Za-z0-9-]*)+([/?#][^\s]*)?$")
+_TRAILING_JUNK_RE = re.compile(r"[).,;:'\"）】》」‎‏]+$")
+
+
+def sanitize_href(href: str) -> str | None:
+    """Return a usable absolute/site href, or None if this isn't a link."""
+    h = (href or "").strip().strip("​‎‏﻿")
+    if not h:
+        return None
+    low = h.lower()
+    if low.startswith(("http://", "https://", "mailto:", "tel:", "#", "/")):
+        return href
+    if h.startswith("//"):
+        return "https:" + h
+    # Garbage wrapper with a real URL inside (brackets, quotes, prose, 。 …).
+    m = _EMBEDDED_URL_RE.search(h)
+    if m:
+        return _TRAILING_JUNK_RE.sub("", m.group(0))
+    # Scheme-less domain(/path) — must be ASCII domain-shaped, no spaces.
+    if _SCHEMELESS_DOMAIN_RE.match(h):
+        return "https://" + h
+    return None
+
+
 def resolve_body(body_html: str, ts: str, article_id: int, mode: str, assets_root: Path,
                  asset_base_url: str = "", placeholder_url: str = "",
                  base_url: str = "/", alt_map: dict | None = None) -> tuple[str, int]:
@@ -618,10 +654,19 @@ def resolve_body(body_html: str, ts: str, article_id: int, mode: str, assets_roo
             img["loading"] = "lazy"
     # Rewrite links to the defunct original site back into the archive:
     # https://www.qdaily.com/articles/<id>.html -> {base_url}articles/<id>/
+    # Then repair malformed hrefs (scheme-less domains, prose-as-href, scheme
+    # garbage) so crawlers stop resolving them into /articles/<id>/<junk> 404s;
+    # unrepairable ones are unwrapped to plain text.
     for a in soup.find_all("a", href=True):
         m = _QDAILY_ARTICLE_LINK_RE.search(a["href"])
         if m:
             a["href"] = f"{base_url}articles/{m.group(1)}/"
+            continue
+        fixed = sanitize_href(a["href"])
+        if fixed is None:
+            a.unwrap()
+        elif fixed != a["href"]:
+            a["href"] = fixed
     body = soup.body or soup
     return body.decode_contents(), broken_count
 
@@ -1142,16 +1187,37 @@ def main() -> int:
         encoding="utf-8",
     )
 
-    # Permanent dated digest page for the day's picks — the honestly-dated,
-    # indexable artifact (auto-picked up by the sitemap walk as an index.html;
-    # its <lastmod> is set to today below, not the archive's 2019 date).
-    if todays_pick:
-        ddir = out / "daily" / todays_pick["date"]
+    # Permanent dated digest pages — one per day, for EVERY day ever curated,
+    # not just today. Earlier versions rendered only the current date, so each
+    # build deleted yesterday's /daily/<date>/ page after the sitemap and RSS
+    # had already advertised it (4 such 404s in Search Console). History lives
+    # in data/daily_history/<date>.json; the current daily_picks.json is
+    # snapshotted into it here (and by tools/todays_pick_run.sh, which commits
+    # it so the history survives CI's fresh clones).
+    history_dir = Path("data/daily_history")
+    history_dir.mkdir(parents=True, exist_ok=True)
+    if picks_path.exists():
+        dp_raw = json.loads(picks_path.read_text(encoding="utf-8"))
+        if dp_raw.get("date"):
+            snap = history_dir / f"{dp_raw['date']}.json"
+            if not snap.exists():
+                snap.write_text(json.dumps(dp_raw, ensure_ascii=False, indent=2),
+                                encoding="utf-8")
+    rid = {r["id"]: r for r in rendered}
+    for hf in sorted(history_dir.glob("*.json")):
+        hp = json.loads(hf.read_text(encoding="utf-8"))
+        arts = [rid[p["id"]] for p in hp.get("picks", []) if p.get("id") in rid]
+        if not arts:
+            continue
+        random.Random(hp.get("date", "")).shuffle(arts)
+        digest = {"date": hp.get("date", ""), "title": hp.get("title", ""),
+                  "articles": arts}
+        ddir = out / "daily" / digest["date"]
         ddir.mkdir(parents=True, exist_ok=True)
         (ddir / "index.html").write_text(
             env.get_template("daily.html").render(
-                pick=todays_pick,
-                canonical=canon(f"daily/{todays_pick['date']}/"),
+                pick=digest,
+                canonical=canon(f"daily/{digest['date']}/"),
             ),
             encoding="utf-8",
         )

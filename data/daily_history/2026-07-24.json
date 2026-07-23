@@ -1,0 +1,107 @@
+{
+  "date": "2026-07-24",
+  "editor_id": "v1-auto",
+  "title": "菲尔兹奖、数据中心与旧世界回声",
+  "picks": [
+    {
+      "id": 55894,
+      "url": "https://www.qdaily.org/articles/55894/",
+      "title": "数学界四年一度的菲尔兹奖揭晓，认识一下 4 位获奖数学家",
+      "publish_date": "2018-08-03",
+      "bucket": "cn-trend",
+      "hotspot": "中国籍数学家首获菲尔兹奖",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 46004,
+      "url": "https://www.qdaily.org/articles/46004/",
+      "title": "中国成了最大的电动汽车市场，这对全球汽车业的布局影响何在？",
+      "publish_date": "2017-10-12",
+      "bucket": "cn-trend",
+      "hotspot": "中国汽车加速全球化布局",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 60437,
+      "url": "https://www.qdaily.org/articles/60437/",
+      "title": "三天两次接受国内外媒体采访，华为创始人任正非说了什么？",
+      "publish_date": "2019-01-19",
+      "bucket": "cn-trend",
+      "hotspot": "任正非：韬定律是华为唯一突围道路",
+      "source": "60s-toutiao"
+    },
+    {
+      "id": 54326,
+      "url": "https://www.qdaily.org/articles/54326/",
+      "title": "世界杯昨日揭幕，中国队不在，但中国元素挺多",
+      "publish_date": "2018-06-15",
+      "bucket": "cn-trend",
+      "hotspot": "如何整体评价本次世界杯？",
+      "source": "60s-zhihu"
+    },
+    {
+      "id": 49984,
+      "url": "https://www.qdaily.org/articles/49984/",
+      "title": "天文学家首次发现了 38 亿光年外的银河系外行星，有一大群",
+      "publish_date": "2018-02-07",
+      "bucket": "global-trend",
+      "hotspot": "Astronomers may have found the first exomoon",
+      "source": "hacker-news"
+    },
+    {
+      "id": 58724,
+      "url": "https://www.qdaily.org/articles/58724/",
+      "title": "全球互联网一年消耗 2 万亿度电，大约相当于美国年用电量的一半 | 好奇心小数据",
+      "publish_date": "2018-11-27",
+      "bucket": "global-trend",
+      "hotspot": "How much energy do data centers and artificial intelligence use?",
+      "source": "hacker-news"
+    },
+    {
+      "id": 31090,
+      "url": "https://www.qdaily.org/articles/31090/",
+      "title": "“棱镜”监视对象首次曝光，两个拥有十多亿用户的公司泄密了",
+      "publish_date": "2016-08-17",
+      "bucket": "global-trend",
+      "hotspot": "Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate",
+      "source": "hacker-news"
+    },
+    {
+      "id": 43758,
+      "url": "https://www.qdaily.org/articles/43758/",
+      "title": "如今一整套太阳能光伏系统，你都能在英国宜家买到了",
+      "publish_date": "2017-08-04",
+      "bucket": "global-trend",
+      "hotspot": "UK households free to install plug-in balcony solar panels from end of August",
+      "source": "hacker-news"
+    },
+    {
+      "id": 56450,
+      "url": "https://www.qdaily.org/articles/56450/",
+      "title": "北欧特产詹代法则：赐你平等满足，又赐你永远别出头",
+      "publish_date": "2018-09-21",
+      "bucket": "longform"
+    },
+    {
+      "id": 44675,
+      "url": "https://www.qdaily.org/articles/44675/",
+      "title": "二手球鞋，一个你意想不到的亚文化圈子和生意 | 好奇心人类学",
+      "publish_date": "2017-08-31",
+      "bucket": "longform"
+    },
+    {
+      "id": 52621,
+      "url": "https://www.qdaily.org/articles/52621/",
+      "title": "寻访 7 国 11 地，这是村上春树的旅行随笔集",
+      "publish_date": "2018-04-28",
+      "bucket": "longform"
+    },
+    {
+      "id": 27285,
+      "url": "https://www.qdaily.org/articles/27285/",
+      "title": "100 年前爱迪生、特斯拉那些人的“电流大战”要拍成电影了，是个很刺激的故事",
+      "publish_date": "2016-05-25",
+      "bucket": "longform"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "date": "2026-07-05",
+  "editor_id": "v1-auto",
+  "title": "AI 恐惧、长寿执念与死刑史：今日 12 篇",
+  "picks": [
+    {
+      "id": 28974,
+      "url": "https://www.qdaily.org/articles/28974/",
+      "title": "「好奇心日报大调查」大学毕业，工作都找好了吗？",
+      "publish_date": "2016-07-01",
+      "bucket": "cn-trend",
+      "hotspot": "北京大学毕业典礼",
+      "source": "60s-douyin"
+    },
+    {
+      "id": 29158,
+      "url": "https://www.qdaily.org/articles/29158/",
+      "title": "乐视，你是要运营李宇春的演唱会，还是要卖乐视体育的会员？",
+      "publish_date": "2016-07-06",
+      "bucket": "cn-trend",
+      "hotspot": "李宇春广州演唱会",
+      "source": "60s-douyin"
+    },
+    {
+      "id": 1216,
+      "url": "https://www.qdaily.org/articles/1216/",
+      "title": "黑马逆袭：世界杯上7个亮了的小众赞助商",
+      "publish_date": "2014-06-23",
+      "bucket": "cn-trend",
+      "hotspot": "世界杯8强已确定2席",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 40361,
+      "url": "https://www.qdaily.org/articles/40361/",
+      "title": "「这世界」华盛顿邮报黑化了，其他媒体都乐了",
+      "publish_date": "2017-05-02",
+      "bucket": "cn-trend",
+      "hotspot": "媒体批华盛顿邮报诋毁给阿嬷的情书",
+      "source": "60s-toutiao"
+    },
+    {
+      "id": 24893,
+      "url": "https://www.qdaily.org/articles/24893/",
+      "title": "硅谷总迷恋长寿和改变世界，这次爱上了一台复杂的榨汁机",
+      "publish_date": "2016-04-03",
+      "bucket": "global-trend",
+      "hotspot": "Scientists reverse brain aging, with a nasal spray",
+      "source": "hacker-news"
+    },
+    {
+      "id": 56930,
+      "url": "https://www.qdaily.org/articles/56930/",
+      "title": "欧洲中世纪死刑史，社会是如何评判、看待人的存在和价值？",
+      "publish_date": "2018-09-30",
+      "bucket": "global-trend",
+      "hotspot": "Reflections on the Guillotine (1957)",
+      "source": "hacker-news"
+    },
+    {
+      "id": 53118,
+      "url": "https://www.qdaily.org/articles/53118/",
+      "title": "人类认识 HAL 9000 的第 50 年，AI 恐惧如何从科幻作品渗透到了现实？",
+      "publish_date": "2018-05-20",
+      "bucket": "global-trend",
+      "hotspot": "artificial intelligence news",
+      "source": "google-trends-GB"
+    },
+    {
+      "id": 30870,
+      "url": "https://www.qdaily.org/articles/30870/",
+      "title": "Jawbone 快不行了，它和可穿戴行业一样，拿了很多钱却没找到存在理由",
+      "publish_date": "2016-08-11",
+      "bucket": "global-trend",
+      "hotspot": "Verizon is About to Break our Watches",
+      "source": "hacker-news"
+    },
+    {
+      "id": 61669,
+      "url": "https://www.qdaily.org/articles/61669/",
+      "title": "为什么情绪并非与生俱来，而是由个体创造出来的？",
+      "publish_date": "2019-03-01",
+      "bucket": "longform"
+    },
+    {
+      "id": 55999,
+      "url": "https://www.qdaily.org/articles/55999/",
+      "title": "考古学家罗伯特·凯利： 600 万年的人类历史，可能预示着我们的未来 | 访谈录",
+      "publish_date": "2018-10-04",
+      "bucket": "longform"
+    },
+    {
+      "id": 37946,
+      "url": "https://www.qdaily.org/articles/37946/",
+      "title": "200 年来，球鞋都曾代表过什么？",
+      "publish_date": "2017-03-04",
+      "bucket": "longform"
+    },
+    {
+      "id": 55056,
+      "url": "https://www.qdaily.org/articles/55056/",
+      "title": "近代上海的百货公司，如何打造了一个消费天堂？",
+      "publish_date": "2018-07-10",
+      "bucket": "longform"
+    }
+  ]
+}

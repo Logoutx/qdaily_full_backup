@@ -1,0 +1,107 @@
+{
+  "date": "2026-07-11",
+  "editor_id": "v1-auto",
+  "title": "今日精选：世界杯、星链与失落古城",
+  "picks": [
+    {
+      "id": 54326,
+      "url": "https://www.qdaily.org/articles/54326/",
+      "title": "世界杯昨日揭幕，中国队不在，但中国元素挺多",
+      "publish_date": "2018-06-15",
+      "bucket": "cn-trend",
+      "hotspot": "世界杯",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 35772,
+      "url": "https://www.qdaily.org/articles/35772/",
+      "title": "《火影忍者》将被狮门影业拍成真人电影，这次能行吗？",
+      "publish_date": "2016-12-20",
+      "bucket": "cn-trend",
+      "hotspot": "火影忍者将拍好莱坞真人电影",
+      "source": "60s-douyin"
+    },
+    {
+      "id": 55882,
+      "url": "https://www.qdaily.org/articles/55882/",
+      "title": "特朗普提出要和伊朗对话，伊朗普通人认为可以一试",
+      "publish_date": "2018-08-03",
+      "bucket": "cn-trend",
+      "hotspot": "特朗普称伊朗要求继续谈判",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 37725,
+      "url": "https://www.qdaily.org/articles/37725/",
+      "title": "微信要在情人节上线黄金红包，财付通最近都在忙活啥？",
+      "publish_date": "2017-02-13",
+      "bucket": "cn-trend",
+      "hotspot": "微信红包转账有新变化",
+      "source": "60s-toutiao"
+    },
+    {
+      "id": 59321,
+      "url": "https://www.qdaily.org/articles/59321/",
+      "title": "#Cover：卫星上网成本、轨道拥挤和国家边界等问题，其实并不远",
+      "publish_date": "2018-12-16",
+      "bucket": "global-trend",
+      "hotspot": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "source": "hacker-news"
+    },
+    {
+      "id": 45641,
+      "url": "https://www.qdaily.org/articles/45641/",
+      "title": "「这世界」一座亚历山大大帝创建的城市，2000 年后被找到了",
+      "publish_date": "2017-09-28",
+      "bucket": "global-trend",
+      "hotspot": "Lost city discovered beneath Egypt's desert with ancient church",
+      "source": "hacker-news"
+    },
+    {
+      "id": 53746,
+      "url": "https://www.qdaily.org/articles/53746/",
+      "title": "这家有 30 多年历史的特效公司也承认，不能再靠特效度日了",
+      "publish_date": "2018-05-30",
+      "bucket": "global-trend",
+      "hotspot": "The tech of 'Terminator 2' – an oral history (2017)",
+      "source": "hacker-news"
+    },
+    {
+      "id": 18156,
+      "url": "https://www.qdaily.org/articles/18156/",
+      "title": "爱因斯坦用相对论解释一切，这事恰好发生在 100 年前",
+      "publish_date": "2015-11-28",
+      "bucket": "global-trend",
+      "hotspot": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "source": "hacker-news"
+    },
+    {
+      "id": 53263,
+      "url": "https://www.qdaily.org/articles/53263/",
+      "title": "二十世纪六七十年代的反主流文化运动，如何孕育了苹果的企业文化？",
+      "publish_date": "2018-05-18",
+      "bucket": "longform"
+    },
+    {
+      "id": 57572,
+      "url": "https://www.qdaily.org/articles/57572/",
+      "title": "从哲学角度看，为什么人类应该成为素食主义者？",
+      "publish_date": "2018-10-23",
+      "bucket": "longform"
+    },
+    {
+      "id": 36352,
+      "url": "https://www.qdaily.org/articles/36352/",
+      "title": "关于 160 年来设计如何改变我们的生活，上海这场展览都提到了",
+      "publish_date": "2017-01-06",
+      "bucket": "longform"
+    },
+    {
+      "id": 55861,
+      "url": "https://www.qdaily.org/articles/55861/",
+      "title": "为什么日本的企业模式渐失光彩，美国的却成为国际模板？",
+      "publish_date": "2018-09-03",
+      "bucket": "longform"
+    }
+  ]
+}

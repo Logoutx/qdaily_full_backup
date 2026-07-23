@@ -1,0 +1,103 @@
+{
+  "date": "2026-06-18",
+  "editor_id": "v1-auto",
+  "title": "中兴芯片、电视剧与音乐节：今日12篇",
+  "picks": [
+    {
+      "id": 18376,
+      "url": "https://www.qdaily.org/articles/18376/",
+      "title": "电视剧在这么多年家长里短之后，终于想着要为年轻人做点什么了吗？| 2015 年轻化系列",
+      "publish_date": "2015-12-02",
+      "bucket": "cn-trend",
+      "hotspot": "电视剧炽夏",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 26271,
+      "url": "https://www.qdaily.org/articles/26271/",
+      "title": "那些你在音乐节迷上的乐队，他们都在想什么？| 音乐节上的 4 个人",
+      "publish_date": "2016-04-30",
+      "bucket": "cn-trend",
+      "hotspot": "gapday音乐节贵阳站官宣",
+      "source": "60s-douyin"
+    },
+    {
+      "id": 36789,
+      "url": "https://www.qdaily.org/articles/36789/",
+      "title": "万科终获深圳地铁入股，这次恒大要和华润一起套现离场",
+      "publish_date": "2017-01-13",
+      "bucket": "cn-trend",
+      "hotspot": "深圳地铁",
+      "source": "google-trends-HK"
+    },
+    {
+      "id": 60656,
+      "url": "https://www.qdaily.org/articles/60656/",
+      "title": "部分纸尿裤化学物质超标，法国要求生产商 15 天内出应对措施",
+      "publish_date": "2019-01-26",
+      "bucket": "cn-trend",
+      "hotspot": "毒纸尿裤",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 52269,
+      "url": "https://www.qdaily.org/articles/52269/",
+      "title": "在全球化分工的手机行当里，中兴不能买美国芯片和软件意味着什么？",
+      "publish_date": "2018-04-19",
+      "bucket": "global-trend",
+      "hotspot": "US holds off blacklisting DeepSeek",
+      "source": "hacker-news"
+    },
+    {
+      "id": 46362,
+      "url": "https://www.qdaily.org/articles/46362/",
+      "title": "美国大学研究经费不断减少，引发未来对经济发展的担忧",
+      "publish_date": "2017-10-23",
+      "bucket": "global-trend",
+      "hotspot": "U.S. science is in chaos",
+      "source": "hacker-news"
+    },
+    {
+      "id": 53210,
+      "url": "https://www.qdaily.org/articles/53210/",
+      "title": "600 个性别平等倡导者在瑞典开了一个会，真诚地探讨了若干问题",
+      "publish_date": "2018-05-16",
+      "bucket": "longform"
+    },
+    {
+      "id": 2093,
+      "url": "https://www.qdaily.org/articles/2093/",
+      "title": "10 个图告诉你万达做电商，成功的可能性有多大？",
+      "publish_date": "2014-09-01",
+      "bucket": "longform"
+    },
+    {
+      "id": 45351,
+      "url": "https://www.qdaily.org/articles/45351/",
+      "title": "如果“做一场好展览和做一本好杂志没什么两样”，这家公司能给我们什么借鉴？",
+      "publish_date": "2017-09-30",
+      "bucket": "longform"
+    },
+    {
+      "id": 63231,
+      "url": "https://www.qdaily.org/articles/63231/",
+      "title": "不存在真正的“包豪斯城市”，但包豪斯的确塑造了我们的城市空间 | 好奇心商业史",
+      "publish_date": "2019-04-25",
+      "bucket": "longform"
+    },
+    {
+      "id": 53081,
+      "url": "https://www.qdaily.org/articles/53081/",
+      "title": "袁隆平参与开发的海水稻即将试种，粮食安全是一个怎样的问题？",
+      "publish_date": "2018-05-14",
+      "bucket": "longform"
+    },
+    {
+      "id": 64021,
+      "url": "https://www.qdaily.org/articles/64021/",
+      "title": "纳粹如何塑造犹太人为全民公敌，又如何操纵舆论？",
+      "publish_date": "2019-05-24",
+      "bucket": "longform"
+    }
+  ]
+}

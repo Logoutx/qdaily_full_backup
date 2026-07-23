@@ -1,0 +1,107 @@
+{
+  "date": "2026-07-14",
+  "editor_id": "v1-auto",
+  "title": "热浪、电池回收与上瘾：旧文对照今天",
+  "picks": [
+    {
+      "id": 55894,
+      "url": "https://www.qdaily.org/articles/55894/",
+      "title": "数学界四年一度的菲尔兹奖揭晓，认识一下 4 位获奖数学家",
+      "publish_date": "2018-08-03",
+      "bucket": "cn-trend",
+      "hotspot": "菲尔兹奖名单泄露",
+      "source": "60s-zhihu"
+    },
+    {
+      "id": 54251,
+      "url": "https://www.qdaily.org/articles/54251/",
+      "title": "车不好卖，设计独到的折叠电动自行车 Stigo 也要来中国做共享",
+      "publish_date": "2018-06-14",
+      "bucket": "cn-trend",
+      "hotspot": "电动自行车“夺命装置”赶紧拆掉",
+      "source": "60s-toutiao"
+    },
+    {
+      "id": 42433,
+      "url": "https://www.qdaily.org/articles/42433/",
+      "title": "比普通薯片贵上3倍的一款红色薯片在日本被抢购一空",
+      "publish_date": "2017-06-27",
+      "bucket": "cn-trend",
+      "hotspot": "乐事 蓝色薯片",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 4853,
+      "url": "https://www.qdaily.org/articles/4853/",
+      "title": "海绵宝宝的这首歌有可能会像小黄人一样火",
+      "publish_date": "2014-12-31",
+      "bucket": "cn-trend",
+      "hotspot": "今天是海绵宝宝40岁生日",
+      "source": "60s-douyin"
+    },
+    {
+      "id": 55234,
+      "url": "https://www.qdaily.org/articles/55234/",
+      "title": "罕见热浪席卷英国，也给考古学家们提供了前所未有的机会",
+      "publish_date": "2018-07-15",
+      "bucket": "global-trend",
+      "hotspot": "heatwave weather forecast",
+      "source": "google-trends-GB"
+    },
+    {
+      "id": 54759,
+      "url": "https://www.qdaily.org/articles/54759/",
+      "title": "新能源汽车电池进入换休期，车厂和政府都想回收利用",
+      "publish_date": "2018-07-03",
+      "bucket": "global-trend",
+      "hotspot": "Japan recovers up to 90% of lithium from used EV batteries",
+      "source": "hacker-news"
+    },
+    {
+      "id": 21067,
+      "url": "https://www.qdaily.org/articles/21067/",
+      "title": "既然网络让人上瘾，我们应该拿出点规矩约束它吗？",
+      "publish_date": "2016-02-13",
+      "bucket": "global-trend",
+      "hotspot": "Infinite scroll may become endangered if Calif. law passes",
+      "source": "hacker-news"
+    },
+    {
+      "id": 23295,
+      "url": "https://www.qdaily.org/articles/23295/",
+      "title": "如果机器人取代人类工作，社会该怎么运作？",
+      "publish_date": "2016-03-07",
+      "bucket": "global-trend",
+      "hotspot": "What will be left for us to work on?",
+      "source": "hacker-news"
+    },
+    {
+      "id": 55348,
+      "url": "https://www.qdaily.org/articles/55348/",
+      "title": "社会学家黄盈盈：我们该如何审视日常而又疏离的性话题，我们容易忽略什么？| 访谈录",
+      "publish_date": "2018-07-18",
+      "bucket": "longform"
+    },
+    {
+      "id": 14171,
+      "url": "https://www.qdaily.org/articles/14171/",
+      "title": "企鹅 80 周年，它是如何成为了出版商中的一个“异类”，又将如何找到新的读者？| 好奇心商业史",
+      "publish_date": "2015-08-30",
+      "bucket": "longform"
+    },
+    {
+      "id": 34716,
+      "url": "https://www.qdaily.org/articles/34716/",
+      "title": "原研哉觉得他像一只猛禽，他对平面设计有什么独到看法？",
+      "publish_date": "2016-11-21",
+      "bucket": "longform"
+    },
+    {
+      "id": 58208,
+      "url": "https://www.qdaily.org/articles/58208/",
+      "title": "名厨安东尼·波登生前最后一部回忆录，讲述厨房的黑暗与光明",
+      "publish_date": "2018-11-12",
+      "bucket": "longform"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "date": "2026-07-15",
+  "editor_id": "v1-auto",
+  "title": "失业率、网红与技术焦虑：旧文对照今天",
+  "picks": [
+    {
+      "id": 52297,
+      "url": "https://www.qdaily.org/articles/52297/",
+      "title": "中国调查失业率数据首次公布，数值在 5% 左右",
+      "publish_date": "2018-04-19",
+      "bucket": "cn-trend",
+      "hotspot": "上半年全国城镇调查失业率均值5.2%",
+      "source": "60s-toutiao"
+    },
+    {
+      "id": 34335,
+      "url": "https://www.qdaily.org/articles/34335/",
+      "title": "「这世界」特朗普当上美国总统后，都发生了些什么事",
+      "publish_date": "2016-11-10",
+      "bucket": "cn-trend",
+      "hotspot": "胡锡进说特朗普第一次被吓住了",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 44694,
+      "url": "https://www.qdaily.org/articles/44694/",
+      "title": "香港“四大探长”的故事又被搬上银幕，郭富城与梁朝伟主演",
+      "publish_date": "2017-08-31",
+      "bucket": "cn-trend",
+      "hotspot": "郭富城",
+      "source": "google-trends-HK"
+    },
+    {
+      "id": 57685,
+      "url": "https://www.qdaily.org/articles/57685/",
+      "title": "《王者荣耀》启动强制公安实名校验，禁止未成年人以小号登录",
+      "publish_date": "2018-10-25",
+      "bucket": "cn-trend",
+      "hotspot": "未成年如何申领网号网证",
+      "source": "60s-douyin"
+    },
+    {
+      "id": 17409,
+      "url": "https://www.qdaily.org/articles/17409/",
+      "title": "技术，真的在让人变蠢吗？",
+      "publish_date": "2015-11-12",
+      "bucket": "global-trend",
+      "hotspot": "Are we offloading too much of our thinking to AI?",
+      "source": "hacker-news"
+    },
+    {
+      "id": 18473,
+      "url": "https://www.qdaily.org/articles/18473/",
+      "title": "那些收了品牌钱的意见领袖，他们的话还能信吗？",
+      "publish_date": "2015-12-04",
+      "bucket": "global-trend",
+      "hotspot": "インフルエンサーとは",
+      "source": "google-trends-JP"
+    },
+    {
+      "id": 12267,
+      "url": "https://www.qdaily.org/articles/12267/",
+      "title": "「日本語」是什么让日本人有了5.2万家便利店",
+      "publish_date": "2015-07-18",
+      "bucket": "global-trend",
+      "hotspot": "The bread paradox: why convenience always wins, and why SaaS isn't doomed",
+      "source": "hacker-news"
+    },
+    {
+      "id": 26739,
+      "url": "https://www.qdaily.org/articles/26739/",
+      "title": "「这世界」15岁少年发现玛雅古城，科学家们怎么看？",
+      "publish_date": "2016-05-12",
+      "bucket": "global-trend",
+      "hotspot": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
+      "source": "hacker-news"
+    },
+    {
+      "id": 35602,
+      "url": "https://www.qdaily.org/articles/35602/",
+      "title": "茶叶如何影响了人类文明？翻翻这本人类学著作",
+      "publish_date": "2016-12-14",
+      "bucket": "longform"
+    },
+    {
+      "id": 56037,
+      "url": "https://www.qdaily.org/articles/56037/",
+      "title": "奥斯曼帝国的解体，如何促成了现代中东的诞生？",
+      "publish_date": "2018-09-04",
+      "bucket": "longform"
+    },
+    {
+      "id": 57092,
+      "url": "https://www.qdaily.org/articles/57092/",
+      "title": "无钢圈内衣为什么越来越流行了？｜市场发明家",
+      "publish_date": "2018-10-09",
+      "bucket": "longform"
+    },
+    {
+      "id": 12926,
+      "url": "https://www.qdaily.org/articles/12926/",
+      "title": "几位艺术教师的 10 年前小发明，如何催生了今天的智能硬件产业？",
+      "publish_date": "2015-08-03",
+      "bucket": "longform"
+    }
+  ]
+}

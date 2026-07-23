@@ -1,0 +1,107 @@
+{
+  "date": "2026-06-26",
+  "editor_id": "claude-manual",
+  "title": "香港海洋公园、世界杯与苹果涨价：今日12篇",
+  "picks": [
+    {
+      "id": 35482,
+      "url": "https://www.qdaily.org/articles/35482/",
+      "title": "十年前“起死回生”的香港海洋公园，如今又陷入了泥潭 | 好奇心小数据",
+      "publish_date": "2016-12-12",
+      "bucket": "cn-trend",
+      "hotspot": "香港海洋公園",
+      "source": "google-trends-HK"
+    },
+    {
+      "id": 57856,
+      "url": "https://www.qdaily.org/articles/57856/",
+      "title": "国泰航空940万乘客资料外泄，过去五年民航业已经泄漏近1000万用户信息 | 好奇心小数据",
+      "publish_date": "2018-10-31",
+      "bucket": "cn-trend",
+      "hotspot": "吴尊喊话国泰航空",
+      "source": "60s-douyin"
+    },
+    {
+      "id": 36578,
+      "url": "https://www.qdaily.org/articles/36578/",
+      "title": "在日本和在中国，同样倡导“简约生活”的无印良品为什么那么不一样？",
+      "publish_date": "2017-01-12",
+      "bucket": "cn-trend",
+      "hotspot": "胶囊旅馆为什么在日本那么盛行，在中国却难以推广？",
+      "source": "60s-zhihu"
+    },
+    {
+      "id": 57382,
+      "url": "https://www.qdaily.org/articles/57382/",
+      "title": "夏洛克的同款密室逃脱游戏，即将在伦敦市中心出现",
+      "publish_date": "2018-10-17",
+      "bucket": "cn-trend",
+      "hotspot": "密室大逃脱",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 45122,
+      "url": "https://www.qdaily.org/articles/45122/",
+      "title": "iPhone X 上手体验，这是十年来变化最大的 iPhone，但你要 8388 元才能买到",
+      "publish_date": "2017-09-13",
+      "bucket": "global-trend",
+      "hotspot": "Apple raises prices of MacBooks, iPads",
+      "source": "hacker-news"
+    },
+    {
+      "id": 54326,
+      "url": "https://www.qdaily.org/articles/54326/",
+      "title": "世界杯昨日揭幕，中国队不在，但中国元素挺多",
+      "publish_date": "2018-06-15",
+      "bucket": "global-trend",
+      "hotspot": "usa world cup jersey",
+      "source": "google-trends-US"
+    },
+    {
+      "id": 61994,
+      "url": "https://www.qdaily.org/articles/61994/",
+      "title": "一个明星 IT 记者和他在 2000 年创立的 IT 社区 | 1999 回忆录⑥",
+      "publish_date": "2019-03-13",
+      "bucket": "global-trend",
+      "hotspot": "Om Malik has died",
+      "source": "hacker-news"
+    },
+    {
+      "id": 40233,
+      "url": "https://www.qdaily.org/articles/40233/",
+      "title": "霍金说，人类应该暂停人工智能的研究和开发",
+      "publish_date": "2017-04-27",
+      "bucket": "global-trend",
+      "hotspot": "AI children's books, body horror edition",
+      "source": "hacker-news"
+    },
+    {
+      "id": 48703,
+      "url": "https://www.qdaily.org/articles/48703/",
+      "title": "微波炉 50 年，它的样子一直没什么变化，但食品业和吃饭习惯都因它而改变  | 好奇心商业史",
+      "publish_date": "2018-01-03",
+      "bucket": "longform"
+    },
+    {
+      "id": 60595,
+      "url": "https://www.qdaily.org/articles/60595/",
+      "title": "她花 6 年调查了 217 个家庭，美国贫民区黑人青年过着什么生活？",
+      "publish_date": "2019-01-25",
+      "bucket": "longform"
+    },
+    {
+      "id": 34871,
+      "url": "https://www.qdaily.org/articles/34871/",
+      "title": "20 世纪的爵士乐，有着怎样的传奇人物和故事？",
+      "publish_date": "2016-11-30",
+      "bucket": "longform"
+    },
+    {
+      "id": 33961,
+      "url": "https://www.qdaily.org/articles/33961/",
+      "title": "CrossFit 这么 Hard 的健身项目，是如何流行起来的？|市场发明家",
+      "publish_date": "2016-11-02",
+      "bucket": "longform"
+    }
+  ]
+}

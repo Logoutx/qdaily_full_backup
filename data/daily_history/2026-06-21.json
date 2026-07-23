@@ -1,0 +1,101 @@
+{
+  "date": "2026-06-21",
+  "editor_id": "v1-auto",
+  "title": "父亲节、王源与权力的游戏：今日12篇",
+  "picks": [
+    {
+      "id": 11073,
+      "url": "https://www.qdaily.org/articles/11073/",
+      "title": "没人爱的父亲节，科技公司怎么做营销？",
+      "publish_date": "2015-06-21",
+      "bucket": "cn-trend",
+      "hotspot": "父亲节",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 12130,
+      "url": "https://www.qdaily.org/articles/12130/",
+      "title": "今年下半年，你能看到哪些明星的演唱会？",
+      "publish_date": "2015-07-15",
+      "bucket": "cn-trend",
+      "hotspot": "王源合肥演唱会",
+      "source": "60s-douyin"
+    },
+    {
+      "id": 55882,
+      "url": "https://www.qdaily.org/articles/55882/",
+      "title": "特朗普提出要和伊朗对话，伊朗普通人认为可以一试",
+      "publish_date": "2018-08-03",
+      "bucket": "cn-trend",
+      "hotspot": "特朗普回应伊朗关闭霍尔木兹海峡",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 61420,
+      "url": "https://www.qdaily.org/articles/61420/",
+      "title": "从《黑道家族》到《权力的游戏》， 为什么 HBO 可以频出爆款？",
+      "publish_date": "2019-02-21",
+      "bucket": "global-trend",
+      "hotspot": "house of the dragon season 3",
+      "source": "google-trends-US"
+    },
+    {
+      "id": 46362,
+      "url": "https://www.qdaily.org/articles/46362/",
+      "title": "美国大学研究经费不断减少，引发未来对经济发展的担忧",
+      "publish_date": "2017-10-23",
+      "bucket": "global-trend",
+      "hotspot": "U.S. science is in chaos",
+      "source": "hacker-news"
+    },
+    {
+      "id": 36341,
+      "url": "https://www.qdaily.org/articles/36341/",
+      "title": "一个厉害的电影剧本，到底需要多少编剧？",
+      "publish_date": "2017-01-03",
+      "bucket": "longform"
+    },
+    {
+      "id": 23537,
+      "url": "https://www.qdaily.org/articles/23537/",
+      "title": "春运结束了，滴滴是怎么参与进来、运了 190 万人回家？",
+      "publish_date": "2016-03-11",
+      "bucket": "longform"
+    },
+    {
+      "id": 55299,
+      "url": "https://www.qdaily.org/articles/55299/",
+      "title": "“无创产前基因检测”技术和它的代表公司受到质疑，这事里有多少难题？",
+      "publish_date": "2018-07-18",
+      "bucket": "longform"
+    },
+    {
+      "id": 48394,
+      "url": "https://www.qdaily.org/articles/48394/",
+      "title": "热播美剧《使女的故事》原著再版，是女性视角的《1984》",
+      "publish_date": "2017-12-19",
+      "bucket": "longform"
+    },
+    {
+      "id": 18401,
+      "url": "https://www.qdaily.org/articles/18401/",
+      "title": "一家中国公司花 4 亿美元买了曼城 13% 的股份，英超为什么这么值钱？",
+      "publish_date": "2015-12-02",
+      "bucket": "longform"
+    },
+    {
+      "id": 48588,
+      "url": "https://www.qdaily.org/articles/48588/",
+      "title": "繁荣的国家也会分裂，帝国的陨落是否真的不可避免？",
+      "publish_date": "2017-12-26",
+      "bucket": "longform"
+    },
+    {
+      "id": 35928,
+      "url": "https://www.qdaily.org/articles/35928/",
+      "title": "1930 年代的西班牙内战，一段被“精心伪装”的历史",
+      "publish_date": "2016-12-30",
+      "bucket": "longform"
+    }
+  ]
+}

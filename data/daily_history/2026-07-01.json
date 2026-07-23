@@ -1,0 +1,107 @@
+{
+  "date": "2026-07-01",
+  "editor_id": "claude-manual",
+  "title": "机器人伴侣、AI 与人的工作、石墙 50 年：今日 12 篇",
+  "picks": [
+    {
+      "id": 60470,
+      "url": "https://www.qdaily.org/articles/60470/",
+      "title": "为什么有人会伤害机器人？也许这是“弗兰肯斯坦综合症”",
+      "publish_date": "2019-01-22",
+      "bucket": "cn-trend",
+      "hotspot": "机器人伴侣你会买吗",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 57864,
+      "url": "https://www.qdaily.org/articles/57864/",
+      "title": "未来在美国出生不一定能获得公民权，特朗普打算停止这项权利",
+      "publish_date": "2018-11-01",
+      "bucket": "cn-trend",
+      "hotspot": "美最高法院驳回特朗普限制「出生公民权」行政令",
+      "source": "60s-zhihu"
+    },
+    {
+      "id": 58947,
+      "url": "https://www.qdaily.org/articles/58947/",
+      "title": "油价 30 天内下跌 23%，已有国内航司下调燃油附加费",
+      "publish_date": "2018-12-04",
+      "bucket": "cn-trend",
+      "hotspot": "国内航线燃油附加费将下调",
+      "source": "60s-douyin"
+    },
+    {
+      "id": 31601,
+      "url": "https://www.qdaily.org/articles/31601/",
+      "title": "比亚迪卖得那么好，为什么还是令人担忧",
+      "publish_date": "2016-08-30",
+      "bucket": "cn-trend",
+      "hotspot": "比亚迪 6 月新能源汽车销量创新高",
+      "source": "60s-toutiao"
+    },
+    {
+      "id": 48677,
+      "url": "https://www.qdaily.org/articles/48677/",
+      "title": "人工智能将会如何影响人类的职业？这里有 11 个趋势预测",
+      "publish_date": "2017-12-29",
+      "bucket": "global-trend",
+      "hotspot": "Claude Sonnet 5",
+      "source": "hacker-news"
+    },
+    {
+      "id": 54079,
+      "url": "https://www.qdaily.org/articles/54079/",
+      "title": "不变成武器，不用于监控，Google 为使用人工智能划下了界限",
+      "publish_date": "2018-06-08",
+      "bucket": "global-trend",
+      "hotspot": "drone warfare",
+      "source": "google-trends-GB"
+    },
+    {
+      "id": 41273,
+      "url": "https://www.qdaily.org/articles/41273/",
+      "title": "1996 年，《数字化生存》和互联网在中国的起步 | 畅销书让我们看到了什么样的中国⑦",
+      "publish_date": "2017-05-26",
+      "bucket": "global-trend",
+      "hotspot": "The Internet I Grew Up with Doesn't Exist Anymore",
+      "source": "hacker-news"
+    },
+    {
+      "id": 46649,
+      "url": "https://www.qdaily.org/articles/46649/",
+      "title": "Kinect 停产，这个想解放玩家双手的游戏设备为什么失败了？",
+      "publish_date": "2017-10-30",
+      "bucket": "global-trend",
+      "hotspot": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+      "source": "hacker-news"
+    },
+    {
+      "id": 63745,
+      "url": "https://www.qdaily.org/articles/63745/",
+      "title": "50 年前纽约酒吧里的一场骚乱，和美国人的同性平权 | 石墙 50 年",
+      "publish_date": "2019-05-15",
+      "bucket": "longform"
+    },
+    {
+      "id": 42033,
+      "url": "https://www.qdaily.org/articles/42033/",
+      "title": "329 天，德国统一外部问题谈判负责人回忆了推倒柏林墙的全过程",
+      "publish_date": "2017-06-22",
+      "bucket": "longform"
+    },
+    {
+      "id": 32531,
+      "url": "https://www.qdaily.org/articles/32531/",
+      "title": "乔伊·萨特走了，波音 747 的时代真的要结束了",
+      "publish_date": "2016-09-26",
+      "bucket": "longform"
+    },
+    {
+      "id": 46657,
+      "url": "https://www.qdaily.org/articles/46657/",
+      "title": "那些令人不解的当代艺术品的价格，到底是如何确立的？",
+      "publish_date": "2017-10-30",
+      "bucket": "longform"
+    }
+  ]
+}
