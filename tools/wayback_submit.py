@@ -29,6 +29,7 @@ import argparse
 import os
 import sys
 import time
+from enum import Enum, auto
 from pathlib import Path
 
 import httpx
@@ -68,16 +69,44 @@ def mark_done(url: str) -> None:
         f.write(url + "\n")
 
 
-def submit_anon(client: httpx.Client, url: str) -> tuple[bool, str]:
+class RetryAction(Enum):
+    STOP = auto()
+    RETRY = auto()
+    REBUILD = auto()
+
+
+RETRYABLE_STATUS_CODES = frozenset({429, 500, 502, 503, 504})
+RETRYABLE_EXCEPTIONS = (httpx.ConnectError, httpx.ConnectTimeout,
+                        httpx.ReadTimeout, httpx.WriteTimeout,
+                        httpx.RemoteProtocolError)
+
+
+def response_retry_action(status_code: int) -> RetryAction:
+    if status_code in RETRYABLE_STATUS_CODES:
+        return RetryAction.RETRY
+    return RetryAction.STOP
+
+
+def exception_retry_action(error: httpx.HTTPError) -> RetryAction:
+    if isinstance(error, httpx.PoolTimeout):
+        return RetryAction.REBUILD
+    if isinstance(error, RETRYABLE_EXCEPTIONS):
+        return RetryAction.RETRY
+    return RetryAction.STOP
+
+
+def submit_anon(client: httpx.Client, url: str) -> tuple[bool, str, RetryAction]:
     """Anonymous Save Page Now. 200/redirect => accepted; 429 => throttled."""
     r = client.get(f"https://web.archive.org/save/{url}",
                    follow_redirects=False)
     if r.status_code in (200, 301, 302):
-        return True, f"HTTP {r.status_code}"
-    return False, f"HTTP {r.status_code}: {r.text[:120]}"
+        return True, f"HTTP {r.status_code}", RetryAction.STOP
+    return (False, f"HTTP {r.status_code}: {r.text[:120]}",
+            response_retry_action(r.status_code))
 
 
-def submit_s3(client: httpx.Client, url: str, s3: str) -> tuple[bool, str]:
+def submit_s3(client: httpx.Client, url: str,
+              s3: str) -> tuple[bool, str, RetryAction]:
     """Authenticated SPN2. Returns job_id on success."""
     r = client.post(
         "https://web.archive.org/save",
@@ -88,10 +117,21 @@ def submit_s3(client: httpx.Client, url: str, s3: str) -> tuple[bool, str]:
     try:
         j = r.json()
     except Exception:
-        return r.status_code == 200, f"HTTP {r.status_code}: {r.text[:120]}"
+        return (r.status_code == 200, f"HTTP {r.status_code}: {r.text[:120]}",
+                response_retry_action(r.status_code))
     if "job_id" in j:
-        return True, f"job {j['job_id']}"
-    return False, f"HTTP {r.status_code}: {str(j)[:160]}"
+        return True, f"job {j['job_id']}", RetryAction.STOP
+    return (False, f"HTTP {r.status_code}: {str(j)[:160]}",
+            response_retry_action(r.status_code))
+
+
+def new_client() -> httpx.Client:
+    # Explicit, short-ish timeouts so a stall surfaces in seconds, not 90s; a
+    # small pool keeps a wedge cheap to detect and rebuild.
+    return httpx.Client(
+        timeout=httpx.Timeout(connect=15.0, read=60.0, write=30.0, pool=15.0),
+        limits=httpx.Limits(max_connections=4, max_keepalive_connections=2),
+    )
 
 
 def main() -> int:
@@ -107,7 +147,11 @@ def main() -> int:
     ap.add_argument("--backoff", type=float, default=30.0,
                     help="seconds to wait when SPN2 session limit is hit")
     ap.add_argument("--max-retries", type=int, default=10,
-                    help="how many times to wait-and-retry one url on session limit")
+                    help="how many times to wait-and-retry one url on session "
+                         "limit or a transport error")
+    ap.add_argument("--max-consecutive-failures", type=int, default=25,
+                    help="abort after this many retryable/systemic URL failures "
+                         "back to back (0 = never); per-URL rejections do not count")
     ap.add_argument("--max-seconds", type=float, default=0.0,
                     help="stop this run after N seconds of wall-clock (0 = no cap); "
                          "resume continues where it left off")
@@ -115,6 +159,10 @@ def main() -> int:
     ap.add_argument("--send", action="store_true",
                     help="actually submit (otherwise dry-run)")
     args = ap.parse_args()
+    if args.max_retries < 0:
+        ap.error("--max-retries must be 0 or greater")
+    if args.max_consecutive_failures < 0:
+        ap.error("--max-consecutive-failures must be 0 or greater")
 
     urls = key_urls() if args.scope == "key" else key_urls() + article_urls()
     done = load_done()
@@ -137,9 +185,11 @@ def main() -> int:
         print("WARNING: full corpus over anonymous SPN will be throttled hard. "
               "Provide --s3 / WAYBACK_S3 for the ~55k run.\n")
 
-    ok = fail = 0
+    ok = fail = streak = 0
+    aborted = False
     start = time.monotonic()
-    with httpx.Client(timeout=90) as c:
+    c = new_client()
+    try:
         for i, url in enumerate(todo, 1):
             if args.max_seconds and time.monotonic() - start > args.max_seconds:
                 print(f"\n[time budget {args.max_seconds:.0f}s reached — "
@@ -148,30 +198,56 @@ def main() -> int:
             # SPN2 caps how many of our captures may be in flight at once
             # ("error:user-session-limit"). When we hit it, the slot just needs
             # time to drain — wait and retry the SAME url rather than skipping.
+            # Transport errors get the same treatment; a wedged pool also needs
+            # the client itself rebuilt before the retry can possibly work.
             for attempt in range(1, args.max_retries + 2):
                 try:
                     if args.s3:
-                        good, msg = submit_s3(c, url, args.s3)
+                        good, msg, retry_action = submit_s3(c, url, args.s3)
                     else:
-                        good, msg = submit_anon(c, url)
+                        good, msg, retry_action = submit_anon(c, url)
                 except httpx.HTTPError as e:
                     good, msg = False, f"{type(e).__name__}: {e}"
-                if good or "user-session-limit" not in msg or attempt > args.max_retries:
+                    retry_action = exception_retry_action(e)
+                if (good or retry_action is RetryAction.STOP
+                        or attempt > args.max_retries):
                     break
-                print(f"[{i}/{len(todo)}] .. session full, wait {args.backoff}s "
-                      f"(retry {attempt}/{args.max_retries})")
+                if retry_action is RetryAction.REBUILD:
+                    print(f"[{i}/{len(todo)}] .. connection pool wedged, "
+                          f"rebuilding client (retry {attempt}/{args.max_retries})")
+                    c.close()
+                    c = new_client()
+                else:
+                    print(f"[{i}/{len(todo)}] .. {msg[:60]}, wait {args.backoff}s "
+                          f"(retry {attempt}/{args.max_retries})")
                 time.sleep(args.backoff)
             if good:
                 ok += 1
+                streak = 0
                 mark_done(url)
             else:
                 fail += 1
+                if retry_action is RetryAction.STOP:
+                    # A valid per-URL rejection proves the transport is alive;
+                    # do not let 25 bad URLs trap every resumed run at the front.
+                    streak = 0
+                else:
+                    streak += 1
             tag = "ok " if good else "ERR"
             print(f"[{i}/{len(todo)}] {tag} {url}  {msg}")
+            if args.max_consecutive_failures and streak >= args.max_consecutive_failures:
+                print(f"\n[aborting: {streak} consecutive systemic failures — "
+                      f"something is "
+                      f"broken upstream, not worth grinding through the rest. "
+                      f"Fix, then rerun to resume at {i}/{len(todo)}.]")
+                aborted = True
+                break
             if i < len(todo):
                 time.sleep(rate)
+    finally:
+        c.close()
     print(f"\ndone: {ok} submitted, {fail} failed")
-    return 0
+    return 1 if aborted else 0
 
 
 if __name__ == "__main__":
