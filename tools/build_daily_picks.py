@@ -46,14 +46,22 @@ def is_cn_source(src: str) -> bool:
     return src.startswith("60s-") or src in ("google-trends-HK", "google-trends-TW")
 
 
+_ROUNDUP_TITLE = re.compile(r"大公司头条|商业剪报")
+
+
 def is_longform(r: dict) -> bool:
     # Mirrors render.py's 长文章 rule (LONG_THRESHOLD=4000, pure-CJK byline,
-    # not a 《…》/【…】 reprint).
+    # not a 《…》/【…】 reprint, and NOT a daily-roundup column — those are long
+    # by aggregation, not by reporting depth, and render.py keeps them out of
+    # 长文章 via LONG_EXCLUDED_SERIES. Without this the serendipity pool can
+    # surface a 大公司头条 roundup as a "timeless longform" pick.)
     if (r.get("body_text_len") or 0) < 4000:
         return False
     if not _AUTHOR_PURE_CJK.match(r.get("author") or ""):
         return False
     if (r.get("title") or "").startswith(("《", "【")):
+        return False
+    if _ROUNDUP_TITLE.search(r.get("title") or ""):
         return False
     return True
 
