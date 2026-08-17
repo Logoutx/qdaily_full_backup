@@ -158,8 +158,8 @@ each has different tooling and different safety rules.
 
 | Layer | Cadence | Model? | Existing examples | Right tool |
 |---|---|---|---|---|
-| **Machine loop** | minutes–daily | never | `daily_push.sh` (launchd 06:00), CI deploy+validate, `fetcher_cycle.sh` | launchd / cron / Actions |
-| **Editorial loop** | daily, one shot | one session | Today's Pick curator | scheduled session (Routine) with a versioned prompt |
+| **Machine loop** | minutes–daily | never | `daily_push.sh` (launchd 06:00), CI deploy+validate, `fetcher_cycle.sh`, `health_check.sh` | launchd / cron / Actions |
+| **Editorial loop** | daily, one shot | one session | Today's Pick curator (launchd → headless `claude -p` on `todays_pick_prompt.md`) | scheduled headless session, versioned prompt |
 | **Grind loop** | until a queue is dry | one Workflow per iteration | zh→en backfill (~3k 长文章), alt-caption sweep | `/loop` while attended; Routine when unattended |
 
 Rules (each learned the hard way once):
@@ -181,6 +181,21 @@ Rules (each learned the hard way once):
    boundary. Cheaper than hunting a runaway scheduler.
 8. **Machine loops stay model-free.** If a step is deterministic, it's Python
    under launchd/CI — a model in the loop is only for judgment steps.
+9. **Monitor the output, not the process.** "Is `daily_picks.json` dated
+   today?" catches every upstream failure mode at once — auth expiry, volume
+   unmounted, scheduler dead — where exit codes catch only their own step.
+   (health_check.sh check #1 is exactly this; it's the check that matters.)
+10. **Alerts must reach you off-machine.** The 2026-07/08 outages (7 days
+    around the scheduler conversion, then 17 days of expired-token failures)
+    happened *with* local checks in place — a macOS toast on an unattended
+    Mac is silence. Wire the Telegram channel (`data/.telegram`), then **test
+    it by forcing a failure**; an untested alert path is a decorative one.
+    For belt-and-braces, a dead-man's switch (e.g. healthchecks.io pinged at
+    the end of each successful run) alerts even when the whole Mac is off.
+11. **Expiring credentials are scheduled outages.** Headless `claude -p`
+    doesn't refresh the keychain token — use `claude setup-token` → claude.env
+    for anything launchd runs. Audit every unattended job for "what here can
+    expire?" (tokens, certs, disk, API quotas) the day you wire it.
 
 ### Recipe A — zh→en backfill drip (the queue is already resumable)
 
@@ -209,16 +224,29 @@ iteration reads the cursor, runs `wf_alt_caption.js` for the next window,
 Prefer passing the window via `args` over editing START/END in source — the
 source edit makes every run a diff on a tracked file.
 
-### Recipe C — the daily curator (formalize what already runs)
+### Recipe C — the daily curator (running since 2026-07; harden it)
 
-The pick session is the highest-leverage prompt in the repo and should live
-in git like STYLE.md does: `data/daily_picks.PROMPT.md` with the skip-gate
-rules, bucket spill rule, and output schema between `PROMPT:` markers; the
-scheduled session's instruction becomes just "read the prompt file, read
-data/daily_candidates/<date>.json, apply it, write data/daily_picks.json,
-verify every id exists in the corpus, commit". Then prompt tweaks are diffs,
-and `editor_id` can point at the prompt version that produced each digest —
-which is exactly the instrumentation the editor-tournament needs.
+This loop now has the right shape: the prompt is versioned
+(`tools/todays_pick_prompt.md`), launchd execs a boot-volume shim (mount
+check + claude.env auth) → `todays_pick_run.sh`, which resumes ONE reused
+headless session; picks land in `daily_picks.json` plus a permanent
+`daily_history/<date>.json`, and `health_check.sh` watches freshness.
+Three refinements worth making:
+
+- **Rotate the reused session.** Resuming the same session forever means the
+  conversation grows (and gets summarized) every day — slow drift, rising
+  cost, and one stale id away from a fresh-start surprise. A monthly
+  `rm data/.claude_session_id_todayspick` (or after ~30 runs) keeps each
+  month's context clean while preserving the one-entry-in-Recents win.
+- **Narrow `bypassPermissions` to an allowlist.** The curator reads hotspot
+  titles from external feeds — untrusted text — inside a session that may run
+  any command. `--allowedTools` (or a project settings.json allowlist)
+  covering exactly the python/git commands in the prompt gives the same
+  unattended flow with a far smaller blast radius if a feed ever carries
+  something prompt-shaped.
+- **Point `editor_id` at the prompt version** (e.g. `v1-<short git hash of
+  todays_pick_prompt.md>`): prompt tweaks then become attributable in GSC
+  data, which is the instrumentation the planned editor-tournament needs.
 
 ### Recipe D — deploy babysitter (occasional, attended)
 

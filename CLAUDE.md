@@ -44,9 +44,13 @@ CI: `validate.yml` (data-correctness gate, every PR) and `deploy.yml`
 - Daily 06:00 launchd job on the Mac commits new fetcher images
   (`tools/daily_push.sh` → "Mirror +N imgs" commits). Don't fight it: keep
   unrelated work out of `assets/` + `data/images.jsonl` staging.
-- Today's Pick: `fetch_hotspots.py` + `build_daily_picks.py` (model-free
-  candidates) → one daily Claude curator session applies the "don't force it"
-  skip gate → re-commits `data/daily_picks.json` (tracked) → deploy.
+- Today's Pick: launchd → `tools/launch_todays_pick.sh` (boot-volume shim:
+  mount check + claude.env auth) → `todays_pick_run.sh` (one REUSED headless
+  Claude session, id in `data/.claude_session_id_todayspick`) runs the prompt
+  in `tools/todays_pick_prompt.md`: `fetch_hotspots.py` + `build_daily_picks.py`
+  (model-free candidates) → curator applies the "don't force it" skip gate →
+  commits `data/daily_picks.json` + a permanent `data/daily_history/<date>.json`
+  → deploy. `tools/health_check.sh` (launchd 10:45/22:45) alerts on staleness.
 - zh→en: `translate_todo.py --limit N --emit` → `data/translations/in/<id>.json`
   → Workflow `tools/translate_batch.workflow.js` (Sonnet draft → Opus polish;
   prompts live in `data/translations/STYLE.md` between `<!-- PROMPT:* -->`
@@ -75,6 +79,17 @@ CI: `validate.yml` (data-correctness gate, every PR) and `deploy.yml`
 - Workflow `args` with `scriptPath`: args may arrive as a JSON **string** —
   parse defensively (see translate_batch.workflow.js) or bake constants.
 - Vision batches: caption from downscaled thumbs, ~10 images/agent.
+- Headless `claude -p` does **not** refresh the keychain OAuth token — its
+  expiry silently killed 17 days of scheduled picks (2026-07-29→08-15). Mint a
+  long-lived token with `claude setup-token` → claude.env (see
+  `tools/claude.env.template`); never rely on the keychain for launchd jobs.
+- A macOS notification on an unattended Mac is not an alert. Configure the
+  Telegram channel in health_check (`data/.telegram`) and test it by forcing a
+  failure; monitor **output freshness** (picks date == today), not exit codes.
+- Ops scripts live on an external volume — launchd must exec the boot-volume
+  shim (`launch_todays_pick.sh`), which alerts if the volume isn't mounted.
+- The safety classifier can block a rare article's translation — after 2
+  attempts, defer the id (`data/translations/defer.json`) and move on.
 
 ## Docs index
 
