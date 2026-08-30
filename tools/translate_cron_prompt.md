@@ -26,6 +26,8 @@ STEP 4 — collect + QA:
   ./.venv/bin/python tools/translate_qa.py --write <the 20 ids>
 If an id hard-fails QA, re-translate it once (fix the reported problem), collect + QA again. Still failing → leave it flagged; do not loop.
 
+COPYRIGHT GATE: if an article's body is substantially a Chinese translation of an English-language original (书摘/book-excerpt features, reprinted foreign essays), do NOT translate it — that would reconstruct the copyrighted original prose. Instead append its id (as a string) to the data/translations/defer.json array (preserve existing entries, valid JSON) and count it as skipped, not failed. QDaily's own reporting and interviews are fine even when they quote briefly.
+
 STEP 5 — publish the data:
   git add data/translations/ && git commit -m "Translate <N> articles zh->en (scheduled batch)" && git push
 (data/translations is data-only; this does not trigger a site deploy.)
