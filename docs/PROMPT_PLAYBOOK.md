@@ -160,7 +160,7 @@ each has different tooling and different safety rules.
 |---|---|---|---|---|
 | **Machine loop** | minutes–daily | never | `daily_push.sh` (launchd 06:00), CI deploy+validate, `fetcher_cycle.sh`, `health_check.sh` | launchd / cron / Actions |
 | **Editorial loop** | daily, one shot | one session | Today's Pick curator (launchd → headless `claude -p` on `todays_pick_prompt.md`) | scheduled headless session, versioned prompt |
-| **Grind loop** | until a queue is dry | one Workflow per iteration | zh→en backfill (~3k 长文章), alt-caption sweep | `/loop` while attended; Routine when unattended |
+| **Grind loop** | until a queue is dry | one bounded session/batch per iteration | zh→en backfill (launchd 5h headless cron — live), alt-caption sweep | headless cron (unattended) / `/loop` (attended) |
 
 Rules (each learned the hard way once):
 
@@ -196,25 +196,49 @@ Rules (each learned the hard way once):
     doesn't refresh the keychain token — use `claude setup-token` → claude.env
     for anything launchd runs. Audit every unattended job for "what here can
     expire?" (tokens, certs, disk, API quotas) the day you wire it.
+12. **Every headless model run ends in a machine-parseable result line**
+    (`BATCH-RESULT: ok=… failed=…`) that the wrapping script greps for:
+    absence ⇒ alert (auth death, crash, spend cap — all caught at once);
+    and a *healthy* empty result must say so explicitly (`queue=empty`),
+    so done never masquerades as dead. `translate_cron.sh` is the
+    reference; `todays_pick_run.sh` should adopt a `PICK-RESULT` line too —
+    instant detection beats waiting for the 10:45 freshness check.
 
-### Recipe A — zh→en backfill drip (the queue is already resumable)
+### Recipe A — zh→en backfill drip (LIVE since 2026-08-30; refine it)
 
-Each iteration, in one session (attended: `/loop 30m`; unattended: hourly
-Routine with the same body):
+Implemented as launchd every 5h → `tools/translate_cron.sh` →
+`tools/translate_cron_prompt.md`: queue via `translate_todo.py --limit 20
+--emit`, one headless session does draft+polish per STYLE.md, bounded QA
+retry (once, then flag), commit+push, and — the key move — a final
+**`BATCH-RESULT: ok=<n> failed=<n> total_en=<n>`** line that the shell
+greps for and alerts on when absent. That result-line contract (rule 12)
+is what the 17-day pick outage lacked; treat `translate_cron.sh` as the
+reference implementation for every future headless run. Refinements:
 
-```text
-Iteration body:
-1. [ -f data/.pause ] && stop.
-2. ids = python tools/translate_todo.py --limit 12 --emit   # [] → report "queue dry", stop
-3. Workflow({scriptPath:'tools/translate_batch.workflow.js', args:{root:<abs>, ids}})
-4. python tools/translate_qa.py --write <ids>               # failures → re-run those ids once
-5. python tools/translate_collect.py
-6. git add data/translations/en && git commit -m "translate: +N articles (queue: M left)" && push
-Stop when: translate_todo reports 0 remaining, or 2 consecutive no-op iterations.
-```
-
-12 articles ≈ one comfortable batch; the priority order in translate_todo.py
-means stopping early is always safe.
+- **Queue-empty currently looks like death.** The prompt says report
+  "queue empty" and stop — which emits no BATCH-RESULT line, so once the
+  backfill finishes (~a month at 4×20/day) every 5h run will fire the
+  failure alert. Emit `BATCH-RESULT: ok=0 failed=0 queue=empty` instead,
+  and have the shell treat `queue=empty` as success (alert once —
+  "backfill complete" — then unload or thin the schedule).
+- **The two model loops can collide.** The 5h cadence will sometimes
+  overlap the ~10:00 pick session; `translate_cron.lock` only guards
+  against itself. Share one lock (e.g. `$STATE/claude_headless.lock`,
+  wait-or-skip) across both runners — that's invariant #4 for schedulers —
+  and guard the git race: both push to main, so `git pull --rebase` before
+  push (or retry-on-reject) in both prompts.
+- **Watch late-batch drift at 20/session.** One context now holds 20
+  translations; QA pass-rate by batch position (first 5 vs last 5) tells
+  you whether 20 is free or 10 was safer — the wf_ab_test muscle, applied
+  to batch size.
+- **The architecture change deserves a dated decision entry.** The cron
+  replaced Sonnet-draft→Opus-polish (two models, Workflow) with one
+  session wearing both hats; it lives only in a commit message. Record it
+  in STYLE.md with the why, and spot-check a few cron outputs against
+  Workflow outputs before deleting the old path.
+- **defer.json is accumulating classes** (safety-classifier, copyright
+  gate) as bare ids — keep a reason per id (or a sidecar note) so a future
+  sweep can revisit deliberately instead of re-litigating each one.
 
 ### Recipe B — alt-caption sweep
 

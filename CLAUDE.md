@@ -56,6 +56,10 @@ CI: `validate.yml` (data-correctness gate, every PR) and `deploy.yml`
   prompts live in `data/translations/STYLE.md` between `<!-- PROMPT:* -->`
   markers — **edit prompts there, not in the .js**) → `out/<id>.txt` →
   `translate_collect.py` → `en/<id>.json`. Resumable: done = `en/<id>.json` exists.
+  Scheduled: launchd every 5h → `tools/translate_cron.sh` (lock, claude.env,
+  alerts) runs `tools/translate_cron_prompt.md` headless — one session does
+  draft+polish for 20 articles, ends with a `BATCH-RESULT: ok=… failed=…` line
+  the shell asserts on (no line ⇒ alert).
 - Alt text: `build_alt_worklist.py` → `tools/wf_alt_caption.js` (Sonnet won the
   A/B vs Haiku — `wf_ab_test.js`) → `data/alt_parts/*.tsv` → `merge_alt_parts.py`.
 
@@ -90,6 +94,9 @@ CI: `validate.yml` (data-correctness gate, every PR) and `deploy.yml`
   shim (`launch_todays_pick.sh`), which alerts if the volume isn't mounted.
 - The safety classifier can block a rare article's translation — after 2
   attempts, defer the id (`data/translations/defer.json`) and move on.
+- **Copyright gate**: 书摘/book-excerpt articles are zh translations of English
+  originals — translating them "back" would reconstruct copyrighted prose.
+  Defer, never translate (the cron prompt self-defers this class).
 
 ## Docs index
 
