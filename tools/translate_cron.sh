@@ -1,5 +1,5 @@
 #!/bin/bash
-# QDaily scheduled translation batch — 10 articles per run, launchd-fired.
+# QDaily scheduled translation batch — 20 articles per run, launchd-fired.
 # Mirrors the todays-pick launcher pattern: internal-disk state, claude.env
 # token (headless claude does NOT refresh the keychain OAuth token), lock to
 # prevent overlap, Telegram + macOS alert on failure, resumable by design
