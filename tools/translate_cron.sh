@@ -47,8 +47,46 @@ fi
 cd "$PROJ" || exit 1
 STARTED=$(date +%s)
 log "=== translate batch start ==="
+
+# ── Queue + Kimi drafting run HERE, in bash, not inside the agent.
+# Learned the hard way 2026-08-31: when the agent was told to run the Kimi
+# driver itself, the driver outlived the Bash tool's timeout, so the agent
+# backgrounded it, ended its turn ("I'll wait for the completion notification"),
+# and the headless process exited — killing the child and producing no
+# BATCH-RESULT. Two slots failed that way. Deterministic steps belong in the
+# script; the agent should only do the part that needs judgment.
+IDS_JSON="$(./.venv/bin/python tools/translate_todo.py --limit 20 --emit 2>>"$LOG" | tail -1)"
+if [ -z "$IDS_JSON" ] || [ "$IDS_JSON" = "[]" ]; then
+  log "queue empty — nothing to translate"
+  printf '%s\nBATCH-RESULT: ok=0 failed=0 deferred=0 kimi=0 total_en=%s\n' \
+    "$(date +%s)" "$(ls data/translations/en/*.json 2>/dev/null | wc -l | tr -d ' ')" > "$HEARTBEAT"
+  exit 0
+fi
+IDS="$(printf '%s' "$IDS_JSON" | python3 -c 'import json,sys;print(" ".join(json.load(sys.stdin)))')"
+log "queued: $IDS"
+
+# Kimi pre-draft. Always exits 0; a quota-out or wedged Kimi just means fewer
+# drafted ids and a Sonnet fallback for the rest.
+KIMI_OUT="$(node tools/translate_draft_kimi.mjs $IDS --concurrency=3 2>&1)"
+printf '%s\n' "$KIMI_OUT" >> "$LOG"
+DRAFTED="$(printf '%s' "$KIMI_OUT" | grep -o 'DRAFTED_IDS=.*' | tail -1 | sed 's/^DRAFTED_IDS=//')"
+[ -z "$DRAFTED" ] && DRAFTED="[]"
+N_KIMI="$(printf '%s' "$DRAFTED" | python3 -c 'import json,sys;print(len(json.load(sys.stdin)))' 2>/dev/null || echo 0)"
+log "kimi drafted $N_KIMI of $(printf '%s' "$IDS" | wc -w | tr -d ' ')"
+
+RUN_HEADER="RUN CONTEXT (authoritative — the deterministic steps are ALREADY DONE; do not redo them):
+- Batch ids (in/<id>.json already materialized): $IDS
+- Kimi has already drafted these ids into data/translations/out/drafts/<id>.txt: $DRAFTED
+  Pass exactly that array as args.draftedIds. Do NOT run the Kimi driver yourself.
+- Project root: $PROJ
+- You are running unattended from launchd. Never ask a question, never end your turn
+  with work still in progress, and NEVER background a long-running command — when your
+  turn ends the process is killed. Run everything in the foreground and wait for it.
+"
+
 OUT="$(claude --no-session-persistence --permission-mode bypassPermissions \
-        -p "$(cat tools/translate_cron_prompt.md)" < /dev/null 2>>"$LOG")"
+        -p "$RUN_HEADER
+$(cat tools/translate_cron_prompt.md)" < /dev/null 2>>"$LOG")"
 printf '%s\n' "$OUT" >> "$LOG"
 
 RESULT="$(printf '%s' "$OUT" | grep -o 'BATCH-RESULT: .*' | tail -1)"

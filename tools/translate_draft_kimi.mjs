@@ -192,8 +192,13 @@ console.log(`\nDrafted ${drafted}, skipped ${skippedExisting} (existing)${skippe
 const draftedIds = ids.filter((id) => {
   const f = path.join(DRAFTS, `${id}.txt`);
   const s = path.join(IN, `${id}.json`);
-  if (!fs.existsSync(f) || !fs.existsSync(s)) return false;
-  return !validate(fs.readFileSync(f, 'utf8'), JSON.parse(fs.readFileSync(s, 'utf8')));
+  if (!fs.existsSync(f)) return false;
+  if (!fs.existsSync(s)) { console.warn(`! ${id}: draft on disk but in/ source missing — excluded`); return false; }
+  const why = validate(fs.readFileSync(f, 'utf8'), JSON.parse(fs.readFileSync(s, 'utf8')));
+  // A draft that exists but is rejected here is Kimi work silently thrown away.
+  // Say so: the polish pass would otherwise quietly re-draft it on Sonnet.
+  if (why) console.warn(`! ${id}: draft on disk REJECTED by validation (${why}) — will fall back to Sonnet`);
+  return !why;
 });
 console.log(`DRAFTED_IDS=${JSON.stringify(draftedIds)}`);
 
