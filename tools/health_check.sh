@@ -4,9 +4,8 @@
 #
 # Channels:
 #   * macOS notification (always)
-#   * Telegram (only if data/.telegram exists, format: BOT_TOKEN:CHAT_ID —
-#     the same bot Conviction13F alerts use; paste "token<space-or-newline>chatid"
-#     or "token:chatid" — parsed leniently below)
+#   * Telegram (if ~/Library/Application Support/qdaily/telegram.env is set —
+#     the same bot and same file the Today's Pick and translation jobs use)
 #
 # Each distinct problem alerts at most once per day (state in data/.health_alerted).
 export PATH="/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin"
@@ -17,15 +16,16 @@ PROBLEMS=()
 
 notify() { # $1 = message
   osascript -e "display notification \"$1\" with title \"QDaily ⚠️\"" 2>/dev/null
-  local cred="$PROJ/data/.telegram"
-  if [ -s "$cred" ]; then
-    local raw token chat
-    raw="$(tr -d ' \n' < "$cred")"
-    token="${raw%:*}"; chat="${raw##*:}"
-    # BotFather tokens themselves contain one ':' — recover full token if so.
-    case "$raw" in *:*:*) token="${raw%:*}";; esac
-    curl -sf "https://api.telegram.org/bot${token}/sendMessage" \
-      -d "chat_id=${chat}" --data-urlencode "text=QDaily ⚠️ $1" >/dev/null
+  # Single credential source, shared with todays_pick_run.sh and translate_cron.sh.
+  # Lives on the internal disk, never in this repo (which is public).
+  local env="$HOME/Library/Application Support/qdaily/telegram.env"
+  if [ -f "$env" ]; then
+    # shellcheck disable=SC1090
+    . "$env"
+    if [ -n "${TELEGRAM_BOT_TOKEN:-}" ] && [ -n "${TELEGRAM_CHAT_ID:-}" ]; then
+      curl -s --max-time 20 "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+        -d "chat_id=${TELEGRAM_CHAT_ID}" --data-urlencode "text=QDaily ⚠️ $1" >/dev/null
+    fi
   fi
 }
 
