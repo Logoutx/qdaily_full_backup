@@ -129,9 +129,20 @@ function runKimi(instruction) {
   });
 }
 
+// Kimi enforces a rolling 5-hour usage quota; when it is spent every further
+// call returns 403 immediately. Measured 2026-08-31: the quota ran out after
+// ~4 articles. Treat it as terminal on the FIRST occurrence — burning a second
+// article's wait to confirm what the error already states is pure delay.
+const QUOTA_RE = /usage limit|quota|\b403\b/i;
+
 function noteFailure(id, why, res) {
   console.error(`✗ ${id}: ${why}\n    ${stderrTail(res)}`);
   failed++;
+  if (QUOTA_RE.test(res.stderr || '')) {
+    abandoned = true;
+    console.error('! Kimi quota exhausted — remaining ids fall back to Sonnet');
+    return;
+  }
   if (++consecutiveFailures >= MAX_CONSECUTIVE_FAILURES) {
     abandoned = true;
     console.error(`! giving up on Kimi after ${consecutiveFailures} consecutive failures — remaining ids fall back to Sonnet`);

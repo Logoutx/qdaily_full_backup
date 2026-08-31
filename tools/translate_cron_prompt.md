@@ -12,7 +12,7 @@ STEP 2 — read the rules ONCE:
 
 STEP 3 — pre-draft with Kimi (keeps the batch off Claude quota):
   node tools/translate_draft_kimi.mjs <the ids…> --concurrency=3
-It writes data/translations/out/drafts/<id>.txt per article and validates each one (sentinels, length, image parity, no untranslated Chinese run); invalid drafts are deleted so the next stage re-drafts them properly. It runs 3 Kimi calls at a time (~11 min each, so a 20-article batch drafts in roughly 70-80 minutes) and gives up after 2 consecutive failures so a wedged Kimi cannot eat the whole slot. Its last line is `DRAFTED_IDS=[…]` — the ids that have a usable draft. If Kimi is out of quota or the driver fails outright, continue with an empty drafted list; the workflow Sonnet-drafts those ids instead.
+It writes data/translations/out/drafts/<id>.txt per article and validates each one (sentinels, length, image parity, no untranslated Chinese run); invalid drafts are deleted so the next stage re-drafts them properly. It runs 3 Kimi calls at a time (~8-10 min each). Kimi's own rolling 5-hour quota runs out after roughly 4 articles, so expect it to draft the first few and then stop — the rest fall back to the workflow's Sonnet draft, which is the normal, healthy outcome, not a failure. It abandons immediately on a quota error and after 2 consecutive failures of any other kind. Its last line is `DRAFTED_IDS=[…]` — the ids that have a usable draft. If Kimi is out of quota or the driver fails outright, continue with an empty drafted list; the workflow Sonnet-drafts those ids instead.
 
 STEP 4 — draft (where needed) + polish, via the workflow:
   Workflow({ scriptPath: 'tools/translate_batch.workflow.js',
