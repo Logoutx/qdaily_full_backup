@@ -35,6 +35,20 @@ const KIMI_BIN = process.env.KIMI_BIN || '/Users/logoutx/.kimi-code/bin/kimi';
 // cost of a too-short timeout is a wasted full-length generation.
 const KIMI_TIMEOUT_MS = 25 * 60 * 1000;
 const PY = path.join(ROOT, '.venv/bin/python');
+// Kimi's quota is a rolling 5-hour window. Once it is spent, remember that on the
+// internal disk (not in this repo — it is runtime state, not data) so the next
+// batch does not re-probe it: a probe can cost a full article's drafting time
+// before the 403 lands. Sonnet drafting is the automatic fallback throughout.
+const QUOTA_STATE = path.join(process.env.HOME, 'Library/Application Support/qdaily/kimi_quota_exhausted');
+const QUOTA_WINDOW_MS = 5 * 60 * 60 * 1000;
+
+function quotaCooldownRemaining() {
+  try {
+    const at = parseInt(fs.readFileSync(QUOTA_STATE, 'utf8').trim(), 10);
+    if (!Number.isFinite(at)) return 0;
+    return Math.max(0, at + QUOTA_WINDOW_MS - Date.now());
+  } catch { return 0; }
+}
 
 const argv = process.argv.slice(2);
 const limitArg = argv.find((a) => a.startsWith('--limit='));
@@ -140,7 +154,8 @@ function noteFailure(id, why, res) {
   failed++;
   if (QUOTA_RE.test(res.stderr || '')) {
     abandoned = true;
-    console.error('! Kimi quota exhausted — remaining ids fall back to Sonnet');
+    try { fs.mkdirSync(path.dirname(QUOTA_STATE), { recursive: true }); fs.writeFileSync(QUOTA_STATE, String(Date.now())); } catch {}
+    console.error('! Kimi quota exhausted — remaining ids fall back to Sonnet (skipping Kimi for 5 h)');
     return;
   }
   if (++consecutiveFailures >= MAX_CONSECUTIVE_FAILURES) {
@@ -177,7 +192,14 @@ async function draftOne(id) {
   drafted++; consecutiveFailures = 0;
 }
 
-// Fixed-size worker pool over the id list.
+// Fixed-size worker pool over the id list — unless Kimi is known-depleted, in
+// which case skip straight to the Sonnet fallback. Drafts already on disk are
+// still reported below, so nothing already paid for is wasted.
+const cooldown = quotaCooldownRemaining();
+if (cooldown > 0) {
+  abandoned = true;
+  console.log(`Kimi quota still depleted (${Math.ceil(cooldown / 60000)} min left in the window) — skipping Kimi, all ids fall back to Sonnet.`);
+}
 const queue = ids.slice();
 await Promise.all(
   Array.from({ length: Math.min(CONCURRENCY, queue.length) }, async () => {
