@@ -61,6 +61,23 @@ if [ $((54762 - DONE)) -gt 20 ] && ! pgrep -f "wayback_submit.py" >/dev/null; th
   add "Wayback submitter down at $DONE/54762 and watchdog hasn't revived it."
 fi
 
+# 3b. Translation pipeline alive? The cron fires every 5 h and stamps
+# $HEARTBEAT on completion. launchd silently coalesces a fire whose previous run
+# is still going, so a wedged batch produces NO error anywhere — it just goes
+# quiet. Anything past two intervals means the pipeline has stopped producing.
+HB="$HOME/Library/Application Support/qdaily/translate_last_run"
+QLEFT="$(./.venv/bin/python tools/translate_todo.py 2>/dev/null | awk -F'remaining: ' '/^queue:/{print $2+0}')"
+if [ "${QLEFT:-0}" -gt 0 ]; then
+  if [ ! -f "$HB" ]; then
+    add "Translation cron has never recorded a completed batch (no heartbeat file)."
+  else
+    AGE=$(( $(date +%s) - $(head -1 "$HB") ))
+    if [ "$AGE" -gt 39600 ]; then   # 11 h = two 5 h slots plus slack
+      add "Translation cron stalled: last completed batch was $((AGE/3600)) h ago ($QLEFT articles still queued)."
+    fi
+  fi
+fi
+
 # 4. Latest deploy failed?
 CONC="$(gh run list --workflow=deploy.yml --limit 1 --json conclusion -q '.[0].conclusion' 2>/dev/null)"
 [ "$CONC" = "failure" ] && add "Latest GitHub Pages deploy FAILED — site may be stale. Check Actions."

@@ -10,7 +10,12 @@ Priority order (the user's brief):
   4. 100 个有想法的人
   5. the rest of 长文章 (>=4000 chars, pure-CJK byline, not a 《》/【】 reprint),
      newest-first.
-Excluded everywhere: 大公司头条 and 商业剪报 (the daily news roundups).
+Excluded everywhere: 大公司头条 and 商业剪报 (the daily news roundups), and
+publisher book excerpts (a "书籍摘录" heading — QDaily's licensed-excerpt template,
+1,267 articles). Those are someone else's copyrighted book text, not QDaily's own
+reporting; translating them would reproduce the original prose. Excluding them here
+is deterministic and free — leaving it to the translating model cost a model call
+per article and misfired once (63173, a 读书笔记 column that merely discusses books).
 
 Resumable: "done" = data/translations/en/<id>.json exists. Deferred ids
 (data/translations/defer.json) are skipped. The queue is written to
@@ -41,6 +46,12 @@ EN = TROOT / "en"
 _PURE_CJK = re.compile(r"^[一-鿿\s·、，,；; ]+$")
 EXCLUDE = re.compile(r"大公司头条|商业剪报")
 
+# QDaily's licensed book-excerpt template: an actual "书籍摘录" HEADING (usually
+# paired with 作者简介/译者简介). Matched structurally, not by loose keyword —
+# bare "书摘"/"书籍摘录" also occur in ordinary prose, and a title-based rule
+# would miss these entirely (their titles look like any other feature).
+BOOK_EXCERPT = re.compile(r"<h[1-6][^>]*>\s*书籍摘录")
+
 # Priority buckets map our short labels to render.py's canonical series names.
 # 2017清退 and 年度观察 are the real /series/ pages the user pointed to, so we
 # reuse the site's exact membership rather than re-deriving it heuristically.
@@ -67,10 +78,16 @@ def set_is_long(r: dict) -> None:
         r["is_long"] = True
 
 
+def is_book_excerpt(r: dict) -> bool:
+    """True for the publisher-excerpt template (see BOOK_EXCERPT)."""
+    return bool(BOOK_EXCERPT.search(r.get("body_html") or ""))
+
+
 def usable(r: dict) -> bool:
     return (not r.get("is_stub") and not r.get("is_screenshot_only")
             and bool((r.get("title") or "").strip())
-            and not EXCLUDE.search(r.get("title") or ""))
+            and not EXCLUDE.search(r.get("title") or "")
+            and not is_book_excerpt(r))
 
 
 def bucket_of(r: dict) -> str | None:

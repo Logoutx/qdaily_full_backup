@@ -10,6 +10,8 @@ PROJ="/Volumes/iMac 1TB/Projects-Ext/qdaily_full_backup"
 STATE="$HOME/Library/Application Support/qdaily"
 LOG="$HOME/Library/Logs/qdaily/translate_cron.log"
 LOCK="$STATE/translate_cron.lock"
+HEARTBEAT="$STATE/translate_last_run"   # epoch + result of the last completed batch
+INTERVAL=18000                          # must match StartInterval in the plist
 mkdir -p "$STATE" "$(dirname "$LOG")"
 
 log(){ printf '%s %s\n' "$(date '+%F %T')" "$*" >> "$LOG"; }
@@ -43,6 +45,7 @@ else
 fi
 
 cd "$PROJ" || exit 1
+STARTED=$(date +%s)
 log "=== translate batch start ==="
 OUT="$(claude --no-session-persistence --permission-mode bypassPermissions \
         -p "$(cat tools/translate_cron_prompt.md)" < /dev/null 2>>"$LOG")"
@@ -55,6 +58,19 @@ if [ -z "$RESULT" ]; then
   exit 1
 fi
 log "$RESULT"
+printf '%s\n%s\n' "$(date +%s)" "$RESULT" > "$HEARTBEAT"
+
+# Overrun detection. launchd will NOT start a second instance of a label whose
+# previous run is still going: it silently coalesces the missed fire — no log
+# line, no error, just a slot that never happened. The 2026-08-31 04:51 batch ate
+# 5.5 h (34 s of CPU; the rest was rate-limit waiting) and swallowed the 09:51
+# fire that way. Nothing noticed. Now something does.
+ELAPSED=$(( $(date +%s) - STARTED ))
+if [ "$ELAPSED" -gt "$INTERVAL" ]; then
+  log "OVERRUN: batch took ${ELAPSED}s > ${INTERVAL}s interval — launchd skipped at least one fire"
+  alert "batch ran ${ELAPSED}s, longer than its ${INTERVAL}s slot — a scheduled run was skipped. Throughput is below the configured rate."
+fi
+
 case "$RESULT" in
   *"ok=0"*) alert "batch translated 0 articles — $RESULT" ;;
 esac
