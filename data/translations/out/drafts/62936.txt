@@ -1,0 +1,208 @@
+@@QD_TITLE@@
+Besides Visual China, These Other Types of Companies Also Rely Mainly on Legal Teams for Profit
+@@QD_EXCERPT@@
+Copyright and patent litigation can be highly profitable, and some big companies that once disdained it are now joining in.
+@@QD_BODY@@
+Copyright and patent litigation can be highly profitable, and some big companies that once disdained it are now joining in.
+
+A single black-hole image got Visual China into trouble.
+
+From the moment it put the black-hole photo up for sale with a “commercial use requires payment” label on April 10, to the unstoppable social-media outcry over copyright abuse and shakedown tactics, to the Cyberspace Administration's summons and order to suspend operations for rectification, Visual China's stock hit its lower limit within two days and its market value evaporated by 2 billion yuan.
+
+Several similar websites were exposed at the same time. Quanjing Visual and Oriental IC shut down one after another following Visual China; both mainly act as agents and distributors of visual content. Oriental IC had already been acquired by Toutiao and was operating out of its headquarters.
+
+![The image's creator, the European Southern Observatory, states on its website that all images are licensed under CC 4.0 — with proper attribution, they may be used free of charge for both commercial and non-commercial purposes.](http://img.qdaily.com/uploads/20190415032359Td8u1j379YfKQEZL.jpg-w600)
+
+Visual China is the largest of them, with copyrights to 270 million images, partnerships with 17,000 photographers, and a large stock of image and music copyrights, giving it a 40 percent market share.
+
+Visual China and its ilk represent a business model: they produce no content themselves, and the company's most important profit center may well be the legal department.
+
+Photo agencies have a long history; the earliest of the world's four major agencies—Magnum, Sigma, Gamma, and Sipa—dates back to the 1940s. At their birth, their purpose was simple: to serve as agents for photographers and help creators earn income from their work.
+
+They also protected authors' copyrights. From the very beginning, Magnum Photos stipulated that photographers held all copyrights to their photos; the agency was not an outfit that sold copyrights.
+
+In practice, because infringers are often better financed and have more stamina than creators to see a lawsuit through, there is a real need for powerful institutions to help creators defend their rights. In China, that role has fallen mainly to these very companies that recently shut down their websites. Oriental IC, for one, holds the copyright to Magnum's works.
+
+Visual China became controversial over the ownership of some images, but in most cases it is also true that the infringing party used the images without authorization, and the litigating companies generally operated within the bounds of the law. Yet the business model determines who has the upper hand: from revenue splits to information transparency, creators are not the dominant party.
+
+This dispute over copyright fees is not limited to the image industry.
+
+In the United States, companies that create no products and rely solely on their legal departments to file patent lawsuits for profit are called “patent trolls.” And in music, academic papers, video, software patents, and other fields, lawsuits ranging from a few hundred dollars to several billion dollars play out every day.
+
+How do these companies operate?
+
+### When Copyright Protection Is Tied to Profit-Making, Visual China and Its Ilk Become the Biggest Winners in the Image-Licensing Chain
+
+Founded in June 2000, Visual China operates China's largest online copyright-trading platform for visual content. Around this massive trove of images, it has filed thousands of copyright-protection lawsuits over the past few years.
+
+In April 2017, Visual China said that after a systematic comparison it found WeChat had used nine works to which Visual China held the copyright in corporate accounts and on Weibo. The court ruled that Tencent had infringed copyright. One month later, Visual China and Tencent announced they had signed a licensing agreement, giving Tencent's Penguin Account platform the right to use Visual China's images.
+
+This is a typical example of the [8,273 lawsuits Visual China was involved in over the past two years](https://tech.sina.com.cn/i/2019-04-12/doc-ihvhiqax2078990.shtml). Over those two years, Visual China averaged more than 11 lawsuits per day, winning 92 percent of its first-instance cases as plaintiff.
+
+Visual China's model is to compare images, identify infringing ones, and then have its legal team send infringement notices along with sign-and-settle agreements. Especially now that the users of infringing images are often mobile apps, Visual China will notify Apple's App Store directly and demand that the infringing app be taken down. Companies that clearly reject its offer are sued, but once the defendant signs an agreement, Visual China withdraws the suit.
+
+In essence, Visual China is a copyright agency. Its copyrights come from works photographers submit online and from authorizations obtained through partnerships with other photo agencies. After users purchase an image, the platform splits the fee with the photographer. Currently, Visual China keeps about 75 percent of the usage fee, and photographers cannot see exactly how much their images sold for.
+
+Users can also approach Visual China on their own to pay for images on the platform. Depending on the size of the platform and the number of images used, Visual China offers different rate cards. In 2017, the image community Jandan [received a contract package from Visual China over infringement](https://www.sohu.com/a/135338008_115207): using 2,000 images per year would cost 144,000 yuan, or 72 yuan per image.
+
+The image-comparison system mentioned in the Tencent case was “Eagle Eye,” an online image-copyright tracking system that Visual China developed and launched in 2017. Similar to Google or Baidu image search, it uses crawlers to capture image information and then compares it against its copyrighted image library.
+
+[Visual China's 2017 annual report noted](http://cn.visualchina.com/ir/financial.php): the number of potential customers discovered through Eagle Eye grew more than 84 percent year over year; the number of new annual agreement customers added through Eagle Eye grew more than 54 percent year over year.
+
+Court documents show that after Eagle Eye went online, the number of copyright lawsuits filed by Visual China increased by 1.19 times compared with the previous year. Of the 8,273 cases, nearly 70 percent ended in withdrawal. Withdrawal means settlement, compensation, or even the signing of a long-term cooperation agreement. Tencent, for example, announced a partnership with Visual China one month after the litigation ended. And countless cooperation deals had already begun before the threat of a lawsuit was ever issued.
+
+Not all of Visual China's lawsuits were well founded; there have also been cases where it filed suit without holding the copyright. On April 12, [snooker world champion Stephen Hendry said](http://news.eastday.com/c/20190413/u1a14752349.html) that Visual China had used photos of his matches on its platform to sue his management company for unauthorized use. Under the Civil Code, Hendry is the owner of the commercial rights to his own portrait photos. A similar case happened to Pan Shiyi. In 2017, Visual China used promotional images of Wangjing SOHO to turn around and sue SOHO China. “We built the building, we took the photos—how does it become Visual China's copyright the moment someone else uploads it?”
+
+Visual China holds more than 40 percent of the commercial copyrighted-image market. Similar players include Quanjing Visual and Oriental IC, with 20 percent and 5 percent respectively. Their revenue models are the same as Visual China's.
+
+Both Quanjing Visual and Oriental IC have resources from more than 300 domestic and foreign photo agencies. After Oriental IC was acquired by Toutiao in 2016, it adopted the same business model: search for images, then contact infringers to cooperate. Like Visual China, both rely on litigation to protect their copyright interests and further acquire users. In 2018, Quanjing Visual initiated 1,167 lawsuits, most of them copyright-related. That same year, Oriental IC sued Baidu for unauthorized use of 76 images; the Haidian District Court's final judgment ordered Baidu to pay 210,000 yuan in compensation.
+
+According to [financial reports released after Visual China's 2014 IPO](http://cn.visualchina.com/ir/financial.php), its core “visual and content” business accounted for 70 percent of total revenue, with a stable average gross margin above 55 percent. In the first three quarters of 2018, that share rose to 83 percent, generating 600 million yuan in revenue.
+
+In 2017, Visual China's image business generated 580 million yuan in revenue, with copyright service fees of 180 million yuan and a gross margin of 68.87 percent.
+
+Copyright service fees do not all go to image creators. First, payments must be made to agencies such as Getty and Agence France-Presse to obtain authorization; only then does the agency split the money with the photographer. If the agency had previously bought out the copyright to a photo, the photographer does not receive any additional income.
+
+### Academic Copyright Is Also a Business; CNKI Has Become Tsinghua Tongfang's Most Profitable Subsidiary
+
+This is how CNKI, controlled by Tsinghua Tongfang, runs its doctoral-dissertation publishing business:
+
+It acquires copyright with a CNKI reading card worth 400 yuan and a [cash payment of 100 yuan](http://www.cnki.net/other/gonggao/GCTG/%E5%85%A8%E5%9B%BD%E5%90%84%E4%BD%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%AC%E5%90%AF2.html), then offers downloads at 25 yuan per copy. For master's theses, the [corresponding payment is a 300-yuan reading card and 60 yuan in cash](http://vipcard.cnki.net/ec/czzx/account/account.html), with subsequent downloads priced at 15 yuan per copy.
+
+This is a business model with a one-time, low-cost input and increasing marginal returns.
+
+Ding Maozhong, director of the Competition Law Research Center at Shanghai University of Political Science and Law, told *Legal Daily* that compared with the value of master's and doctoral theses, CNKI's remuneration standard is very low. “From the perspective of abuse of market dominance, CNKI should be highly suspect.” Huang Wushuang, dean of the Intellectual Property School at East China University of Political Science and Law, [holds a similar view](http://www.xinhuanet.com/politics/2019-03/01/c/_1124178102.htm): CNKI's remuneration model is suspected of exploiting its dominant position.
+
+As China's National Knowledge Infrastructure, [CNKI's establishment and operation are generally seen as protected by administrative monopoly](https://www.rte.ie/eile/brainstorm/2018/0418/955452-the-complicated-business-of-publishing-academic-research/). It manages a core journal and also serves as a database collecting domestic and foreign dissertations, conference papers, and other documents. Universities and government agencies are the database's main paying users. [Publicly disclosed bidding information shows](https://cn.nytimes.com/usa/20130731/c31swartz/) that Tongfang CNKI usually wins procurement projects as the sole source, with annual fees typically in the hundreds of thousands of yuan.
+
+CNKI is also the country's main provider of thesis plagiarism-checking services. [NetEase Data Read statistics show](http://data.163.com/19/0222/14/E8KJRCL2000181IU.html) that CNKI's plagiarism-check fees range from 68 to 350 yuan depending on the type of paper; converted by word count, this is significantly higher than competitors such as VIP and Wanfang.
+
+These academic publishers all claim that by signing authorization agreements with universities and journals, they require the latter to return authors' remuneration to the authors. As for the copyright to degree theses, schools are required to have students sign agreements authorizing CNKI to use them.
+
+In 2017, Tongfang CNKI, CNKI's operating entity, generated 970 million yuan in revenue and 195 million yuan in net profit. In the first half of 2018, its revenue exceeded 500 million yuan, with a gross margin of 58 percent. Since 2014, [CNKI's revenue and profit have grown more than 50 percent](http://www.sohu.com/a/295172297/_99999908), making it one of Tsinghua Tongfang's most profitable subsidiaries.
+
+But questions about whether CNKI is using its dominant position to monopolize the market have never stopped. It has also been involved in multiple lawsuits alleging copyright infringement. [Tianyancha data show](https://www.tianyancha.com/company/27103773) that CNKI's operator has been involved in roughly more than 200 legal disputes, a considerable portion of them for suspected copyright infringement.
+
+In 2018, the China Written Works Copyright Society sued Tongfang CNKI and the China Academic Journals (CD Edition)》 Electronic Publishing House for making works managed by the society available to the public for paid download without authorization. [The court ultimately supported](https://news.sina.com.cn/s/2019-02-21/doc-ihrfqzka7703416.shtml) the society's infringement claim and ordered CNKI to pay 10,000 yuan in compensation.
+
+Brian Nosek, director of the University of Virginia's Center for Open Science, once said that “academic publishing is the perfect business model for making big money,” because the producers and consumers of the industry's content are the same people—researchers—but they may know nothing about the market pricing of copyright.
+
+“As a researcher, I created this scholarly report, and I want it to have the greatest possible impact, so I care about the report's reputation and readership,” Nosek said. “Once it is finally accepted, I will sign any form sent to me. I don't know that I have signed a copyright agreement, or what effect that will have—and [I don't care, because it doesn't affect me. The reward is publication.](https://medium.com/@jasonschmitt/can-t-disrupt-this-elsevier-and-the-25-2-billion-dollar-a-year-academic-publishing-business-aa3b9618d40a)”
+
+Huang Wushuang, dean of the Intellectual Property School at East China University of Political Science and Law, also said that in the university thesis submission process, graduate students care more about graduating smoothly than about remuneration. Many degree theses are signed over with authorization statements in this context. “Behind this must be CNKI's negotiating demands on universities.”
+
+In fact, academic monopoly is a global issue. The Dutch publisher Elsevier is one of the world's largest academic publishers, with revenue of 2.54 billion pounds last year. But in March of this year, the University of California—which publishes roughly one-tenth of all U.S. papers each year—announced it would no longer subscribe to the Elsevier database. One reason was the hope that papers would be made immediately open access after publication, which Elsevier could not accommodate. Another was that subscription fees were too high. At the end of 2017, a German university alliance also failed to reach an agreement with Elsevier over price and open-access issues, and more than 200 institutions stopped ordering journals sold by Elsevier.
+
+“It is time to change the current system that brings publishers huge profits while denying the public free access to research findings,” said John Cox of the James Hardiman Library. That is because one of the standards by which academia measures a researcher's caliber is the number of papers published, along with a metric called the journal impact factor: the more frequently a journal's articles are cited, the higher its ranking. So researchers eager to prove themselves provide their articles for free—or even pay to do so—and sign away their copyright in exchange for being able to publish in prestigious journals.
+
+Invisibly, this exchange has made the cost of accessing knowledge high.
+
+Aaron Swartz, a brilliant programmer and one of the inventors of the RSS protocol, [had long advocated that institutions make a wide range of important copyrighted documents available to the public.](https://cn.nytimes.com/usa/20130731/c31swartz/) In July 2011, he was indicted by the U.S. federal government on charges of computer and wire fraud. Evidence showed that he had broken into the Massachusetts Institute of Technology (MIT) network and downloaded more than 4 million academic documents from JSTOR, a paid online database to which MIT subscribed, then made them available for free. *The New York Times* reported at the time that Swartz could face 35 years in prison and a 1-million-US-dollar fine. In January 2013, Swartz, just 26 years old, hanged himself at home three months before his court appearance.
+
+### KTVs Pay Copyright Fees for Songs, but the Company That Actually Collects the Money Is Not the Music Label
+
+Part of what you spend at KTV is split with the copyright holders of the songs.
+
+In October 2018, the China Audio-Video Copyright Association (hereinafter referred to as “CAVCA”) issued a notice demanding that KTV equipment and system service providers (VOD) and KTV operators delete [more than 6,000 songs](http://www.qdaily.com/articles/58051.html) on suspicion of infringement. The long playlist included Yang Yuying's 《一片艳阳天》 (*A Bright Sunny Day*), Shin Band's 《死了都要爱》 (*Love You to Death*), and G.E.M.'s 《泡沫》 (*Bubble*), among others.
+
+The incident introduced more people to CAVCA and the music-copyright agency operating behind it.
+
+Before 2006, KTV operators in China bought equipment from VOD vendors and paid a small maintenance fee to obtain a large number of pre-installed songs. VOD (Video on Demand) refers to the on-demand system—the karaoke machine you see in a KTV room. VOD vendors would copy songs directly onto the device.
+
+The true creators of the songs had no reasonable or legal channel to receive copyright income. In 2006, the National Copyright Administration stipulated that, starting January 1, 2007, KTV operators had to pay copyright usage fees to the China Audio-Video Association at a rate of 12 yuan per day per room in order to obtain songs. The collecting body would then distribute the collected fees to rights holders. The National Copyright Administration believed it would be chaotic for KTV operators and VOD vendors to pay royalties to copyright holders one-on-one, because rights holders are scattered and karaoke operators are even more scattered. Moreover, karaoke operators use a huge volume of music and music-video works, so the best solution was to establish a centralized third-party manager.
+
+This duty was once performed by the Music Copyright Society of China (MCSC). In 2008, the China Audio-Video Copyright Association (CAVCA) was established. It is an audio-video collective-management organization approved by the National Copyright Administration and registered with the Ministry of Civil Affairs. Entrusted by MCSC, it exercises collective management over the copyrights of audio-video programs and related rights.
+
+CAVCA is a non-governmental organization. To accommodate the thousands of KTVs across the country, it entrusted Tianhe Culture Group Co., Ltd. to act as the de facto collector of karaoke copyright usage fees. According to its official website, Tianhe Group's main business is “entrusted collection of karaoke program copyright usage fees.” Currently, Tianhe has 29 branches across the country.
+
+Neither Tianhe nor CAVCA holds music copyrights, yet both collect fees. Tianhe collects licensing fees from KTVs across the country and hands them over to CAVCA, which in turn hands them over to MCSC. According to [a report by *Entertainment Capital*](http://tech.sina.com.cn/csj/2018-11-09/doc-ihmutuea8424728.shtml), the final split is distributed to relevant rights holders based on sing-along rates, number of plays, and the amount of copyright held by record companies.
+
+The specific standard, according to [the “Notice on 2018 Karaoke Copyright Usage Fee Collection Standards” published on CAVCA's official website](http://www.cavca.org/news_show.php?un=xhgg&id=1053), is that KTV venues in each province and city pay by the day, with copyright fees ranging from 8 to 11 yuan per day per room.
+
+But who in this chain should get how much? CAVCA plays both referee and player. In 2010, CAVCA announced [the 《全国卡拉 OK 著作权使用费分配方案》 (*National Karaoke Copyright Usage Fee Distribution Plan*)](http://www.xinhuanet.com/fortune/2018-11/10/c_1123693622.htm): CAVCA takes 4 percent, Tianhe Group takes 25 percent, the Karaoke Copyright Operations Center takes 21 percent, and the remaining 50 percent goes to rights holders—the true holders of music copyrights.
+
+[*Beijing Youth Daily* reported](https://news.pedaily.cn/201811/437585.shtml) that CAVCA collects roughly 160 million yuan in copyright usage fees from KTV operators each year. That means CAVCA, which does not hold copyrights, and Tianhe theoretically have annual incomes of 6.4 million and 40 million yuan respectively. Actual income is higher. A 2012 [announcement from CAVCA](https://new.qq.com/omn/20181109/20181109A0GTFG.html) showed that Tianhe Group's “collections exceeded 100 million yuan for five consecutive years from 2009 to 2013, with collection coverage across the country.”
+
+Figures [released](http://www.mcsc.com.cn/imS-13-1794.html) by MCSC, the next layer up, show that in 2018 MCSC's total licensing revenue exceeded 300 million yuan, reaching 316 million yuan, an increase of about 46.23 percent over 2017 and a new record high.
+
+CAVCA has not disclosed how much of this comes from litigation, but according to notices posted on CAVCA's official website, lawsuits are not rare. The most recent was in July 2018, when the Yuncheng Intermediate People's Court in Shanxi Province ruled on a lawsuit brought by CAVCA. In short, Shanxi Wanli Cartier Entertainment Co. had not paid for copyright. The first-instance judgment ordered the company to pay compensation totaling more than 50,000 yuan, calculated at 5 yuan per day per room.
+
+But now the relationship between CAVCA and Tianhe has broken down. According to CAVCA, Tianhe repeatedly delayed settling copyright fees with CAVCA, and the two sides terminated their agreement in November 2018.
+
+### Patent Companies That Only Sue and Make No Products: They Are Called “Patent Trolls”
+
+There is a class of companies known as “non-practicing entities” (NPE, Non-Practicing Entity), or more simply, patent trolls. They are perhaps the quintessential example of making money through legal means. From Apple and Microsoft, worth hundreds of billions, to fledgling startups, any company can face a sudden patent lawsuit.
+
+Although Apple, Samsung, and Google also sue one another, these companies actually create products and invest heavily to turn ideas into goods. What sets patent trolls apart is that they have no products themselves, or almost no revenue, yet actively acquire ownership of various patents and rely on aggressively suing others to make money.
+
+In February 2014, [Apple issued a statement calling itself the biggest target of patent trolls](http://www.qdaily.com/articles/2814.html), having been sued more than 100 times in three years. The lawsuit in which Apple paid the highest amount was an eight-year patent battle with VirnetX, a cybersecurity software and technology company.
+
+VirnetX is an American cybersecurity software and technology company. It only develops technology, buys, and applies for patents, but does not make products; then it uses those patents to sue other tech companies for infringement.
+
+Starting in 2010, VirnetX sued Apple in the U.S. District Court for the Eastern District of Texas, claiming that Apple's iOS system infringed four of its patents related to FaceTime, VPN, and domain names. Two years later, the court ordered Apple to pay VirnetX 386 million US dollars.
+
+But the litigation did not stop. While Apple appealed, VirnetX continued to file additional lawsuits, arguing that all of Apple's phones and electronic devices infringed other patents. In the end, the Texas court's final judgment in 2017 ordered Apple to pay 440 million US dollars.
+
+Legally speaking, NPEs that profit from litigation are not illegal; they simply exploit flaws in patent-protection law. The U.S. *America Invents Act* (AIA) and civil court procedures both tilt toward protecting plaintiffs whose patents have been infringed, allowing NPEs to win lawsuits.
+
+The well-known American NPE Intellectual Ventures [holds nearly 60,000 patents to date, making it the fifth-largest patent portfolio holder in the United States](https://www.qdaily.com/articles/60049.html) and ranking 15th globally. Over the past decade, the company has put Microsoft, Yahoo, Apple, Google, Lenovo, and other tech companies in the defendant's seat in court.
+
+Between 1990 and 2010, frequent patent lawsuits initiated by NPEs cost companies at least 500 billion US dollars. Over the past decade, the number of lawsuits involving NPEs has continued to climb, peaking in 2010, when more than 2,000 companies were involved in patent litigation—eight times more than a decade earlier—with litigation expenses and losses from product launches and other disruptions reaching 80 billion US dollars.
+
+NPEs often sue using vaguely defined patents. Patent troll Uniloc once held a product patent defined as collecting physiological information through a wearable “acquisition unit.” Uniloc used this to sue Apple, the company behind the Apple Watch, arguing that the Apple Watch's ability to measure heart rate infringed the patent. The vague wording of “acquisition unit” and “physiological information” gave Uniloc the opportunity to sue.
+
+A typical patent-infringement lawsuit already costs 1 million US dollars or more before it even begins; even if the defendant wins, the entire process costs 2.5 million US dollars or more.
+
+The reason it is so expensive is that patent cases require far more evidentiary documents than other cases, all of which must be organized by specialized lawyers spending a great deal of time. NPEs often portray themselves as injured plaintiffs and enjoy far lower litigation costs than defendants.
+
+At the same time, NPEs commonly choose to file patent lawsuits in Texas, where the Eastern District federal court tends to side with patent plaintiffs. In 2016, 57 percent of patent lawsuits were filed in Texas; Apple's loss there is a direct example.
+
+Huge litigation costs and unpredictable court rulings lead small and medium-sized tech companies to generally choose to pay and settle. After 2014, the average settlement amount in NPE lawsuits was 1.5 million US dollars, with 78 percent of settlements below 500,000 US dollars.
+
+### Patent and Copyright Litigation Are Highly Profitable, and Big Companies That Once Disdained Them Have Joined In
+
+A widely circulated image vividly captures Oracle's image in Silicon Valley today: a legal department several times the size of its software-engineering team. The reality may not be that exaggerated, but the impression itself says something.
+
+![Image source: Manu Cornet / Wikimedia Commons](http://img.qdaily.com/uploads/20190415024431tC1LX8pn7c2N3odu.png-w600)
+
+In recent years, Oracle has sued TERiX, SAP, Google, HP, Apple, and other companies for infringing its patents. The largest and most influential in terms of amount and impact is the Android patent case against Google.
+
+In April 2010, Oracle acquired Sun's Java patents and copyrights, and four months later sued Google, accusing it of infringing seven Sun patents, mainly involving the use of APIs in the Android system, and demanding 9.3 billion US dollars in damages—more than Oracle's revenue for an entire quarter.
+
+*Forbes* called the case the rise of a new kind of patent troll in Silicon Valley, arguing that Oracle has grown accustomed to using patent litigation to reap profits. After eight years of back-and-forth litigation, the case ended with the court ruling that Google had not infringed Oracle's copyright and dismissing Oracle's damages claim.
+
+The litigation had nothing to do with Oracle's main business, yet it became a new source of profit for the company. SAP, which develops resource-management systems, for example, did not win its lawsuit against Oracle. Oracle first sued SAP in 2007, accusing it of intellectual-property infringement. SAP ultimately chose to pay a massive settlement of 330 million US dollars.
+
+James Gosling, the father of the Java language, [criticized Oracle's lawsuit against Google.](https://www.reuters.com/article/urnidgns852573c4006938800025778100645ec-idUS301875787720100816) Gosling had worked at Sun for a long time. He believed the lawsuit had little to do with patents or programming languages and much more to do with money and power. “During Oracle's acquisition of Sun, we criticized Google for infringing our patents; you could see the Oracle lawyers' eyes light up.”
+
+Gosling felt that Sun was not a company that used patent litigation; only one patent in his name was involved in a lawsuit. The formidable legal capability Oracle had built up selling databases allowed it to sue Google just four months after acquiring Sun.
+
+Oracle's skillful use of legal muscle [dates back to the company's early years](https://danluu.com/anon-benchmark/). In 1983, several University of Wisconsin researchers conducted a quantitative evaluation of database performance; Oracle's flagship product performed poorly.
+
+Oracle then tried to get the University of Wisconsin to fire the professor in charge of the study but failed. It then briefly banned hiring from the university and added a clause to its product-use agreement prohibiting any user from publicly releasing benchmark-test results for Oracle database products. Microsoft followed suit, adding the same restriction to its SQL database.
+
+Through patent litigation, Oracle has often secured large payouts. It sued TERiX and won 57.7 million US dollars in damages. It sued SAP, which ultimately settled by paying Oracle 356.7 million US dollars. Although Oracle lost the Google case in the end, it won at trial and nearly secured 9.3 billion US dollars.
+
+The spread of patent litigation is already happening.
+
+Many companies that launch large-scale lawsuits were once innovators. But when the whole company or a particular business declines, they too begin to use patent litigation to make money.
+
+In 2012, Kodak, then seeking bankruptcy protection, took Fujifilm to court, claiming that Fujifilm digital cameras infringed Kodak's digital-imaging patents. A month later, it further sued Apple and HTC, alleging that both companies infringed Kodak's technology patents related to digital photos.
+
+Kodak also sued Samsung for infringing five of the company's patents related to digital-imaging technology. All five patents were broadly defined; one was for an electronic camera that could capture screenshots while previewing video. In trial documents, Kodak stated that “all companies involved in patent infringement should pay patent royalties to Kodak.”
+
+Kodak's complete failure in the digital-camera field had nothing to do with patents.
+
+Similarly, after its mobile-phone business failed, Microsoft began using its patents and legal capabilities to sue Android companies. These patents did not produce products as good as Android or iPhone in Microsoft's hands, nor did they help it keep its smartphone market. In the end, the profits Microsoft gained through litigation reached levels its Windows phones never achieved—[more than 1 billion US dollars per year from Samsung alone](https://acumass.com/en/microsoft-vs-samsung-in-a-billion-dollar-patent-dispute/).
+
+After abandoning the phone business, BlackBerry, holding more than 4,000 patents, repeatedly sued Typo, an iPhone keyboard-accessory company. In the end, Typo was forced to settle with BlackBerry out of court and agreed to stop selling keyboard accessories for devices under 7.9 inches.
+
+BlackBerry also sued Facebook, Twitter, and other companies, claiming that the encryption technology used in their mobile apps infringed its patents. Facebook's deputy general counsel, Paul Grewal, responded that “BlackBerry is now short on innovation and can only seek to take a cut of others' innovation through patents.” Around the time Facebook was founded, BlackBerry had its own network-communication service, BBM, but because it insisted for a long time on serving only BlackBerry phone users, it missed the opportunity to grow into something like WeChat or WhatsApp.
+
+Likewise, after spinning off its phone business, Nokia began frequently filing patent lawsuits. In December 2016, Nokia sued Apple in Germany and the United States over 32 patents. The following year, Nokia sued Huawei and HTC for infringement.
+
+Nokia and Apple had sued each other over patents for many years. It was only after the two sides reached a patent-licensing agreement in 2011 that the dispute subsided; Apple paid a sum of money, and the two cross-licensed patents for mobile-phone products.
+
+But with the end of Nokia's phone business (Nokia-branded phones today belong to another company), Apple could no longer use its own patents to threaten Nokia phones. After six months of litigation, Nokia, which no longer made phones, [received 2 billion US dollars from Apple](https://techcrunch.com/2017/07/28/apple-paid-nokia-2-billion-as-part-of-a-patent-lawsuit-settlement/), giving its legal department a new source of income.
+
+Cover image source: pexels.com
