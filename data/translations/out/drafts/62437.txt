@@ -1,0 +1,174 @@
+@@QD_TITLE@@
+What Antitrust Is Really Against ④: The Fear of Big Companies Controlling Information and Speech Is Becoming Reality
+@@QD_EXCERPT@@
+It's your business to follow people who say foolish things, but it's not your business if you can't see what they say at all.
+@@QD_BODY@@
+It's your business to follow people who say foolish things, but it's not your business if you can't see what they say at all.
+
+In a world sliding into binary opposition, consensus is becoming harder and harder to reach.
+
+On how far big companies must go in controlling a market before it counts as monopoly, legislators from different regions and political camps hold fundamentally different views. [Google has already been hit with three rounds of EU antitrust fines totaling €8.2 billion](https://www.qdaily.com/articles/62264.html), while several investigations into the same competitive tactics in the United States ended in not-guilty findings. In China, meanwhile, acting as both referee and player has become so routine it is barely mentioned.
+
+But on another antitrust front—the fear of tech companies controlling speech and information—the perpetually quarreling two parties in the U.S. have found surprising common ground.
+
+On March 8, Senator and Democratic presidential candidate Elizabeth Warren announced an antitrust plan to break up Big Tech, [and soon afterward her break-up ads were removed by Facebook](https://twitter.com/ewarren/status/1105256905058979841?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1105256905058979841&ref_url=https%3A%2F%2Fwww.theverge.com%2F2019%2F3%2F11%2F18260857%2Ffacebook-senator-elizabeth-warren-campaign-ads-removal-tech-break-up-regulation). Shortly after, Republican leader and 2016 presidential candidate Ted Cruz expressed support, [saying, "Tech companies have too much power to silence speech."](https://twitter.com/tedcruz/status/1105523954087849984) A year earlier, Cruz had already [linked antitrust against tech companies to the First Amendment](https://www.cruz.senate.gov/?p=press_release&id=3723), saying, "Everyone should have freedom of speech—that is a right guaranteed by the First Amendment. Tech companies can have political leanings, but they cannot control other people's freedom of speech. We have an obligation to protect that right with antitrust or other legal tools."
+
+More recently, Josh Hawley, a rising Republican star and the youngest senator in U.S. history, [has also called for limiting Big Tech's control over speech on their platforms](https://www.theverge.com/2019/3/19/18271487/josh-hawley-senator-missouri-republican-facebook-google-antitrust-data-privacy). "The century-old First Amendment has drawn a clear line against censorship; tech companies should not be able to impose censorship without being regulated."
+
+The fear that big companies will use their monopoly positions to control speech and information dates back to the very birth of antitrust. In 1900, the Illinois Supreme Court [ruled that the Associated Press must supply news to all organizations](http://www.fundinguniverse.com/company-histories/the-associated-press-history), after it had refused service to clients that ran articles from rival wire services. In its [ruling](http://www.fundinguniverse.com/company-histories/the-associated-press-history), the Illinois Supreme Court held that the AP, as a controller of news information, was equivalent to a public platform and was using its dominant position to restrict the free flow of news.
+
+A century later, the focus shifted to Silicon Valley. The two brightest internet startup stars, Google and Facebook, control what billions of internet users read, watch, and share. The influence that comes with monopolistic scale over information control has become a reason for antitrust action.
+
+### From "Don't Be Evil," Big Companies Gradually Accumulated the Power to Control Information
+
+On September 5, 2018, [an empty chair appeared on Capitol Hill at a hearing](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiSl4_LsqPhAhWBGKYKHe_SDzoQjB16BAgBEAQ&url=https%3A%2F%2Fwww.timesunion.com%2Fbusiness%2Farticle%2FGoogle-CEO-agrees-to-appear-before-congress-13429748.php&psig=AOvVaw1N_XTK_fYvPJM2RGsBfF5K&ust=1553812913743668). The nameplate in front of it read Google. On either side sat Facebook's chief operating officer and Twitter's founder. Representatives of tech companies endured three hours of questioning by the U.S. Senate Intelligence Committee; only Google was missing.
+
+![The empty chair for absent Google at the hearing. Image source/[Recode](https://www.recode.net/2018/9/14/17857834/larry-page-alphabet-bezos-philanthropy-salesforce-climate-change-cashierless-surroundables-vw-beetle)](http://img.qdaily.com/uploads/20190328064057YglaQ9yhBCLGFRIc.jpg-w600)
+
+The standard-bearer of "Don't be evil" had become an information controller that worried the world's sole superpower.
+
+For a long time after its founding in 1998, Google was the template of the American dream. Two shy PhD students, one of them [fresh from a recently fallen communist country](https://zh.wikipedia.org/wiki/%E8%B0%A2%E5%B0%94%E7%9B%96%C2%B7%E5%B8%83%E6%9E%97), untainted by [the older generation of tech stars' refusal to acknowledge a daughter](https://www.qdaily.com/articles/56011.html) or [the grabbing of shares after a partner's terminal diagnosis](https://www.qdaily.com/articles/57354.html).
+
+Google's free-wheeling corporate culture also drew countless young engineers: a workplace that allowed pets, offered free perks, encouraged innovation and individual growth, and produced wealth stories as the stock rose.
+
+More importantly, [Google held to "Don't be evil."](https://en.wikipedia.org/wiki/Don%27t_be_evil) The two Google founders, Larry Page and Sergey Brin, were initially deeply resistant to advertising. In his Stanford dissertation, Larry Page wrote directly that ["if you sell advertising, the search engine will be tainted."](https://www.gq.com/story/google-larry-sergey) Even when the company's growth demanded more ad revenue, Google wanted to hold the line.
+
+"Don't be evil" embodied one of Google's commitments. [To early Google employees](https://36kr.com/p/5142984), other search companies were deceiving users by selling search results. Google, by contrast, would not make money from search results themselves; it placed ads to the right of the results and labeled them as clearly as possible.
+
+Google insisted that while organizing the world's information, it would provide accurate and useful information without being swayed by profit. By the time it went public in 2004, the phrase [had been written into the prospectus](http://www2.ljworld.com/news/2004/may/01/google_vows_to/). In [the letter to Google investors](https://abc.xyz/investor/founders-letters/2004-ipo-letter/), it said: "Don't be evil. Even if it means giving up short-term gains, as a company that does good for the world, Google will be better rewarded in the long run."
+
+But Google's control over information grew by the day.
+
+In 2006, after launching Gmail and Maps, Google acquired the one-year-old YouTube for $1.65 billion. Two years later, Chrome debuted and steadily ate into Microsoft IE's market share. Around the same time, the first Android phone, the HTC G1, hit the market.
+
+[Google's business model](https://books.google.com.hk/books?id=4GRY9crs7W8C&pg=PA39&lpg=PA39&dq=2004+Google+%E5%B9%BF%E5%91%8A%E6%94%B6%E5%85%A5&source=bl&ots=d0RewwyHs_&sig=ACfU3U37s8eJ5VCep0d3Fw_GKx1pAG7Chg&hl=zh-CN&sa=X&ved=2ahUKEwjz2NK24aDhAhVK7GEKHQEuDOIQ6AEwCXoECAkQAQ#v=onepage&q=2004%20Google%20%E5%B9%BF%E5%91%8A%E6%94%B6%E5%85%A5&f=false) has always been to provide better internet services, thereby obtaining more user information and using it to target ads more precisely.
+
+Tim Cook often belittles Android by saying Google sells user data. But in fact, Google never sells data directly—it simply knows everything and helps advertisers place information in front of the right people.
+
+Ads are presented to each person this way; information is no different.
+
+As the world's largest AI company today, Google [began testing personalized search](http://www.mahaixiang.cn/seoyjy/81.html) in 2007, using algorithms to analyze users' search behavior and return results better suited to them.
+
+Problems began once algorithms started dominating search results. In every presidential election since 2008, political bias in Google search results has been controversial.
+
+Because of Android and Chrome's monopolistic market shares and Google's own outstanding search quality, Google effectively decides what appears before people when they search for information.
+
+Eyetools, a company that studies eye movements, further analyzed that [the higher-ranked the information, the more attention it receives](http://www.marketingman.net/wm36/670.htm). The top three Google results capture 100% of attention, while results at the bottom get only 20%.
+
+Algorithms determine the information users receive. And with [Google's acquisition of YouTube](https://zh.wikipedia.org/zh/YouTube) and [the launch of its news service Google News](https://support.google.com/googlenews/answer/9005749?hl=zh-Hans), the information under Google's control grew even more.
+
+![Larry Page and Sergey Brin in the early days of Google. Image source: wiki](http://img.qdaily.com/uploads/20190328075152kvL3CobXfKy9i6Bn.jpg-w600)
+
+Facebook has followed a similar trajectory. In a 2009 public speech, Mark Zuckerberg—then 25 and already five years into entrepreneurship—encouraged people to put information online and promised to build [a public social network connecting everyone on Earth](http://www.cnbeta.com/articles/tech/647767.htm). Today Facebook has 2.3 billion monthly active users, [and the average person spends more than 50 minutes a day on Facebook](https://investor.fb.com/investor-events/event-details/2019/Facebook-Q4-2018-Earnings/default.aspx)—not counting the other products it has acquired.
+
+Facebook also adopted AI algorithms early in its development. In 2006, the News Feed went live. News updates, friend posts, and "cat-and-dog pictures" were ordered by algorithms, luring users to keep refreshing. Because social networks are more about passive consumption, algorithms decide what each person sees even more directly than search does.
+
+### In Antitrust History, Fear of Controlling Speech and Fear of Restricting Competition Are the Two Great Driving Forces
+
+We have already discussed, earlier in this series, the fear that control over infrastructure will restrict market competition.
+
+Beyond protecting the competitive environment and preventing a handful of companies from manipulating prices, guarding against big companies' control over speech and information is another thread in antitrust history.
+
+In the late 19th century, after abolishing slavery, the United States industrialized rapidly. [Monopoly groups emerged in every corner of life—railroads, agriculture, tobacco, grain, oil](https://www.qdaily.com/articles/62173.html)—and news was no exception.
+
+In 1892, the Illinois Associated Press—the predecessor of the Associated Press—was founded. Its president, M.E. Stone, signed exclusive news-exchange contracts at high prices with Europe's three major wire services, [thereby monopolizing foreign news sources](https://en.wikipedia.org/wiki/Associated_Press).
+
+By controlling foreign news, the Illinois Associated Press defeated its biggest rival, United Press, and required partner newspapers to use only its own copy.
+
+Chicago's *Inter Ocean*, because it used copy from another wire service, was cut off by Stone. The newspaper appealed to court, and after two years of litigation, [the Illinois court ruled in 1900](http://www.fundinguniverse.com/company-histories/the-associated-press-history/) that the Associated Press must supply its copy to any customer without discrimination.
+
+The reasoning was that the state supreme court considered press freedom protected by the First Amendment and held that the AP, like a public medium, must supply news to everyone. Unwilling to accept the ruling, Stone dissolved the Illinois Associated Press and reconstituted it in New York to evade the judgment. Antitrust law was still rudimentary at the time.
+
+Antitrust rules paid attention to the dangers of media monopoly from the very beginning. In 1914, antitrust statutes such as the Clayton Act and the Federal Trade Commission Act were successively introduced, supplementing the first antitrust law, the Sherman Act.
+
+The Clayton Act explicitly prohibited stock acquisitions "for the purpose of weakening competitors or creating monopoly." This curbed the frequent buyouts of small newspapers by big newspaper groups. In 1893, [the largest Scripps newspaper chain was acquiring an average of six local papers a year](https://bkso.baidu.com/item/%E6%96%AF%E5%85%8B%E9%87%8C%E6%99%AE%E6%96%AF%E6%8A%A5%E5%9B%A2), controlling 30% of the newspaper content in the nation's industrial cities.
+
+The reason news monopolies were taken so seriously [is that press-dependent free speech was seen as the cornerstone of democracy](http://163.26.206.131/web/home.php?mod=space&uid=200&do=blog&id=1869). Thomas Jefferson, principal author of the Declaration of Independence and the third U.S. president, once said, "Were it left to me to decide whether we should have a government without newspapers, or newspapers without a government, I should not hesitate a moment to prefer the latter." Hugo Black, the Supreme Court justice appointed by Franklin D. Roosevelt, believed the primary function of press freedom was to prevent the government from deceiving the people.
+
+Newspapers, radio, telephone, telegraph, and later television—the media kept changing, but antitrust's vigilance over information freedom persisted into the 1990s.
+
+In 1934, [the U.S. government enacted the Communications Act](https://www.fcc.gov/reports-research/reports/annual-reports-congress/1st-annual-report-congress-1935). The Federal Communications Commission (FCC) was subsequently established, [setting up telecommunications regulation that would last half a century](https://books.google.com.hk/books?id=GXE57vsAHxcC&pg=RA1-PA1989&lpg=RA1-PA1989&dq=%E3%80%8A%E9%80%9A%E8%AE%AF%E6%B3%95%E3%80%8B%EF%BC%881934%E5%B9%B4%EF%BC%89&source=bl&ots=hrp4Buhu-n&sig=ACfU3U319jUPwRc-nOFGi8_zCZFh-iEX5Q&hl=zh-CN&sa=X&ved=2ahUKEwixj9X406HhAhUFGKYKHeTpDW8Q6AEwB3oECAkQAQ#v=onepage&q=%E3%80%8A%E9%80%9A%E8%AE%AF%E6%B3%95%E3%80%8B%EF%BC%881934%E5%B9%B4%EF%BC%89&f=false).
+
+Starting in 1940, the U.S. Federal Communications Commission (FCC), to prevent cutthroat competition and mergers among TV stations, [gradually issued a series of strict rules](http://ias.cass.cn/sy/mgshwh/201508/t20150831_2696007.shtml) governing television. For example, antitrust law stipulated that a single broadcaster could own at most 12 TV stations nationwide, could not own two stations in any of the nation's 50 largest cities, and could not simultaneously own radio stations and cable television.
+
+The cable TV market was liberalized in the 1980s, giving rise to channels such as CNN, Discovery, ESPN, and HBO. To prevent cable operators from deciding what information people could see, [the Cable Television Consumer Protection and Competition Act established "must-carry" rules](http://www.hibooks.cn/licai/bkview.asp?bkid=22963&cid=38733) requiring local stations that covered local livelihoods and political news to be carried on cable systems.
+
+Just as Rockefeller relied on railroad monopolies to control the oil market, TV system operators could decide what content aired by controlling broadcast channels, thereby harming local stations. These stations' programs had no ratings, forcing them to sign exclusive cooperation agreements with operators.
+
+The goal of regulation was clear: to keep information-distribution channels from controlling the spread of content and to ensure that different political opinions could all reach the public.
+
+Mergers involving companies that controlled information and channels were especially strictly managed. For a long time, cable operators that owned distribution networks could not acquire TV stations, and film studios could not buy movie theaters.
+
+For newspapers, the Newspaper Preservation Act was introduced in 1970, allowing two companies to share advertising revenue to ensure survival, but they had to maintain separate editorial staffs to safeguard the diversity of news and information.
+
+Columbia law professor Tim Wu, originator of "net neutrality" theory, notes in *The Master Switch: The Rise and Fall of Information Empires* that for decades the U.S. government kept a close watch on information dissemination to prevent any company from monopolizing information and speech.
+
+The shift began in the 1980s. The Reagan administration pursued economic liberalization, loosening monopoly regulation and reducing the government's role in the economy. In 1986, Federal Trade Commission Chairman Daniel Oliver [gave a speech to the American Bar Association that reflected the change in enforcement tone](http://www.competitionlaw.cn/info/1028/24628.htm): "The enemy of public policy is excessive government intervention; the damage caused by antitrust enforcement to business activity should be limited."
+
+After that, breakup litigation against big companies had only one revival, against Microsoft during the Clinton administration. The subsequent George W. Bush administration adopted a more lenient policy toward big-company monopolies. By 2008, when Obama was elected, he was even called "the first social-media president." From the start of his campaign, he used social networks such as Facebook to rally votes.
+
+### The Power to Control Speech Is Not Always Wielded by Tech Companies Themselves, Making Antitrust More Complicated
+
+Global internet information dissemination has gradually fallen under the control of two companies. Netcraft.com, after analyzing traffic across 1.4 billion websites, found that Google, Facebook, and their acquired services YouTube and Instagram directly determine the direction of more than 70% of global internet traffic.
+
+More direct evidence of control over information is the traffic of media websites. Since 2013, traffic referred by Google and Facebook has exceeded 50% of total traffic to media websites—China is an exception: although companies there hold similarly dominant shares, they are not the ones controlling information.
+
+![Changes in traffic sources for media sites, with Google and Facebook dominating. Image source: [staltz.com](https%EF%BC%9A//blog.parse.ly/post/2855/facebook-continues-to-beat-google-in-sending-traffic-to-top-publishers/)](http://img.qdaily.com/uploads/20190328073137mGCR924zQMsgfd7q.png-w600)
+
+Every four years, the political leanings of Google and Facebook stir controversy. By 2016, public questioning had grown.
+
+In 2016, the independent media outlet SourceFed claimed that Google's search engine displayed "political bias," allegedly deliberately manipulating results to help Democratic presidential candidate Hillary Clinton downplay negative information. In response, Google argued that this was the spontaneous decision of its search algorithm.
+
+Early last year, the Cambridge Analytica data leak erupted. Data on 50 million Facebook users was exploited by the data firm Cambridge Analytica, believed to have helped Donald Trump canvass votes during the U.S. presidential election. But using social-network user data for targeted canvassing had also been done during the Obama era—the difference being that Obama had Facebook's consent. Facebook co-founder Chris Hughes directly joined the Obama campaign team.
+
+After Trump was elected, Reuters reported that Google employees had internally discussed changing algorithms to suppress conservative news outlets. Google CEO Sundar Pichai testified before Congress seven times last year, repeatedly pledging Google's political neutrality.
+
+Facebook did not escape criticism over political bias either. Former Facebook employees [revealed details of how the company manually intervened to manipulate public opinion during the 2016 election](https://www.qdaily.com/articles/26690.html): left-leaning employees selectively filtered out conservative news. The U.S. [Senate Commerce Committee](http://gizmodo.com/senate-gop-launches-inquiry-into-facebook-s-news-curati-1775767018) quickly sent a letter to Zuckerberg demanding an explanation of how Facebook's Trending Topics section operated.
+
+What differs from the fear of big companies manipulating information a century ago is that it is hard to imagine Mark Zuckerberg or Larry Page issuing secret orders for political attacks. But it is not only the tech companies themselves that use algorithmic recommendation to influence what people see.
+
+Foreign interference in the U.S. election plunged Google and Facebook into even greater trouble.
+
+Zuckerberg [initially denied](http://global.sina.cn/szzx/article/20180322/02badb2340451000.html) that Russian agencies were involved in the Cambridge Analytica leak. But as the Russian GRU agents' election-interference operation was exposed, [he changed his tune](https://www.bbc.com/zhongwen/simp/world-43723104). During two days and ten hours of congressional testimony, Zuckerberg admitted that Facebook had not detected Russian-bought ads in time, leading to fake news, foreign election interference, and hate speech.
+
+Fake news is the most common way to control speech on social networks. [The New York Times interviewed YouTube video makers who used fake-news headlines.](https://www.nytimes.com/interactive/2018/08/11/technology/youtube-fake-view-sellers.html?mtrref=www.google.com) They rely on algorithmic recommendations to win clicks, and interviewees said they could earn $200,000 a year.
+
+Fake-news producers do not necessarily have political motives; some simply know readers love sensational fake news, which brings more ad revenue. In an information flow controlled by social networks and search engines, news becomes harder to tell true from false—from elections in developed regions to Brexit, and from ethnic conflicts to vendettas in remote areas.
+
+Many do have political motives. Using Google's algorithm, Reddit users heavily linked the word "idiot" to photos of Trump, so that searching for "idiot" returned nothing but Trump photos—[something still visible today](https://www.google.com/search?q=idiot&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwijrP764aLhAhVcyosBHRWIBJIQ_AUIDigB&biw=2515&bih=1305). ISIS even had a dedicated new-media department, creating massive numbers of accounts on Facebook and Twitter to promote jihad and upload beheading videos.
+
+There is no evidence that Facebook and Google maliciously control internet information, but the facts show that these two companies, which serve billions of people every day, have enough influence to cause real harm.
+
+The fake-news scandals put enormous pressure on tech companies. Under pressure, the tech companies themselves began to exercise the power of censorship.
+
+On March 15, [the Christchurch mosque shootings in New Zealand left 50 people dead](https://www.qdaily.com/articles/62233.html). The attacker livestreamed the attack on Facebook; Facebook's AI filtering technology for video review failed to catch the live broadcast, and afterward neither Facebook nor Google could fully prevent the video from continuing to appear.
+
+Amid doubts that Facebook's controls were adequate, Facebook intensified its censorship, even uniformly blocking video clips used in news reports.
+
+The same thing has happened again and again in countless past controversies on Facebook and YouTube. From 2017 to the present, the number of Facebook content moderators has tripled, from 10,000 to 30,000 today—roughly equal to Facebook's total global full-time workforce.
+
+The boundary between what content is suitable for the internet and what should be removed is hard to draw. The more serious problem is that the standards for judgment still rest with algorithms.
+
+In the latest controversies over far-right speech and anti-vaccine content, Amazon, Facebook, and YouTube successively purged related material, becoming a new form of censorship.
+
+Contemporary anti-vaccine theory [began with a paper in the prestigious medical journal *The Lancet*](https://www.qdaily.com/articles/61770.html). Physician Andrew Wakefield's study claimed that vaccination could cause children to develop colitis and possibly even autism. Anti-vaccine arguments gained traction; supporters believed medical companies hid the consequences of vaccination for profit.
+
+As the debate grew fiercer, tech companies could not stay out of it. Anti-vaccine documentaries were directly banned on Amazon; Pinterest and Facebook deleted anti-vaccine information across their platforms. YouTube did not delete the videos outright but reduced the likelihood that anti-vaccine content would be recommended.
+
+Anti-vaccine arguments pushed tech companies, which profess belief in free speech, toward blanket management; some big companies treated it almost like Nazi content or child pornography.
+
+This also drew concern from the American Medical Association (AMA). [The organization wrote to five tech companies](https://www.forbes.com/sites/brucejapsen/2019/03/13/ama-enlists-social-media-giants-to-stop-spread-of-vaccine-misinformation/), saying tech giants should do their part to ensure consumers have access to scientifically valid information about vaccination rather than deleting content indiscriminately.
+
+Tech companies are growing accustomed to managing how information flows.
+
+[Facebook tried to rate media outlets itself](https://www.facebook.com/zuck/posts/10104445245963251) to tackle the fake-news problem. New questions arose: why should it be the one to decide which outlets' information deserves to be spread? Alexis C., deputy editor of *The Atlantic*, [wrote in criticism](https://www.theatlantic.com/technology/archive/2018/01/facebook-media-trustworthiness/551045/), "Ratings impede press freedom."
+
+And [a leaked Google internal document showed](https://www.breitbart.com/tech/2018/10/09/the-good-censor-google-growth-strategy-shift-towards-censorship-to-appease-authoritarian-governments/) that Google, too, is beginning to accept its role as a moderator.
+
+Jason Pontin, former editor-in-chief of MIT Technology Review, was tasked by Google with answering a question: how to manage and censor harmful content while ensuring free conversation?
+
+This 86-page internal PowerPoint, drawing on analysis of large numbers of journalists' articles and interviews and materials from academic and arts critics, reached this conclusion: faced with increasingly harsh criticism, Google, Facebook, and Twitter can only adopt stricter censorship and management measures and can no longer maintain the ideal free-speech environment advocated when the internet was founded.
+
+Gradually, the big tech companies that once believed in "Don't be evil" and adhered to the free-speech principles of the internet's early days are growing used to their new job of censorship, answering to different masters in different situations.
+
+Cover image source: Wiki
