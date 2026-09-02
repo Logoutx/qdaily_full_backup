@@ -561,6 +561,28 @@ _EMBEDDED_URL_RE = re.compile(r"https?://[^\s一-鿿\"'\]）》」»]+")
 _SCHEMELESS_DOMAIN_RE = re.compile(
     r"^[A-Za-z0-9][A-Za-z0-9-]*(\.[A-Za-z0-9][A-Za-z0-9-]*)+([/?#][^\s]*)?$")
 _TRAILING_JUNK_RE = re.compile(r"[).,;:'\"）】》」‎‏]+$")
+_BAD_PCT_RE = re.compile(r"%(?![0-9A-Fa-f]{2})")
+# A first path segment containing a dot is NOT automatically a hostname:
+# /feed.xml, /llms.txt, /sitemap-1.xml and /robots.txt are our own files.
+# Only treat it as a lost external host when the final label looks like a TLD
+# rather than a file extension.
+_FILE_EXT = {
+    "xml", "txt", "html", "htm", "css", "js", "json", "png", "jpg", "jpeg",
+    "gif", "webp", "svg", "ico", "mp4", "webm", "pdf", "gz", "zip", "map",
+}
+_TLD_RE = re.compile(r"^[A-Za-z]{2,24}$")
+
+
+def _fix_pct(u: str) -> str:
+    """Escape stray % signs so the URL can't provoke a 400.
+
+    A '%' not followed by two hex digits is an invalid escape: Cloudflare and
+    GitHub Pages answer 400 Bad Request, which Search Console files under
+    "Blocked due to other 4xx" (404s are a separate report). Article bodies
+    carry percentages and truncated URLs, so this is a live hazard whenever a
+    body link is rebuilt — encode the sign instead of emitting a broken URL.
+    """
+    return _BAD_PCT_RE.sub("%25", u)
 
 
 def sanitize_href(href: str) -> str | None:
@@ -569,17 +591,32 @@ def sanitize_href(href: str) -> str | None:
     if not h:
         return None
     low = h.lower()
-    if low.startswith(("http://", "https://", "mailto:", "tel:", "#", "/")):
-        return href
+    # Protocol-relative FIRST: "//host/path" also starts with "/", so testing
+    # the "/" prefix before it would silently turn an external link into a
+    # site-relative path (this was the bug — the branch below was unreachable).
     if h.startswith("//"):
-        return "https:" + h
+        return _fix_pct("https:" + h)
+    if low.startswith(("http://", "https://", "mailto:", "tel:")):
+        return _fix_pct(href)
+    if h.startswith("/"):
+        # A site-relative path whose first segment is really a bare domain
+        # ("/www.hartisland.net") is a scheme-less external link that lost its
+        # host, not a page here. Send it outward rather than 404 on our site.
+        first = h[1:].split("/", 1)[0].split("?", 1)[0].split("#", 1)[0]
+        last_label = first.rsplit(".", 1)[-1].lower() if "." in first else ""
+        if (_SCHEMELESS_DOMAIN_RE.match(first) and last_label
+                and last_label not in _FILE_EXT and _TLD_RE.match(last_label)):
+            return _fix_pct("https://" + h[1:])
+        return _fix_pct(href)
+    if low.startswith("#"):
+        return href
     # Garbage wrapper with a real URL inside (brackets, quotes, prose, 。 …).
     m = _EMBEDDED_URL_RE.search(h)
     if m:
-        return _TRAILING_JUNK_RE.sub("", m.group(0))
+        return _fix_pct(_TRAILING_JUNK_RE.sub("", m.group(0)))
     # Scheme-less domain(/path) — must be ASCII domain-shaped, no spaces.
     if _SCHEMELESS_DOMAIN_RE.match(h):
-        return "https://" + h
+        return _fix_pct("https://" + h)
     return None
 
 
