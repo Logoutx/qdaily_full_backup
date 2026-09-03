@@ -1,0 +1,235 @@
+@@QD_TITLE@@
+Uber Plans to Go Public at a $120 Billion Valuation. How Did the New Tech Bubble Get Here?
+@@QD_EXCERPT@@
+This is not the end of the road for Uber.
+@@QD_BODY@@
+This is not the end of the road for Uber.
+
+Uber, the pioneer of the sharing economy, is finally going public. Last weekend, Uber and its main U.S. rival Lyft [each filed prospectuses](https://www.wsj.com/articles/uber-lays-groundwork-for-ipo-1544231655); the earliest either could list is the first quarter of next year.
+
+Uber chose to file confidentially, keeping its financial data away from competitors, so its specific fundraising target remains unknown. Goldman Sachs and Morgan Stanley have [already floated a $120 billion valuation](https://www.team-bhp.com/news/uber-ipo-company-makes-secret-filing). Uber may not actually go public that high, but for years it held its place as the world's most valuable tech startup — until recently, when it was overtaken by ByteDance, the parent company of Toutiao and Douyin.
+
+Uber is, of course, a remarkable company. Its string of innovations made hailing a car by phone a reality and changed the business of transportation.
+
+The question is what it is actually worth.
+
+Consider that Uber has not earned a cent in its eight years of existence. Setting aside consolidated revenue, it lost $4.068 billion in its most recent year. Whether the figure is $72 billion or $120 billion, there appears to be a bubble. And the doubts began four years ago.
+
+![](http://img.qdaily.com/uploads/20181212042430HZ01xz3VDUOW2ImT.jpg-w600)
+
+Back in 2014, when Uber's valuation reached $17 billion, Aswath Damodaran, a professor at NYU's Stern School of Business, [wrote a piece questioning it](http://csinvesting.org/wp-content/uploads/2017/05/Damordaran-on-UBER-FiveThirtyEight.pdf): the entire taxi market was worth $100 billion, and Uber's take of that revenue was roughly 1% of the market. Even assuming it could one day grow to 10% of the whole market and skim just 20% of fares, a $17 billion valuation exceeded what Uber could possibly be worth.
+
+Bill Gurley, then an Uber board member and a leading Silicon Valley investor who had backed Uber since 2011, [wrote a piece titled *How to Miss by a Mile*](http://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/) arguing that Uber had dramatically increased the convenience of getting a ride, which would generate far more travel demand — people might even give up driving themselves. At the same time, Uber could extend up and down the value chain to capture more of it.
+
+Four years on, Uber has indeed grown, and the demand for rides is no longer confined to the taxi market's $100 billion. [By Goldman Sachs research estimates](https://www.marketwatch.com/story/ride-hailing-industry-expected-to-grow-eightfold-to-285-billion-by-2030-2017-05-24), the global ride-hailing market was worth $36 billion in 2017, and the taxi market $108 billion. According to financial data Uber disclosed for the period through June this year, the company took in $9.93 billion in revenue over the past year — a third of ride-hailing and 7.3% of the entire passenger car travel market.
+
+But at the same time, its valuation has climbed far beyond $17 billion. Based on the last round, Uber has 75 million monthly ride-hailing users, meaning each user accounts for an average of $960 in market value. Each of them generated $132.4 in revenue for Uber — and $101.7 in losses.
+
+The value carried by each Uber user is almost on par with Apple. [Worth $800 billion](https://finance.yahoo.com/quote/aapl/), Apple has roughly 800 million users on its hardware devices each month, each accounting for $1,000 of market value. But calculate it out, and a single Apple user contributes $74.38 in net profit to Apple per year.
+
+Uber really has changed users' travel habits, but it did so by lowering the price of every ride — above all through Uber Pool, the carpooling service it now pushes globally (Didi's carpool service was modeled on it). And the barriers to entry in the shared mobility market it inhabits are clearly not as high as those for Apple selling premium electronics. Take Lyft, which recently announced it too will go public next year: it has competed with Uber in the U.S. all along, with less funding and a smaller scale, yet has managed [sustained growth](https://www.cnbc.com/2018/10/16/lyft-hires-jp-morgan-to-lead-ipo-at-15-billion-valuation.html), forcing Uber to keep burning cash.
+
+And Uber's global prospects look even bleaker than in 2014. In the world's two fastest-growing markets — China and Southeast Asia — Uber has [already pulled out early](http://www.qdaily.com/articles/51501.html). In Russia it lost to the local "Baidu," Yandex.
+
+As for the particularly imaginative self-driving experiments, those were suspended entirely after [a pedestrian was killed](http://www.qdaily.com/articles/51273.html) in September. Earlier, Uber had also been accused of stealing trade secrets from Google's autonomous driving technology and only settled by handing over equity worth about $245 million — Google's own driverless ride service is in testing, and that is a long-term threat to Uber.
+
+As for the upstream and downstream of mobility services, Uber has tried [car rentals](http://www.qdaily.com/articles/58766.html), [insurance](http://www.qdaily.com/articles/21373.html), [food delivery](http://www.qdaily.com/articles/32675.html), [self-driving trucks](http://www.qdaily.com/articles/55779.html), [bike-sharing](http://www.qdaily.com/articles/51996.html), and [electric scooters](http://www.qdaily.com/articles/55941.html) — none could prop up the company's results. The car rental business even became a scandal over its use of recalled vehicles. In the end, ride-hailing is still Uber's main revenue.
+
+Losses growing in step with revenue, new businesses failing to take off, and no monopoly from which to extract profits globally or in the U.S. — this is the reality Uber faces.
+
+Even Bill Gurley, who once defended Uber's lofty valuation, wrote a piece in 2016 warning that startup valuations had grown too high and [would cause problems down the road](http://abovethecrowd.com/2016/04/21/on-the-road-to-recap/). In June of that year, Uber's valuation hit $68 billion.
+
+In the past two years Uber raised another four rounds, pushing its valuation to $72 billion. By this October, the IPO proposals from Morgan Stanley and Goldman Sachs [carried a valuation of $120 billion](https://www.thepaper.cn/newsDetail_forward_2536561).
+
+All of this was achieved while scandal-ridden Uber saw nearly every C-suite executive depart — and even Travis Kalanick, the CEO who helped found the company, was fired by its investors.
+
+### $26.9 billion raised over eight years: Uber is the epitome of the entire tech startup bubble
+
+Uber has an [official founding story](https://www.businessinsider.com/uber-travis-kalanick-bio-2014-1): in 2009, founders Kalanick and Garrett Camp were wandering past the Eiffel Tower at night unable to find a cab, and thought how wonderful it would be to summon a car from a phone at will. And so Uber was born.
+
+Like most stories founders tell the media, this is just a story. In fact, it was a project from two serial entrepreneurs who had spent months mulling it over — and even paid someone to research the business model — before making their move.
+
+But at the start, nobody thought Uber would be worth much. The angel round went smoothly, but 1.25 million yuan was a normal amount. The founders themselves weren't sure it would work: they traded 2% of the company to Universal Music for the uber.com domain, and [promised to return the domain if the company went under](https://books.google.com/books?id=bN4tDwAAQBAJ&pg=PA157&lpg=PA157&dq=uber.com+%E7%8E%AF%E7%90%83%E9%9F%B3%E4%B9%90&source=bl&ots=X9N85kOryV&sig=mi3y9BRjLMQ4uiHKWBzY2QNO40I&hl=zh-CN&sa=X&ved=2ahUKEwiWpKPvw5jfAhWwHzQIHbggB8YQ6AEwA3oECAcQAQ#v=onepage&q=uber.com%20%E7%8E%AF%E7%90%83%E9%9F%B3%E4%B9%90&f=false) — had Uber gone public at the $120 billion target, that 2% would be worth $2.4 billion, though those shares were redeemed back in 2011.
+
+![](http://img.qdaily.com/uploads/20181212042320j9Z0kMszTLiY3l5H.jpg-w600)
+
+Uber freed users from waiting helplessly by the roadside for a car — the phone brings one on demand. And people who could drive no longer needed to become professional drivers to earn money driving their own car, taking orders whenever they felt like it.
+
+It caught a good wave — the iPhone 4 launched in 2009 and smartphones spread rapidly. At a time when Zuckerberg was still prioritizing the PC, Tencent was still thinking about how to keep QQ going strong, and Taobao didn't set up its mobile division until 2013, Uber was already [using phone location data to read](https://www.washingtontimes.com/news/2012/feb/2/innovation-uber-alles/) demand in different parts of the city, with a wallet built into the app for quick checkout.
+
+Investors quickly grasped Uber's business — after all, it was a service they would use themselves. A few months after the first round, in early 2011, Benchmark — one of Silicon Valley's most important venture firms, an investor in Snapchat, Riot, Twitter, Tinder and others — bought into Uber's Series A for $11 million.
+
+Uber's invented busy-period price hikes, "surge pricing," were fiercely criticized for a time, and Kalanick [defended it staunchly](https://books.google.com/books?id=nGSfDAAAQBAJ&pg=PT174&lpg=PT174&dq=%E2%80%9COur+principles+are+clear,%E2%80%9D+he+told+me+in+2012.+%E2%80%9CNumber+one,+Uber+is+always+a+reliable+ride.+Always.+You+can%E2%80%99t+say+that+for+some+of+the+alternative+transportation+systems+in+the+city.+In+fact,+probably+none.&source=bl&ots=bpNXC7TQcT&sig=MAqaqE9Wjifz95oQ-1BmeN-tYbk&hl=zh-CN&sa=X&ved=2ahUKEwij26aixJjfAhXRHjQIHVgyCeEQ6AEwBXoECAIQAQ#v=onepage&q=%E2%80%9COur%20principles%20are%20clear%2C%E2%80%9D%20he%20told%20me%20in%202012.%20%E2%80%9CNumber%20one%2C%20Uber%20is%20always%20a%20reliable%20ride.%20Always.%20You%20can%E2%80%99t%20say%20that%20for%20some%20of%20the%20alternative%20transportation%20systems%20in%20the%20city.%20In%20fact%2C%20probably%20none.&f=false): it was simply supply and demand, encouraging more drivers to take orders and getting passengers rides faster.
+
+On this, Jeff Bezos, then the world's richest man and founder of Amazon, [remarked at the time](https://edwardbetts.com/monograph/Jeff_Bezos): "Kalanick is a real entrepreneur. Any ordinary CEO would have chickened out long ago." Bezos consequently bought into Uber in 2012.
+
+Bold, aggressive operating tactics defined Uber's start. To push rapidly into international markets, in 2011 Uber [entered cities directly](https://www.investopedia.com/articles/personal-finance/111015/story-uber.asp) without permits in Amsterdam in the Netherlands, Paris in France, Poland and elsewhere — and only lobbied governments afterward. What it got in return was rapid global growth.
+
+Most of today's biggest startups began in those same years, riding the spread of smartphones. Wang Xing's Meituan raised its 12-million-yuan Series A in 2011 and kicked off the group-buying wars; Airbnb also raised its Series A that year and began disrupting the hotel industry. A year later, Cheng Wei founded Xiaoju Technology with 800,000 yuan and started Didi Dache; Zhang Yiming, who had been through several startups, [founded ByteDance](https://zh.wikipedia.org/wiki/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8), launched Neihan Duanzi in March 2012, and rolled out Toutiao three months later.
+
+At this stage, Uber's fundraising and valuation growth were still fairly modest: five rounds over four years, raising $307 million.
+
+Then, like other startups, Uber began raising intensively. In 2014 alone, Uber [completed three Series E rounds](https://36kr.com/p/5048246.html); after launching its Series F in July 2015, it went on to raise five more rounds in succession. Corporate investors appeared, such as Microsoft ($100 million) and Baidu (which led a $1 billion round in Uber China), alongside private equity fund the Tata Group ($75 million).
+
+Back then, Uber had a first-mover advantage over all its competitors. Didi was busy at home in a cash-burning war with Kuaidi Dache; [Grab had only been around two years](https://zh.wikipedia.org/wiki/Grab) in Southeast Asia and was still running its own taxi fleet. Uber, meanwhile, was already operating in 311 cities across 58 countries. In the U.S., in the second quarter of 2015, Uber's number of trips [surpassed taxis for the first time](https://www.jiemian.com/article/332296.html). Its internationalization strategy delivered tenfold revenue growth in two years.
+
+Putting money into Uber so it could keep expanding into new markets, grow market share and ultimately reach monopoly and profitability — that was the main reason investors were willing to let Uber keep burning cash. By the end of 2015, Uber had raised 13 rounds totaling $8.2 billion, and its valuation had soared to $50 billion. In 2016, the Saudi sovereign wealth fund's [$3.5 billion investment](http://www.cngold.com.cn/fund/20160602d1995n71773980.html) lifted Uber's valuation to $62.5 billion — the largest single funding round in Uber's history.
+
+![](http://img.qdaily.com/uploads/20181212042252aw7AW9SsBjdVumZg.jpg-w600)
+
+But it was also in 2016 that Uber began to show its problems. The ride-hailing business had become a cash-burning subsidy war, and in 2016 Uber [posted a net loss of $2.8 billion](http://www.qdaily.com/articles/39866.html). And with Uber's exit from China, its potential market actually shrank.
+
+By 2017, Uber's value was slipping in investors' eyes. Some were only willing to buy Uber shares at a $50 billion valuation. In November 2017, SoftBank first [put in $1 billion for newly issued Uber shares](http://www.qdaily.com/articles/47171.html) at the prior $68 billion valuation, while the remaining $9 billion was bought from existing shareholders at a $48 billion valuation — which said something about how investors saw its actual worth.
+
+![](http://img.qdaily.com/uploads/20181212042151NYtA5CJ9mvijLpMa.jpg-w600)
+
+Uber began exhibiting the same problems as all the unicorn companies of the time that traded burned cash for growth: the money went out, but the monopoly never arrived — and profit was even further out of reach. Or the monopoly was achieved, but the money earned was far less than the money burned.
+
+Snap, the star unicorn with a $16 billion valuation, [revealed heavy losses](http://www.qdaily.com/articles/40680.html) in its first earnings report after going public; its stock fell from its $17 IPO price to under $6 today.
+
+Even more absurd was Theranos, the blood-testing company that claimed it would bring disruptive change to medicine and the life sciences. After media investigations exposed faked core technology, its [$9 billion valuation evaporated overnight](http://www.qdaily.com/articles/27280.html), and its founder was buried in lawsuits.
+
+Magic Leap, which took $2.3 billion from Alibaba, Temasek and others, finally shipped the Magic Leap One AR glasses after years of delay — [bearing little resemblance to its earlier concept demo](http://palmerluckey.com/magic-leap-is-a-tragic-heap/).
+
+And Meituan, which witnessed the entire history of China's internet cash-burning, started from the thousand-group-buying war, then pushed into food delivery, O2O on-demand services, and even launched a ride-hailing business in 2017. Meituan, Dianping and Mobike raised a combined $14.2 billion, yet still could not change their loss-making results. [The prospectus showed](http://www.qdaily.com/articles/54590.html) Meituan, valued at $60 billion, posted a net loss of 2.8 billion yuan as of the end of 2017.
+
+Dropbox, Palantir, Pinterest, Zenefits — all the same. Each made the best product in its field and traded heavy funding for fast growth, but [simply could not generate revenue commensurate with its valuation](http://www.qdaily.com/articles/28937.html).
+
+### Tech companies didn't always mean high valuations — Google and Facebook changed what the world expected
+
+The relationship between tech companies and money wasn't always what it is now — starting out by telling stories to raise funding and burning cash for growth.
+
+The earliest Microsoft and Apple both thought in terms of selling products directly to fund their growth — essentially the traditional corporate growth path.
+
+Bill Gates and Paul Allen wrote a BASIC compiler, and to better sell the software, Bill Gates even hit the road to pitch it. From founding to its 1985 IPO, [Microsoft didn't take a single cent from venture capital](http://www.qdaily.com/articles/41338.html).
+
+Apple, founded in 1976, started as a business hand-assembling Apple I computers. A year later Apple formally incorporated — and even then only to raise $600,000 to prepare production of the Apple II. Apple needed no more money than that, going public purely on the strength of selling Apple II computers. Its IPO raised $100 million — a number that looks unremarkable today, but at the time was the largest public offering since Ford's listing in the 1950s.
+
+![](http://img.qdaily.com/uploads/20181212075209z3AcM6qx1Gib9dCh.jpg-w600)
+
+Microsoft and Apple drove the spread of the personal computer, and Amazon (1994), Google (1998), Alibaba (1998), Tencent (1998) and Baidu (2000) were all born in that window.
+
+But the dot-com bust that followed in 2001 hit them all. At one point Alibaba [had only $7 million on its books — enough to keep operating for six months](https://36kr.com/p/5153711.html). Amazon's stock fell more than 90%, and it survived on a loan taken out just before the bubble burst. Both Google and Tencent have stories of nearly selling themselves.
+
+These companies spent several years finding the right business models and came out of the bust.
+
+![](http://img.qdaily.com/uploads/20181212041728bC4XoIc3M5UTlpEk.jpg-w600)
+
+The first to change outside expectations was Google, which went public in 2004 with pre-IPO funding and valuation scales surpassing those of the bubble-era companies. But soon after, the financial crisis swept the globe.
+
+The company that truly completed the shift was Facebook, listed in 2012. [Facebook's IPO](https://wiki.mbalib.com/wiki/Facebook%E4%B8%8A%E5%B8%82) was a turning point for American venture capital — the only big tech company born after the dot-com bubble.
+
+The Facebook model is now the internet company model: expand and raise as much as possible, ignoring losses in exchange for user scale. Like Google it won a high valuation amid doubts and went public amid doubts — but at a far larger scale.
+
+On its first trading day, Facebook's market value hit $104 billion, but the stock soon fell below its IPO price. [Investors questioned](http://tech2ipo.com/55718) its price-to-earnings ratio of more than 50 (market value relative to profit) and its ability to sustain long-term growth after the mobile internet explosion.
+
+But two years later, Facebook [silenced all doubts with advertising revenue](http://www.qdaily.com/articles/1595.html); even after a rough year, its market value still exceeds $400 billion.
+
+Ignoring inflation, Google raised $36.1 million before its IPO — 29 times the combined pre-IPO funding of Microsoft and Apple — and Facebook's pre-IPO funding was in turn 44 times Google's. The capital a company consumes before going public keeps growing.
+
+Capital doesn't want to miss the next Facebook, and is happy to accelerate startups into unicorns with sheer money. The performances of Facebook and Google got the capital markets to endorse the model of winning users and market share first and figuring out profit later — as long as you're the best company in an important field with a huge user base locked in, surely a valuation in the tens or hundreds of billions is justified?
+
+Startups that once needed years to find a business model were fast-forwarded by capital. There is more cash sloshing around this industry today than at any point in the 1990s.
+
+Today, Uber, Didi and even Airbnb have each raised more than Facebook's total pre-IPO funding. In the two years Uber and Didi went head to head in the Chinese market, the two companies' fundraising [was measured in billions, even tens of billions, of dollars](https://www.jiemian.com/article/509271.html).
+
+And now, in their first year online in China, bike-sharing companies Mobike and ofo raised 69 times what Didi and Kuaidi had raised in the same span.
+
+![](http://img.qdaily.com/uploads/20181212041540O1agilvJfHEpy2su.jpg-w600)
+
+The new bubble keeps repeating in Silicon Valley. Lime and Bird, shared electric scooter companies with a model similar to bike-sharing, are both planning [$2 billion in new funding](https://t.cj.sina.com.cn/articles/view/6398563663/17d62554f00100c81c?from=tech&subch=nauto) next year. The two rose so fast that within just over a year of founding, their valuations reached $1 billion each.
+
+Lime's valuation hit $1.1 billion after a $350 million round led by GV; Bird, backed by Sequoia Capital, was valued as high as $2 billion — 2,000 times what Uber raised in its first year.
+
+### Money with nowhere else to go showed up too
+
+Tech company fundraising and valuations reinforce each other with the flow of capital in the markets.
+
+The U.S. has long been the world's largest venture capital market. After the 2008 financial crisis, the Federal Reserve cut interest rates seven times within a year; by December 16 that year, the fed funds rate was effectively zero (floating between 0 and 0.25%), a range [held for a full seven years](https://www.haojingui.com/fed/1311.html) — the first such long low-rate cycle in Fed history.
+
+This meant money in the bank earned essentially no interest while borrowing costs were extremely low — an open invitation for every industry to pile on debt and expand. At almost the same time, the Fed changed monetary policy, injecting more than $4 trillion into markets by buying Treasury bonds, driving the rebound of economic indicators from manufacturing and services to production and exports.
+
+![](http://img.qdaily.com/uploads/201812120418079nmkoEXDq7MA3PgN.jpg-w600)
+
+Already-famous venture firms doubled down. Andreessen Horowitz (a16z) — the renowned firm behind Skype, Facebook, Instagram, Twitter and Airbnb — began writing checks in the tens of millions at the Series A stage, no longer waiting for companies to grow slowly.
+
+In 2014, a16z led a [$6 million investment](https://36kr.com/p/215355.html) in Product Hunt, an app-recommendation site with exactly one full-time employee — its founder. a16z's seed-stage bet on Instagram [was a mere $250,000](https://www.36kr.com/p/102159).
+
+[Mutual funds](https://zh.wikipedia.org/zh/%E5%85%B1%E5%90%8C%E5%9F%BA%E9%87%91), which previously rarely participated in venture investing directly, also began putting money into tech companies. These funds, which pool small investments and are run by specialized asset managers, had always prioritized safety — and startups are obviously dangerous.
+
+But [a Harvard Business School paper points out](https://www.hbs.edu/faculty/Publication%20Files/18-037_02aee6d2-1209-449e-84df-c3730b4d7b4b.pdf) that mutual fund firms such as Fidelity and BlackRock were in fact the biggest backers of Uber's early fundraising.
+
+The authors also note that startup financing changed dramatically in recent years. Though these companies once relied on a handful of VCs, funding sources have expanded greatly: mutual funds that once invested directly in the stock market, sovereign wealth funds and family offices have all joined in. With institutions managing tens or even hundreds of billions of dollars getting involved, more mature companies have delayed going public.
+
+China's sovereign wealth fund, China Investment Corporation, [led a $4.5 billion round in Ant Group](http://finance.caixin.com/2016-04-26/100936710.html) in 2016 and followed on in multiple later rounds. Temasek, wholly owned by Singapore's Ministry of Finance, then joined [a new round](http://www.xinhuanet.com/fortune/2018-06/08/c_129890439.htm) totaling $14 billion this year. And the Saudi sovereign wealth fund, which had already put $3.5 billion into Uber in 2016, went further and put [$90 billion into SoftBank's Vision Fund](https://wallstreetcn.com/articles/3416166).
+
+Beyond that, the venture arms of big companies supplied ammunition to the VC market. [According to CB Insights data](https://www.cbinsights.com/research/report/corporate-venture-capital-history/), corporate investors deployed $8.4 billion in 2012. That doubled within two years, and grew nearly 70% in 2015 to an unprecedented $28.4 billion. In 2009, corporate investment had been just $5.1 billion. As of the last quarter of 2016, 63% of CVC money flowed to internet and mobile.
+
+Walmart spent $3.35 billion [on the largest e-commerce acquisition in U.S. history](http://www.qdaily.com/articles/39970.html), buying pet supplies e-retailer Chewy.com, and is now in talks to spend $15 billion for control of Flipkart, India's largest e-commerce company. Elsewhere in tech, Magic Leap took several rounds of money from Google, Alibaba and Qualcomm.
+
+In hindsight, the rise of mobile internet, the overflowing overseas profits of big American companies and low borrowing rates all encouraged corporate investment arms to send more money to startups. Microsoft's outsized return after its $240 million investment in Facebook in February 2007, and GV's early bets on a string of companies including Uber, are textbook examples of corporations fast-growing startups.
+
+China followed a similar playbook — policy incentives plus corporate involvement — driving the speed and density of capital concentration.
+
+[Alibaba Capital was founded in mid-2008](https://zdb.pedaily.cn/company/show11492/) and kept increasing its investments in e-commerce, enterprise services and other areas — from 22 deals in 2013 to 96 in 2018, more active than many first-tier VCs. Xiaohongshu, Didi, ZhongAn Insurance and China Unicom all took Alibaba's money.
+
+Tencent [has invested in more than 600 companies over the past seven years](https://news.pedaily.cn/201808/434238.shtml). On January 24, 2011, Tencent announced the creation of the Tencent Industry Win-Win Fund, initially sized at 5 billion yuan, later topped up to 10 billion; within half a year it had deployed nearly 3 billion yuan, when Tencent's entire annual profit was only 8 billion yuan. Today a cohort of listed companies — Meituan, Pinduoduo, Huya, China Literature and more — either have Tencent holding close to 20% or were directly incubated by Tencent. Last November, the combined market value of Tencent-affiliated companies briefly accounted for 12% of the Hong Kong Stock Exchange's total market value.
+
+Startups, now flush themselves, also started investing. At the end of September 2016, ofo announced a [strategic investment](https://36kr.com/p/5053572.html) of tens of millions of dollars from Didi.
+
+![](http://img.qdaily.com/uploads/20181212041635LJX5Qmwc89idV4rq.jpg-w600)
+
+The "mass entrepreneurship and innovation" slogan put forward at the 2014 Summer Davos marked [the beginning of China's policy tilt toward venture capital](http://www.gov.cn/xinwen/2015-09/21/content_2935982.htm). To develop local economies and attract outside investment, cities including Beijing, Shanghai, Shenzhen and Chongqing levied individual income tax on VC firm partners at a preferential rate of 20%.
+
+After 2015, fundraising by Chinese equity investment funds — spanning early-stage investment, venture capital (VC) and private equity (PE) — went wild. [Zero2IPO Research data shows](https://xw.qq.com/cmsid/20180905A0F09400) that last year, compared with 2014, the number of newly established funds rose 379.7% and the amount raised grew 249.5%. Separately, a PwC research report shows that in 2016 RMB-denominated funds accounted for over 75% of total fundraising; in 2017 the share was higher, reaching 86.5%.
+
+Genuinely effective internet business model innovation in recent years has actually been rarer than around 2010, but far more capital has poured in — and the result has been a direct surge in the valuations of the companies at the front of the pack.
+
+### New share structures and investor agreements invisible to outsiders make investors more willing to grant high valuations
+
+When Apple went public in 1980, the 45% of the company Steve Jobs held at founding [had already been diluted to 15%](http://daily.zhihu.com/story/4105435). After clashing with the board, he was easily thrown out of the company he had founded.
+
+That's unlikely to happen today, because with dual-class share structures, the same 1% of shares held by a founder can carry ten times the voting power of an investor's.
+
+This means founding teams can sell more equity to raise money without threatening their own control.
+
+When [Google went public in 2004](https://www.spaceship.com.au/blog/2017/google-ipo-letter/), core executives including Page, Brin and Schmidt held a combined 37.6% of Google's shares but controlled 61.4% of the votes. Zuckerberg and Richard Liu are both examples of one person controlling an entire company with a minority stake. And Snapchat, which went public in 2017, [went further still](http://www.investorscn.com/2017/02/28/27260/), creating three classes of stock — the Class A shares offered in the IPO carried no voting rights at all and could be sold to the market 100% to raise funds.
+
+More funding tends to come with rising valuations. This gives internet companies more shares to trade with investors for round after round of funding, pushing valuations higher while ensuring the founders won't be ejected from the boardroom the way Jobs was. According to data from San Francisco-based [Sutter Securities](https://www.bloomberg.com/news/articles/2017-09-27/can-democracy-stage-a-comeback-at-stock-exchanges), 1% of U.S. listed companies had dual-class shares in 2005; a decade later that figure had reached 15%.
+
+But unequal terms in investment agreements don't all favor founders the way dual-class structures do.
+
+![](http://img.qdaily.com/uploads/201812120429463HSLyf0iq2MmO4Kv.jpg-w600)
+
+In [his article flagging overheated unicorn valuations](http://abovethecrowd.com/2016/04/21/on-the-road-to-recap/), Bill Gurley noted that to guarantee returns at exit, VC firms write a series of unequal clauses into investment contracts — priority distributions if the company goes bankrupt, for example, or veto power over major decisions.
+
+In 2015, the mobile security startup Good was sold to BlackBerry at 38% of its last-round valuation. [Employees discovered](https://www.nytimes.com/2015/12/27/technology/when-a-unicorn-start-up-stumbles-its-employees-get-hurt.html) that the company's contract with its VCs gave the venture investors' shares a liquidation preference: each VC share was worth seven times an employee share in the distribution. That meant that although Good had shrunk 62%, even the latest investors lost only about 30% of their money. The employees, meanwhile, ended up owing money — the taxes they had paid when receiving the shares were far higher than the shares' final value.
+
+Investors now commonly use this preferred-distribution-plus-participation structure in VC agreements. Even if a company goes bankrupt with no profits, investors can still take priority in distributing the proceeds from asset auctions and collateral.
+
+Convertible notes have also become an important early-stage funding instrument for American startups in recent years. [According to PitchBook](https://36kr.com/p/5056105.html), about 19% of U.S. VC deals in 2015 included convertible notes — the highest in a decade. These instruments stipulate that the VC's convertible debt can convert into the company's preferred shares when the debt matures or when the startup completes its next funding round.
+
+This lowers early-stage risk for VCs; convertible-debt contracts commonly give investors the right to convert at a 20% discount to the next round's share price, compensating them for early risk. This series of investor-protective clauses has further channeled money into internet companies, fueling round after round of valuation inflation.
+
+### Going public is not the finish line — the cash-burning giants that reach listing today still have to prove they are more than a link in a capital game
+
+The internet's growth dividend is fading and smartphone sales growth is slowing, so internet startups are all hitting the growth slowdown wall, and the capital that came in round after round needs to exit at a profit. A large cohort of tech companies that traded funding and burned cash for growth has launched an IPO wave this year.
+
+As of December 4, 2018, [128 Chinese companies had listed in Hong Kong](http://www.qdaily.com/articles/59019.html) and 32 in the U.S., most of them internet and tech companies.
+
+But going public is not the finish line — nearly all of them have fallen below their IPO prices. Meituan's stock is at 75% of its IPO price, Spotify at 76% of its opening price (it went public directly, with no IPO price), Snapchat at just 34% of its IPO price. Pinduoduo, iQiyi and Dropbox are trading roughly at their IPO prices now, after roller-coaster plunges along the way.
+
+Some companies won't even make it to listing. ofo now has to [recruit customers for P2P lending platforms](http://www.nbd.com.cn/articles/2018-11-23/1275601.html) to fund refunds of user deposits, while Theranos, the biggest startup fraud in American history, has become fodder for a Hollywood script.
+
+The weak performance of listed companies has directly hit market confidence. Early this year, Huya Live, in the Tencent camp, rose as much as 400% from its IPO, and China Literature doubled within an hour of listing. But as game regulation shifted, Tencent's own market value [has fallen nearly 43% from its peak](https://wallstreetcn.com/articles/3417607) this year, dragging down the shares of more than ten newly listed companies with Tencent stakes.
+
+Now Uber — the company with the highest valuation, the largest funding and the highest revenue in this cohort, and very likely the one that has actually delivered the most innovation — is about to go public. Just as Facebook once set the market's optimistic mood toward internet companies, the performance of this bellwether could be the turning point at which sentiment swings to full-blown pessimism.
+
+This is not the end of the industry. When the dot-com bubble burst in 2000, [at least 4,854 internet companies worldwide were acquired](http://finance.sina.com.cn/leadership/mroll/20090603/16056299954.shtml?from=wap) or went under. But a string of companies — Amazon, Priceline, PayPal, China's three big portals, Baidu and more — used the money raised in their listings to survive the hardest times and go on to grow substantially.
+
+Now it's the turn of the companies raised in the new bubble to prove, after going public, that they are sustainable businesses — and not merely part of a capital game.
+
+Graphics / Xiuxia Feng, Shuya Zheng
+Data / Fangyi Gong, Shaohong Zhou, Jinping Xie
+
+Cover image: Photo by [Kevin Schmid](https://unsplash.com/photos/4UbM0puN-D8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/bubble?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

@@ -1,0 +1,110 @@
+@@QD_TITLE@@
+Another Year of the TGA: A Gentle Revolution Underway, and How Gaming Sidestepped the Worst of Its Future
+@@QD_EXCERPT@@
+Ongoing games didn't bring the disaster everyone feared — they actually produced some new solutions.
+@@QD_BODY@@
+Ongoing games didn't bring the disaster everyone feared — they actually produced some new solutions.
+
+If the game industry conveyed any new impression to the outside world this year, it's that it has far more in common with traditional industries than people assumed — and the common ground keeps growing. That may have reset how outsiders see this supposedly innovative line of work.
+
+[The collapse of Telltale Games](http://www.qdaily.com/articles/56674.html) told the story of how a bloated, autocratic management destroyed the creative process. The studio had adapted the hottest American comics and TV dramas, only to fall, after its rapid transformation into a big company, to the innovation stagnation and talent drain caused by its management problems.
+
+Quantic Dream, known to many non-gamers through *Detroit: Become Human*, faced complaints of workplace discrimination and harassment — which the company dismissed as slander, but which made people realize that game companies might not be any more blameless than anyone else.
+
+Rockstar, maker of GTA and *Red Dead Redemption 2*, was exposed for grinding down its employees; a 100-hour work week startled Western media unaccustomed to an overtime culture, and sparked broader criticism of the pre-release crunch at game companies.
+
+Even the companies that had built strong relationships with their player communities proved no longer "loyal." They pursued new strategies to broaden their audiences and juice profits, and some tacit promises were broken along the way — [when Blizzard announced a Diablo mobile game at its grandest fan festival](http://www.qdaily.com/articles/58021.html), core fans realized the brand they loved had quietly changed.
+
+It's as if the rebellious gamer you knew grew up, entered society, and started dressing like a business elite. An industry once defined by passion, innovation, distinctiveness, and anti-establishment posturing is gradually "maturing" — becoming mainstream entertainment, wielding greater cultural influence, and softening the sharp divides once drawn along business models and audiences. The game world kept transforming this year, in steadier, subtler ways. The year-end recap it ultimately delivered became a controversy-free, Oscars-style love-in — the very thing it once mocked.
+
+The change is irreversible. Nearly every major event this year was tied to ongoing games, the category that had sent core players into panic two years earlier. The good news: the worst didn't happen. It even opened some new doors and offered solutions to existing problems.
+
+### The most successful example
+
+"The world is changing. Players used to finish one game and immediately move to the next; now they're happy to keep it around."
+
+Geoff Keighley's opening words at the TGA set the tone for the year. The three 2018 talking points — *God of War*, *Detroit*, and *Red Dead Redemption 2* — could almost represent the pinnacle of game design, narrative craft, and artistic value, but the game that generated the most noise and made the ongoing transformation most convincing was still a typical ongoing game: *Fortnite*.
+
+We've discussed games-as-a-service for a long time. It's not a new concept, but in the past two or three years it has permeated every platform, because game companies need lower costs, longer-tail revenue, and a stable player community. This year it kept changing how more people play and pay, and began exerting deeper influence on narrative, mechanics design, and business models.
+
+*Fortnite* is an exemplary case: it achieved its goals without its development path offending core players. When *Overwatch* won Game of the Year in 2016 and PUBG was nominated in 2017, the TGA's recognition of this kind of multiplayer online game was already seen by many core players as a disgrace. This year, however, people accustomed to the category's existence softened their stance, almost accepting its place — a class of social entertainment product that, so long as it stays content in its own lane and doesn't block "more worthy" games from receiving awards, naturally draws fairly restrained criticism.
+
+![[Fortnite S7](https://www.epicgames.com/fortnite/en-US/news/take-to-the-skies-in-season-7)](http://img.qdaily.com/uploads/20181210024758AWlcaBf49uYMGoJ2.png-w600)
+
+*Fortnite* also has no need to compete for the "best" title. Its long-running success, its reach beyond core players, and its near-perfect monetization leave it wanting for nothing. The revolution on the monetization front in particular nearly freed the category from its "greedy" reputation.
+
+An honest business model was once tied exclusively to the single-player game's "pay once" model, long a byword for transparency and non-greed. Any long-term model risked player resistance and eventual abandonment — DLC was seen as coasting, making players suspect developers shipped an incomplete experience in the base game; free-to-play hid traps that often lured players into irrational spending for a quick thrill; pay-to-win fundamentally undermined the fairness and balance of multiplayer games; and loot boxes combined with microtransactions were the most loathed way to make money of all. [Gambling-style gacha basically had no chance in the mature markets of Europe and the US](http://www.qdaily.com/articles/52642.html), and [disgruntled players could even topple EA's decisions over it](http://www.qdaily.com/articles/46019.html). These models rarely achieved broad success in core player circles, to the point that people once assumed the only way a long-term game could avoid offending players was to charge for outfits and skins — yet even when those had zero effect on gameplay stats, it was hard to guarantee a stable base of paying users.
+
+*Fortnite* dodged all of the above. Starting with Season 2 in December 2017, it introduced a Battle Pass mechanic [("Battle Pass")](https://fortnite.gamepedia.com/Battle_Pass) that didn't touch the core experience. Players could access all content through the free "Free Pass," or buy the Battle Pass at any time from the store at a clearly marked price of US$10, payable in in-game currency. The rewards for each tier were transparent, earned by completing timed challenges, and included skins, sprays, emotes, accessories, and even large amounts of in-game currency that nearly paid players back — generous enough to be deeply appealing. Nor were the challenges necessarily tied to performance: like achievement systems in any game, some fun-focused tasks were easy to complete, accommodating newcomers who aren't good at games, while others encouraged players to use a variety of weapons or explore the map.
+
+![[Fortnite Season 6 Battle Pass rewards](https://fortnite.gamepedia.com/File:BattlePassScreenDemo.jpg)](http://img.qdaily.com/uploads/20181210023949NFhHumWeP7wCUTtn.jpeg-w600)
+
+In theory, the more time you invest, the more XP you rack up in battle, and the greater the urge to buy the Pass — assuming you've already completed the Free Pass challenges, paying unlocks the real rewards. Unlike the traditional model, where players pay to access a game's full content, Fortnite opened the core experience for free from day one; the Pass players buy is really a reward for their own skill and effort invested in the game. No wonder it achieved a [70%](https://www.gamersky.com/zl/column/201808/1087223_2.shtml) conversion rate.
+
+The industry has come to appreciate the elegance of this design. Inspired by Fortnite, PUBG — which actually preceded it — introduced a similar Royale Pass system on mobile to great effect, with mobile revenue immediately up 365%; *Rocket League* also launched its US$10 Rocket Pass in the summer, hitching a ride on the new model.
+
+Fortnite's seven seasons of updates, nonstop challenges, maps, and themes, its lighthearted all-ages tone, its streamer-friendly entertainment value, its active community and celebrity participation, and [the user-generated-content "creator community" announced only at the TGA](https://www.engadget.com/2018/12/07/fortnite-the-block-game-awards/) have kept the game perpetually popular. As of November, 200 million people had registered as players; a peak of 8.3 million concurrent users meant that at a given moment more people were playing Fortnite than the entire player base of Steam combined. Monthly revenue exceeded US$300 million, and mobile alone brought in 2 million a day. Almost single-handedly, it proved that an ongoing game can win both reputation and revenue — provided its designers find the right positioning and monetization strategy.
+
+With the Pass as the shining example, when game companies now say the word "ongoing," their tone is no longer one of doom, dreading resistance from the "stubborn" pay-once camp. In the face of the new model, paid DLC, loot boxes, and daily skin sales do look outdated. Killing off loot boxes, promising free DLC, and rolling out more Pass variants may well be the trend.
+
+[Skeptics argue](https://www.pcgamer.com/battle-passes-are-replacing-loot-boxes-but-theyre-not-necessarily-a-better-deal/) the Pass system is old wine in new bottles — it still demands your money and your time over the long haul, and the timed challenges in particular inevitably pile on pressure. But ongoing games are here to stay, and a monetization model this un-greedy already counts as the bright side.
+
+### Breaking down the console walls
+
+What shouldn't be overlooked is that this very ongoing game forced the "big three" — Microsoft, Sony, and Nintendo — to break down console walls and connect several communities into one. The long-rumored future in which consoles no longer matter suddenly seems a lot more plausible.
+
+![From left: Shawn Layden, chairman of Sony Interactive Entertainment's Worldwide Studios; Phil Spencer, head of Xbox at Microsoft; and Reggie Fils-Aimé, president of Nintendo of America](http://img.qdaily.com/uploads/20181210032311M29gfSTK0lb5FdJ1.png-w600)
+
+"As an industry, we're strongest when we stand together," Spencer said. "We're united by our love of games as an art form."
+
+Players who watched the six-month cross-platform fight know how hard-won this "unity" is.
+
+During E3, [Sony came under fierce attack from across the game industry for refusing to let PS4 Fortnite players play with those on Xbox and Switch.](http://www.qdaily.com/articles/54776.html) Although the game could cross-play with PC and mobile on PS4, Sony was unwilling to open the gate and share its community of tens of millions of users with the other two console makers. Microsoft had done exactly the same during the Xbox 360's heyday, but that didn't stop it from now standing alongside Nintendo, mocking Sony's cross-platform refusal in joint online ads.
+
+The future of consoles is in doubt, and exclusive games will eventually become history — according to quite a few gaming giants including Microsoft, next-generation consoles could be the last generation of consoles, with cloud gaming as the primary way people play. Cloud gaming runs on remote servers; end users need no downloads, no installs, and no worries about their hardware specs — only an internet connection. This year, the Japanese Switch already streamed *Resident Evil 7* and *Assassin's Creed Odyssey* via the cloud. The setup also means platform exclusivity loses much of its meaning, and a console's individual horsepower is no longer needed, since the cloud offers a more convenient way to play a wide range of games. It dovetails naturally with online play, monthly subscriptions, long-term communities, and ongoing games — it is practically made for them. And with a giant audience unbound by hardware and no longer fragmented up for grabs, the two have perfectly aligned interests.
+
+![Google's [Project Stream](https://www.polygon.com/2018/10/8/17953130/project-stream-game-streaming-assassins-creed-odyssey) also streamed Odyssey in the Chrome browser this year](http://img.qdaily.com/uploads/20181210041434olwvyWU7jDhTnZ4q.png-w600)
+
+Sony ultimately chose to compromise. Platform walls were dismantled bit by bit, and once-isolated player worlds connected into a single whole. Console players from the three camps, who normally refuse to concede anything to one another, could now play together more freely once the restrictions were lifted — something Nintendo and Microsoft assume all players want. Technically and strategically, the two brands that have trailed Sony this generation also have every reason to stress this demand; naturally they're happy to downplay the exclusive advantage in areas where they don't dominate, denying other brands the chance to build loyal audiences. This amounts to early adaptation to a "cloud" future with no console divisions.
+
+### An unexpected shift in discourse power
+
+Ongoing games belong only to the top players. Server operations, constant content updates, serving hundreds of thousands or millions of people, building a community, listening to it, retaining it, and competing against an endless stream of new games — only mid-sized and large companies can afford these tasks. Their reward is reduced development costs and improved margins in the same period. For the countless small studios, any innovative cost-cutting monetization method is beside the point; merely surviving under Steam's simple law is hard enough.
+
+This appears to widen the gap between the pyramid's tip and its base, but it unexpectedly produced one good thing.
+
+The game market is already jammed. 1,772, 2,964, 4,207, 7,672, 8,573 — those are the numbers of games launched on the Steam store each year from 2014 through this year, and most of them never sold more than 500 copies. When the Nintendo Switch eShop launched in summer 2017, it released just 5–6 games a week at first; that has now grown four- or fivefold, and studios further split off by Steam's loosened approval process are all scrambling to find the next online storefront, everyone competing for the weekly slots. The revenue shares taken by Android and the App Store leave publishers helpless, but even that can't stop Google Play from adding new games at 17% growth a year, or hundreds of new games from appearing on the App Store every single day.
+
+On top of a developer's game failing to get attention, Steam takes a 30% cut of every copy sold, [leaving pitifully little in hand](http://www.qdaily.com/articles/44510.html) — a game may need to sell at least 100,000 copies just to break even, which is nearly impossible without a marketing budget.
+
+The one breaking Steam's monopoly was Epic Games. [The day after Steam announced a tiered revenue-share policy, Epic openly "declared war"](http://www.qdaily.com/articles/58990.html) — the online store it launched on the night of the TGA offers developers a 12/88 revenue split and charges no licensing fee at all to developers using the Unreal Engine.
+
+![[Epic Games Store](https://epicgames.com/store/zh-CN/)](http://img.qdaily.com/uploads/20181210040337POukXM9zGQDxbSKA.png-w600)
+
+It was Epic that created everything around Fortnite and learned how to run its own sales platform from the experience of releasing it while bypassing Steam and Google Play. Fortnite's massive revenue also gave the 12/88 split extra confidence, letting Epic genuinely help developers make money while better promoting its own Unreal Engine.
+
+More choices, and better ones, substantively protect creators' rights — and this subversion of the traditional 70/30 split of digital storefronts may have deeper effects on the entire medium, leaving every comparable platform feeling the heat.
+
+This is something the critics of ongoing games never imagined — the category was once associated with negative monetization and stalled creativity, yet someone has used it to gain enormous industry discourse power and is using that to support developers. That genuinely counts as unexpected good news.
+
+### Those who hold their ground
+
+With the year's major releases wrapped up, players can already sum up the counterexamples of "holding ground" — certain IP transformations really do feel like betrayals: *Fallout 76* announced in the first half as a pure multiplayer game, and in the second half Blizzard's Diablo mobile game accompanied by the retort "Do you guys not have phones?"
+
+Blizzard trying mobile is no surprise — chasing the Chinese market, partnering with NetEase, which has plenty of mobile success, using mobile games to broaden the audience and increase revenue, revitalizing a community built on PC players, letting players use their fragmented time. Its mistake was badly overestimating how the die-hard fans in the room would receive it. In some observers' view, Blizzard actually put forward its most convincing business plan in years; the only error was announcing it in the least appropriate place — the audiences inside and outside the venue were almost certainly very different, and in the end it became a "stage management" problem. When your game audience is stratified, you have to start thinking about how to deliver differently emphasized messages to each subgroup. That will be a puzzle every big studio hoping to expand its player base must reckon with.
+
+Blizzard wants players' trust; it wants to remain, in players' eyes, the creator of meticulously polished products. Perhaps players should give developers that chance — especially before the actual game comes out.
+
+The only "ground" a good developer needs to hold is making games with care; it has nothing to do with category or corporate strategy. *No Man's Sky* launched as an ongoing game to terrible reviews, but after a year of diligent patching, [that very model brought it back to life as a work several levels above its launch-day self](http://www.qdaily.com/articles/55382.html). People list out Rockstar's game development timeline to show how online modes, constant updates, and ongoing operation of old games leave the company stuck in place with reduced output — yet *Red Dead Redemption 2*, polished by Rockstar for more than five years, proved worth the wait.
+
+![](http://img.qdaily.com/uploads/20181210035525mKNktowgYBx0PUGE.jpg-w600)
+
+What players may need to worry about is homogenization. Open-world games increasingly resemble one another — whether *Assassin's Creed Odyssey* or the just-premiered *Far Cry New Dawn* trailer at the TGA, they seem to blend signature elements from different studios, which makes one lament the personality they've lost.
+
+Finally, when it comes to the categories worth cherishing and collecting, the single-player game — deemed "endangered" every year — is doing just fine, and there seems no need to dress it in the tragic narrative of being phased out. Among the five Game of the Year nominees this year, the winner *God of War*, along with *Assassin's Creed Odyssey* and *Spider-Man*, are pure single-player experiences; *Monster Hunter* and *Red Dead Redemption 2* have multiplayer elements, but their single-player content dominates. In the near future we'll likely see Obsidian's *The Outer Worlds* and Naughty Dog's *The Last of Us Part II*, which sticks to the single-player narrative line, at the TGA. In the short term, single-player games are certainly not going to die.
+
+People should also note that beyond these big names, two indie works defeated many strong rivals: the puzzle game [*Return of the Obra Dinn*](http://www.qdaily.com/articles/57559.html), which beat *Red Dead Redemption 2* for Best Art Direction, and the platformer *Celeste*, which made the Game of the Year nominees and took home "Games for Impact." One comes from indie developer Lucas Pope, the other from the duo Matt Thorson and Noel Berry. In mechanics, story, art, and depth, neither is inferior to AAA productions — and they may better represent this industry's creative potential.
+
+The girl named Madeline in *Celeste* intends to climb a mountain; a journey full of anxiety, self-doubt, and failure might offer some lessons for developers and the game industry alike — perseverance, perhaps, in the eyes of the former, and, in the eyes of the latter, probably making peace with one's "dark self."
+
+Cover image from *Red Dead Redemption 2* and *Celeste*

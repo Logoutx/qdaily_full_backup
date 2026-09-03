@@ -1,0 +1,270 @@
+@@QD_TITLE@@
+The 1.4 Trillion That Vanished From Tencent: As Big Companies Grow, Regulators Grow Wary on Every Front | 2018's Biggest Business Stories ⑤
+@@QD_EXCERPT@@
+Faster and faster, the internet meets its most heavily regulated year yet
+@@QD_BODY@@
+Faster and faster, the internet has met its most heavily regulated year yet.
+
+**Some of this is the result of ongoing change — it will go on reshaping our lives. Some of it is intervention in the business world by forces far less controllable, forcing market participants to adjust their strategies from time to time. And some of it comes from the companies themselves: once a company grows to a certain scale, the question becomes how it reconciles itself with its environment — the public, consumers, and state power.**
+
+**What kind of country you have determines what kind of companies you get. In 2018, the business world changed as much as ever. The biggest business stories of 2018 proved the point once again.**
+
+On January 10, Wang Ran, founder and CEO of China eCapital, [posted on Moments](http://tech.ifeng.com/a/20180113/44844861_0.shtml), asking: "What will happen to the now-ubiquitous live quiz-show market within a month?"
+
+Imitating the format of a live quiz show, Wang Ran offered three candidate answers.
+
+**A.** More players pile in
+
+**B.** A single quiz with a prize pool in the tens of millions
+
+**C.** Regulators issue strict policy.
+
+Tencent CEO Pony Ma replied, choosing C.
+
+"Why would anyone restrict such a positive-energy activity? You should have picked A," Zhou Hongyi retorted. His livestreaming platform Huajiao had just launched a live quiz product, and he picked A — adding that answer A should be changed to "the giants all pile in."
+
+Thirty-three days later, SAPPRFT summoned representatives of 17 audio-visual websites running live quiz shows and issued the *Circular on Strengthening the Management of Livestream Quiz Shows*. Beyond requiring quiz content to hew to the correct orientation and barring excessive marketing and hype, it set two thresholds for running a quiz show: holding an Online Audio-Visual Program Broadcasting License, and hosts meeting the qualifications of radio and TV presenters.
+
+An industry that had just landed 100-million-yuan ad deals for a single quiz vanished overnight.
+
+But the strict policy Pony Ma had predicted did not stop at live quiz shows — it landed directly on Tencent.
+
+In [March, SAPPRFT halted game approvals, which have yet to resume](https://www.qdaily.com/articles/56124.html).
+
+In August, the Ministry of Education and seven other departments issued the [Implementation Plan for Comprehensive Prevention and Control of Myopia in Children and Adolescents](http://www.moe.edu.cn/srcsite/A17/moe_943/s3285/201808/t201808/t20180830_346672.html). A single line in the notice — that the National Press and Publication Administration would impose total-volume controls on online games — briefly wiped out nearly 10 billion yuan in market value from A-share gaming companies that day. Counting NetEase, Tencent, and Kingsoft, listed in the US and Hong Kong, the gaming world lost roughly 180 billion yuan in market value overnight.
+
+Gaming, the engine of Tencent's growth, hit the brakes directly, knocking two-thirds off Tencent's profit growth.
+
+From its high early this year, Tencent shed 34% of its market value, falling back to where it was last September. HK$1.4 trillion evaporated.
+
+A few years earlier, regulation mostly fell on traditional industries; in the internet sphere it was mostly a threshold for small companies doing business. For big companies, regulation was just a cost.
+
+But this year, big companies in their growth phase made governments and regulators worldwide realize that their influence is not confined to the internet.
+
+Facebook, with 2 billion users, was no exception: the election turmoil it triggered in the US became other governments' rationale for restricting the flow of information. [Google, testifying before the US Congress](http://www.qdaily.com/articles/59222.html), was no exception: the EU also hit it with a $5 billion antitrust fine.
+
+Ant Group, in which the sovereign fund CIC took a direct stake, was no exception: its banking dream was crushed by the central bank this year. Didi, which had likewise pulled in a string of state-backed investors, was no exception: all the ride-hailing regulation that began two years ago finally came down.
+
+Exactly 20 years ago, when the Clinton Justice Department launched its investigation of Microsoft — seeking to break up the world's most valuable company — the only concern was that a Microsoft monopoly over the market would stifle innovation.
+
+After 20 years of a lax environment, internet companies had in fact built unbreakable monopolies in their respective fields. But what now drew governments' regulatory wariness was no longer a business problem — it was the companies' influence over society as a whole.
+
+### Big internet companies are no longer beyond regulation; for the biggest, Tencent, every revenue stream was regulated this year
+
+Tencent's regulatory risk appeared last year.
+
+In July 2017, [People's Daily](http://opinion.people.com.cn/n1/2017/0703/c1003-29379751.html) and Xinhua named *Honor of Kings* in succession, accusing it of distorting history and getting elementary schoolers "addicted," and calling on the government and game makers to tighten oversight. In a single day, Tencent's market value evaporated by HK$130 billion.
+
+In response, Tencent launched an anti-addiction system for *Honor of Kings*, limiting users under 12 to one hour a day and those aged 12 to 18 to two hours.
+
+Tencent's stock price soon recovered.
+
+Licenses used to restrict mostly small companies; the biggest could always afford them. Tencent also proactively embraced the new climate. Around the 19th Party Congress last year, [Tencent published an article stating](http://tech.caijing.com.cn/20171015/4343777.shtml) that more than 7,000 of its employees were Communist Party members — about 23% of the company's total headcount. A cubic sculpture went up at the entrance of Tencent's old headquarters, bearing the words: "Start a business together with the Party." Pony Ma had already become, in effect, the poster child of the Greater Bay Area. From the capital markets' perspective, Tencent should have been fine.
+
+But under the new circumstances, Tencent was no longer an exception.
+
+![](http://img.qdaily.com/uploads/2018121304314069TR4LYgHaqOznGM.jpg-w600)
+
+The signs were already there, starting last year when Tencent's "battle royale" games couldn't obtain publishing licenses. By this March, due to a government restructuring, the Ministry of Culture's filing website stopped accepting domestic game filings, which have yet to resume.
+
+And Tencent's self-developed anti-addiction system didn't solve the problem either. It first plugged into the public-security real-name verification system, and was later confirmed to be rolled out across all of Tencent's games.
+
+At year's end, an Online Game Ethics Committee was established in Beijing, composed of experts and scholars from relevant departments and units, universities, professional institutions, news media, and industry associations who study online games and youth issues. The committee conducts ethical reviews of online game works and related services that have produced, or may produce, moral controversy and public debate, providing a decision-making reference for online game regulators.
+
+Of the first batch of games the committee reviewed after its founding, 11 required modification to remove moral risk, and 9 games were denied approval.
+
+For years, games had been Tencent's most important revenue source. Tencent became China's largest online game operator in 2009. In the first half of 2017, Tencent's mobile game revenue surpassed PC game revenue for the first time.
+
+In the first half of 2018, Tencent's game revenue growth slowed from 38% in the same period last year to 16% — one reason Tencent's stock kept falling.
+
+To restore confidence, Tencent expended considerable effort. But squeezing more money out of existing games is no easy thing.
+
+Tencent kept refining its own anti-addiction system. Beyond adding facial recognition, [the system rolled out an "account time-sharing" feature](http://www.qdaily.com/articles/58376.html), plugging the loophole that let users skirt regulation by registering multiple alt accounts.
+
+In the second-quarter earnings call, Tencent president Martin Lau told analysts that Tencent could use the green channel SAPPRFT had set up, saying it eased the problem of the game-approval freeze on app stores, allowing games that passed through the channel to run one month of commercial trial operation.
+
+But the green channel was soon shut down.
+
+Gaming — mobile gaming in particular — is hardly a creative business. A game company finds a popular gameplay loop — card battles, Dota, or shooters — wraps it in popular characters, ships it as a free-to-download game, then pours money into ads to drive downloads and uses game design to coax players into paying for items. This is the standard template of the entire Chinese mobile game industry.
+
+The market churns out large quantities of games built on trendy characters and mechanics, aiming for quick short-term returns. Under this mechanism, old games don't hold their value for long; growth must be sustained by a stream of new games.
+
+New games failing approval cut off the industry's revenue source.
+
+Tencent increased marketing spending for three consecutive quarters to promote old games. In the third quarter, Tencent's cost of revenue grew 35%, driven mainly by game marketing.
+
+That failed to revive the old games. Tencent has now begun cutting costs to defend its margins. In a company email sent to its game marketing executives, Tencent asked them to control cash flow and cut spending to "get through the tough times together." Games still lacking government approval were to return their remaining funds to Tencent.
+
+Games are Tencent's most important revenue and were directly hit by regulation, but Tencent's exposure goes well beyond games.
+
+Essentially, Tencent's business is built on social — and social captures users' attention, the so-called traffic.
+
+An internet company's biggest cost is acquiring traffic; Tencent owns traffic, and its business is fundamentally about distributing that traffic and monetizing it. Games are the most direct product through which Tencent monetizes traffic, and its advertising and payments businesses are likewise built on traffic. Beyond that, an ever-larger share of Tencent's revenue comes from investments.
+
+![Tencent's revenue keeps growing, but profit has essentially stalled](http://img.qdaily.com/uploads/20181213043734xGy3O0BHJwa14eWu.jpg-w600)
+
+This year, [Tencent folded content and distribution channels into a new Platform and Content Group (PCG)](http://www.qdaily.com/articles/57930.html); social ads merged with the former Online Media Group's ad business into a new advertising and marketing service, placed inside the Corporate Development Group (CDG); and Yingyongbao was stuffed with even more ad slots.
+
+Tencent's advertising troubles are also tightly bound up with regulation. More and more advertisers vanished under the regulatory pressure: the mainstay advertisers were games, apps, P2P, and livestreaming — and except for apps, which were hurt by the fading startup boom, all of this year's crackdowns were regulatory.
+
+By the third quarter, 40% of Tencent's profit came from investment gains, as companies it had backed, such as Meituan, went public one after another.
+
+But many of Tencent's investments are strategic and can't be sold at will. So the investment gains sit on the books and can't turn into usable cash.
+
+Meanwhile, affected by Tencent's own performance, the capital market's expectations for the future of listed companies in the Tencent orbit look nothing like they did a year ago.
+
+China Literature's stock has fallen more than 40% over the year. Meituan's market value surpassed JD.com's on its IPO day, making it China's fourth-largest internet company after Alibaba, Tencent, and Baidu — but it soon fell below its issue price.
+
+Even Tencent's traffic itself faces regulatory pressure. Its news aggregator app was pulled from stores in a rectification campaign this year; WeChat has repeatedly apologized for lax platform review; and most recently, Drift Bottle was also removed by WeChat.
+
+Tencent's pursuit of Alibaba in financial services ran into trouble this year too. Before it even finished building its own Yu'ebao, Ant Group — further ahead — was reined in. And the year-end reserve-fund handover meant Tencent lost another revenue source.
+
+On November 1, Tencent announced a sweeping reorganization toward business-facing lines. In an open letter, Pony Ma wrote: "Tencent will take root in the consumer internet and embrace the industrial internet."
+
+For years, built on the traffic of QQ and WeChat, Tencent had essentially been making money lying down. Now it must explore new businesses — ones it previously failed at — and the outlook is uncertain.
+
+A year ago, Tencent still looked unchallengeable; while others talked ecosystems, it had already built a giant LAN.
+
+A year later, Tencent still grows and its revenue looks fine, but the imagination around it is entirely different.
+
+### Content recommendation, an internet company habit, faced regulation on every front — from entertainment to advertising
+
+When big companies recommend content, it follows the traffic: whatever gets clicks gets recommended. This year, governments worldwide began weighing how to regulate content recommendation — though their methods differ.
+
+On the last two days of 2017, Toutiao was summoned by the Cyberspace Administration of China (CAC), on grounds of spreading pornographic and vulgar information, having serious orientation problems, and "reposting news information in violation of rules before obtaining an internet news information service license." For 24 hours on December 29, [Toutiao's homepage was a blank expanse](http://www.qdaily.com/articles/48751.html).
+
+The rectification of aggregation and recommendation began from there.
+
+Next, livestreaming, quiz shows, and short video all met still harsher regulation — from entertainment to advertising, everything came under oversight.
+
+On January 13, "Millionaire Winner," a live quiz show under 360, listed Hong Kong and Taiwan as "countries" in its answer options; that night the show was taken offline. On the 14th, the Beijing Cyberspace Administration summoned Huajiao Live's executives and ordered a full rectification. The CAC required local authorities to immediately conduct comprehensive inspections of live quiz-show internet service companies and tighten management.
+
+The entire live quiz industry was swiftly brought under SAPPRFT's control.
+
+Live quiz shows — the "hot trend" for which Inke CEO Feng Yousheng once said on Moments he had prepared 1 billion yuan — ended up barely mentioned in the company's prospectus. In the prospectus filed with the Hong Kong Stock Exchange in March, Inke devoted 43 pages to describing the risks it might face, including non-compliance, foreign exchange, and government regulation.
+
+[The risk posed by regulators' content review](https://www.reuters.com/article/us-weibo-ipo/sina-weibo-files-for-500-million-u-s-ipo-idUSBREA2D1V520140315) was already listed under "operating risks" in Weibo's prospectus when Sina Weibo went public in 2014: "If we fail to restrict or delete, as required by regulators, content that disrupts social order, undermines social stability, or constitutes false information, we will bear liability and penalties, and may even face temporary suspension or complete shutdown of our online business."
+
+Risks of this kind have confronted the content industry many times over the past year. A fair number of companies were summoned, delisted, or ordered to rectify for reasons such as "wrong orientation," "vulgar tone," and "lax review," and a batch of apps were permanently shut down or removed.
+
+On January 28, Weibo was summoned by the Beijing Cyberspace Administration, and features such as hot search were pulled for a week.
+
+On March 2, Zhihu was removed from app stores for seven days; the Beijing Cyberspace Administration's notice said this was because the Zhihu platform was poorly managed and spread illegal and harmful information.
+
+On April 4, Kuaishou and Huoshan Video were summoned by SAPPRFT. The next day, both apps were removed from app stores.
+
+On April 10, "Neihan Duanzi," under Toutiao, was ordered by SAPPRFT to be permanently shut down, and Toutiao was also ordered to draw inferences from the case and comprehensively clean up similar audio-visual products. Toutiao founder and CEO Zhang Yiming worked overnight to publish an open letter, [*Apology and Reflection*](https://mp.weixin.qq.com/s/4r6rCwNE7BgTLD37cPJOoA), announcing the expansion of the company's existing 6,000-strong content review team to 10,000.
+
+[On July 1](http://www.qdaily.com/articles/55145.html), over [an ad "insulting and mocking martyrs"](http://www.qdaily.com/articles/54807.html), [Douyin, Sogou, and five other companies announced rectification](http://www.qdaily.com/articles/55145.html), "voluntarily" suspending their advertising businesses.
+
+On July 27, 16 short-video platforms including Miaopai, Bilibili, and 56.com were summoned; 12 of them were removed from app stores and told "do not relist without notice." Miaopai only returned to stores 79 days later. Bilibili more than doubled its review staff in response.
+
+From October 20 onward, more than 9,800 self-media accounts — "Donald Says," "Fu Shou'er," "Mr. Zizhu," "A Beam of Light," "All-Purpose Freebies," "Unofficial History," "Late-Night Video," and others — were dealt with across the web by the CAC.
+
+Just how far can algorithms go in resolving the values embedded in content? Tech companies worldwide are being asked this question constantly. Algorithms alone can't solve the review problem: YouTube now relies entirely on human curation for what children watch. Facebook, long unable to fix fake news with AI, keeps expanding its content review team; these newly hired employees monitor social media networks for inappropriate information, and Google has more than 10,000 people serving as evaluators of search results. Their influence over information has likewise drawn regulatory wariness in their home countries.
+
+First Mark Zuckerberg. This week it was Google CEO Sundar Pichai's turn. America's tech giants came to Capitol Hill to face public hearings, answering questions from lawmakers of both chambers while awaiting the outcome of legislative debate.
+
+### Film and TV review reaches backward — holding a license no longer means immunity
+
+Burning cash is the norm for video sites, but this year's problem is that shows bought with burned cash can vanish without warning.
+
+Over the past year, regulators tightened their grip on online audio-visual content, and [iQiyi devoted long passages of its prospectus to the problems content regulation would bring](http://www.qdaily.com/articles/50681.html).
+
+Of the three video sites, only iQiyi — the sole one listed separately — spent more than 100 lines of its prospectus explaining the difficulty regulation creates.
+
+iQiyi wrote in its prospectus that although it had established content monitoring mechanisms, "due to the vagueness or uncertainty of the regulatory system, such risks may persist; despite our internal content monitoring system, we still face the possibility of license suspension, contractual misrepresentation provisions, and liability borne in connection with video publishers."
+
+"In addition, the General Administration of Press and Publication, the State Administration of Radio, Film, and Television, or SAPPRFT issue content lists from time to time, and we need to monitor content uploaded to iQiyi and delete content that falls within the scope of those lists."
+
+And if a hit drama or variety show is classified as "promoting vulgarity or incorrect values," it loses the chance to be built, season after season, into a brand that keeps making money. iQiyi's phenomenal web variety show last year, *The Rap of China*, was defined by SAPPRFT as hip-hop culture "promoting vulgarity and unhealthy information" — and the brand vanished entirely.
+
+iQiyi has projected that content costs will reach 80% of revenue. That means iQiyi must spend roughly 80% of total revenue just to keep enough fresh content on the platform to retain existing users and attract new ones.
+
+In content production, iQiyi has steered its self-produced dramas toward the genres easiest to industrialize: a doctor saves one patient at a time, a cop or Judge Bao cracks one case at a time — highly replicable formulas that also reduce the risk of new subject matter.
+
+But that makes it very hard for iQiyi to tell a Netflix-like story.
+
+### The reach of licenses keeps expanding
+
+When live quiz shows were hot, the internet industry — which invents a few "year ones" every year — dubbed 2018 "the year one of mobile interactive variety shows." But SAPPRFT quickly issued policy requiring live quiz platforms to hold an Online Audio-Visual Program Broadcasting License and hosts to meet the qualifications of radio and TV presenters. Live quiz shows did become variety shows, at least as a regulatory matter.
+
+Livestreaming requires a stack of licenses. In August, the National Working Group on Anti-Pornography and Anti-Illegal Publications, the Ministry of Industry and Information Technology, and four other departments jointly issued the *Notice on Strengthening the Management of Online Livestreaming Services*. Under the notice, major livestream platforms must hold an ICP operating license, an online culture operating license, and an Online Audio-Visual Program Broadcasting License; without the relevant licenses, they may not provide services.
+
+But the hardest to clear and the broadest in regulatory reach is the Online Audio-Visual Program Broadcasting License. This license used to be not so hard to get — LeEco obtained one easily in the early days. But [the newly added application conditions](http://www.sarft.gov.cn/art/2008/6/11/art_67_676.html) now specify that an applicant must "be a wholly state-owned or state-controlled entity." Private companies that didn't apply while the window was loose are unlikely ever to obtain the license now. And even those that hold it may not get it renewed.
+
+Because it lends itself to expansive interpretation, the Online Audio-Visual Program Broadcasting License is like Doraemon's pocket — it can hold anything.
+
+When Xiaomi, Tmall, and others made TV set-top boxes, the license was used to ensure the boxes could only carry broadcasting-approved video services, blunting the impact of the box-plus-video-site combo on the TV system.
+
+When Sohu and iQiyi streamed licensed American TV shows, the license was [used to ensure all episodes had to be reviewed by the broadcasting authorities before they could air](http://news.sina.com.cn/c/2014-11-02/065131081958.shtml).
+
+When Inke and Huajiao did livestreaming, [platforms and individuals were required by the broadcasting authorities to be licensed](http://finance.sina.com.cn/chanjing/2016-09-26/doc-ifxwevmf2284976.shtml).
+
+When Pear Video did video news, it too was rectified through this license and [turned instead into a video version of *Duzhe* (《读者》)](http://www.qdaily.com/articles/42293.html).
+
+This year, for lack of this license, live quiz shows simply disappeared — without leaving a trace.
+
+### Ride-hailing, long legislated but loosely enforced, faced strict regulation this year
+
+The tightening of ride-hailing regulation began in late 2017. Both Beijing and Shanghai stepped up vehicle inspections. Starting this January, Didi's driver-facing feature to "block airport and train-station orders" was also introduced to cope with traffic-enforcement checks.
+
+In April, the Shanghai Municipal Transport Commission's law-enforcement corps announced a half-month campaign against illegal ride-hailing, having already intensified enforcement at transportation hubs such as airports and train stations.
+
+After vicious public incidents involving ride-hailing, regulation grew still stricter.
+
+In June, [seven government departments jointly issued](http://www.mot.gov.cn/zhengcejiedu/guanyujqwlyyczqchyszshlhjg/) the *Notice on Strengthening In-Process and Post-Event Joint Regulation of the Online Ride-Hailing Industry*, coordinating oversight of violations such as incomplete licenses, unfair competition, and mismatched vehicle and driver information, and sharing and publishing penalty information.
+
+The notice requires transport, cyberspace, communications, public security, PBOC, taxation, industry and commerce, and market regulation departments at all levels to establish a joint regulatory mechanism for the ride-hailing industry. Platforms that fail to rectify properly face escalating measures: suspension of publication, app removal, termination of internet service, or six months offline or shutdown for rectification.
+
+In its interpretation of the new policy, the Ministry of Transport said there are now more than 70 ride-hailing companies nationwide. The State Council had already issued regulatory measures in 2016, but their effect was poor. Xu Kangming, chief expert on the Ministry of Transport's taxi reform deepening, [said](http://tech.caijing.com.cn/20180606/4465451.shtml) that past rectifications operated at low legal levels with small costs of violation; this joint regulation offers more tools, and the credit-regulation system will also constrain companies in areas such as financing and going public.
+
+Since the murder of a flight attendant by a Didi Hitch driver, the Ministry of Transport's WeChat account [published commentary in succession](https://www.chinanews.com/auto/2018/06-05/8530870.shtml) on the state of ride-hailing governance, and regulators across the country issued still stricter measures.
+
+Things that used to be policed or ignored at will were now strictly policed.
+
+After the Yueqing Hitch accident in August, a special investigation team formed by the Ministry of Transport and ten other departments moved into ride-hailing companies for inspection and rectification, requiring all platforms to purge all non-compliant vehicles and drivers by December 31 this year.
+
+Didi successively rolled out one-tap SMS emergency alerts, audio and video recording, blacklists, and a public review council; executives even hit the streets to conduct field research. Didi also made a major organizational adjustment: beyond merging its formerly scattered business units and groups, the adjustment centered on safety.
+
+One visible change: fewer cars on the platform, and ever-longer waits when hailing a ride by phone in daily life.
+
+### Big companies built financial-holding capacity through investment — making them targets of the central bank's "too big to fail" guard
+
+In November, the People's Bank of China, the China Banking and Insurance Regulatory Commission, and the China Securities Regulatory Commission jointly issued the *Guiding Opinions on Improving the Regulation of Systemically Important Financial Institutions*, which brings internet companies into the scope of "systemically important financial institutions."
+
+Zhou Xuedong, director of the PBOC General Office and head of the Financial Stability Bureau, said that to effectively contain the risks of financial-holding companies growing wildly and to hold the bottom line of preventing systemic financial risk, relevant departments are moving quickly to build a regulatory regime for financial-holding companies, standardize their development, and fill the regulatory gap.
+
+The Financial Stability Report the central bank released at year's end laid out its regulatory logic: "Some non-financial enterprises have, through founding, M&A, and equity stakes, taken controlling stakes in multiple financial institutions of multiple types, forming a number of groups with the characteristics of financial-holding companies. Among them, some financial-holding groups have grown wildly: large in scale, sprawling in business, with high interconnected risk, yet lacking regulation — potentially threatening economic and social stability."
+
+By the looks of it, HNA, Fosun, Ant Group, and Tencent all fall into the report's "groups with the characteristics of financial-holding companies." HNA spent $200 billion overseas acquiring companies in 2016. But as foreign-exchange and outbound-investment rules tightened, HNA had to keep selling assets to survive its debt crisis; the assets it has sold this year total more than $18 billion.
+
+The "banking dreams" of Alibaba and Tencent also collapsed this year amid tightened regulation.
+
+Alipay's banking scaffolding began with Yu'ebao, which is Alipay's savings business. Through behaviors such as spending via Alipay and wealth management via Yu'ebao, Ant Group could assign credit ratings to individual users; later it launched Ant Credit Pay (Huabei) and Jiebei, targeting banks' personal-loan and credit-card businesses.
+
+After [four rounds of quota adjustments in nine months](https://www.qdaily.com/articles/49916.html), Yu'ebao went from unlimited deposits to a per-person cap of 250,000 yuan, then 100,000, and by early this year the total was capped too — Yu'ebao became a wealth-management product you had to grab.
+
+Beyond savings, Alipay's credit business was also strictly constrained. Alipay lends to individuals and small businesses through Huabei and Jiebei; those lending relationships are packaged into asset-backed securities (ABS) and sold to investors — the investors are effectively buying a wealth-management product that pays interest. Ant Group then uses the proceeds from selling ABS to issue more loans, achieving faster growth.
+
+At the end of last year, the central bank and the banking regulator issued [new cash-loan rules](http://www.xinhuanet.com/fortune/2017-12/02/c_1122045939.htm) requiring microloan companies to manage their funding sources prudently, capping leverage on consumer-loan and cash-loan ABS at 1.5 to 3 times. As a result, [the ABS issued by Jiebei this year fell sharply in both number and value](http://www.qdaily.com/articles/57601.html). Lending can continue, but shrinking ABS means growth comes under control.
+
+In December, the PBOC Payment and Settlement Department sent an urgent document, the *Notice on Payment Institutions Closing RMB Customer Reserve Accounts*, requiring all third-party payment institutions to close their RMB customer reserve accounts by January 14, 2019.
+
+Starting next year, reserve funds will be taken over by the central bank. Internet companies can no longer earn interest on reserve funds, nor can they use the funds as a bargaining chip with banks — banks need deposits, and where the trillion-yuan reserve funds sit is an important chip for internet companies when negotiating business with banks.
+
+These policies hit Ant Group the hardest, but the impact is industry-wide. In Tencent's most recent quarterly report, the rise in payment-related costs was among the drivers of the sharply higher cost of revenue.
+
+Under this series of regulations, Alipay gradually shifted from the disrupter Jack Ma said would "change banks" to a traffic gateway for bank wealth management and financial products.
+
+The global internet companies' prosperity of the past 20 years owes something to regulation not reaching them: a relatively lax regulatory environment made it possible to birth products like mobile payment and ride-hailing — which is also why these new consumer-internet technologies are more widespread in China than in the US, which started earlier.
+
+Contrary to common belief, strict license-based regulation often fails to break monopolies and spur innovation. Instead, it is more likely to entrench monopoly — big companies can bear the cost of regulation, whether it's review teams, fines, or buying licenses, while small companies often cannot. When nascent industries on which thousands upon thousands of people depend for their livelihoods can vanish on the strength of a single official document, capital will only grow more cautious about investing in new industries.
+
+The same regulation-entrenches-monopoly, stifles-innovation dynamic has already played out in banking, insurance, energy, and autos.
+
+Now it's the internet's turn.
+
+Charts / Fangyi Gong
+
+Cover image / Yunlu Tang
