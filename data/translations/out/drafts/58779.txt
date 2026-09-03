@@ -1,0 +1,172 @@
+@@QD_TITLE@@
+Google "Helped" Microsoft Overtake Apple Early — How Have These Three Companies Risen and Fallen Over the Past 20 Years?
+@@QD_EXCERPT@@
+Over the past 20 years, the three companies have occupied the top spot in global market value for half of that time.
+@@QD_BODY@@
+Over the past 20 years, the three companies have occupied the top spot in global market value for half of that time.
+
+When U.S. markets closed last Friday, Google Finance automatically generated a big piece of news: Microsoft's market cap stood at US$753.34 billion and Apple's at US$746.82 billion — Apple had lost the No. 1 spot to its archrival of several decades.
+
+In fact, both market-cap figures were wrong. Calculated from the number of shares outstanding and Friday's after-hours price, Microsoft's market cap should have been US$796 billion, while Apple's was actually US$817.5 billion — the latter remained the world's most valuable company.
+
+But Google's gaffe was off by only a day. On Monday, Microsoft's market cap briefly surpassed Apple's during trading. Apple later caught back up, but with both companies now worth around US$800 billion, the gap between them has been swinging around US$3 billion — any tremor could change which company sits atop the global market-value rankings.
+
+In the overnight and morning trading sessions alone, the two swapped positions at least ten times; at the close, Apple led Microsoft by US$5.6 billion.
+
+The last time Microsoft was worth more than Apple was over eight years ago. Back then WeChat didn't exist, Google had just moved its Chinese-language search engine to Hong Kong, Microsoft was still selling boxed Windows 7 installation discs in software stores, and Apple's newest phone, the iPhone 3GS, had to be plugged into a computer and logged into iTunes before you could use it.
+
+![](http://img.qdaily.com/uploads/20181129045024hRS8yJrf7Tzc2eua.jpg-w600)
+
+![](http://img.qdaily.com/uploads/201811290450225JNqQ6lKX3agkY80.jpg-w600)
+
+Come to think of it, Apple, Microsoft, and Google have each held the top spot in global market value at some point over the past 20 years. Apple and Microsoft essentially monopolized it for nine of those years — the longest stretches.
+
+Market value can't measure whether a company innovates. It is simply Wall Street's judgment of a company's worth, based on facts that have already happened, and the verdict is constantly being revised.
+
+But the rise and fall of these companies does reflect changes in tech companies, the business world, and the world at large.
+
+### 1998 | Microsoft's First Ascent to the Top, Riding PCs Through a Decade of Glory
+
+In 1998, there was no sign that Apple would ever hand the world's No. 1 position to Microsoft. Its legendary CEO Steve Jobs had returned just the year before, with cash on hand to run the company for only 90 days. Wall Street was guessing who would buy it. One issue of *Wired* ran a cover showing the colorful Apple logo ringed by thorns, [with a one-word headline: "Pray"](https://www.businessinsider.com/19-years-ago-apple-was-at-its-lowest-point-ever-heres-what-people-thought-2016-6).
+
+![Image/Wired.](http://img.qdaily.com/uploads/20181129003959zHqtEfs2njr6xlIh.jpg-w600)
+
+In his first months on the job, Jobs personally met with every team and killed off all unnecessary product lines. By the January 2008 earnings announcement, Apple had gone from heavy losses to a slight profit; Jobs, still interim CEO at the time, told CNN Money, "We're back." Soon after, Jobs also poached a young executive named Tim Cook from Compaq to run Apple's supply chain and cut inventory. Cook did well: Apple's inventory [shrank 80%](https://www.businessinsider.com/how-steve-jobs-convinced-tim-cook-to-work-for-apple-2014-9) in less than six months.
+
+But few people believed Apple had made a triumphant comeback. Tony Fadell, who would join Apple a few years later as the father of the iPod, was then preparing to start a digital portable music player company whose motto he had settled on was "the Dell of consumer electronics."
+
+Microsoft was the star of the era — and also Apple's savior. Gates, who had known Jobs as friend and foe for 20 years, invested US$150 million in Apple and ported the Office suite, with the condition that all Macs also come with the IE browser preinstalled. That year, more than 95% of the personal computers shipped on earth came with Microsoft's browser preinstalled. The gateway to the internet looked to be entirely in Microsoft's hands.
+
+Browsers — or anything even remotely connected to the internet — were what Wall Street valued back then. It was the height of the dot-com bubble, with concepts like e-commerce, O2O, and Linux all in the air, but the companies investors chased most were ones like Microsoft, which supplied the internet's infrastructure. That year, Microsoft surpassed General Electric with a market cap of US$261.1 billion to become America's most valuable company. From its 1986 IPO to the top of the market-value rankings, its stock had risen [more than 20,000%](https://money.cnn.com/1998/05/18/markets/stock_pkg/index.htm).
+
+![Note: The left axis is in US dollars. Data sources: Yahoo Finance and MacroTrends; chart by QDaily.](http://img.qdaily.com/uploads/20181129005338OfU9Sk7nZbBLs5D4.png-w600)
+
+Microsoft was even more dominant then than it is today, and Gates was not today's Gates. At the time he had little interest in philanthropy and was a hard-driving leader who kept a close eye on every move inside and outside the company. Teams at Microsoft pretty much had to go through a BillG Review once a year — a team representative would demo the product to Gates in person to prove they deserved a paycheck at the world's most valuable company.
+
+Words starting with F and "that's the stupidest thing I've ever heard" were Gates's catchphrases in meetings. For example, when one member of the Access team went, the [feedback he received](http://www.panopticoncentral.net/2012/10/31/my-terrifying-meeting-with-bill-gates/) was: "I want to know which fucking university we recruit from — fucking tell them to stop recruiting there, because they fucking only turn out idiots."
+
+That August, the hard-driving Gates ran into the biggest trouble of his career: the U.S. Department of Justice had launched an antitrust investigation against Microsoft, and he had to appear in court to testify. The probe would last three years and end in a settlement. By the time of the settlement, Gates was no longer Microsoft's CEO.
+
+![Gates at the 1998 hearings. Image/Y[ahoo Finance](https://finance.yahoo.com/news/better-congress-zuckerberg-gates-155325918.html)](http://img.qdaily.com/uploads/20181129005642NdSqDL5FU4IjRikv.jpg-w600)
+
+On the whole, though, 1998 was a good year for Microsoft. The launch of Windows 98 further cemented its dominance of operating systems. Meanwhile an internal technological transfusion was underway: a more experienced software development team Gates had personally poached was putting the finishing touches on an operating system called [*Windows NT*](https://www.qdaily.com/articles/51778.html). Windows NT would eventually become the foundation for all of Microsoft's operating systems after the turn of the millennium.
+
+Gates and Microsoft drove the popularization of the personal computer, making it essential infrastructure for the modern office, and in the process built a highly efficient business that lasted 20 years: taking a Windows royalty on every PC the PC makers sold. Under this model, Microsoft didn't need to sell computers directly to individual users — it just needed to keep a relatively small sales force and focus its attention on the software business with big customers.
+
+In the end, personal computers got cheaper and cheaper and more and more people bought them, while the PC makers' margins grew thin. But Microsoft maintained its high margins. In the enterprise market, Windows NT let companies start replacing workstations and dedicated servers with personal computers, helping Microsoft take the last of the hardware business from IBM and Sun.
+
+The foundation laid in those years secured Microsoft's prosperity for the following decade-plus. After the bubble burst, Microsoft remained one of the world's most valuable companies, and Gates himself stayed the world's richest man.
+
+![Gates's speech being played at Apple's 1997 Macworld conference. Image/Forbes](http://img.qdaily.com/uploads/20181129070748DkFH63Nc8WtXa4me.jpg-w600)
+
+But just as Gates was preparing to face the Justice Department's questioning, the seeds of change had already been planted. Jeff Bezos — then the internet startup world's star — invited two Stanford students to his home for [breakfast](https://www.businessinsider.com/how-jeff-bezos-became-first-investors-in-google-2018-4) and gave them an angel investment. His Amazon had gone public just a year earlier and was still trying to prove to the outside world that it deserved to exist.
+
+Page later recalled, sitting at the other end of the table, that the meeting helped a lot, but the entrepreneur he idolized was Jobs. And what none of these men — not even Jobs himself — realized was that inside Apple, a few employees had formed a small team called ENRI, meeting in their spare time to discuss what the future of human-computer interaction might look like. They would eventually produce an idea: using several fingers at once to manipulate software interfaces on a screen.
+
+### 2004 | Google Goes Public Six Years After Its Founding, Worth Twice Apple
+
+That year, Wall Street contended with what was then the largest and probably messiest IPO ever. SEC investigators had to flip through [*Playboy*](https://kottke.org/plus/misc/google-playboy.html) on company time, studying whether remarks Google founders made in an interview violated the quiet-period rules for going public — and that article ended up as [one of the documents Google filed](http://www.sec.gov/Archives/edgar/data/1288776/000119312504139655/ds1a.htm) for its IPO.
+
+![That issue of *Playboy*. The interview with Google's founders appearing in this magazine was, somehow, a bit incongruous. Image/[Business Insider UK](http://uk.businessinsider.com/larry-page-and-sergey-brin-never-do-media-interviews-2015-10)](http://img.qdaily.com/uploads/201811290105300XRj7rBMqGv6Wedw.jpg-w600)
+
+Estimates of Google's stock price ranged from US$15 to US$85. During the endless roadshow, Google CEO Larry Page arrogantly answered questions on site about revenue prospects: "If I told you, you'd just ask again."
+
+"Google is not a conventional company. We do not intend to become one." That was the first sentence of the letter Google founders Larry Page and Sergey Brin wrote to investors when the company finally went public in 2004.
+
+For all the contradictions, Wall Street still embraced Google, and the US$1.67 billion it raised on listing day was the world's largest IPO at the time.
+
+A Google that went public just six years after its founding was undoubtedly an inspiration to startups. It took over the on-ramp to the internet for 65 million web users worldwide, and the endless stream of traffic eventually turned into billions of dollars in advertising revenue on Google's books each year.
+
+![Brin and Page. Image/CNBC](http://img.qdaily.com/uploads/2018112907090716jKiIotyca0Yqng.jpg-w600)
+
+Microsoft was no longer the world's most valuable company — General Electric and the merged ExxonMobil had taken that over. But Microsoft still held a spot in the top three.
+
+But Google's success made it abundantly clear that Microsoft's plan to smother new internet companies by monopolizing the browser had failed. Testifying at the 1998 antitrust hearings in response to Justice Department questioning, Gates had claimed that "no company can control the internet" — a piece of testimony that sounded somewhat disingenuous at the time, and came true.
+
+What broke the monopoly was better technology and a better user experience. Gmail, Google Maps, Google Photos, Chrome... a host of apps developed by Google became the benchmarks in their categories.
+
+A few years later, even Google's Chrome browser would replace IE as the world's most popular browser — even though IE had always been preinstalled on Windows.
+
+![The green line rising left to right is Chrome; the blue line falling left to right is IE. The left axis represents market share. Image/Statcounter](http://img.qdaily.com/uploads/201811290119112HRsfFMbPyolnviG.png-w600)
+
+On its first day of trading, Google's market cap reached US$23 billion — twice Apple's at the time. Apple had already recovered thanks to the iPod and its new Mac line: no longer worried about bankruptcy, but still tight on cash. The small team mentioned earlier, ENRI, couldn't get new Macs approved for a while and at one point had to research multi-touch interaction concepts on Windows PCs they cobbled together themselves. That year, its concept became a plan to develop a phone, and the best engineers from teams across Apple secretly joined.
+
+If Apple's iPhone project was unknown because of its strict secrecy, Amazon's new project that year was one nobody could make sense of even out in broad daylight. In late 2004, an announcement of fewer than 100 words heralded the birth of the AWS blog, saying Amazon's AWS developer relations team would share all manner of AWS-related information there. The commercialization of cloud computing began here, and over the following decade-plus it would underpin hundreds of billions of dollars of Amazon's market value and become the competitor today that gives Microsoft and Google the biggest headaches.
+
+### 2010 | Apple's Market Cap Surpasses Microsoft's as Smartphones Replace PCs as the Most Important Electronic Product
+
+In June 2010, the [D8 conference](http://D8.allthingsd.com/20100601/steve-jobs-session/) hosted by *The Wall Street Journal* was Steve Jobs's last public onstage conversation before his death. Asked how he felt about Apple's market cap surpassing Microsoft's, Jobs replied, "It's surreal. Market value doesn't mean anything, it's not important. It's not what gets us up to work every day, and it doesn't make consumers buy our products."
+
+It was the first time since the 1980s that Apple's market value had surpassed Microsoft's. At the time, Apple was using its newest product, the iPhone 4, to prove that the "five years ahead of the industry" claim from the original iPhone launch was no exaggeration. *The New York Times* [commented](https://www.nytimes.com/2010/05/27/technology/27apple.html) on the two companies' flip in market value: "Wall Street is calling an end to one era and the beginning of a new one — the most important technology product is no longer on the desktop, but the one you hold in your hand."
+
+If Microsoft's 1998 surpassing of General Electric certified tech companies' strength, then Apple's 2010 surpassing of Microsoft — now within striking distance of ExxonMobil — could be seen as the triumph of the smartphone revolution. That year, global PC shipments fell below phone shipments for the first time.
+
+In that hour-long conversation, the company Jobs talked about most was not Microsoft but Google — the partner with which he had joined hands to beat Microsoft. From 2007 to 2010, only three internet services came preinstalled on the iPhone, and they were all from Google: Search, Maps, and YouTube.
+
+But Google was no longer Apple's comrade-in-arms. With the arrival of companies like Samsung and Motorola, Android was becoming the alternative to the iPhone. And Google was improving the Android operating system rapidly. In three years, second-tier smartphone makers like Samsung and HTC began rapidly eating into the old guard of phone companies clinging to their own operating systems.
+
+By 2011, [Android was already the world's largest operating system](http://www.gsmarena.com/gartner_releases_phone_market_share_report_for_2011-news-3832.php). Phones replaced personal computers as the gateway to the internet.
+
+![Jobs at the D8 conference. Image/AllThingsD](http://img.qdaily.com/uploads/20181129040427Tl1azwZF46Hi0OPx.jpg-w600)
+
+"There's something really interesting happening on phones." Jobs admitted Apple would compete head-on with Google — but not in search, as most people assumed; in mobile. "They're not desktop or laptop imitations. If people want to know which restaurant to go to, they won't type 'Japanese food' and 'Palo Alto' into a search engine — they'll go to Yelp, or whatever app they want, and search there directly."
+
+Jobs accurately judged the decline of search engines in the phone era, but he still underestimated Android's subsequent growth.
+
+And information no longer flowed the way Google had planned — fully opened up, indexed by Google, and redistributed. More and more, information was controlled by individual standalone apps. In the U.S., it was Amazon, Facebook, and Twitter. In China, WeChat and Taobao. Search engines were no longer the most powerful service, and the entire information ecosystem was splintering. Even Google, which controlled the Android system, could not reverse the trend.
+
+The internet became closed. The power of speech in the digital world shifted from the companies controlling search and operating systems to every internet service giant occupying users' time.
+
+But Google had equally troubling matters to face: on one hand it was fighting Apple for the future of the phone; on the other it had withdrawn from China, the world's fastest-growing internet market. Eight years later, Google's grip on phones was as firm as Microsoft's grip on PCs back then, but its executives had developed different views on China. Only many employees still clung to their former convictions — on a single day, November 27 this year, more than 400 Google engineers [signed an open letter](https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb) opposing the development of a Chinese version of the search engine.
+
+### 2016 | Google Briefly Catches Apple, but All the Giants Run Into the Ceiling Problem
+
+At the end of 2016, then president-elect Trump met with America's tech elite in New York; Bezos, Cook, Page, Nadella, Sandberg and others attended.
+
+Trump told the roomful of executives that he was there to help everyone do better, and that he would support anything the government could do to achieve that.
+
+![From left: Amazon's Jeff Bezos; Google's Larry Page; Facebook's Sheryl Sandberg; Vice President Pence; President Trump. Image/Yahoo Finance](http://img.qdaily.com/uploads/20181129043035br2wP5Fs8zJ34CLU.jpeg-w600)
+
+But that was only the first few minutes. Trump soon warned that Amazon would face an antitrust investigation and that Apple should make iPhones in the U.S. rather than China. Plus a Google that went unmentioned — of the three most valuable companies in the room, all had undergone enormous changes over the past few years.
+
+Apple was going through its first decline in 13 years. The iPhone, which accounted for 60% of total revenue, could not sustain the growth it had enjoyed for eight straight years, and meanwhile every hardware product was selling less and less — iPad and Mac included. Finished-goods inventory piled up because of the failure to anticipate the iPhone 6s's dismal sales, forcing Apple to spend US$2 billion clearing iPhones stuck in the sales channel.
+
+Over the five years through 2016, the advertising revenue Google earned per user barely changed, hovering around US$7.5. The reorganization that began in 2015 was also underway: the CFO poached from Morgan Stanley was cutting spending company-wide, spinning the cash-burning innovation businesses out of Google.
+
+Microsoft, meanwhile, was step by step de-Windows-izing itself. Nadella merged the Windows software and hardware divisions, making the cash-cow Windows software division absorb the hardware division's losses. In Microsoft's org chart at the time, every division head accounted for their own business's profit and loss separately, so Nadella's move would inevitably drag down the Windows division's overall performance.
+
+When each company's results or user growth are nearing a ceiling at the same time, market-value rankings tend to flip. In February 2016, Google briefly surpassed Apple to become the world's most valuable company.
+
+The most optimistic of them all that year was Amazon. AWS kept supplying Bezos with ammunition for expansion, and Amazon challenged the leaders in field after field, from Indian e-commerce to original film and TV. For a while it worked: in 2016, Amazon bought *Manchester by the Sea* for US$10 million, and the following year the film took home two Oscars — Best Original Screenplay and Best Actor.
+
+Even so, this was probably the tech giants' last stretch of peace and quiet.
+
+### 2018 | Money Couldn't Buy Back Wall Street's Confidence
+
+U.S. stocks looked fine at the start of the year. Apart from one collective flash crash in February, the three major U.S. indexes kept setting new all-time highs through September. During that stretch, investors bet on which company would be the first American firm to break US$1 trillion in market value.
+
+Apple crossed that symbolic round-number threshold in early August, with Amazon right behind.
+
+Also this year, Microsoft first shook off Google and then Amazon, and is now chasing Apple.
+
+It's not because Microsoft rose much — measured from when Apple first hit US$1 trillion, Microsoft's market cap actually fell. But the other major tech companies fell too fast.
+
+Amazon's relationship with the trillion-dollar mark lasted less than a day. Amazon, which led the decline, at its worst had wiped out US$293.5 billion in market value from its early-September peak. Apple was worse still: after publishing disappointing guidance for the holiday sales quarter, its market value shrank more than US$303 billion from its US$1.12 trillion peak.
+
+Google's slide came earlier: after plunging 4.77% on April 24 this year, its market value was overtaken by Microsoft's. Amazon and Apple were each passed by Microsoft in turn after that. But Microsoft's steady rise wasn't due to how fast it was climbing itself — it was that the other companies' drops were too violent.
+
+Despite adjustments these companies made after hitting the ceiling in 2016, the ceiling was never broken. Apple, for instance, used price hikes on the iPhone X to solve its sagging margins; the fix lasted less than a year, sales of this year's entire new lineup faltered, and Apple even announced on its earnings call that it would no longer disclose device unit sales.
+
+The market's earlier optimism wasn't about confidence in these companies' futures, either. To a large extent it was because of the big buyback programs they announced — spending money to buy their own shares and stimulate market confidence.
+
+![](http://img.qdaily.com/uploads/20181129064950Ge51qI68iVab3Zpd.jpg-w600)
+
+In February this year, Apple hinted on its earnings call that it would spend nearly all of its then US$163 billion net cash pile on share buybacks, dividends, equity incentives, and M&A. In May this year, it announced a new US$100 billion share buyback program and US$3.7 billion in dividends. Over the following four days, Apple's stock rose 11.3%, pushing its market cap from around US$820 billion to US$900 billion.
+
+Microsoft and Google had similarly grand plans. The Trump tax cuts lowered the cost of bringing overseas profits and cash back home. Google planned to buy back US$8.6 billion, while Microsoft continued fulfilling the US$40 billion buyback program it announced in 2016.
+
+The three companies spent US$150 billion trading in their own stocks — and bought back less than a year's worth of Wall Street's confidence.
+
+Chart/Feng Xiuxia
+
+Cover image/[Reddit](https://www.reddit.com/r/photoshopbattles/comments/5hdqbn/psbattle_a_young_steve_jobs_and_bill_gates/); the long cover image is from the AllThingsD annual conference.

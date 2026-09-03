@@ -1,0 +1,224 @@
+@@QD_TITLE@@
+From Plastic to Aluminum Alloy to Glass: Beyond Looks, What Else Drove the Changes in Phone Shell Materials?
+@@QD_EXCERPT@@
+This change failed to reverse the market's decline
+@@QD_BODY@@
+This change failed to reverse the market's decline
+
+The [own-brand Pixel 3 phone](https://store.google.com/product/pixel_3) that Google released on October 9 marked the completion of a shift in smartphone design fashion.
+
+Pixel 3 marked the moment when all of the world's major phone companies abandoned aluminum alloy in their new phones. Although Google sold only 3.9 million phones last year, it is still the company that controls the Android ecosystem. Like the vast majority of companies, Google also chose glass to replace the metal body of the past two generations.
+
+The shift from metal to glass took roughly three years. Samsung first used a glass back on the Galaxy S series in April 2015, and 2017's iPhone 8/X settled the trend. This year Huawei's P20, the vivo NEX released mid-year and OPPO Find X, as well as the later Xiaomi 8, all used glass bodies.
+
+![Pixel 3 vs. Pixel 2 rear material comparison, source: [androidauthority](https://www.androidauthority.com/google-pixel-3-xl-vs-pixel-2-xl-911406/)](http://img.qdaily.com/uploads/20181126225212VvHfB1b6rKhSn74y.jpg-w600)
+
+![Pixel 3 vs. Pixel 2 front design comparison, source: [androidauthority](https://www.androidauthority.com/google-pixel-3-xl-vs-pixel-2-xl-911406/)](http://img.qdaily.com/uploads/20181126225454Gnq4oLZTXDrfUumi.jpg-w600)
+
+![](http://img.qdaily.com/uploads/20181125223139akIHvYwpeO7P9qiL.jpg-w600)
+
+As for the top five phone brands by smartphone shipments in 2016 as counted by market research firm IDC, nearly all of the major models besides Samsung — including Apple's iPhone 7, Huawei Mate 9, OPPO R9 and vivo X9 — [used aluminum alloy bodies.](https://www.pingwest.com/a/158803)
+
+You can still buy new phones with aluminum alloy bodies today, but they are positioned mainly in the mid-to-low end. A [report from](https://www.counterpointresearch.com/zh-hans/category/reports-zh/) research firm Counterpoint Research shows that by the end of this year, 26% of global smartphone shipments will have glass-back designs; in two years that figure will rise to 60%.
+
+Once upon a time, metal was the symbol of premium. In 2012, when Tim Cook held up the iPhone 5, its unibody aluminum alloy body was the pinnacle of consumer-product metalworking at the time.
+
+That was a process revolution Apple had been preparing since the Steve Jobs era. At one point every product in Apple's lineup — from computers to phones to iPods, mice and routers, even the walls of Apple Stores — was made of aluminum alloy. The luxury yacht Venus, which Jobs [specially commissioned](https://arstechnica.com/gadgets/2012/10/steve-jobs-custom-aluminum-hulled-super-yacht-venus-now-seaworthy/) in the final years of his life, also had an aluminum alloy hull.
+
+![The aluminum-hulled Venus](http://img.qdaily.com/uploads/2018112622564060UsDaGcbHixykE8.jpg-w600)
+
+From plastic of all kinds to aluminum alloy to metal: in the space of a dozen-odd years, smartphone body materials have already been through two great transitions, and good looks were not the only reason.
+
+### Glass went mainstream because of looks, but even more because of 5G
+
+Translucent, refined — words like these are always used to describe glass objects. Even today, enormous glass façades remain a common design for high-end retail stores.
+
+The advantages of glass on a phone are obvious: transparent glass can directly show off the back-panel design, opening up far more possibilities — different colors, gradient lines, metallic looks, and so on.
+
+Glass also makes for better design integrity. To avoid signal shielding, there is no longer any need for the three exposed white antenna strips on the back of the iPhone 6's aluminum body.
+
+Glass also feels better in the hand — it doesn't get as painfully cold as metal in winter, and after a bit of gaming, metal's thermal conductivity immediately makes the phone hot to the touch. It is also more scratch-resistant than metal. Apple once polished metal to a mirror finish like glass on the iPhone 7 Jet Black, only for large numbers of them to prove anything but scratch-proof.
+
+But glass is not the best choice for phones. The demands phones chase — lighter, thinner, more durable — cannot all be met. Going from aluminum alloy to glass involves a clear sacrifice in experience.
+
+Weight comes first: the iPhone 8 [is 7% heavier than the previous generation](https://zh.wikipedia.org/wiki/IPhone#%E8%A6%8F%E6%A0%BC%E4%B8%80%E8%A6%BD%E8%A1%A8), the vivo X23 is 3% heavier, and the Huawei P20 is 13.8% heavier.
+
+Glass also makes phones thicker. The iPhone 8 is 4% thicker than its predecessor, the iPhone 8 Plus 2.7%. The Huawei P20 and Mate 10 are 12.9% and 3.8% thicker, respectively. The added thickness and weight did not go into battery life — the iPhone 8's battery capacity actually shrank by 139 mAh. Glass is also obviously [more fragile than metal](https://bgr.com/2017/09/25/iphone-8-plus-vs-galaxy-note-8-drop-test-glass/).
+
+![Both iPhone 8/8 Plus are thicker than the previous generation, source: [FView](http://www.sohu.com/a/195782192_473286)](http://img.qdaily.com/uploads/20181126230118juUnCdg32Ky4mHqS.jpeg-w600)
+
+The pros and cons are both obvious. Yet every maker's main phones turned to glass in 2018, and the reason is that glass is the material best suited to 5G phones.
+
+“The main thing glass solves is the problem of metal bodies interfering with phone signals. Especially with 5G phones going on sale next year, a glass body reduces the need for antenna cutouts on the body,” an industrial designer who worked on the Pixel series and now works at vivo told QDaily.
+
+On phones that support 4G, the antennas are long, thin strips — the conspicuous white lines above and below the back of the body that people began complaining about after the iPhone 6 launched.
+
+In the 5G era, to ensure signal stability, antenna form shifts from long strips to square matrices. A metal body can no longer rely on a few narrow lines on the back or a thin metal frame as the antenna — the width is not enough to house matrix antennas.
+
+Whether it's 4G networks, Wi-Fi or Bluetooth, all transmit signals via electromagnetic waves, and signals can conflict with one another. In the 4G era, carriers in various countries used up nearly all of the 1800 MHz to 2600 MHz bands. To avoid them, the 5G standard moved to higher frequencies — for example, under current international and domestic rules, 5G high-frequency bands can reach up to 30 GHz.
+
+The higher the frequency, the shorter the wavelength, and antennas are generally most efficient at 1/4 to 1/2 of the wavelength. Ultimately, an antenna receiving 5G high frequencies will be shortened to between 5 mm and 2.5 mm.
+
+At the same time, the higher an electromagnetic wave's frequency, the much faster the signal weakens. The solution is to use more antennas — 4x4 or 8x8 matrix antennas bonded together — which requires leaving a 10mm x 10mm space on the phone for the antennas, and there is no room at the mid-frame position where antennas are usually placed.
+
+![The conspicuous white antenna lines on the back of the metal-bodied iPhone 6/6 Plus](http://img.qdaily.com/uploads/20181126230334tfOPMiCTKwqZX1lo.png-w600)
+
+![The antenna layout of MediaTek's 5G prototype; the antenna can only be placed in a cutout on the back](http://img.qdaily.com/uploads/20181126230532RQnyZ3J5pfTh81sr.jpg-w600)
+
+A 10 mm-wide rectangle cannot fit in the phone's frame or similar spots — it can only go on the back. And metals like aluminum alloy directly shield electromagnetic waves; conductive metal reflects, absorbs and cancels electromagnetic waves. To ensure signal strength, metal must be kept away from wrapping the antennas.
+
+Moreover, glass lets signals pass through more easily and doesn't block wireless charging. A paper from Beijing University of Posts and Telecommunications and the Ministry of Industry and Information Technology's Telecommunications Research Institute studied signal loss as waves pass through glass. For transparent tempered glass the penetration loss is around 10 dB or below, while loss through metal reaches 25 dB — more than double that of glass.
+
+5G is not yet in use, but with a big transition like the 4G-to-5G upgrade, phone makers and carriers need a year or two of running-in. Carriers must upgrade base stations to satisfy ever-faster mobile networks, and phone makers need to lay out the hardware one to two years in advance, making sure they can repeatedly test 5G signals before launch.
+
+Aesthetics of phone design are a matter of taste, but technical constraints are fixed. Every major material shift in phone history has happened because of new demands like these.
+
+### From plastic to metal to glass: phone materials have been through several great transitions
+
+Like the starting point of nearly all consumer electronics today, the material phones used at first was plastic.
+
+In 1973, the first mobile phone, the Motorola DynaTAC 8000X, [was born in New York.](http://www.sohu.com/a/226883542_631742) Martin Cooper, the engineer who invented it, held up this plastic-shelled box and placed the first call to Motorola's rival at the time, the American Telephone and Telegraph Company.
+
+Plastic becoming the phone's first mainstream material is not hard to understand. In the early days when phones were still bulky, plastic was light, didn't block signals, had mature manufacturing processes, and was cheap — all reasons to choose it.
+
+Plastic also had the advantage of being easy to mold. In the early days a phone's main functions were calls and text messages, and every year brands released large numbers of differently shaped models — clamshells, side-sliders, candybars — to stimulate sales, with very fast model turnover.
+
+By 2005, Nokia alone had 61 phone designs with different shapes in a single year, including candybar with nine-key pad, candybar with full keyboard, clamshell, and side-slider structures. With relatively short sales cycles and dozens of models a year, plastic was the more suitable material.
+
+![](http://img.qdaily.com/uploads/20181125223814cpAOgEo0CDsdmbPa.jpg-w600)
+
+To give phone exteriors enough differentiation, in the early years phones were basically plastic structures with other surface treatments — such as the metallic paint sprayed on Nokia's high-end N series, or BlackBerry's high-end 9 series, which for a time glued a layer of faux leather onto the plastic back cover.
+
+What broke plastic's monopoly was the first-generation iPhone — though not because of its then-novel aluminum alloy body.
+
+Before the iPhone, metal had already appeared on phone bodies. Motorola's classic Razr V8 used a stainless steel frame and aluminum alloy hinges. It looked premium too.
+
+The first-generation iPhone's most important influence on phones was that it defined a new smartphone form: no keyboard, no clamshell — one large screen occupying the entire body. The phone's main function shifted from calls and texts to presenting apps on a screen as large as possible. Once this ultimate form appeared, all phones began designing in that direction.
+
+![First-generation iPhone vs. iPhone X: the basic form has barely changed in ten years, source: [YouTube](https://www.youtube.com/watch?v=NR1h841N5bg)](http://img.qdaily.com/uploads/20181126230812wGlbtDXJ3uW7yUne.jpg-w600)
+
+After the iPhone defined the phone's ultimate form, novel changes in appearance gradually dwindled. What remained to be changed was mainly screen size, body material, and color.
+
+It was in this process that phone materials began going through some larger changes.
+
+The 2010 iPhone 4 was another big change: it used stainless steel as the mid-frame material, with the antennas integrated into the mid-frame. Front and back adopted a double-glass design, with the body covered front and back by two whole slabs of cut glass — worlds apart from the previous generation's all-plastic iPhone 3GS.
+
+![From left to right: first-generation iPhone, iPhone 3G, iPhone 4](http://img.qdaily.com/uploads/20181125224557KRpz9TJ1wlLqdvgx.jpeg-w600)
+
+But this glass did not become a lasting trend. On the 2012 iPhone 5, Apple switched to a unibody aluminum alloy body. Again, it was because of the screen.
+
+“Apple kept stressing thinness, lightness and a unibody feel at the time — the MacBook was designed in the same style. Aluminum alloy was a good choice for ensuring body strength while staying thin and light,” the industrial designer quoted above believes glass's inability to get thinner and lighter is why Apple turned to metal.
+
+The iPhone 4's glass was different from today's. Apart from lower strength, the glass edges were vertical back then — however thick the whole piece of glass was, the edge was that thick. Later, starting with Nokia's N9, glass with curved edges (so-called 2.5D glass) was used on phones. At the same thickness, it looks thinner visually.
+
+After that, Sony and Samsung began trying glass backs in 2014 and 2015 respectively. In 2014 Sony launched the high-end Xperia Z3 with a glass back; subsequently Samsung, Xiaomi and others also returned to double-glass designs on phones such as the Galaxy S9 and Xiaomi 4S.
+
+But the mainstream of design was no longer glass. The extraordinary success of Apple's iPhone 6/6 Plus series turned the whole industry around. These two phones remain the best-selling generation among all of Apple's phones, [selling a combined 220 million units](https://en.wikipedia.org/wiki/IPhone_6) over their two-year product cycle.
+
+The iPhone 6 series' unibody greatly reduced seams on the phone, making it visually more integral. And the much-tuned aluminum alloy material could ensure the structural strength of a big-screen phone without adding thickness.
+
+Going from the 4.7-inch screen to the 5.5-inch iPhone 6 Plus added only 0.2 mm in thickness. And the 5.5-inch iPhone 6 Plus was even 2 g lighter than the 3.5-inch iPhone 4, and 2 mm thinner — a 21.5% reduction.
+
+Phone makers had other experiments at the time too — for example, the first-generation OnePlus phone, and later Motorola's MOTO X, both offered replaceable back covers, with bamboo, ceramic and other materials appearing on phones. Motorola even turned the back cover into a functional module, such as swapping in a new camera or enlarging battery capacity.
+
+![](http://img.qdaily.com/uploads/20181125224834dWO7NF6DqnT4hHmv.png-w600)
+
+Apple also tried polycarbonate on the iPhone 5C. This plastic material Nokia had earlier championed could give the phone body a jelly-like texture, with brighter, richer color options. In 2016, Apple also launched the iPhone 7, which tried polishing the phone body to a glass-like texture.
+
+But none of these shell changes survived in the end. Before glass returned, the unibody aluminum body became the absolute mainstream.
+
+By 2016, among the top five phone makers by shipments, nearly all the major models — including Apple iPhone 7, Huawei Mate 9, OPPO R9 and vivo X9 — [used aluminum alloy bodies.](https://www.pingwest.com/a/158803) In December 2016, among China's top 20 best-selling phones, 17 used a unibody metal design — 85%.
+
+The return to glass began around 2016. Samsung, another phone bellwether, did not follow Apple at the time: Samsung, which had stuck with plastic, used a glass back on the S6 it released in February 2016. Afterwards, Samsung gave glass a metallic-looking visual effect on its high-end models.
+
+“Samsung actually used grinding films — it used reflective films in metallic colors to let glass present a metallic texture,” vivo's industrial designer explained the principle behind this process.
+
+This is characteristic of glass's return to phones. Compared with the glass used in the iPhone 4 era, the glass on the iPhone 8 and Galaxy S8 has 3D-curved edges, with thinner edges that look like part of the body, rather than the iPhone 4-era feel of a whole square slab of glass glued on.
+
+![](http://img.qdaily.com/uploads/201811252249195I46emYMW3xCh9rV.jpg-w600)
+
+Among today's top five phone makers, except for Xiaomi, which uses ceramic on its premium MIX series, the flagship models of the other makers all already have glass backs. Even Xiaomi uses glass on its higher-selling Mi phone series.
+
+### Behind every material is massive investment — which is why manufacturers are so cautious about design
+
+New processes and new materials involve enormous investment behind them. The biography of Apple's chief designer Jonathan Paul Ive [describes in detail](http://www.mac52ipod.cn/post/the-genius-behind-apple-greatest-products.php) Apple's massive investment in aluminum unibody manufacturing.
+
+After developing the metal unibody process (Unibody), Apple began formally investing around 2007, acquiring every CNC milling machine it could find. It even reserved all the milling machines one Japanese factory would produce over the following three years. They cost at least $250,000 each, and the most expensive could run into the millions of dollars per unit.
+
+By 2012, with the iPhone 5 and iPad 3 (both unibody metal products) going into production, Apple's capital expenditure in this area reached $9.5 billion, most of it spent on production tooling and processes.
+
+By comparison, Apple spent only $865 million on its retail stores. Even though its stores sit in prime locations with expensive rents, Apple's manufacturing investment was 11 times that of its stores — and it didn't even bear the cost of Foxconn building its factories.
+
+To this day, the Aluminum Association [still carries a thank-you letter to Steve Jobs on its website.](https://www.aluminum.org/thank-you-steve-jobs) Its title is “Thank You, Steve Jobs,” crediting him with advancing aluminum alloy processes.
+
+Although what we see today is Apple's unibody aluminum design dominating the industry for many years, this was not an inevitable choice. Earlier, aluminum-magnesium alloy and titanium alloy were also commonly used materials in electronics.
+
+In fact, before that Apple tried multiple metals, including titanium alloy, magnesium alloy and chrome-plated steel. These materials could not be used on phones because they scratched easily, weren't hard enough, or were too heavy.
+
+Personal preference played a role too. Jobs [insisted](https://www.metalbulletin.com/Article/3184333/Non-Ferrous/FEATURE-Steve-Jobsthe-man-who-made-aluminium-sexy.html) that the phone present the natural color of metal; baked-on paint and chrome plating were unacceptable to him.
+
+A typical phone takes about a year from design and shell material selection to final launch. Before launch there is also a battery of usage tests. Even with such a long process and meticulous testing, aluminum alloy still had two major problems in use.
+
+The all-black iPhone 5 Apple launched in 2012 suffered large amounts of black paint chipping on its metal body; the following year the iPhone 5s dropped the all-black version in favor of space gray.
+
+![The heavily scuffed iPhone 5, image source: GIZMODO](http://img.qdaily.com/uploads/20181125225149RYgvDE6ate9ZSqwz.png-w600)
+
+The next generation, the iPhone 6, bent because its aluminum alloy wasn't strong enough, and the following iPhone 6s changed the aluminum alloy formula to fix the strength problem.
+
+Within a few years, the iPhone's aluminum alloy went from being Apple's differentiator against competitors to a new process the whole industry could use. Latecomers didn't have to go through Apple's repeated trial and error, avoiding huge investment in these wrong materials.
+
+The cost of trial and error in phone materials is high.
+
+In 2012, Apple invested in sapphire company GT Advanced Technologies but never managed to use sapphire glass on phone panels — in the end it was only used on iPhone lenses and on the lower-selling stainless steel and gold Apple Watch editions. GTAT filed for bankruptcy in 2014, and Apple had invested a total of $600 million.
+
+Apple also had to spend money [investing in glass manufacturers.](https://36kr.com/p/5074844.html) In 2017 Apple spent $200 million investing in Corning, the maker of Gorilla Glass, to support Corning's R&D into the most advanced glass processing and to purchase equipment.
+
+The same thing happened with the iPhone 7 Jet Black: Apple polished stainless steel to a glass-like feel and mirror effect. Its design head Ive once explained in a video that this jet black used a nine-step polishing process.
+
+The tedious process caused production capacity to drop, and the jet black iPhone 7 was severely undersupplied after launch. The bigger loss was that Apple used this hugely expensive new process on only the single generation of the iPhone 7; afterwards you could only see this material on a handful of watches and on the frames of the premium iPhone X series.
+
+![The scratch-prone iPhone 7 Jet Black, image source: feng.com](http://img.qdaily.com/uploads/20181125225208uX1kUYnmhOTvAJal.png-w600)
+
+Smaller companies invested just as heavily. In 2014, Xiaomi, which had used plastic for three generations, [tried to switch to the Xiaomi 4 with a stainless steel frame.](https://www.qdaily.com/articles/1711.html) According to Li Wanqiang at the time, Foxconn and Hi-P added a combined 1.9 billion yuan in CNC machine investment (1.2 billion yuan at Foxconn, 700 million yuan at Hi-P). These costs ultimately all had to be amortized across the production lifecycle of Xiaomi phones.
+
+The 2016 Xiaomi MIX used a new ceramic body. But after two years, ceramic — with investment from Xiaomi alone — [never went mainstream](https://www.pingwest.com/a/159684); even Xiaomi could only use such a material on its lower-selling MIX series, the Xiaomi 8 went back to glass, and the low-end series remained aluminum alloy.
+
+### There are new designs beyond glass too, but none reversed the shrinking phone market
+
+When the ultimate design is not ultimate enough, new designs begin.
+
+The iPhone X was the first real change since Apple launched the iPhone. Face ID let Apple remove the Home button and let the screen fill the entire face — but it also had to leave a 34 x 5 mm space for the camera and the sensors needed for face recognition.
+
+This less-than-extreme design on a full screen set other makers on new design experiments. To play it safe, most makers had products in the past year with a top region similar to the iPhone X's. But different makers also began making their own choices on full screens.
+
+![From left to right: iPhone X; OPPO Find X; vivo NEX, source: [centrionews](https://www.centrionews.com/oppo-find-x-vs-vivo-nex-vs-iphone-x-vs-mi-mix-2s-vs-galaxy-s9-plus-flagship-phones-comparison)](http://img.qdaily.com/uploads/20181126231023oQYUqw3sdBRmJ9fb.jpg-w600)
+
+Samsung chose to keep a certain area at the top for the camera and speaker. OPPO and vivo, eager to build a new image, used a motorized slider and a pop-up camera respectively to keep the front screen intact.
+
+Similarly, Xiaomi and Huawei each used a manual slider design in new phones. Different design schemes involve different trade-offs — for example, the OPPO Find X with its motorized slider is 2 mm thicker than the iPhone X.
+
+New technologies are also being tested. A week earlier, Samsung's SDC 2018 developer conference was held in San Francisco. Samsung showed for the first time a foldable display panel called InfinityFlex Display. The product is very immature, but the boundary between phone and tablet has been broken.
+
+In the 11 years since the iPhone's birth, all new smartphone technologies have become centered on the apps on the screen — how to let you hold a thinner, lighter object, see a larger app interface, and run faster.
+
+The shell and frame now exist to minimize their own presence as much as possible. Apple's chief designer Ive [said of the iPhone X](https://9to5mac.com/2017/10/11/jony-ive-interview-iphone-x/) that “in the future, a phone should exist as something that looks like a case attached to a display. The ultimate goal of iPhone design is to make the phone into a single piece of glass.”
+
+When apps replace hardware as the more important thing, it is easy to understand why everyone has a smartphone, but why new phones can no longer make people upgrade every year.
+
+The phone industry once saw an explosive wave of growth thanks to smartphones. Then, starting in 2011, Samsung's first-generation 5.8-inch Note series kicked off the big-screen trend; three years later, the big-screen differentiation brought by the iPhone 6 Plus directly stimulated sales growth as users replaced their phones.
+
+Now, innovation in phone exteriors is shrinking. Apple's new iPhone XS this year brought a new gold-colored frame — another attempt to attract users with color changes — while vivo's NEX, OPPO's Find X and Xiaomi's MIX 3, the so-called fuller full-screens from each maker, none of these could stir enough consumers' desire to upgrade.
+
+![Image source: IDC](http://img.qdaily.com/uploads/20181126235632rxyof69BYhUuF8p1.jpg-w600)
+
+2017 was [the first year the entire smartphone industry began to decline](https://www.qdaily.com/articles/50896.html); this year phone shipments have declined year-on-year for four consecutive quarters. [IDC data shows](https://www.idc.com/getdoc.jsp?containerId=prUS44425818) that in Q3 2018, global smartphone shipments were 35.52 million units, down 6% year-on-year. As of September 2018, the Chinese smartphone market as a whole also kept shrinking. In September, 35.03 million smartphones were sold in China, down 7.7% year-on-year.
+
+Apple's latest earnings confirm the market decline: iPhone sales were 46.9 million units, below analysts' expectations of 48.4 million, with growth near zero.
+
+The drop in phone hardware sales directly wiped $200 billion off Apple's market value. Xiaomi's share price fell steadily below its IPO price.
+
+The glass-body design will last for years, but an industry-wide crisis ultimately did not disappear because of a change in design.
+
+Illustration: Feng Xiuxia
+
+Cover image source: [Przemyslaw Marczynski](https://unsplash.com/photos/oCfkSnqZ0SI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/phones?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
