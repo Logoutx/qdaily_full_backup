@@ -1,0 +1,210 @@
+@@QD_TITLE@@
+Disrupted Company of the Year: Apple. The Whole Company Is Tied to One Phone, and Now the Whole Industry Has Peaked
+@@QD_EXCERPT@@
+Remember Apple Car?
+@@QD_BODY@@
+Remember Apple Car?
+
+After 18 years of growth, Apple has bolted itself firmly to an industry that has passed its peak. And now it no longer has the confidence to keep growing.
+
+[Since October 2000](https://www.apple.com/newsroom/pdfs/q4fy00datasummary.pdf), Apple has published, every three months, a table less than half a page long listing three kinds of figures:
+
+- How many units of each product it sold;
+- How much revenue each product generated;
+- How much revenue came from each major market worldwide.
+
+Bound together, these tables would make a 《现代苹果简史》 (*A Brief Modern History of Apple*). The letterhead has changed from Apple Computer, Inc. to Apple Inc.; the product lines have gone from distant memories like the iBook and Power Mac to the big three of iPhone, iPad, and Mac.
+
+The one constant is that the numbers keep getting bigger. From selling 1.12 million computers in a quarter to selling 61.89 million devices. From $187 million in revenue in a quarter to $62.9 billion in a year.
+
+Now Apple no longer has the confidence that people will buy more of its products. At its November 1 earnings call this year, Apple [announced it would end an 18-year tradition](https://seekingalpha.com/article/4217359-apple-aapl-q4-2018-results-earnings-call-transcript) and stop disclosing exactly how many units of each product it sells. The reason: "the number of units sold in any 90 days may no longer be representative of the underlying strength of our business."
+
+Steve Jobs' early [mockery of the iPad's competitors](https://bits.blogs.nytimes.com/2009/09/09/in-qa-steve-jobs-snipes-at-amazon-and-praises-ice-cream/) is probably closer to the truth: "Generally, if you sell a lot of something, you want to tell everybody about it."
+
+Companies do not frequently adjust which financial figures they disclose and which they do not. Apple's decision to stop publishing unit sales basically shows not only that it has no confidence in how this year's new iPhones, the Xs/Xr, are selling — it has also concluded that iPhone sales will not improve for quite some time to come.
+
+Apple and its investors both act surprised.
+
+Apple cut production twice in the fourth quarter; [iPhone lens makers saw their total orders slashed 29%](https://nordic.businessinsider.com/apple-stock-suppliers-fall-after-iphone-lens-maker-reports-sales-drop-2018-12/). Promotions for the new phones reached Apple's own website — unprecedented — and even the iPhone X, which had been discontinued to make way for the new models, went back into production.
+
+Wall Street reacted just as violently. In under two months, Apple's market value evaporated by 33%, falling from $1 trillion to below $700 billion this week. Analysts are publishing [diametrically opposed conclusions](https://www.businessinsider.com/apple-stock-price-goldman-sachs-downgrade-iphone-xr-price-2018-11) about [product pricing](https://markets.businessinsider.com/news/stocks/apple-stock-price-iphone-xr-cheaper-than-expected-apple-pay-enhancements-coming-2018-9-1027533171), as if that were Apple's main problem.
+
+From the sleight-of-hand product iterations of the Jobs era to steady iPhone growth under Tim Cook, Apple sustained growth that seemed immune to economic swings.
+
+Growth was so steady that Buffett, Wall Street's investors — and perhaps even Apple itself — may have forgotten how little of this business was ever a given.
+
+Among the Fortune 500, the Dow Jones, or the S&P 500, there is no other hundred-billion-dollar company that relies on a single product — one that must be updated every year and that no one actually needs to buy — to support the growth of the entire company.
+
+That goes without saying for oil, chemicals, banking, consumer goods, and airlines. But even the tech giants do not lean on one product a year the way Apple does: Tencent and Facebook monopolize social relationships, Amazon and Alibaba monopolize online retail, Netflix basically monopolizes the couch and the half hour before sleep, and Google monopolizes search — plus the operating system of virtually every phone that is not an iPhone.
+
+Microsoft was able to become hot again because its new CEO Satya Nadella cut the hardware business and got enterprises to pay for services that had moved to the cloud, thereby sidestepping the risk of the once-every-few-years Windows upgrade.
+
+And a single product, the iPhone, was able to wipe out $300 billion of Apple's market value — roughly the entire size of Alibaba, and more than JD.com, NetEase, Meituan, Xiaomi, Netflix, iQiyi, and Tesla combined.
+
+Unlike when Apple disrupted Nokia, or when [Huawei and Xiaomi disrupted Samsung](http://www.qdaily.com/articles/4863.html), Apple now faces no pesky iPhone challenger.
+
+Over the past three years, Apple sold nearly 650 million iPhones, with annual sales growth hovering around 0%, yet its user base grew from over 700 million to 1 billion. That means users are not defecting: Apple's experience, brand, and inertia keep users inside the iPhone ecosystem.
+
+But nothing guarantees that iPhone users must upgrade their phones. That same figure, while proving the iPhone's stickiness, also shows that more than half of iPhone users have not replaced their phones in three years. Even in the US, where over half the population uses an iPhone, 41% of iPhone users are on an iPhone 6s or older.
+
+For most users, the main motivation for replacing a phone has become losing it or smashing it. Water resistance, full-screen displays, Face ID — none of these new features can entice people to switch anymore. [This is a crisis for the entire phone industry](https://www.qdaily.com/articles/58902.html): the global smartphone market has declined for four straight quarters, the industry has found no breakthrough, and it looks like there will not be one for a long time to come.
+
+![iPhone sales have stopped growing over the past three years](http://img.qdaily.com/uploads/20181226083140RZck5uHV1y3iOhrK.jpg-w600)
+
+![The iPad Pro's high price failed to lift the average selling price, showing most people only buy the cheapest model](http://img.qdaily.com/uploads/20181226083215nWHaTg5KmO60cNu2.jpg-w600)
+
+![Mac sales once grew alongside the iPhone's spread, and are now falling back again](http://img.qdaily.com/uploads/20181226083354YVdLXQ1OuB6TnNe0.jpg-w600)
+
+![But Apple's user base has not declined](http://img.qdaily.com/uploads/20181226084232aMXfyvqZVApW9JRu.jpg-w600)
+
+Apple is the biggest casualty by scale: the entire company's $700 billion market value is focused squarely on the iPhone. Over the past four years, more than 60% of Apple's revenue came from the iPhone, over 65% of its gross profit, and over 80% of its digital services revenue. Meanwhile, its pricing prevents the iPhone from finding new growth the way Xiaomi, Huawei, OPPO, and vivo each have in Eastern Europe, Southeast Asia, India, and South America.
+
+Apple's all-in devotion to a single product is why hundreds of millions of users keep buying from it — and it has now become the source of its crisis.
+
+### Apple Twice Escaped an Industry-Wide Slump Because It Disrupted Its Own Industry First
+
+There was a time when Apple depended on the Mac, or the iPod, even more than it depends on the iPhone today.
+
+More than a decade ago, Clayton Christensen saw [the risk facing Apple](http://www.businessweek.com/stories/2006-01-09/how-apple-could-mess-up-againbusinessweek-business-news-stock-market-and-financial-advice) and made a prediction, [then](http://www.businessweek.com/stories/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice) [another](http://5by5.tv/criticalpath/36), [and yet another](https://www.businessinsider.com/clay-christensen-defends-disruption-theory-2014-10) — convinced that no matter how good the products Apple made, a crisis would come sooner or later. But each time, Apple moved first.
+
+"What's important is that we be the ones to make the transition. As Christensen's 'innovator's dilemma' puts it — the people who invent something are often the last to see what comes next. We obviously don't want to be left behind," Steve Jobs [explained](https://www.amazon.cn/dp/B00IM4IFL2/ref=sr%5C_1%5C_1?ie=UTF8&qid=1545633026&sr=8-1&keywords=%E4%B9%94%E5%B8%83%E6%96%AF%E4%BC%A0) in the fall of 2010, just as the personal computer's thirty years of growth were ending. The entire industry slumped the following year, and the three big PC makers — HP, Dell, and Lenovo — each went through losses, layoffs, and breakups on the road to decline.
+
+Apple, which had invented the personal computer, did not fall into that dilemma in 2010. That year, it became the world's largest phone maker and launched the iPad. By year-end, journalists were already asking Jobs how it felt to have led Apple past Microsoft to become the world's most valuable tech company.
+
+![](http://img.qdaily.com/uploads/20181226083748dIUe1t7Z2vkuDjfW.jpg-w600)
+
+The starting point of modern Apple was Jobs' return in 1997, when he cut most of the business and refocused Apple on the Mac. In 2001, the modern Mac operating system, Mac OS X, was born, and the first Apple retail store opened in Virginia. Only after that did Apple truly turn the corner and no longer have to worry about bankruptcy.
+
+In 2003, two years into the Mac's recovery, Apple made the iPod work with Windows PCs — betraying the company's most important business. Users had one less reason they absolutely had to buy a Mac, but the iPod took off because it reached hundreds of millions of Windows users.
+
+The iPod helped Apple truly become a consumer electronics brand, helped it build a global supply chain, and helped it accumulate the working capital it needed.
+
+In 2004, the second year of the iPod boom, Apple gathered 1,000 employees to begin secretly developing the iPhone. Three years later the iPhone was born, instantly erasing the reason for existence of MP3 players — including Apple's own iPod.
+
+In 2010, the iPhone's share of Apple's revenue exceeded 40% for the first time. That year Apple released the iPad, using iPhone technology to reinvent the personal computer and open up a new source of revenue.
+
+Mac – iPod – iPhone: opening two new markets in a row spared Apple the fate of Dell, Sony, and Nokia — as one product form declined, a good product opened a new market. Even the iPad, which later suffered an identity crisis, could contribute nearly 20% of Apple's market share three years after launch.
+
+But Apple's ability to enter these markets owed to far more than good product experience.
+
+The success of the iPod and iPhone is often simply attributed to Jobs being a product genius, to Apple using brilliantly crafted new hardware to disrupt one new market after another.
+
+That explanation is too simple. Good product experience was a necessary condition for the success of the iPod and iPhone, but far from the whole story.
+
+Apple was originally just a computer company, good at industrial design and able to develop an operating system. The iPod's success depended on the iTunes online music store, which meant negotiating copyright with the major music labels worldwide and building a digital sales model consumers would accept. The iPod also depended on the Apple Stores Apple began building in 2001 — offline flagship stores modeled on luxury brands.
+
+The iPhone was more complex still. Building 200 million phones a year, with the degree of control Apple exerts, means managing hundreds of suppliers — from procuring aluminum and custom-making components to assembly and delivery into essentially every sales channel. It also meant Apple had to design its own chips to free itself from dependence on Samsung.
+
+On basically all four of these fronts, Apple became the best in the world.
+
+### Tim Cook Made Several Bold Bets, but Failed to Open a New Market
+
+Contrary to the common accusation, Apple's product development approach and the cadence of its new product releases did not change with Jobs' death.
+
+Apple still focuses on just a few products; Jony Ive, as he had for the past 22 years, still personally managed industrial design, and his industrial design team still held to a size of around 20 people to keep communication efficient — by comparison, Samsung still had 1,600 industrial designers as of last year.
+
+And the supply chain management and chip capabilities on which the iPhone's success rested both reached their peak in the Cook era. Apple has built 1.47 billion iPhones in total, 1.39 billion of them since 2011, yet it never repeated a production crisis like the iPhone 4's. Today the performance of Apple's custom CPUs has not only long since left Qualcomm behind — it has surpassed Intel.
+
+The problem is that since then, none of Apple's attempts to enter entirely new markets has succeeded.
+
+In 2014, four years after the iPad was born, the Apple Watch was released. Echoing the 2007 iPhone keynote, Tim Cook gave three reasons from the stage to buy an Apple Watch:
+
+- A precise watch
+- An intimate, timely communication device
+- A comprehensive health and fitness companion
+
+Just like the three things the 2007 iPhone claimed to be:
+
+- A widescreen iPod
+- A phone
+- An internet device in your pocket (the Safari browser)
+
+Cook wanted to use the Apple Watch to enter the luxury goods market. Apple not only launched a gold watch priced at 120,000 yuan apiece; it also revamped its physical stores and redesigned the shopping process. The CEOs of two luxury companies, YSL and Burberry, were both hired into Apple.
+
+A year later, Apple [rebuilt the Apple Watch from scratch](http://www.qdaily.com/articles/28781.html), killing the gold watch, dropping fashion-celebrity endorsements, and repositioning it as an iPhone accessory for health and fitness.
+
+Today, [Apple sells more watches than Rolex](https://www.businessinsider.com/apple-outsold-the-entire-swiss-watch-industry-in-2017-2018-2), but Rolex has no 3,000-yuan product. In the end, Apple was still doing its familiar electronics-accessory business and failed to enter the luxury market. That business is so small that it could not later fill the hole left by an iPhone decline — it is not even a third of what the iPad had achieved three years after its own launch.
+
+Beyond the watch, Apple also assembled a team larger than the one that built the original iPhone and [bought 58 hectares of land to prepare for making cars](http://www.qdaily.com/articles/28311.html).
+
+![A same-scale comparison of Toyota's R&D center, Tesla's factory, and the "Zeus campus" of Apple's car project](http://img.qdaily.com/uploads/20181226084510HzJAX8LouSd4bGla.png-w600)
+
+By 2016, Apple had poached so many people from Tesla that Musk publicly attacked it, saying [Apple had become a "Tesla graveyard"](http://www.qdaily.com/articles/15898.html), stacked with people who could not hack it at Tesla — even though [his own former vice president of engineering later joined Apple](http://electrek.co/2016/04/19/exclusive-apple-tesla-vp-chris-porritt-car-project/).
+
+Cook, who habitually avoids discussing unreleased products, was asked about the car project and did not deny it; using a Christmas-gift analogy, he [said people would have to wait a bit longer](https://www.businessinsider.com/tim-cook-on-apple-car-its-going-to-be-christmas-eve-for-a-while-2016-2).
+
+By the end of 2017, the iPhone's tenth year, Apple held its product launch in the newly built all-glass Steve Jobs Theater. Cook gave a moving speech honoring Jobs, looking back on how the iPhone had defined a decade of technological development, and announcing the starting point of the next ten years: the iPhone X. It may be the most radically changed iPhone ever — but it is still an iPhone.
+
+### After That, Apple's Focus Became Building a Moat Around the iPhone
+
+With no new product panning out, Apple twice tried to lower prices so the iPhone could reach different price bands. Both attempts failed.
+
+The first was the iPhone 5c in 2013. To avoid competing with the same-generation iPhone, the 5c was priced only 10% lower, used an older processor, and had no fingerprint sensor.
+
+The second was the iPhone SE in 2016. This one was half the price, but to avoid competing with the same-generation iPhone, it kept the design from two years earlier.
+
+And even this year's iPhone Xr, with a starting price above 6,000 yuan that can in no way be called cheap, still comes with all kinds of compromises.
+
+One pattern repeats: Apple makes sure the "low-end" iPhone is expensive enough, or different enough, to avoid hurting sales of the flagship iPhone and thereby protect profit margins.
+
+Meanwhile, every product must also add bricks to the wall of the iPhone's continued growth.
+
+![Changes in official prices of iPhone models on sale; chart from [Asymco](http://www.asymco.com/2018/09/13/lasts-longer/)](http://img.qdaily.com/uploads/20181226084651Xdy9Zi0ToMYaruwG.jpg-w600)
+
+![](http://img.qdaily.com/uploads/20181226084740w0yi3rVSd6xeHG2h.jpg-w600)
+
+The Apple Watch does not support Android — not because more than 85% of the world's people have no interest in fitness, but because this gives people one more reason to use an iPhone.
+
+Apple Music supports Android, but every major redesign follows the iPhone's — not because this helps Apple challenge the leading positions of Spotify or Tencent Music, but because it gives people one more reason to use an iPhone.
+
+The iPad Pro is supposedly meant to be the next-generation computer, but it has no interoperability features with Android — not because people who buy Android phones do not buy iPads (on the contrary, what they mostly do not buy is Android tablets), but because this gives people one more reason to use an iPhone.
+
+iMessage, HomePod... even the planned new video service may end up as a [free service that locks in iPhone users](https://appleinsider.com/articles/18/10/10/apples-streaming-video-hits-iphones-ipads-and-apple-tv-for-free-in-early-2019). If it does, it has no chance of challenging Netflix.
+
+Now the focus of every Apple product is how to build a moat around the iPhone.
+
+There was a time when Apple had enough confidence in its product experience that people who bought an iPod or an iPhone would go back and buy a Mac, buy an iPad.
+
+### As for Apple's Soaring Profits, in Recent Years More Have Gone to the Stock Market Than to Developing New Products
+
+One billion Apple users each have their own reasons — experience, performance, looks, inertia, or vanity — but essentially people trust the brand, and so are willing to keep buying its products without much deliberation. And there was a time when the brand also cared about how many people could keep buying its products without worry: [it smashed the "$999" price tag at the launch event](https://www.qdaily.com/articles/45122.html), saying "we want to put it in as many hands as possible."
+
+A Ferrari costs over a million yuan more than an economy car, and a Miele washing machine can cost 20,000 yuan more than a Little Swan. But the iPhone, at your side 24/7, once cost only a thousand or two yuan more than its main competitors. The iPhone used to be one of the few great products most people could afford.
+
+But as new technology failed to spur people to replace their phones, Apple responded by selling ever more expensive products, so that those who do buy pay more and profit margins are maintained. When the iPhone X launched in 2017, one could say that with so much new technology inside, a higher price was necessary. But making the iPhone Xs even more expensive in 2018 could only be because it wanted to charge more and earn fatter profits. Today a maxed-out iPhone Xs Max costs twice as much as a maxed-out iPhone 4 did in 2010 — and is 10,000 yuan more expensive than the average selling price of an Android phone.
+
+Apple's removal of unit sales figures this time means it will stick with high prices — if it expected to win more users with lower prices, there would be no reason to take the sales data away.
+
+Facing an industry-wide crisis, Apple chose to keep chasing high profits, positioning itself as a company that sells goods and satisfies investors' demands.
+
+Even as sales stall, the very mechanics of Apple's business are being affected. In 2012, Apple could sell a device to distributors an average of 3.26 days after it was built, with distributors bearing the inventory pressure from then on. By 2018, that time had tripled to 9.82 days.
+
+Stalling — or even falling — sales also mean Apple's grip on its production partners is loosening. Apple can extract more profit from ever pricier iPhones, but the companies that make its parts do not earn more per part just because the iPhone got more expensive. From small firms making a single chip to giants like Foxconn and TSMC, all are shouldering the losses of the iPhone's decline.
+
+And most of the money Apple earns is not going toward developing new products or investing in new manufacturing technologies.
+
+Eight years into Cook's tenure, Apple's R&D spending has increased sevenfold, and capital expenditure on production tools, factories, and the like has risen 5.4-fold. But over the same period, from 2012 to today, Apple has spent $380 billion (including the ongoing buyback program) on dividends and share buybacks to pump up its own stock — more than double everything Apple has spent on R&D, production, and retail stores combined since 1997.
+
+![](http://img.qdaily.com/uploads/20181226082027lyu1mXnUkSRKHt6a.jpg-w600)
+
+![](http://img.qdaily.com/uploads/20181226081955GO5pSZif1h4yv9oQ.jpg-w600)
+
+Whether buying back stock is a good thing has always been disputed. In the pessimistic reading, when a company spends money buying its own shares, that money will not be used to lower product prices, raise employee pay, or invest in new products and new technologies.
+
+In the optimistic reading, it is also Apple admitting it cannot use that money effectively to improve its own business, so it might as well return the cash to investors to put into other companies and [create greater value](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3067663).
+
+It is not that there is no technology left on earth worth investing in. Today Amazon — and even Google, two companies completely unskilled at making consumer electronics — [sell ten times as many smart speakers as Apple](https://46ba123xc93a357lc11tqhds-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/smart-speaker-installed-base-sept-2018-01-v2.png); Tesla, whose market value is less than the cash Apple has on hand, staggers forward pushing the electric-car revolution ahead; and Netflix, borrowing billions of dollars a year, has reshaped the movie-watching habits of hundreds of millions of people.
+
+It was Apple's own choice to pump its stock and reward Wall Street rather than make riskier investments and enter new markets. It chose to become the kind of company Buffett likes: no risk-taking, building moats, taking Milton Friedman's doctrine as its motto — "the only social responsibility of business is to earn profits and return them to shareholders."
+
+But after all, it is not a steady business like Walmart. When the iPhone runs into trouble, Wall Street runs far faster than users do.
+
+![Apple's share price fell steeply from November onward](http://img.qdaily.com/uploads/201812260839411Vorqin5p762SKYe.jpg-w600)
+
+"The computer field is a bit like sedimentary rock. You contribute one thin layer within a mountain, making the mountain a little taller. But in the end, people simply stand on the peak, and only with an X-ray can they see what it looks like inside." In 1994, Jobs — then on his second act as an entrepreneur — once used this metaphor for his own work.
+
+For 42 years, Apple contributed several not-so-thin layers to that mountain, creating the illusion that such contributions could go on forever. But in the end, that may be nothing more than an illusion.
+
+Graphics: Feng Xiuxia
+
+Cover image from Visual China Group
