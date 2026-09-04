@@ -1,0 +1,194 @@
+@@QD_TITLE@@
+The Biggest iPad Upgrade in Its Eight Years, But It Still Hasn't Become the Future PC Apple Promised
+@@QD_EXCERPT@@
+Unless you're an illustrator.
+@@QD_BODY@@
+Unless you're an illustrator.
+
+Attending this year's Apple iPad event felt like reliving an Apple event from three years ago.
+
+The venue was nothing alike — this year it moved from San Francisco to the Brooklyn Academy of Music's 110-year-old opera house in New York, ringed by police cars and concrete blocks in the aftermath of a bomb threat not long before.
+
+The people were different too. This year Jony Ive didn't record a video in his white room explaining Apple's latest manufacturing process — in his place was [the voiceover of Phil Schiller](https://www.apple.com/ipad-pro/), Apple's head of marketing. Offstage, Walt Mossberg, who wrote a column back in 2015 arguing the iPad ultimately couldn't replace the computer, has now retired; he spent a few minutes in the demo area and left.
+
+The things the live audience cared about seemed to have changed as well. The warmest applause and cheers this year didn't come at any feature announcement, but at the news that the Mac's aluminum enclosure is now 100% recyclable.
+
+Even the main product, the iPad, barely looked the same. The giant tablet Tim Cook carried on stage three years ago resembled an ordinary iPad stretched bigger. This year both iPad Pro models are entirely new designs, one 12.9-inch and one 11-inch, with rounded edges that look exactly like a squashed iPhone 5s.
+
+![Front of the new iPad Pro 12.9](http://img.qdaily.com/uploads/201810310507221qKRpWh5M02FB7Y6.jpg-w600)
+
+![Left to right: iPad Pro 10.5, new iPad Pro 12.9, previous iPad Pro 12.9](http://img.qdaily.com/uploads/20181031050945v17UQFe0Lh8wOCbn.JPG-w600)
+
+![Side-by-side comparison of two generations of iPad Pro 12.9](http://img.qdaily.com/uploads/20181031050944c2Q9hKtedJfyBjH0.JPG-w600)
+
+Face ID, a 5.9mm thickness, 25% less volume with the same screen... A staff member in the demo area said this is the most changed iPad generation since the product's birth, and that is no exaggeration whatsoever.
+
+This year Apple also resurrected the MacBook Air, which had been hibernating since 2015: new screen, new specs, new ports, and a new price.
+
+But the one thing Apple most wanted to say at both events hasn't changed: the iPad is no longer a toy for the couch — it is the future personal computer.
+
+As usual, Cook got to the point 41 minutes into the event, arguing that the iPad is already the world's largest personal computer product. His evidence: Apple sells 44.2 million iPads a year, 7.3 million more than second-place HP's laptops and tablets combined, and roughly 63 times the combined total of Microsoft and Huawei.
+
+To prove the iPad can do anything, an Adobe executive took the stage to introduce new software coming next year, while her colleague used the newly released Apple Pencil to demonstrate photo editing on the spot.
+
+Autodesk, the maker of drafting standards, also announced a new AutoCAD viewing tool. Game company 2K came onstage to show off NBA 2K, a new game with relatively refined graphics, reeling off terms no gaming fan could be more familiar with, like HDR Bloom and AA anti-aliasing.
+
+And of course, someone stood on stage and demonstrated augmented reality against an empty table — AR has become a fixture of Apple events today, right alongside price hikes.
+
+Everything was great — except that almost all of this had been said almost word for word three years ago.
+
+iPad sales first declined in 2014, just four years after its debut. Cook tried plenty of tricks: first the smaller, cheaper iPad mini in 2012, then the lightweight iPad Air. None of them revived users' interest.
+
+It's not hard to see why users weren't interested — after all, the iPad was a couch computer from the start. And if it's a couch computer, being a bit heavier or looking a bit dated is no problem; once users buy one, they have little incentive to upgrade.
+
+Today all of Apple's unsatisfying changes get pinned on Cook, but the couch-computer positioning of the iPad wasn't his call.
+
+In 2010, at a different venue, a different Apple CEO announced its existence — as a third device, one that sat between the phone and the laptop.
+
+Sitting on a brown leather sofa, Steve Jobs enumerated its reasons to exist: browsing the web, sending email, looking at photos, watching videos, playing games, reading e-books, buying a movie ticket on a whim. Back then apps were still scarce, and reading news, scrolling social networks, and buying movie tickets all had to be done on websites designed for PCs — the tablet was more convenient than the phone.
+
+In just a few years everything changed: phone screens got bigger, laptops got lighter, and nearly every internet service redesigned its website and apps. Internet companies changed their products to suit users going online via phone, rather than expecting users to hold a tablet and visit PC-era websites.
+
+And so the iPad Pro arrived in 2015 — a huge screen, three apps open side by side on one screen, the Apple Pencil pressure stylus, a keyboard cover... Apple wanted the iPad to become a productivity tool, the personal computer of the touchscreen era. It even brought in Adobe and Microsoft, long-time sworn rivals, to endorse the big tablet.
+
+But three years have passed, and judging from Apple's own financials, the future-computer vision has not come true — iPad sales keep declining.
+
+![](http://img.qdaily.com/uploads/20181031083229I516ZvMdK94Umznr.png-w600)
+
+Since 2012, every iPad event has drawn less and less attention — in both the US and China. By 2017, search interest in the word "iPad" had fallen below the level from before the iPad 2 was born.
+
+![](http://img.qdaily.com/uploads/20181031052520lPI3JdCwnhgBiRcv.jpg-w600)
+
+Apple's continued investment in the iPad is easy to understand. Strip it down, and the iPhone was just a device that got the masses to accept a 3.5-inch touchscreen computer — and that alone buried a whole generation of phone giants: Nokia, BlackBerry, Microsoft, Palm. If another company beat Apple to getting everyone to accept working on a 10-inch touchscreen, the Mac and the iPad would be the next Nokia.
+
+But it now looks as though Apple isn't the only one that never found the right path. Microsoft and Google, once avid explorers of touchscreen computers, have basically given up too.
+
+This year Microsoft updated its Surface line barely at all. And Google's newly released giant tablet, the Pixel Slate, is more like a Chrome browser with a keyboard attached. Other companies' enthusiasm is even weaker: the veteran tech blog Engadget documented 105 different tablet models in 2014; by 2017 there were only 14.
+
+The new iPad Pro launched this time really has changed quite a bit: lighter, smaller, narrower bezels, and Face ID that unlocks in any orientation. Hold it in your hand and it feels far more premium than the 2015 generation — and the 12.9-inch model's starting price is indeed $200 more expensive.
+
+Its port is more computer-like: it uses the same USB-C as the MacBook laptops, with plenty of cables available to hook up cameras, displays, even an iPhone to charge it. The new port also lets the iPad Pro drive a sharper external 4K display — but without any indirect interaction like a mouse or trackpad, it's still awkward unless you're playing video; in most apps only a 4:3 area is shown.
+
+Its accessories got upgrades too. The new Apple Pencil switches pens or summons other functions with a double tap of the finger, and when you're done it snaps onto the side of the iPad Pro and charges there directly. Apple's official keyboard cover now supports two angles to accommodate taller desks, though using it on your lap is still not quite natural.
+
+![After the Apple Pencil snaps onto the side of the iPad, a battery prompt pops up on screen](http://img.qdaily.com/uploads/20181031054031Q8947KyDGEbfJdTm.jpg-w600)
+
+![The iPad Pro's new keyboard cover — this is already the steeper angle](http://img.qdaily.com/uploads/20181031053800ZAK9C02bePRDJ3IB.jpg-w600)
+
+Of course, there was the routine processor upgrade — the new chip is strong enough on Geekbench to make you suspect Apple will kick Intel aside and go it alone sooner or later.
+
+But none of these improvements are the reason the previous iPad Pro failed to replace the laptop. The iPad still lacks a full-featured desktop-class browser, and still doesn't support most industry-specific tools.
+
+Quite a few illustration classes have started encouraging students to use iPads, and Adobe has promised to bring the full version of Photoshop to the iPad next year. But right now, Adobe's entire family of software has only about 12 million subscribers. According to calculations by capital markets analysis firm Trefis, its potential market is no more than 21 million users — less than the number of iPads Apple sells in two quarters. Adobe going to the iPad helps Adobe more than it helps the iPad.
+
+iOS didn't become any better suited to complex work after its 2016 improvements. The new gestures this time include swiping along the bottom edge of the screen to switch apps, and swiping up from the bottom edge to return to the home screen — unified with the iPhone X interaction scheme; the iPad already had similar gesture controls before.
+
+People are still using iPads — as the computer next to the couch, a video player, a PDF viewer, a drawing board. Everyone has their own reasons, but for the overwhelming majority it is not a computer replacement. And more and more functions are shifting to the phone — and to the Switch; this year, from big-budget productions to indie games, releases have been coming to Nintendo first rather than the iPad, since that's where more users are willing to spend $20–60 on a game.
+
+At airports, banks, restaurants and the like you're seeing more and more tablets, but those places care even less whether the tablet got 1mm thinner.
+
+This year Apple brought an iPad that is dramatically better in every way, yet it made no progress on what it calls the quest for the future personal computer. Better hardware can't solve the iPad's problem.
+
+Two hours after the event ended, the iPad Pro had already vanished from the US Twitter trending list, while the relatively secondary new MacBook Air was still on it. But whether [in China](http://ent.sina.com.cn/v/m/2018-10-30/doc-ihnfikvc4914228.shtml) or [in the US](https://www.axios.com/trump-birthright-citizenship-executive-order-0cf4285a-16c6-48f2-a933-bd71fd72ea82.html), there was news far more attention-grabbing than a new electronic product.
+
+### Product announcements in detail:
+
+**iPad Pro redesigned — lighter and thinner, new USB-C port**
+
+1. The new iPad Pro is called the All New iPad Pro and comes in two screen sizes: 11-inch and 12.9-inch.
+
+![](http://img.qdaily.com/uploads/20181030232151MJecSWo4smVr2TyY.jpg-w600)
+
+2. The 11-inch starts at $799, the 12.9-inch at $999.
+
+In China, the 11-inch 64GB version costs 6,499 yuan, and the 12-inch 64GB version costs 8,099 yuan. Colors are silver and space gray.
+
+3. It unlocks with Face ID, supporting both portrait and landscape unlock, and has no notch like the iPhone series. All four bezels stay an equal width, and the screen edges use the same rounded corners as the iPhone X.
+
+4. The device bezels are smaller; the 11-inch is nearly identical in physical size to the previous 10.5-inch model. The 12.9-inch iPad Pro is 5.9 mm thick, and overall volume is 25% smaller than its predecessor.
+
+![](http://img.qdaily.com/uploads/20181030232610QrALN7sk8nfztG1i.jpeg-w600)
+
+Both devices use the same "Liquid LCD screen" as the iPhone XR, with a resolution of 2388×1668 and the same pixel density of 264 PPI.
+
+5. A routine processor upgrade to the A12X Bionic: a high-performance version of the A12 used in the iPhone, with an 8-core CPU and 7-core GPU, all designed by Apple. Apple claims the new iPad Pro outperforms 92% of portable PCs.
+
+6. The new iPad's new gestures are also unified with the iPhone X. For example, swiping left or right along the bottom with a finger switches apps — which doesn't look much more convenient than the old four-finger swipe you already had.
+
+![](http://img.qdaily.com/uploads/20181030232617a8LNj7c1YfOSAF3V.jpeg-w600)
+
+7. The port switches to USB-C, unified with the MacBook. It is compatible with Mac USB-C accessories and can charge an iPhone with a USB-C to Lightning cable.
+
+8. Battery capacity supports all-day use. The new iPad has 4 speakers, and the camera is 12 megapixels.
+
+![](http://img.qdaily.com/uploads/20181030232602kzhnXPK5eWfR34L9.jpeg-w600)
+
+9. On accessories: the new Apple Pencil is flattened and snaps onto the side of the new iPad Pro, supports wireless charging, and has a virtual button — a double tap on the pencil switches modes.
+
+The new Smart Keyboard Foleo also magnetically attaches to the iPad from two directions.
+
+10. On apps: besides the Photoshop Adobe announced earlier, Autodesk brought AutoCAD to the iPad — but it seems you can only view. No drawing or other operations were demonstrated on stage.
+
+**MacBook Air finally upgraded after 8 years**
+
+![](http://img.qdaily.com/uploads/201810310619105IcgrVAzXE8qky1Q.jpg-w600)
+
+Apple usually puts its most important product at 41 minutes (the clock icon defaults to 9:41), so when Cook opened by talking about the Mac, where Apple's creative origins lie, you knew the protagonist Apple had chosen for the day wasn't ultimately the Mac. But when the classic manila-envelope MacBook Air appeared on screen, the hall still erupted in sustained applause. Meanwhile, on the US Twitter trending list, #AppleEvent was No. 1 and #MacBookAir shot up to No. 2.
+
+The product updated before the iPad at the event was the MacBook Air.
+
+![](http://img.qdaily.com/uploads/20181030230022mPyiQpd6uSvcA3e5.jpeg-w600)
+
+1. Only a 13.3-inch version, with a Retina display; screen resolution quadrupled to 2732×1536.
+
+2. Thinner and lighter, keeping the classic tapered wedge.
+
+It still uses an aluminum enclosure; the screen hasn't grown, but the bezels are narrower and the whole machine more compact, looking very much like the MacBook Pro.
+
+Compared with the old model, body volume is down 17%. Weight is 1.247 kg versus 1.35 kg for the old model. The thickest point is 15.6 mm, 10% thinner than the old model.
+
+![](http://img.qdaily.com/uploads/201810302259363fSH5IbgejcG4Q7i.jpeg-w600)
+
+3. It has Touch ID fingerprint recognition, but not the unpopular Touch Bar.
+
+The fingerprint reader is in the top-right corner of the keyboard, next to the Fn key, and it has the same self-designed T2 chip as the MacBook Pro.
+
+4. Ports are reduced to two Thunderbolt 3 (USB-C) ports and one 3.5mm headphone jack.
+
+![](http://img.qdaily.com/uploads/20181030225945swVZhRzOqFokUcjI.jpeg-w600)
+
+5. It uses an Intel 8th-generation Core i5 processor with up to 16GB of RAM. Like the latest MacBook Pro with Touch Bar, it uses the T2 chip to cut standby power draw and boost security.
+
+6. It uses the third-generation butterfly keyboard with no mention of the dust problem; the trackpad is 20% larger with haptic feedback added. Battery life remains the same 12 hours as before.
+
+![](http://img.qdaily.com/uploads/20181030225928qyMOX5hJpEoV3w4F.jpeg-w600)
+
+7. Starting price $1,199; preorders start today, shipping on November 7. The previous generation started at $999.
+
+In China, the 1.6GHz i5 + 128GB model costs 9,499 yuan. The old model stays on sale at the same price as before, 6,928 yuan. In the end, as the Air's specs caught up with the times, its price caught up too.
+
+![](http://img.qdaily.com/uploads/20181030234109dFOR5bMq9L4z3mkW.jpg-w600)
+
+**Mac mini unchanged in size, upgraded in specs**
+
+1. The look and size haven't changed at all — aluminum body, same dimensions and thickness — but it now comes only in space gray.
+
+2. Full complement of ports: 4 Thunderbolt 3 (USB-C), HDMI, and 2 USB-A, with an optional 10Gb Ethernet port.
+
+3. Intel 8th-generation processors, with 4-core or 6-core Core i7 options; performance is up 5x. Storage up to 2TB, memory up to 64GB, starting at 8GB.
+
+![](http://img.qdaily.com/uploads/20181030230036hAtSqxQXmd4wBFiI.jpeg-w600)
+
+4. Starting price $799, on sale November 7.
+
+In China, the mini starts at 6,499 yuan.
+
+5. Mac minis can be stacked together to split up complex tasks (connected via Ethernet).
+
+![](http://img.qdaily.com/uploads/20181031055622O5aJotwhINRUiYlr.jpg-w600)
+
+**No AirPods and no AirPower**
+
+The AirPods earbuds and the AirPower wireless charging pad that pre-event rumors said would be updated were both no-shows.
+
+AirPods haven't been updated in 3 years, and the batteries of the first batch of users have aged. And last year at the iPhone X event, Apple promised the AirPower wireless charging pad would launch this year — that didn't appear either.

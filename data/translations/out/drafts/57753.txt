@@ -1,0 +1,158 @@
+@@QD_TITLE@@
+Game mechanics have seeped into the real world and gradually reshaped it — do you take that for granted too?
+@@QD_EXCERPT@@
+When you’re handed a “quest” and successfully motivated, do you stop to ask whether this is a form of control?
+@@QD_BODY@@
+When you’re handed a “quest” and successfully motivated, do you stop to ask whether this is a form of control?
+
+Sun Chengyuan, newly promoted to the first grade of primary school, has to attend an after-school dance class. After more than an hour of dancing, she rushes home without even stopping for dinner and hurries to finish the day’s homework, assigned by her teacher, in the app Zuoyehezi. Every evening, Zuoyehezi generates a report on how the whole class completed their homework, and the earliest finishers appear in the top three. Sun Chengyuan doesn’t want to fall behind.
+
+Ma Qiaoke, an anime-and-comics girl, fell in love with gachapon in college. Over the past couple of years, capsule-toy machines have become ubiquitous — on every street and lane, in subway stations, in shopping malls. She can never resist going up to twist a couple of capsules: exchanging cash for tokens, or scanning a QR code to pay, gripping the knob — click — and a capsule rolls down. After a few years, the capsule toys she has collected fill an entire large storage bin.
+
+When shopping, Wang Lili always likes to ask whether a merchant has a points-based membership card. A little over a month ago, having just bought a cup of coffee, Wang Lili suddenly noticed that the Costa Coffee app she had used for more than a year played an animation, congratulating her on officially becoming a Costa Gold member. A gift from the heavens — she was delighted.
+
+Li Yanfei tumbled headfirst into the fandom of Rocket Girls 101, the girl group that debuted from *Idol 101*. To win resources and perks for her favorite “girl,” she collected several hundred QQ burner accounts and passwords from the group admin. Whenever she has a spare moment, she logs into these accounts to boost her girl’s popularity. Each account takes a little over a minute; after a full month, she estimates she worked through more than a thousand QQ accounts.
+
+Not long after this year’s Spring Festival, 27-year-old Zhou Zhaoguan gradually started moving his daily wake-up time 20 minutes earlier. After washing up, he opens Ant Forest in Alipay. A little after seven in the morning, he has figured out, is when Ant Forest settles the day’s energy. After collecting his own energy, Zhou Zhaoguan taps into every friend’s avatar, stealing energy a few grams at a time.
+
+Sun Chengyuan, Ma Qiaoke, Wang Lili, Li Yanfei, Zhou Zhaoguan — they have all fallen into a mechanism called gamification.
+
+![](http://img.qdaily.com/uploads/20181028201427r4MYmSc7CZhuDnIf.jpeg-w600)
+
+Ma Qiaoke understands gamification best, and the connection between it and gachapon.
+
+The clicking sound a capsule makes the instant it drops was written down by the Japanese as an onomatopoeia, gasha (read something like “gacha”). Game developers later borrowed the name gasha directly to refer to the card-drawing mechanic in games. Eventually card-drawing games became a genre of their own, with a unified name, konpurīto gacha, which translated literally means “complete gacha.”
+
+When she fell in love with gachapon five or six years ago, card-drawing games hadn’t yet caught on. For Ma Qiaoke back then, capsule toys existed as a kind of merchandise tied to anime. Because of their size, the toys inside the capsules were all tiny and delicate. They suited chibi styling, and were even more popular with women. Ma Qiaoke would first fall in love with a series, then learn that certain merchandise could only be pulled from capsule machines, and then go hunting for the machines.
+
+Slowly, her attitude toward gachapon underwent a subtle shift. Seeing a capsule machine on the street, she’ll walk up and twist four or five capsules. Even without a particular favorite series or character, she’ll twist one or two — “Well, I’m already here, might as well twist one.” Though she still insists capsule toys are merchandise, they are different from ordinary merchandise. “When I buy other merchandise I’m much more targeted… gachapon is just more fun.”
+
+The fun goes beyond the satisfaction of pure buying, of a clean cash-and-carry exchange. Capsule toys always come in sets, and which one you get depends on luck and timing. In the worst case, you might empty the entire machine and still not get what you want. “You can’t always know what you’ll pull out, but if you get really lucky and draw the character you love, you feel like the chosen one, and you’re happy the whole day.”
+
+![](http://img.qdaily.com/uploads/20181028201744Ez4lPiyQvCAVqMtX.jpg-w600)
+
+One year at a comics convention, Ma Qiaoke stood in front of a Pokémon capsule machine, surrounded by a circle of boys a bit younger than her. Click — she pulled out a capsule and unscrewed it to find a Mew. That wasn’t the character she wanted most, but the boys behind her whooped and cried out. Mew is a legendary Pokémon. In the games, Mew was originally set as impossible to catch, and was only later changed so it could be caught by special means — though even then it was fraught with difficulty. Mew is rare, and therefore everyone loves Mew. Even though Ma Qiaoke would have preferred a Snorlax, she couldn’t help feeling this capsule pull was far more thrilling than usual.
+
+But Ma Qiaoke has always felt that the pleasure of gachapon simply cannot compare with card-drawing mobile games — even though the etymological inheritance suggests that gachapon and card-drawing share the same mechanism: a psychological process akin to gambling, in which the user has paid money but still needs a bit of luck to get what they want.
+
+A devoted player of *Fate/Grand Order* (FGO), one of the most profitable mobile games today, she has already spent several 648-yuan top-ups on the game — the maximum amount Apple’s system allows a user to recharge in a single transaction. Compared with gachapon, she has spent far more money on the game, and is even more unable to quit, because for the same spending, a game delivers more direct and more varied forms of satisfaction.
+
+Characters drawn in FGO, besides their card illustrations on the phone, can also strengthen the player’s power in battle and help clear stages faster. On top of that, the developers hired voice actors to voice the characters during the game’s design, providing a form of auditory companionship. Likewise, when she fails to pull the character she wants, Ma Qiaoke might stop after five or six twists on a capsule machine, “but my self-restraint in games isn’t as good as it is in real life.”
+
+That may be one reason all of this is called gamification rather than gachapon-ification — even though gachapon was born decades before card-drawing mobile games.
+
+![](http://img.qdaily.com/uploads/20181028201657MOd5byUf6EZTaugB.jpg-w600)
+
+Seeking benefit and avoiding harm is humanity’s most primal instinct. Driven by it, people will keep doing the things that bring them benefits. In the real world, effort does not always pay off. But in a virtual game world, developers can not only guarantee you a payoff — they can make it immediate.
+
+[A 2007 report in *Southern Weekly* titled “The System” explained in minute detail how *The Legend of Mir 2*, an online game of that era, drew players ever deeper, step by step](http://www.infzm.com/content/31588/0). As long as a player paid money, they could buy top-tier gear and materials, their character’s combat power would rise, and they would become an object of admiration above ten thousand people. But above the strong there is always someone stronger: endless battles and competitive systems would further amplify the gap between characters, and that gap would tempt people to top up again.
+
+It was the first time developers discovered that as long as they offered enough payoffs and rewards, manipulating human behavior became that simple. The key lay in numbers, competition, timely feedback, room to grow — and never placing insurmountable obstacles in the player’s way. This way, lured by one small reward after another, players would repeat those simple, mechanical actions over and over — like topping up a game.
+
+Then people began to wonder: what if this mechanism were truly introduced into the real world? Some believe the power of gamification can continuously reshape people’s behavior habits — as Liu Ye, founder of Zuoyehezi, believes: “The game is the goal; learning is the means.” On the company’s official website it says, “Zuoyehezi Elementary wraps learning in game packaging — through level-clearing, arena duels and class-group battles, children go from ‘study because I’m told to’ to ‘I want to study.’”
+
+At least Sun Chengyuan fits Liu Ye’s hopes well. She can hold off dinner just to finish her homework early in the app, all so she can claim a spot on the daily practice-positivity ranking Zuoyehezi publishes every evening. Sometimes, finishing just three or four minutes late knocks her out of the top three; half an hour late, and she can’t even make the top ten.
+
+![](http://img.qdaily.com/uploads/201810282020449m8thrYa0pqy34b2.jpeg-w600)
+
+![](http://img.qdaily.com/uploads/20181028202044ntOR5Ufh4clzxHuQ.jpeg-w600)
+
+![](http://img.qdaily.com/uploads/201810282020468ByPnDRZdpcm1Jgx.jpeg-w600)
+
+![](http://img.qdaily.com/uploads/201810282020469BKHu7JPasGfVDvC.jpeg-w600)
+
+![](http://img.qdaily.com/uploads/20181028202047YR5vn0yFadAPjBoE.jpeg-w600)
+
+Apart from the homework that must be copied — writing characters and vocabulary over and over to master writing skills — most assignments have been turned into apps. The app for practicing spoken English is called Kouyu 100. A voice comes out of the phone: “Good morning, Peter.” Sun Chengyuan repeats it: “Good morning, Peter.” If she reads the sentence well enough, the phone says, “Well read!” and Sun Chengyuan happily claps her hands and moves on to the next sentence.
+
+Cram schools like TAL Education’s Xueersi went even further, launching online check-ins backed by a barefaced money mechanism: check in for 20 days in a month and the deposit you paid at the start is refunded in full — and, what’s more, the deposits of the kids who fail to complete it are split among the other children. Has Sun Chengyuan developed a sense of money? Her mother, Chen Lina, hesitated at that — but she says that at least, after each daily check-in is completed, a small certificate is automatically generated on the phone, and Sun Chengyuan treasures it.
+
+Kids are still little, and they always love such small favors — just like when the post-80s and post-90s generations were in primary school and would be delighted for days if a teacher drew a five-pointed star in their homework book.
+
+But Sun Chengyuan is far from the child most deeply shaped by gamification. Zuoyehezi has a dedicated level-clearing feature: it designs practice problems as levels, each cleared level earns coins, and each attempt consumes stamina points — the whole mechanism is exactly like the match-three games popular today. Sun Chengyuan hasn’t played this level-clearing mode, but Chen Lina says she has seen other students in the class using it. And in Zuoyehezi’s national ranking for the level-clearing mode, a girl from Changchun has amassed as many as 308,000 points — more than triple the second-place score.
+
+A similar app, 17zuoye, once sparked controversy. Built into 17zuoye was a farm-building game much like the once-wildly-popular Happy Farm; the coins and other rewards children earned after answering questions could be used to build fields and raise dairy cows on the farm. But parents were furious about it — how could a homework app contain a game? Under pressure, 17zuoye announced it was discontinuing the game feature; afterward, the Ministry of Education, the National Office for Combating Pornography and Illegal Publications and other departments launched investigations, vowing to crack down on games, celebrity worship, tipping and other content in education apps.
+
+Chen Lina, for her part, doesn’t see anything wrong with it — the child falls for it completely, does her homework eagerly every day, and it’s decent for building study habits. Her only wish is that Sun Chengyuan not stare at an electronic screen all day and lose her sense of touch with the real world.
+
+![](http://img.qdaily.com/uploads/201810282022343p6xRa20vo1DeOEA.jpeg-w600)
+
+![](http://img.qdaily.com/uploads/20181028202234J3LA12RuqIp8DTtG.jpeg-w600)
+
+![](http://img.qdaily.com/uploads/20181028202237If6FbP53eEtXuB21.jpeg-w600)
+
+When gamification is applied to life, it is always endowed with some idealized goal. People therefore indulge in the game-like process with an easier conscience. Zhou Zhaoguan believes that the time and effort he spends in Ant Forest will ultimately become saplings somewhere in northwest China, contributing to the environmental cause.
+
+Alipay launched Ant Forest two years ago. It, too, resembles Happy Farm: by collecting energy you grow a virtual tree, and besides stealing energy from friends, the way to collect energy is to use Alipay’s various functions. Accumulating step counts, offline purchases, paying water, electricity and gas bills, riding the subway with Alipay — all of these earn energy. And once you’ve saved enough energy, you can exchange it for a sapling, which Alipay will actually go and plant.
+
+Zhou Zhaoguan got hooked on Ant Forest early this year. The initial idea was simply to find something to do together with his wife. In Ant Forest, two people can co-grow a tree: if one waters it, the other receives an Alipay notification. Both he and his wife have demanding jobs, and occasionally receiving such a notification lets him feel the other’s presence in spirit.
+
+As he played, Ant Forest changed Zhou Zhaoguan’s life. Having figured out that around seven every morning is when Ant Forest settles the previous day’s payment activity and generates energy, he started waking up 20 minutes earlier so that washing up wouldn’t make him miss collecting his energy — he doesn’t even sleep in on weekends now. “Sleeping in isn’t a good habit anyway.” After getting off the subway he’s also more willing to walk an extra stretch, because accumulating steps brings more energy. WeChat Pay has been abandoned too: wherever Alipay is accepted, Zhou Zhaoguan now uses Alipay.
+
+He understands this is all Alibaba’s design — “they surely have their own business-model considerations” — but on his own initiative he brings up the fact that they plant trees in the northwest. “At the start, I was collecting energy with a charitable heart… people of our age bracket should count as having fairly strong environmental awareness.”
+
+Yet considering how obsessed Zhou Zhaoguan is with Ant Forest — over dinner with a high-school classmate he hadn’t seen in ages, after only a few minutes of small talk he asked whether the classmate played Ant Forest and whether they’d like to add each other as Alipay friends — it’s hard to say environmentalism is the main reason he opens it whenever he has a spare moment.
+
+In fact, Ant Forest is itself a game, and naturally it carries the factors that make games addictive. Growing a tree in Ant Forest, he estimates, takes close to a year. Perhaps it is this steady, visibly measurable progress that truly attracts him. Growing a tree is set up as a goal, and through a few simple operations each day, he can watch himself moving gradually closer to it.
+
+Playing Ant Forest brings anticipation and a sense of achievement — but that doesn’t stop him from wishing the process would speed up a little. If paying Alipay five or ten yuan a month could double the energy he collects each day, Zhou Zhaoguan figures he would happily spend that money.
+
+![](http://img.qdaily.com/uploads/20181028202327euGYywAqFfat3Z8E.jpeg-w600)
+
+The company that has played this whole suite of mechanisms most masterfully may well be Tencent. As the most professional game company around, once Tencent tried to gamify *Produce 101*, people witnessed the most baroque play schemes and the most frenzied fans. Li Yanfei — who had once voted in *Super Girl* — hadn’t touched fandom for more than seven years. But since falling for a member of Rocket Girls, “I’ve now done every single thing I used to sneer at.”
+
+Three-plus months into the fandom, Li Yanfei has already spent more than 7,000 yuan. Besides flying from her own city to concerts, the biggest expense was Rocket Girls’ first mini-album in August, which contains four songs. “The Goose is really shameless,” she complains — “the Goose” being the fandom nickname for Tencent. What had been a perfectly ordinary team album, when it went on sale, opened an individual channel for each member: buy a certain quantity and you successively unlocked perks for the corresponding member — exclusive videos, a big screen in Myeongdong, Seoul, the small TVs at Beijing’s airport. Even more outrageous, Tencent ranked each member’s sales, and the top-ranked would win a placement on the Times Square big screen. In fans’ eyes, all of these were resources through which their idol could gain more exposure.
+
+War was about to break out. During *Produce 101*, every contestant fought as a lone soldier, working to survive into the next round. After the show ended and the group debuted under the Rocket Girls name, Tencent — through the split album-sales model — revived the mechanism that ran on vote competition in the show. The fans panicked at first, then organized again. The organizers of each fan group ordered the fans: “Don’t buy the team album yet — wait for unified command.”
+
+Li Yanfei’s fan group was no exception. She won’t disclose the name of her favorite idol, because competition between the different fan groups is ferocious, and she doesn’t want her words to bring trouble onto her idol. Soon the group drew up a battle strategy, covering purchase quantities and timing. “A bigshot in another member’s fan group bought more than 40,000 albums single-handedly — that’s several hundred thousand yuan poured in,” Li Yanfei describes the whole thing as terrifying. “I spent several thousand yuan myself.”
+
+Even though the entire fandom despised the purchasing scheme Tencent had devised, they were all inevitably swept into it. Li Yanfei believes that the sales figure of the first EP itself will prove the value of a particular member to the operators of Rocket Girls — Tencent, Wajijiwa and the rest — and tilt more resources toward her in future development. “I recognize how important she is, so I threw money at it.”
+
+Tie the resources a member can obtain directly to the devotion of fans, and it becomes all too easy for Tencent to whip fans into a frenzy. The entire broadcast of *Produce 101* was exactly that. Li Yanfei luckily missed it — by the time she noticed *Produce 101*, the finale was almost upon them. It was only after the show fully ended, when she went back to watch the earlier episodes and behind-the-scenes clips, that she became smitten.
+
+*Produce 101* designed a dizzying variety of voting methods — or, in the show’s own vocabulary, “likes.” An ordinary Tencent Video user could cast 11 likes a day, a VIP could cast 121. Weibo users could also cast 11 likes a day, but only once per member. Tencent’s Weishi, which originally hardly anyone used, added a voting function — verify with your phone number and you could like too.
+
+The additional commercial partnerships were even more numerous. The cosmetics brand Yingshu opened a like channel, as did BeautyCam, as did Xiaohongshu, as did Zhonghua Toothpaste… Want to send your idol to stardom? Then say nothing — just like. Mobile devices made voting far easier: compared with Li Yanfei’s era of following *Happy Girl*, when she had to vote using the home phone — one yuan per call, each call counting as one vote.
+
+The craziest activity Li Yanfei has joined is organized voting. At first she was just curious and joined a QQ group that ran organized voting drives. The atmosphere was feverish, and she threw herself in. “All our group’s other activities stopped; everyone was voting.” Every night she would bind 100 QQ accounts to her phone, rapidly switching between accounts and doing tasks — tapping the heartbeat index under her idol’s page on Tencent Video; the more heartbeats, the more exposure resources she could win.
+
+Voting for long stretches left Li Yanfei exhausted. She had just left an unsatisfying job and joined a new company; just when her life and daily routine had settled down, the organized voting completely upended it again. “Some campaigns start at midnight, and I couldn’t stop thinking about it, checking my phone constantly, only getting to sleep at two or three in the morning — my whole mental state was pretty bad.” And not every voting campaign paid off: sometimes other members’ fans pushed the numbers higher, and all that effort went down the drain. “You lose the motivation to keep doing it.”
+
+She wonders: does chasing a star have to be like this? If you like established, mature celebrities instead of traffic idols, would liking a star be this exhausting? Of course, she has no regrets. She still loves her idol and feels she draws enough strength from her.
+
+It’s just — there’s no way around it. The rules of idol fandom were long ago gamified. Whoever has the most votes, whoever sells the most albums, stands at the top of this world.
+
+![](http://img.qdaily.com/uploads/20181028202414T5AX6RksqViJIeau.jpeg-w600)
+
+Gamification itself is hardly a new concept. When people trace its history, they usually go back to the late 19th century. A company called Sperry & Hutchinson distributed trading stamps to retailers, who in turn gave customers stamps in varying amounts based on how much they spent at their stores. Once a customer collected 1,200 stamps, they could exchange them with Sperry & Hutchinson for the goods they wanted.
+
+Many companies still do this today: convenience stores like Lawson let you trade stamps for limited-edition merchandise, and Hong Kong’s Wellcome supermarket offers perks like a set of cookware for a few hundred stamps. And Wang Lili very much enjoys this process. Besides Costa Coffee, if a merchant offers a membership program she’ll always sign up — even at a bubble-tea shop like T-Plus, whose points program is a terrible deal: spend 10 yuan to earn one point, and each point is worth only 1 jiao.
+
+Stamps are counted as the earliest practice of gamification because they satisfy gamification’s most basic requirements. Quantification: user behavior is recorded in numbers. Rewards: stamps can be exchanged for goods. Simplicity: stamps are obtained just by spending money. It formed a simple but effective loop that kept users locked into a stable consumption habit.
+
+Many psychological mechanisms make gamification work, but they aren’t complicated to explain. A paper published in 2015 in [*Psychological Theory*](http://neoacademic.com/2015/01/15/psychological-theory-gamification-learning/#footnote_0_2448) argued that they include at least classical and operant conditioning — give people rewards and they learn a behavior; expectancy theory — if people believe a behavior will certainly bring a result, they are more likely to do it; and goal-setting theory — when a goal becomes specific, measurable and achievable within one’s ability, people are more willing to act toward it…
+
+As described above, the game, as a virtual mechanism, most easily controls behavior, rewards, and the relationship between the two. It makes the proposition that humans can be manipulated by mechanisms self-evident. It follows that once games grew sufficiently developed and their influence on humans became ever more apparent, people tried to apply them to every field beyond games.
+
+In 2010, [game designer Jane McGonigal delivered her famous TED talk, “Gaming Can Make a Better World”](https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world/transcript?language=en#t-11385). The case she cited: when a game asked players to survive in a world that had run out of oil, players learned to conserve oil in the game, and that behavior carried over into their real lives; meanwhile, in searching for strategies to beat the game, they also offered multiple real-world ways to save oil. She said: “My goal for the next decade is to make it as easy to save the world in real life as it is to save the world in online games.”
+
+McGonigal didn’t explain the psychological mechanism in detail, but [another game designer, Jesse Schell, explained in a talk that same year, in detail, how people spend money again and again in games like Happy Farm](https://www.youtube.com/watch?v=nG_PbHVW5cQ). Then he asked: is this fundamentally different from our real lives? Schell cited a professor at Indiana State University who simply changed the points students earned for every assignment and every attendance check into “experience points,” and students’ motivation rose.
+
+Schell predicted that in the future games would be everywhere, and these views opened up an entire discussion about gamification. Can fields that traditionally aren’t games be reshaped with game mechanics, thereby changing people’s behavior habits? Starting around 2010, searches for gamification as a keyword [on Google](https://trends.google.com/trends/explore?date=all&q=gamification) kept climbing.
+
+The gamification discussion stayed lively for a while — until 2014, when [*Fortune* published a report, “Looks Like That Whole Gamification Thing Is Over”](http://fortune.com/2014/06/06/looks-like-that-whole-gamification-thing-is-over/). It listed many failed gamification examples and made a pessimistic prophecy for the whole field. Also that year, [several Finnish scientists, after reviewing 24 empirical studies of gamification, concluded](https://www.computer.org/csdl/proceedings/hicss/2014/2504/00/2504d025-abs.html) that gamification can indeed change behavior habits and improve people’s performance on some tasks — but only for certain specific tasks, and the effects last only in the short term.
+
+Meanwhile, scholars began to worry that gamification would fundamentally alter the way people think. [Camilla Dahlstrøm of the Norwegian University of Science and Technology published a paper arguing](https://www.ntnu.edu/documents/139799/1279149990/04+Article+Final_camildah_fors%C3%B8k_2017-12-06-13-53-55_TPD4505.Camilla.Dahlstr%C3%B8m.pdf/9e48c5f5-0d17-4276-a23e-434abfe65491) that in certain settings, gamification weakens people’s intrinsic motivation: they become more likely to do something for rewards and punishments rather than because the thing itself is valuable to them. In other words, a person is quite likely to be controlled by a gamified program.
+
+The discussion about gamification thus gradually receded from the mainstream spotlight, but the practice of gamification kept advancing. Especially after smartphones became ubiquitous, mobile technology could interact with the physical world in ever more ways, so gamification attempts didn’t decrease — they multiplied.
+
+There are apps that log your daily walking distance and hand out medals. There are apps that log your habits and let you build a city. On October 25, Apple’s App Store homepage featured “How to Make Kids Happy Learning English,” recommending an app whose intro read: “One night, an evil demon king steals a child’s power of language. From then on, the child joins a little fox and a band of friends on an adventure to defeat the demon king and recover the power of language.” Scroll down twice more and another feature was titled, “How to Use Games to Build Habits.”
+
+Look around, and Jesse Schell’s wish seems to have come true.
+
+![](http://img.qdaily.com/uploads/20181028202614qJgR4hwydSuoOi7Y.png-w600)
+
+At the interviewees’ request, all names appearing in this article are pseudonyms.
+
+Images from: Wikipedia, uxplanet.org, Face Entrepreneurship
