@@ -1,0 +1,206 @@
+@@QD_TITLE@@
+Tencent Has Talked Another E-Commerce Company Into Going Public — 17 Charts on How Its Challenge to Taobao and Tmall Is Going
+@@QD_EXCERPT@@
+The battle over the future shopping habits of 1.4 billion people
+@@QD_BODY@@
+The battle over the future shopping habits of 1.4 billion people
+
+A week before Double 11, Alibaba held its quarterly earnings call. Speaking of the new economic environment of slowing growth, Joseph Tsai, Alibaba's executive vice chairman of the board, said the company had outperformed the market and was crowding out its competitors: "Tmall's physical-goods sales grew 30% this quarter, exceeding the 24% year-on-year growth in total online retail sales published by the National Bureau of Statistics."
+
+On Double 11 itself, gross merchandise volume across Alibaba's platforms reached 213.5 billion yuan, setting another record. Spread across 601 million Tmall and Taobao users, that works out to an average of 355 yuan of orders per person.
+
+But the competitors haven't folded. JD.com announced its new figure: 159.8 billion yuan, up 27% from last year. Mogujie, once driven out of the Taobao ecosystem by Jack Ma, filed its prospectus on the eve of Double 11, heading to the US for an IPO. A season earlier, Pinduoduo went public, its market value at one point reaching $30 billion.
+
+What they have in common is Tencent's backing. In Mogujie's newly released prospectus, Tencent is already its largest shareholder, with an 18% stake — half again as much as founder Chen Qi. Eighteen looks like a number Tencent picked deliberately: it also holds exactly 18% of JD.com and Pinduoduo.
+
+Counting Vipshop, which JD.com and Tencent jointly took a stake in this year, Tencent now holds shares in all of China's top four e-commerce companies outside Alibaba. Except for Mogujie, which is on its way, all of them are already listed in the US.
+
+![](http://img.qdaily.com/uploads/20181113060246sg5iNupO3zvHDFEZ.jpg-w600)
+
+Meanwhile, in a series of redesigns this year, WeChat began making some adjustments aimed at e-commerce. The most recent mini program update helps WeChat users search for products more effectively. Product search in WeChat mini programs is now officially open. WeChat users can type a product query directly into the mini program search box and get results served by mini programs.
+
+The users of WeChat and QQ, plus the cohort of e-commerce companies backed by Tencent. Since giving up self-operated e-commerce in 2014, Tencent's strategy for once again challenging Tmall and Taobao has taken shape.
+
+![](http://img.qdaily.com/uploads/20181113060814yDjJ2WQKqf0xNAan.jpg-w600)
+
+### The Tencent–Alibaba fight over e-commerce is a fight over users, but more importantly it's about who gets to decide the online shopping habits of 1.4 billion people
+
+No product in China has more users than WeChat. Of China's nearly 800 million mobile internet users today, essentially everyone is on WeChat.
+
+But having users doesn't mean those users have shopping habits. Otherwise Tencent's Paipai wouldn't have died.
+
+Baidu's search was once China's single biggest traffic gateway. But Taobao stopped buying ads on Baidu in 2007, and the following year it simply blocked traffic coming from Baidu. To this day, when you search on Baidu for a shop on Taobao or Tmall, you get: "Due to restrictions specified in this website's robots.txt file, the system cannot provide a description of this page."
+
+Alibaba could block Baidu's search engine because users had already formed the habit of searching for products inside Taobao. Taobao — and later Tmall — turned itself into a search engine dedicated to shopping.
+
+Search engines all make money by allocating traffic — whether a product appears before a user depends not only on relevance but also on ad fees. And Alibaba is in fact China's biggest shopping search engine: last year 108.4 billion yuan of its revenue came from selling ad slots to Tmall and Taobao merchants. That figure is roughly the combined ad revenue of Baidu and Tencent.
+
+![](http://img.qdaily.com/uploads/20181113060700mwLzIBvO84bVkGAg.jpg-w600)
+
+Once people are used to opening Taobao or Tmall when they shop, it becomes extremely difficult for other companies to get users to form new shopping habits.
+
+The variable is that Tencent hadn't thrown its full weight behind e-commerce before. WeChat has remained restrained to this day. According to information disclosed in the first quarter of this year, the average WeChat user sees only two Moments ads a day.
+
+And WeChat's potential for selling products is simply enormous. According to data analytics firm QuestMobile, Chinese mobile users currently spend 30% of their time on WeChat and QQ — roughly ten times the time they spend in e-commerce apps.
+
+![](http://img.qdaily.com/uploads/20181113060802nNSEZjBPOFqk4hd2.jpg-w600)
+
+Huge user numbers, plus a comprehensive blockade against Alibaba. If it commits seriously, Tencent's e-commerce companies look like they have a chance.
+
+### WeChat funnels traffic to e-commerce smoothly, but it is not yet a qualified shopping search engine
+
+WeChat began adding entry points for e-commerce in 2015, but these entries haven't let them catch up with Tmall and Taobao.
+
+JD.com was the first e-commerce company with a fixed entry inside WeChat. In May [201](http://www.qdaily.com/articles/16221.html)4, a "Shopping" tab was added to WeChat's Discover page — tap it and you're looking at the full version of JD.com. Recently the entry got the word "JD" placed in front of it, and, to coincide with Double 11, a line of gray text was added alongside: "11.11: good stuff, good fun — on JD."
+
+In the first and second quarters of the following year, 20% of new user growth came from WeChat and mobile QQ, and on June 18, 2015, nearly half of JD.com's new users came from Tencent's entry points.
+
+![](http://img.qdaily.com/uploads/20181113061316zgBxQ1YIy5NXKP8U.jpg-w600)
+
+The others sit in the Wallet tab: among the 12 third-party services there, almost half are entry points to partner e-commerce companies.
+
+But judging by the widening gap between JD.com and Alibaba from 2015 to 2017, these traditional entry points aren't enough. As Pinduoduo's founder put it in an interview before this year's IPO, Taobao's penetration in China is unusually high. In fact, there are few WeChat users who don't know about Taobao.
+
+WeChat Search began letting you search for products this year, but it is not yet a good search engine. In practice, searching for products isn't that easy.
+
+Search for a product or brand from the search box on WeChat's home screen, and the results come back in this order: contacts, group chats, official accounts you follow (if any), chat history, favorites — and only at the very bottom, an entry to search again via "Search." Only then do you see a "Products" category in the results. The products there are provided by JD.com, but not all JD.com products are included. What appears by default is still official accounts, mini programs, related Moments, or WeChat stickers.
+
+Searching directly for mass-market products works fine — you can jump to JD.com to see product details.
+
+But if the search term is even slightly less mainstream, nothing comes up. For example, "PS4 game console" returns no product results; you have to scroll down to "related searches" and find "Sony PS4" before the corresponding product list appears.
+
+![Results for different keywords in WeChat's "Search"](http://img.qdaily.com/uploads/20181113062218UB5xYRKyCTMb78Lz.jpg-w600)
+
+If users fail a few times in a row to find what they want to buy, they won't treat it as their go-to for product searches.
+
+WeChat's real strength is still social sharing, and the experience for Tencent's partners inside WeChat far exceeds anything Alibaba can offer.
+
+Offline, to tell whether a retail business belongs to the Alibaba camp or the Tencent camp, you just need to see whether Alipay or WeChat Pay comes first at checkout. Online, the simplest and most direct way to read the current map of Chinese e-commerce is whether a product link opens directly inside WeChat and the purchase can be completed there.
+
+During Double 11, a friend shared a coupon in Moments carrying a Suning mini program code. To claim that 30-yuan coupon, starting from tapping "recognize the mini program code," I exited WeChat, downloaded the Suning.com app from the app store, and was led through registration, login, real-name verification, and setting up express payment; my phone received seven verification codes in the process, and in the end I still didn't get the 30-yuan coupon. Within that ten-minute ordeal, starting from the WeChat share, there were countless moments where a potential new user would lose patience and abandon the lure of the discount.
+
+![](http://img.qdaily.com/uploads/20181113062529fWa60PmLwDbNxdun.jpeg-w600)
+
+To share a Taobao link in WeChat, you have to generate a Taokouling — a piece of gibberish-like code — inside Taobao. Hema is slightly better, but a link opened inside WeChat still has to jump to a browser before it can jump to the app.
+
+![](http://img.qdaily.com/uploads/20181113062211eTY0wWZBKinExvM3.jpg-w600)
+
+By contrast, share a link to JD.com, Mogujie, Pinduoduo, or Vipshop directly with a friend in a WeChat chat, and you can browse and buy the product right inside WeChat — using your WeChat account identity and calling up your WeChat shipping address directly, with no extra login steps and no need to jump to a separate app. And of course, if you do want to jump into the app to continue, switching over is seamless.
+
+This is a green light Tencent has given exclusively to the major e-commerce platforms it has invested in.
+
+Not only are shared links unrestricted, but you're actively encouraged to share them with friends. One of WeChat's strictest rules is against "induced sharing" — many a viral campaign inside WeChat has been killed off for exactly that.
+
+But links shared by these partners inside WeChat can jump to the app with one tap; if the app isn't installed, they can jump straight to the App Store to download it, also with one tap.
+
+Or the shared link you open in WeChat is itself a mini program, and you can complete the purchase without ever leaving WeChat. If you've ever filled in a WeChat address, you don't even have to bother entering a shipping address again; choose WeChat Pay at the end and the purchase is done. The ten-minute process of verifying your identity and binding a bank card, like the Suning ordeal above, is skipped entirely — at most, you link your post-login WeChat account to a phone number.
+
+Conversion to the storefront matters a lot. In fact, when brands place ads on Toutiao or Weibo, much of it encourages users to jump to a JD.com or Tmall flagship store and place an order directly. And in WeChat — the biggest traffic pool of all — only the e-commerce companies Tencent has invested in can do this.
+
+![](http://img.qdaily.com/uploads/20181113063034BGPL5f1yKxgXJjwV.jpg-w600)
+
+Also, if you've ever bought something with a mini program, or followed a particular brand, it shows up in search results. Search Uniqlo, for instance, and you can enter Uniqlo's WeChat store from the first page of results. Re-entering a small merchant's mini program from "recently used mini programs" to buy again works smoothly, too. Add WeChat's recently launched shopping-list feature, which consolidates items you've added to carts in different corners of WeChat, and WeChat is now reasonably friendly to small merchants.
+
+But to challenge the user habits built up under Alibaba's system, it will take the combined strength of Tencent and all of its e-commerce companies to stand a chance.
+
+### By every measure, the Tencent-camp e-commerce companies are struggling to catch Alibaba; the only one making progress is Pinduoduo
+
+In the most recent quarter, Alibaba's net profit reached 18.241 billion yuan, up 5% year on year. Meanwhile, Alibaba's revenue has grown [for 10 straight months at more than 50%](http://www.qdaily.com/articles/57952.html).
+
+In terms of profitability, the Tencent-camp e-commerce companies are still in no position to fight Alibaba at all.
+
+![](http://img.qdaily.com/uploads/20181113065202zgE9rNsBwDmTKG3Z.jpg-w600)
+
+Mogujie, meanwhile, is a rare case among recently listed or soon-to-list Chinese companies trading in the US: its revenue for the period is actually lower than in the same period last year.
+
+It touts the 22% annual growth of China's online fashion marketing spend as its operating advantage, but the prospectus shows its fiscal 2018 marketing revenue (similar to the ad fees Taobao charges stores) shrank 36% year on year.
+
+![](http://img.qdaily.com/uploads/20181113065347zck8bq43LdVUGWum.jpg-w600)
+
+![](http://img.qdaily.com/uploads/201811130652580xRZmiHJUwsCgkSl.jpg-w600)
+
+JD.com hasn't reported its most recent quarter yet, but over all these years, its festival-building costs, measured proportionally, remain higher than Alibaba's.
+
+In the fourth quarter that contains Double 11, for every 100 yuan of revenue Alibaba needs only 42 yuan of expenses — nearly 10% less than usual. JD.com, meanwhile, spent slightly more relative to revenue than usual during this year's 618: it had to spend 93 yuan to earn 100 yuan.
+
+This shows that Double 11 has trained a consumer inertia in users, while 618 still requires heavy investment from JD.com.
+
+![](http://img.qdaily.com/uploads/20181113065503tDakoYcFrVNZBXey.jpg-w600)
+
+In prospectuses and earnings-call analyses, the tilt of WeChat's traffic has been brought up repeatedly by several e-commerce companies to persuade investors that their partnership with Tencent can deliver rapid growth.
+
+Setting games aside, Chinese people spend a third of their time on Tencent. Tencent's traffic is indeed valuable, but its invested e-commerce companies haven't yet converted it into sustained growth.
+
+![](http://img.qdaily.com/uploads/20181113064211n0YCKpRkwVeIr47S.jpg-w600)
+
+JD.com's growth has slowed, while Alibaba has managed to hold its growth rate. Without a traffic gateway that is entirely its own, Alibaba is using content and traffic distribution to turn Taobao and Tmall into a center of traffic allocation.
+
+Pinduoduo is currently the fastest-growing of the Tencent-camp e-commerce companies by user base. By September, the number of users opening the Pinduoduo app had [closed in on half of Taobao's](https://wpimg.wallstcn.com/66ef8114-1346-4747-9ba8-edc13e90ff84.jpg), more than 80% above JD.com. [In October, Pinduoduo entered WeChat's Wallet](http://www.qdaily.com/articles/57158.html). But that step alone can't guarantee an e-commerce company's continued growth. Tencent and JD.com's earlier traffic-partnership, the "Jing-Teng Plan," lost its ability to attract new users within six months.
+
+![](http://img.qdaily.com/uploads/20181113065731WH3V62T8khLmsu1P.jpg-w600)
+
+Analyzing the financial statements of the Tencent-camp e-commerce companies isn't easy — they don't use consistent metrics.
+
+Vipshop discloses its sales incompletely and doesn't publish GMV for every year. This year it suddenly switched MAU (monthly active users) from a monthly measure to an average over the trailing 12 months; two analysts raised the question on the earnings call and neither got a direct answer.
+
+Mogujie no longer provides app activity figures — that is, how many people use its app each month or each day — but it counts a single mini program open as an active user.
+
+![](http://img.qdaily.com/uploads/20181113071209MCpBQ5Xy9vdnDiLq.jpg-w600)
+
+JD.com has tried to persuade investors that it doesn't mainly rely on WeChat, saying that over the past year the share of transactions completed inside the JD.com app rose from 80% to 86%. But products seen inside JD.com can also jump to the app to buy, so the numbers don't directly indicate how dependent JD.com is on WeChat.
+
+Pinduoduo has a short history, but it has been through a huge business-model shift — from a self-operated marketplace like JD.com's to a bazaar resembling Taobao — so its revenue figures don't mean much. Pinduoduo is also the only competitor whose user base comes anywhere near Taobao's.
+
+These companies aren't getting any closer to Alibaba. Although Alibaba's growth is slowing too, its sheer size is far bigger than theirs.
+
+By cash reserves, Alibaba is far ahead of the other e-commerce companies. What's measured here is usable cash reserves net of debt: Alibaba's were under 100 billion yuan in 2015 and stand at 150 billion yuan now. JD.com's increase is no more than 20%.
+
+![](http://img.qdaily.com/uploads/20181113064100NyX3xvsfIZUcY7OS.jpg-w600)
+
+If it comes to buying traffic for a price war, Alibaba has far more funds on hand than they do — only Tencent could put up a fight.
+
+Beyond these four, Tencent has also invested in a number of smaller e-commerce companies. Some have vanished without a trace — Yixun, acquired years ago, disappeared after being merged into JD.com. Others are WeChat-based social e-commerce plays that haven't yet grown big enough; they are still a long way from contending with Alibaba.
+
+What Pinduoduo demonstrates is the opportunity created by social-sharing e-commerce grown out of WeChat.
+
+### The external environment has changed dramatically; from here on, Tencent will only take e-commerce more seriously
+
+WeChat has stayed restrained to this day. Moments ads are few, and a user sees no more than two ads a day at most. And except for a few special campaigns with JD.com and Pinduoduo, Moments ads generally don't direct users to make purchases.
+
+But all that restraint rests on the premise that games keep delivering massive profit growth to Tencent — and games are starting to fail that premise.
+
+[In March, the broadcast regulator suspended game approvals, and they have yet to resume](https://www.qdaily.com/articles/56124.html). Tencent's game business slammed on the brakes, knocking two-thirds off Tencent's profit growth.
+
+![](http://img.qdaily.com/uploads/20181113063434kMELNdaC0sUQtouF.jpg-w600)
+
+Games, long Tencent's main revenue source, fell 9.5% quarter on quarter in the fourth quarter of 2017 — the first decline ever in that business, and the first since it completed its transition to mobile games.
+
+[Data from this year's interim report](http://www.tencent.com/zh-cn/articles/17000391523362601.pdf) shows Tencent's quarterly profit has also begun to decline — down 2% year on year and 23% quarter on quarter, the first year-on-year drop in quarterly net profit in 13 years. Tencent's social business is growing strongly, but it is worth noting that a large share of that revenue depends on video subscription fees, and Tencent executives have said more than once on earnings calls that video is a money-losing business.
+
+![](http://img.qdaily.com/uploads/20181113070829mxvADLT80gskZMtu.jpg-w600)
+
+To sustain games growth, Tencent increased marketing spending for two consecutive quarters after the fourth quarter of 2017, trying to get people playing old games again, but failed to win corresponding revenue growth.
+
+![](http://img.qdaily.com/uploads/20181113063504WpTF4zcbRJQmqrwC.jpg-w600)
+
+According to Bloomberg, [Tencent has asked game operations teams to return marketing funds](http://www.qdaily.com/articles/58119.html). In a letter sent days earlier to game marketing executives, Tencent asked them to control cash flow and reduce spending so as to "get through the tough times together" — for example, games that haven't received government approval must return their remaining funds to Tencent.
+
+Of Tencent's three major businesses, advertising is now the only one with real promise — and the most direct way to grow it is helping e-commerce sell goods. Alibaba takes in more than 100 billion yuan a year in ad revenue; Tencent's ad business would need to grow over 160% to catch up. Tencent's financial reports state outright that WeChat's ad load is far below that of other companies' products, leaving enormous room for growth.
+
+Beyond providing traffic and ads, what else can a platform offer? After-sales service, payments, support teams... Alibaba has 50,000 people supporting this, and although merchants complain about the growing restrictions, this "business operating system" is exactly why they can't leave Alibaba.
+
+The broader environment is cooling too: growth of China's internet users has essentially topped out this year, and smartphone sales have gone negative. E-commerce spending is a relatively less affected segment, still holding 24% growth this year.
+
+![](http://img.qdaily.com/uploads/20181113063640rihlXcjuWY8gz7Lb.jpg-w600)
+
+From here on, in e-commerce, Tencent will do more.
+
+In September this year, Tencent carried out the third major restructuring in its 20-year history. With the mobile internet's traffic dividend fading in China, Tencent — which built its business on consumer users — genuinely needs to adjust its direction.
+
+How well Tencent can lead its cohort of e-commerce companies in chasing Alibaba is hard to judge right now. But one thing is certain: in the contest over Chinese consumers' shopping habits, the competition between Tencent and Alibaba is about to become far more direct and intense.
+
+Graphics / Xiuxia Feng, Fangyi Gong, Tao Xu
+
+Data / Fangyi Gong, Dan Zhang
+
+Cover image / Yunlu Tang

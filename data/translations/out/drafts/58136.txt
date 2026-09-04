@@ -1,0 +1,205 @@
+@@QD_TITLE@@
+"Taobao Brands" Stuck on the Road to IPO: 12 Charts on the Stories They're Telling
+@@QD_EXCERPT@@
+And the questions they deliberately — or inadvertently — avoid.
+@@QD_BODY@@
+And the questions they deliberately — or inadvertently — avoid.
+
+Last week, Ruhnn Holdings was reported to be [planning a US IPO next year](https://www.zhitongcaijing.com/content/detail/160990.html), and in this year of Pinduoduo's listing, "Taobao brands" were once again a topic of conversation.
+
+According to Baidu's statistics, on the day the news of Ruhnn's listing broke, the buzz around "Taobao brands" jumped from 0 to 429, and the next day it climbed further to 1,665.
+
+Ruhnn Holdings is not a company consumers come into direct contact with. Its main business is discovering internet celebrities, then promoting products and opening online stores on e-commerce platforms such as Taobao. The company's net profit exceeded 22 million yuan in 2016, and Zhang Dayi is one of its three major IPs.
+
+There is a whole cohort of similar Taobao brands, in very different lines of business. Three Squirrels sells nuts and snacks, Lily & Beauty sells cosmetics, Yujiahui and Mask Family sell face masks, and so on — but the common thread is that they all depend on Taobao, Tmall, and JD.com.
+
+In 2016, nearly 50 companies built on online retail gathered at the Shenzhen Stock Exchange for a [listing symposium](http://www.sohu.com/a/74334350_270234) on the ChiNext board. One attending executive said, "Sooner or later, everyone will come here to ring the bell."
+
+Afterward, companies including Three Squirrels, Puppyoo, Inman, HSTYLE, Liebo, and Yunifang either filed A-share prospectuses or listed on the New Third Board. In 2017 alone, nearly 10 Taobao brands applied to go public.
+
+But for most Taobao brands, the IPO process went no further once the prospectus was filed.
+
+This January, Lily & Beauty's IPO was [rejected by the CSRC](http://www.csrc.gov.cn/pub/zjhpublic/G00306202/201801/t20180126_333296.htm); regulators questioned its operational independence after taking investment from Alibaba. Performance independence is one of the CSRC's key review criteria for IPOs. Three Squirrels, meanwhile, went through filing, suspension of review, refiling, and [suspension again](http://www.csrc.gov.cn/pub/zjhpublic/G00306202/201712/t20171212_328784.htm).
+
+According to a compilation by the *[Shanghai Securities News](http://company.cnstock.com/company/scp_gsxw/201809/4268621.htm)*, the IPOs of Huimei Group, Handu E-commerce, Hanhoo, Hongbei Technology, Jixiang Sports, and other companies are in the "tutoring registration accepted" stage — some have been registered for as long as a year.
+
+Over those two years, only one Taobao brand, Yujiahui, succeeded in listing on ChiNext.
+
+New concepts, a tortuous listing process — what do the stories Taobao brands tell have in common, and how many questions do they leave unanswered?
+
+Taobao brands all preach "independence," but they do essentially nothing themselves, from production to sales
+
+QDaily selected four companies as samples: Three Squirrels, which sells nuts and snacks; Lily & Beauty, which sells cosmetics; and Yunifang and Mask Family, which sell face masks. All four belong to the non-discretionary consumer sector, which is less susceptible to economic cycles, so the financial data in their prospectuses relatively better reflect the companies' own development:
+
+- Three Squirrels is an unprecedented snack giant that doesn't make its own snacks;
+- Lily & Beauty's products come from the cosmetics companies behind various brands, its channels depend on Alibaba, and it only handles sales;
+- Yunifang and Mask Family are two face-mask brands that became hot on Taobao, and their products are essentially contract-manufactured; Yunifang's parent, Yujiahui, chose to list on the A-share market;
+- Mask Family's parent, Shanghai Yuemu, chose instead to be acquired by Zhonglu Co., the maker of "Forever" bicycles.
+
+These Taobao brands all mention "independence" when describing their main businesses in their prospectuses. Three Squirrels, for example, says: "In product R&D, the company has clear direction and sound planning, and insists on independent R&D investment." Yujiahui describes itself as "a company that takes independent brands as its core and relies on internet e-commerce for sales." Lily & Beauty, which does brand agency and marketing, emphasizes "the vast user purchase data it has accumulated."
+
+At the same time, the vast majority of the goods these Taobao brands sell — hundreds of millions, even over a billion yuan a year — are not made by themselves.
+
+Three Squirrels has no factories of its own; from suppliers and processors to sales platforms, logistics, and delivery, everything depends on partners. In the production process, Three Squirrels first does product R&D, then procures from suppliers, and then hands the work to partner manufacturers for processing. Once production is complete, Three Squirrels sells on online platforms such as Tmall and JD.com.
+
+Lily & Beauty is pure sales — it doesn't even have its own brand. Its revenue growth is driven by newly added licensed brands.
+
+In 2015, it added brand agencies such as Lancôme, Avène, and Kanebo; cumulative revenue from these new brands came to 205 million yuan, or 31.28% of 2014 revenue. In 2016, it added brands such as L'Oréal Paris, Sulwhasoo, Shu Uemura, and Kose, which brought in 283 million yuan in revenue, equal to 25.01% of 2015 revenue. In the first half of 2017, it added agencies such as Hera and Pony Effect; cumulative revenue from new brands in the same period was 15.59 million yuan, or 1.25% of 2016 revenue.
+
+The mask makers Yujiahui and Mask Family also rely heavily on contract manufacturing; they are mainly responsible for product formulation and brand building, with production outsourced.
+
+From 2015 to 2017, contract manufacturing accounted for more than 85% of all Yujiahui's products; for Mask Family's main product, sheet masks, the contract-manufacturing share also exceeded 70%.
+
+![](http://img.qdaily.com/uploads/20181109015422VXN460Zp2RiF1PYI.png-w600)
+
+An asset-light model has given the biggest Taobao brands rapid growth, with revenue or profit growth exceeding 100% in recent years
+
+There are many snack e-commerce companies, but the fastest-growing is Three Squirrels — the one that doesn't make snacks and instead focuses on IP-driven marketing.
+
+Three Squirrels was founded in February 2012 by Zhang Liaoyuan, formerly marketing director and general manager of Zhan Food. The company began trial operations on Tmall in June 2012, and on Singles' Day 2012 it sold 7.66 million yuan in a single day, setting a new record for single-store, single-day sales in Tmall's food category and ranking first in the snack and specialty-food category. It has held the top spot ever since.
+
+This is a leading snack e-commerce company that "doesn't make snacks" — and while every snack company has been racking its brains to place its brands in films and TV shows, Three Squirrels has been building IP, making animation, and constructing offline theme parks since its founding. The three squirrels each have their own names: Squirrel Xiaojian, Squirrel Xiaoku, and Squirrel Xiaomei. The company created backstories for the three squirrels and turned them into an official animated series. Just this April, the [《三只松鼠》 (*Three Squirrels*) animation](https://www.iqiyi.com/a_19rrgxwnr1.html), co-produced by Three Squirrels and Kungfu Animation, began airing on TV stations and internet video platforms nationwide.
+
+This asset-light, brand-heavy business model has paid off handsomely. From 2014 to 2016, Three Squirrels' revenue leapt from 924 million to 4.423 billion yuan, while net profit went from a loss of 12.86 million yuan to a profit of 236 million yuan. In the first half of 2017 alone, revenue was 2.894 billion yuan and net profit reached 241 million yuan — showing that profit margin had climbed another step.
+
+Also growing fast is Lily & Beauty, which sells cosmetics on Tmall. The cosmetics business is unusual in that its products go on people's faces, so consumers who wear makeup will definitely buy the genuine article. And per-unit prices are generally higher than those of other mass consumer goods, such as food and daily-use products.
+
+![](http://img.qdaily.com/uploads/20181109014700LyXkJ7KT1zD8BtW5.JPG-w600)
+
+Lily & Beauty's business works like this: it buys out cosmetics from big brands such as Lancôme and Avène, then sells them through online storefronts. Because it has brand authorization and guaranteed genuine sourcing, Lily & Beauty's stores enjoy high credibility among consumers — to some degree equivalent to the brands' official online stores. The advantage of this buyout model is centralized purchasing at a discount, and profit mainly comes from the spread between the selling price and the procurement cost plus operating expenses.
+
+And so, from 2014 to 2016, Lily & Beauty's revenue rose from 700 million to 2 billion yuan, and net profit went from a mere 6 million yuan to 74 million yuan.
+
+The mask sellers Yujiahui and Mask Family, meanwhile, seized the twin dividends of booming face-mask consumption and internet traffic. From 2014 to 2017, Yujiahui's revenue grew at a compound annual rate of 56.18%. Mask Family's profit was only 23.49 million yuan in 2015; by 2017 it had reached 267 million yuan — tenfold growth in two years.
+
+Judged by profitability, these Taobao brands are in considerably better shape than the cluster of internet companies that rushed to list in the US and Hong Kong this year, posting massive losses with no idea when they might turn a profit.
+
+But the asset-light model has its costs.
+
+With both upstream and downstream handed to other companies, Taobao brands lack control over the supply chain
+
+An asset-light model that relies on contract manufacturing while the company focuses on brand building and marketing can build fame quickly — but Taobao brands have weak control over processors and suppliers. They cannot achieve the kind of partnership Apple has with Foxconn — where Foxconn must meet Apple's exacting quality-control standards, and in the process Apple also buys the corresponding machinery and equipment for Foxconn's factories. For Taobao brands, their current cooperation model easily leads to problems with quality control.
+
+Take Three Squirrels, which doesn't make its own snacks: while sprinting toward its IPO, it was fined by the Anhui food and drug regulator and publicly criticized by the national food and drug regulator over food-quality issues, and its listing process was suspended accordingly. Yujiahui, for its part, lists the quality risks of contract manufacturing as the very first item in its management risk disclosures.
+
+An even more extreme case is Lily & Beauty. Three Squirrels, Yujiahui, and Mask Family at least have their own brands. Lily & Beauty doesn't even have products under its own brand: it procures cosmetics from brand owners and sells them through online storefronts, bearing the full range of service costs and expenses — procurement, warehousing, logistics, customer service.
+
+This model requires it to prepay the brand owners. From 2014 to 2016, its prepayments rose from 24.13 million to 61.84 million yuan. And after buying the goods, it bears the inventory risk itself. Over the same period, the value of its inventory rose nearly threefold, from 122 million to 388 million yuan — a third of its total assets.
+
+Moreover, its customers are consumers who pay instantly — and yet it still has accounts receivable. From 2014 to 2016, accounts receivable grew from 16.82 million to 150 million yuan, up nearly tenfold. In the first half of 2017 alone they reached 132 million yuan. That's because it advances marketing and promotion service fees and store-operation fees on behalf of the brand owners.
+
+![](http://img.qdaily.com/uploads/20181109015457OPhUgdckR2pSbHli.png-w600)
+
+This means that even as its sales scale grows, it does not gain stronger bargaining power vis-à-vis the brand cosmetics companies. Meanwhile, Taobao brands that depend on e-commerce also stockpile goods to coordinate with the platforms' various promotional events, which increases their operating risk.
+
+Generally speaking, products like snacks, cosmetics, and face masks are not notably cyclical — but selling them online changes that. Because of the major e-commerce shopping festivals at the end of the year, the relevant brands need to stock up for the battle. The peak stocking period has a significant impact on a company's cash flow, and the inventory risk it must bear grows accordingly.
+
+Three Squirrels' operating cash flow swung wildly between 2014 and 2017: -186 million yuan in 2015, and 582 million yuan in the first half of 2017.
+
+The same phenomenon appeared at Lily & Beauty, whose operating cash flow was negative for three consecutive years from 2014, before turning positive at 253 million yuan in the first half of 2017.
+
+As you can see, inventory levels are higher in the second half of the year and tie up more funds — mainly because the Mid-Autumn Festival, National Day, Singles' Day, and Double 12 shopping festivals cluster together.
+
+![](http://img.qdaily.com/uploads/20181109015509DHMBqjl9NFVt7JrK.png-w600)
+
+What Taobao brands do best is still brand building, and their selling-expense ratios are below the industry average
+
+Taobao brands love advertising and promotion, and they're pretty good at it.
+
+Three Squirrels focuses on branding and marketing, and the share of selling expenses in its revenue has declined year by year — just 17.13% in the first half of 2017. Over the same period, the ratio of selling expenses to revenue for the A-share listed companies Qiaqia Food, Haoxiangni, Guifaxiang, Laiyifen, and Yanjin Shop held steady at around 23%.
+
+In other words, Three Squirrels burned money on marketing in its start-up phase to build a brand effect; it spent less later on, yet revenue kept growing quickly.
+
+![](http://img.qdaily.com/uploads/20181109015526LV4zN8y7OcRQK2YS.png-w600)
+
+![](http://img.qdaily.com/uploads/20181109015526wT98lnNFVajiCKM6.png-w600)
+
+![](http://img.qdaily.com/uploads/20181109015526SnjMbpRdBDAYGwmr.png-w600)
+
+Of the two mask sellers, Yujiahui's selling-expense ratio in 2017 was 30.42%; over the same period, Mask Family's was 25.20% — both lower than the selling-expense ratios of the A-share listed or IPO-applicant cosmetics companies Lafang, Shanghai Jahwa, Proya, and Mao Geping.
+
+Beyond brand operations, these companies basically all rode the great growth of e-commerce infrastructure and markets
+
+The rise of Taobao brands rests on the e-commerce dividend, but the maturing of infrastructure — factories, logistics and delivery, mobile payment — was also a necessary condition for their development. Only with that in place could focusing on brand and marketing become a shortcut to rapid growth. After 2010, the growth rate of online retail consistently outpaced overall retail sales.
+
+Meanwhile, the industries Taobao brands operate in fall into the mass-consumer category — food and beverage, apparel, daily necessities — where consumption growth is relatively steady and not easily affected by an economic slowdown. By contrast, sales growth in discretionary categories such as cars and gold and jewelry has slumped badly since 2017.
+
+![](http://img.qdaily.com/uploads/20181109015647e9NH0JnQYXmhgGZj.jpg-w600)
+
+![](http://img.qdaily.com/uploads/20181109015555zoy0bNMead5wKqXC.jpg-w600)
+
+Drilling down to specific segments: China's snack food industry, where Three Squirrels operates, happens to be undergoing rapid growth, with annual output value rising from 193.138 billion yuan in 2004 to 905.018 billion yuan in 2014 — a compound annual growth rate of 16.7% — and it is expected to maintain high-speed growth of around 17% from 2015 to 2019.
+
+China's cosmetics market, meanwhile, was worth 296.1 billion, 315.6 billion, and 336.1 billion yuan in 2014, 2015, and 2016 respectively — not especially fast growth — but the online cosmetics market exploded: online cosmetics sales reached 176.77 billion yuan in 2015, up 32.3%. Within online cosmetics, the B2C segment grew fastest. According to Frost & Sullivan, China's B2C cosmetics market grew from 6.3 billion yuan in 2011 to 52.3 billion yuan in 2015, a compound annual growth rate of 69.7%.
+
+And the cosmetics market still has plenty of room to grow. China's population is about 1.4 billion, roughly half of them women; a 300-billion-yuan cosmetics market is still very small.
+
+![](http://img.qdaily.com/uploads/20181109015618kw7BL548xAzSoKeT.png-w600)
+
+![](http://img.qdaily.com/uploads/20181109015618UCHG9sWehgR4qfFt.png-w600)
+
+![](http://img.qdaily.com/uploads/20181109015618BHLCGFbuf45j9rTa.png-w600)
+
+Like every other internet business, their early growth was also propelled by capital
+
+Traditional companies usually expand with ample funds of their own or by issuing debt, but this cohort of Taobao brands could grow so fast thanks in no small part to equity financing.
+
+Three Squirrels has innovation and IP, but without resources it likewise could not have developed its current scale at such a staggering speed.
+
+Right after its founding in 2012, it raised a US$1.5 million Series A from IDG Capital; in 2013 it raised a US$6.17 million Series B from IDG Capital and Capital Today; in 2014, IDG Capital and Capital Today added a 100-million-yuan Series C; and in 2015 it raised a 300-million-yuan Series D from Fengrui Capital.
+
+Three Squirrels only turned profitable in 2015, and its ability to expand at such high speed is inseparable from capital's strong support.
+
+When Lily & Beauty was founded, it financed itself by pledging toner, face masks, sunscreen, eye cream, and other skincare products — as well as fixed assets like air conditioners, computers, and monitors — as collateral. But in 2012 it won Alibaba's favor: Alibaba's venture capital arm took a 20% stake, which was later transferred to Alibaba Network. In 2015 it raised a US$100 million Series B from Crescent HydePark, Milestone Capital, Hanli Capital, and others.
+
+Yunifang's investors are equally star-studded. In 2013 it raised a Series A from Shenzhen Capital Group; in 2014 it received a Series B investment from Shunwei Capital, the fund under Xiaomi's Lei Jun; and in 2016 it raised another round from the Qianhai Equity Investment Fund.
+
+Mask Family only raised money once, in 2013, bringing in individual investor Chen Rong. But Chen Rong is also the actual controller of listed company Zhonglu Co. — precisely the company that acquired Mask Family this time.
+
+But the only listed Taobao brand has dubious capital maneuvers
+
+Among these brands, Yujiahui had the smoothest path to listing — but its capital operations after listing look questionable.
+
+Listed early this year, Yujiahui raised 782 million yuan through the IPO; by the end of June, it had put a total of 760 million yuan into wealth-management products.
+
+The bigger problem: at the end of September, it proposed to acquire a 60% stake in AFU Essential Oil for 1.02 billion yuan in cash.
+
+On the surface, AFU is a well-known brand with more than 300 SKUs, 96 direct-operated counters and 256 distribution counters across 30 provinces and municipalities. Acquiring it could make up for Yujiahui's over-reliance on online sales, so it seems a decent choice.
+
+But the deal details and acquisition arrangements are all highly questionable.
+
+AFU's net assets stand at 194 million yuan, yet Yujiahui valued it at 1.6 billion yuan — a premium of nearly 750%. Converted to a price-earnings ratio (20x), that is far higher than the multiples of cosmetics companies such as Mask Family, Hangzhou UCO, and Guangzhou Hanya, which likewise entered the A-share market through acquisition.
+
+AFU's profit commitment is peculiar, too. Normally, the acquirer demands a three-year performance commitment from the target — but this time AFU committed to only one year's net profit: 85 million yuan in 2018. Even if that target is met, all Yujiahui gets for its 1-billion-yuan investment is 85 million yuan × 60% = 51 million yuan in equity profit. That's the equivalent of taking 1 billion yuan to buy a bank wealth-management product yielding 5%.
+
+The arrangement for the remaining 40% stake is even more bizarre. If AFU's profit reaches 60 million yuan in 2019, Yujiahui must buy the rest of its equity. The purchase price: 20 times 2019 profit, for the 40% stake. In other words, even if performance plunges, Yujiahui must still buy it all — letting the founders and a host of investment institutions such as Qiming Venture Partners, IDG, and Chenguang exit. This looks more like a capital operation by Yujiahui's shareholders to hollow out the company's assets.
+
+Overall, among Taobao brands there can be breakthroughs in market space, business-model innovation, and changes in net margin — but this is built on the basis of already well-developed industry, logistics, and e-commerce. And amid their rapid growth, problems persist: heavy dependence on e-commerce channels — even on upstream brand owners for supply — as well as questionable moves in capital operations.
+
+The Taobao brands still queuing for IPO face an uncertain future
+
+The performance of "Taobao brands" depends almost entirely on the domestic market, and their growth story is not easily accepted by overseas capital markets. So from the start, they never restructured their shareholding into the red-chip structure specifically designed for offshore listings. Once profitability met the CSRC's threshold, listing on the A-share market was the fastest option.
+
+Not long after the 2016 symposium between the Shenzhen Stock Exchange and Taobao-brand representatives ended, the CSRC decided to speed up IPO reviews.
+
+At the time, the two exchanges had roughly 700 companies that had filed prospectuses and were waiting for CSRC review. Simply reviewing all of them could have taken two or three years. But as the CSRC accelerated reviews and the A-share market began to recover, planning an IPO seemed well-timed for Taobao brands back then.
+
+But these companies' success all depends on external resources — above all the sales platforms: Tmall, Taobao, JD.com, or Vipshop. In other words, the channels they rely on for survival are not in their own hands. And one thing the CSRC particularly cares about in reviewing IPO candidates happens to be operational and performance independence. This January, Lily & Beauty's IPO was rejected by the CSRC, with regulators questioning its independence after receiving Alibaba's investment.
+
+As for Three Squirrels, quality problems arose in its contract-manufactured goods; it was fined by the Anhui food and drug regulator and publicly criticized by the national regulator, and its IPO process was interrupted for a time as a result.
+
+No one can predict policy changes. But even if listings were loosened right away, the good times have passed.
+
+This year the A-share market has been depressed, repeatedly breaking below the lows of the 2015–2016 crash, and IPO volume has slumped along with the market — the number of new listings is less than [a third](http://www.qdaily.com/articles/57104.html) of last year's.
+
+With no money in the market to buy new shares, and with the market value of already-listed big companies shrinking too — even Foxconn, specially approved to list this year, has fallen below its issue price, its market value down some 200 billion yuan from its peak.
+
+It's not just the A-shares. After taking in Tencent-linked companies with market values in the hundreds of billions of yuan, such as Xiaomi, Meituan, and Haidilao, the Hong Kong market has also been battered in succession by Tencent's plunge.
+
+The US market, meanwhile, is re-examining the value of tech giants such as Amazon, Apple, Netflix, Google, and Facebook, whose shares have fallen sharply one after another — and the Chinese concept stocks listed there face even more doubt. Alibaba's market value has evaporated by a quarter from this year's high, while JD.com has fallen straight back to its 2014 listing level.
+
+Internet company listings sometimes come in cycles of a few years. Looking at it now, the Taobao brands missed the good window entirely.
+
+Charts / Shuya Zheng, Fangyi Gong
+
+Cover image source: [Pixabay](https://pixabay.com/zh/%E9%92%B1-%E5%8D%A1-%E4%B8%9A%E5%8A%A1-%E5%8F%A3%E8%A2%8B-%E7%AD%BE%E8%AF%81-%E4%B8%87%E4%BA%8B%E8%BE%BE%E5%88%B8-%E8%B4%AD%E7%89%A9-%E8%B4%AD%E4%B9%B0-256281/)
