@@ -1,0 +1,164 @@
+@@QD_TITLE@@
+How Should Siri's Lines Be Written? We Talked to the "Creative Writer" Behind Them
+@@QD_EXCERPT@@
+"AI should aspire to the best of human literature and art, creating inspired conversation for our lives."
+@@QD_BODY@@
+"AI should aspire to the best of human literature and art, creating inspired conversation for our lives."
+
+Functional human-machine dialogue is a debasement of language, Mariana Lin has said again and again. Her job title on LinkedIn is Siri Writer — that is, the writer of the lines behind this virtual assistant.
+
+Born in Taipei, Mariana Lin moved to the United States with her family at the age of five. After earning a bachelor's degree in English literature, she went on to a master's in journalism and a doctorate in law. She has worked as a reporter and a freelance writer, and is also a poet, an author, and a former creative at Apple. She now does AI consulting for Hanson Robotics (the company behind the robot Sofia) and is a regular guest at Stanford University's AI roundtables. "I suppose you could say I'm a creative writer," she says, using the term creative writer to describe her profession.
+
+She also runs an entertaining column called "Artificial Intelligentsia" on The Paris Review, where she draws on her work experience and intellectual background to write about AI writing and the crafting of AI personalities. In her column piece [*Absurdist Dialogues with Siri*](https://www.theparisreview.org/blog/2018/02/12/absurdist-dialogues-siri/), she argues that functional human-machine dialogue's domination of everyday life will endanger our dying art of conversation: "These functional exchanges don't enlighten us the way everyday conversation does. Instead, it is the absurd, the unexpected use of language that illuminates poetry and literature, fulfills inner needs we aren't aware of, and brings transcendent artistic pleasure." Beckett's monologues may seem nonsensical and baffling, yet it is the perpetually absent Godot who reproduces the chaos and inscrutability of human life. In an efficiency-obsessed contemporary life, aimless meandering conversation becomes especially precious.
+
+In 2010, Cortana had yet to be invented, and Alexa was still only a half-formed idea in the mind of Jeff Bezos, the Star Trek–fan CEO of Amazon. Siri, "a humble personal assistant," first appeared as a third-party app in Apple's iPhone App Store. The following year, Apple acquired the Siri team and launched a new version of Siri in the iPhone 4S released in 2011. It learned more languages, conversed with users from every country, and scheduled their appointments, checked the weather, and replied to their emails.
+
+![Siri in its earliest days as a third-party app / [iPhone Hacks](http://www.iphonehacks.com/2011/10/apple-pulls-original-siri-app-from-app-store.html)](http://img.qdaily.com/uploads/2018052614121174j1mQN5X3hGfyEp.jpg-w600)
+
+Yet despite its first-mover advantage, Apple seemed to run out of steam. As other voice assistants sprang up like mushrooms after rain — Alexa (2014), Google Assistant (2016), Bixby (2017) — Siri's once-a-year updates were limited to compatibility with each new iOS release.
+
+Mashable reporter Raymond Wong [pointed out](https://mashable.com/2018/03/14/why-siri-is-so-dumb/#zXPa24L.5Zqh) bluntly this past March that "in terms of capabilities and comprehension, Siri has fallen far behind other voice assistants." It was shortly after the HomePod launch.
+
+Many people have heard Siri's reply, "Sorry, I don't quite understand," and many have recorded its beatboxing and poetry recitals, or how it responds to your declarations of love — bluntly yet with extreme tact. One exchange is also famous: ask it, "What's the meaning of life?" and it will invoke Douglas Adams's gag from *The Hitchhiker's Guide to the Galaxy*: "42."
+
+![Some of Siri's amusing Q&A exchanges](http://img.qdaily.com/uploads/20180526142050IDaMBrXWuVSTd3vE.jpg-w600)
+
+![Some of Siri's amusing Q&A exchanges](http://img.qdaily.com/uploads/20180526142049uScQR281bolNmn5T.png-w600)
+
+![Some of Siri's amusing Q&A exchanges](http://img.qdaily.com/uploads/20180526142049hPqpO9yMa2DmEFwk.jpg-w600)
+
+![Some of Siri's amusing Q&A exchanges](http://img.qdaily.com/uploads/20180526142050KZ75a8C2XQ0sNqGP.jpg-w600)
+
+![Some of Siri's amusing Q&A exchanges](http://img.qdaily.com/uploads/20180526142051Tz1Rn0k3IhtcrZPY.png-w600)
+
+![Some of Siri's amusing Q&A exchanges](http://img.qdaily.com/uploads/201805261420519M7dYowcjWShG3Jv.jpg-w600)
+
+![Some of Siri's amusing Q&A exchanges](http://img.qdaily.com/uploads/2018052614205223JXNbxRB6stkCOd.jpg-w600)
+
+![Some of Siri's amusing Q&A exchanges](http://img.qdaily.com/uploads/20180526142052kyhf80bSeHYmANEI.png-w600)
+
+On Google, the adjectives most often used to describe Siri's personality are sassy and snarky. Searches pairing sassy with Siri peaked at one point in 2015. As a participant in this creative work, Mariana Lin largely agrees with such descriptions. Beyond being gentle and friendly, Siri has undoubtedly acquired a "quality" that sets it apart from other voice assistants — or, to go further, a "personality." Unlike human personality, however, its personality is still programmed. It should be noted that although an AI assistant's witty lines are written into code, on the other end of that code are creative people racking their brains — novelists in the sense that they control a character, sculpting the conversations that might unfold with unknown humans, and the logic of how they unfold.
+
+As Mariana Lin tells it, they are responsible for building backstories and a belief system for an AI assistant, then implanting them into its interactive behavior. Anna Kelsey, an interaction designer at x.ai, a company that develops scheduling chatbots, says that when designing, they have to think about whether to address humans by surname or given name, and whether to use emojis in replies. "Because we don't want people to feel that your AI assistant is too casual or too stiff."
+
+How is shaping an AI assistant's personality different from crafting a fictional character? What does an AI scriptwriter's job look like? To explore these questions, QDaily spoke with Mariana Lin, former Apple creative director.
+
+**Q = QDaily**
+
+**M = Mariana Lin**
+
+### Shaping an AI Assistant's Personality Is a New Paradigm
+
+**Q: When you first set out to "design" a personality for Siri, what were you thinking? Is the process similar to crafting a character in fiction, and what are the specific differences?**
+
+M: I wrote a new column for The Paris Review, [*How to Write Personalities for the AI Around Us*](https://www.theparisreview.org/blog/2018/05/02/how-to-write-personalities-for-the-ai-around-us/), and the first chart in it shows that shaping an AI's personality is unlike either a fictional character's personality or a real human's personality — it's a new paradigm.
+
+![In the piece, the author describes an AI personality as a personality that sits somewhere between a human personality and a fictional character's personality.](http://img.qdaily.com/uploads/20180526011040iP6bV48IvZ3EhLKJ.png-w600)
+
+**Q: Right, I read that piece a few days ago. But I want to know specifically how these three relate to one another, because in the later paragraphs you moved on to writing about "what kind of relationship we should build with AI."**
+
+M: In that piece, I listed some differences between fictional characters and AI characters. For example, we're morally more forgiving of characters in fiction; not so with AI — we won't create morally corrupt AI. Real humans have touch and feeling, and experience birth, aging, illness, and death, while AI does not. As for similarities, AI personalities share a great deal with real personalities. Think about it: what kinds of people are we willing to deal with in daily life? What personalities are likable in real life? It will be the same with AI. Specific qualities might include: intelligence, loyalty, a sense of humor, empathy, and so on.
+
+Fictional characters can delight us and let us project ourselves into them, but they don't always lead or inspire us — that isn't their job. AI is different: it may be able to lead humans through demonstrative behavior, for instance through the way it communicates and connects with us.
+
+**Q: Could there also be immoral but charming AI, like the alluring villains in fiction? (Given that, for now, they can't physically harm humans.)**
+
+M: No, that's impossible. First, if they are embodied (robots), they can cause real harm — there are already many embodied AI robots. Second, harm isn't only physical; there's also psychological harm, and AI can certainly inflict psychological harm on humans. So they're the same as everything else in the environment that can affect humans. Some studies have already shown that the way humans talk to plants and to nature can affect their cellular structure. So something non-physical, like language, will absolutely have an effect.
+
+**Q: Mm. So you believe that leading and inspiring humans is one of AI's tasks? Or that humans already had this intention when inventing AI (to have it lead and inspire us)?**
+
+M: Yes, I believe we can expect more of both AI and AI's inventors — more than simply having AI imitate humans. I think we can and should expect AI to help humanity move forward and set better examples for us. Think of the qualities humans have never been good at: compassion, patience, bridging divides and misunderstandings... We should imagine a future in which AI can make up for humans in these areas.
+
+**Q: What are the most important parts of shaping an AI's personality? As you said before, you feel many AI haven't yet developed their own personalities and are still exploring.**
+
+M: To form a personality, you need a backstory and a belief system. It needs an origin story — where it came from, why it was created, its state of development and personal history (even a very sketchy one) — and then a belief system. Such a belief system might be inherited from its creator, or gradually formed from its own experiences. From these beliefs you grasp its personality traits and certain points of view, and then you add in some playful things, like its quirks and whims.
+
+Of course, (an AI's) personality needs to echo its function in some form; its individuality is always revealed while it performs its function.
+
+**Q: When you're writing lines for an AI, do you decide from the start what personality you want to give it, or do you explore the AI's personality as you write?**
+
+M: Both. Typically, an AI starts with a designed personality or backstory, and then its personality slowly evolves as it grows and adapts.
+
+**Q: When you write lines for AI, do you leave any Easter eggs?**
+
+M: Of course. But if I told you, they wouldn't be Easter eggs anymore! For me, though, they're less Easter eggs than they are absurd moments of life. Here's an example: if I threw a pie in your face right now while singing "The hills are alive... with the sound of music!" (the opening song of *The Sound of Music*), who knows how you'd react? Would you laugh? Would you get angry? Or would you pick up the song and keep singing? That's what it's like to leave Easter eggs in writing. You think of unconventional responses, and then you lay the groundwork for them. Maybe because I've planted this seed now, you'll wonder what you would do in that situation. If it gives you a super funny reply, that might just be your Easter egg! We all have our own Easter eggs — those things that catch us by surprise.
+
+### The Tech Industry Really Does Need More Poets and Writers
+
+**Q: On your personal website, LinkedIn, and Twitter, your bio is the same one line: "a person." Does the word person carry special meaning for you?**
+
+M: I'm quite surprised you asked that — I didn't expect anyone to notice. The first time I wrote it, I didn't think too much about it. I had just left Apple, and the long hours of work had left me a bit exhausted. I thought, I've been playing a robot for too long; now I'm going back to being a person, enjoying time with my son, returning to my own life and my interests. Then I noticed that in bio fields across social media and websites, people like to list their jobs, titles, and achievements. I sensed a strange tendency: people need to prove themselves through their identities, professions, accomplishments, and so on. So I wrote "person," because I felt that before all those other identities, I am first a person, and I don't want to forget that. More important to me: before becoming a decent writer, I first learned how to be a decent person. And I always say that to figure out the question "what is AI," we first have to think about the question "what is human." I find that I keep exploring this question myself. In any case, I didn't write "person" to announce anything to the public; I wrote it purely for myself, as a reminder. (Beyond the identity of being human,) nothing else really matters that much.
+
+**Q: We talked about quotations earlier. You seem to like quoting literary writers — can you tell us about a few writers who have influenced you most?**
+
+M: I think Alice Munro is one of the finest writers. Her work means a great deal to me. Munro's talent is quiet yet powerful — you have to listen closely. She showed us how much power lies latent in the small moments and pauses of life. Another writer I deeply admire, Dickens, is almost the complete opposite in style. I was fascinated by him as a child — the intense drama and sweeping themes in his work, like *A Tale of Two Cities*. Both Munro and Dickens are deeply humanistic writers, though in different ways. There are many other writers I admire as well... For instance, I also find the work of the poet Li-Young Lee very powerful.
+
+![Alice Munro, Canadian novelist and winner of the 2013 Nobel Prize in Literature, author of *Runaway*, *Dear Life*, and other works. / [The Telegraph](https://www.telegraph.co.uk/culture/books/booknews/10369522/Nobel-Prize-2013-Alice-Munros-lifetime-of-perfectionism.html)](http://img.qdaily.com/uploads/20180526144958BivYMUNE3DTA76XI.jpg-w600)
+
+**Q: "The life force latent in small moments and pauses" — is that also what you, as a writer, want to achieve in your own work?**
+
+M: I think if a person can achieve that, there's actually something transcendent in it. It's not difficult — or rather, relatively easier — to move people by choosing bigger subjects: dying lovers, horrifying crimes, war, death, and sex. But if a writer writes a scene like this: on a train, a stranger wants to strike up a conversation with you, and you decide to ignore him. Writing just that choice within a millisecond — in that millisecond lies the entire universe: our inner struggles, the weaknesses and selfishness of human nature. That's what Alice Munro shows us, and then you see how riveting such scenes become in her hands. If you make people realize that every moment of their lives is art, they no longer need to go to war, found a company, or fall in love to experience life. Every moment is life. Of course, I'm not at all surprised she's a woman writer. I think women are more perceptive than men in their feel for reality.
+
+**Q: How has your liberal arts education and writing background benefited you in your work? In the tech world, why do we need more writers and poets?**
+
+M: The liberal arts education shaped, to a large extent, who I am now and how I think. I believe a liberal arts education is very important for society as a whole, because it teaches us that education isn't always utilitarian — it doesn't have to aim at mastering the skills of a particular profession; learning purely for exploration and for the sake of knowledge has value in itself. Then connections begin to form across many fields: music, literature, science, art, politics... Only when you make time to explore and to feel can these connections be built. All great thinkers and influential people have cross-disciplinary interests. It's these unusual connections that create entirely new ways of seeing things.
+
+In the tech field, we really do need more writers, poets, artists, philosophers, historians — people with humanities backgrounds. Technicians with engineering backgrounds always think and work in a particular way. Their values differ — for example, prizing efficiency, putting function first. These ideas may be fine, but they need to be balanced against other values, such as beauty, pleasure, and social effect.
+
+**Q: Do you think there's a growing trend of writers and poets entering the tech field to do creative work?**
+
+M: I'm not sure such a trend exists yet, but I hope the more people like that, the better.
+
+**Q: Has your work experience in AI writing affected your own writing style?**
+
+M: I'm not quite sure. I think if a person engages in many types of writing, they all influence one another. I think this job gave me a predilection for poetry, because writing for AI is actually a lot like poetry — both must express more within a few condensed lines. As a creative at Apple, I learned that "less is more," and I deeply believe this is an important lesson for both art and life.
+
+### How to Write for Users from Different Cultural Backgrounds
+
+**Q: You mentioned in your Paris Review column that writing Siri's responses for users from different cultural backgrounds is a challenge. In this work, how have you benefited from your own cross-cultural background?**
+
+M: I think every creative person behind AI should understand that they are facing a highly diverse group of users. Personally, I wasn't born in the United States, and American culture wasn't the dominant culture of my upbringing — my parents raised me entirely the Taiwanese way. Also, when I was young I traveled to Europe and Asia many times, I studied French at school and made some European friends, and later I studied at the Sorbonne and Sciences Po in Paris... So I also have some understanding of European culture, and I don't feel uncomfortable or alienated facing it. All of this has benefited me greatly. Of course, my foundational cultural background is very American. But when I think about something, I don't automatically assume a white American perspective or mode of communication. Having multiple perspectives on things is very important.
+
+**Q: When writing for users from diverse cultural backgrounds, what should one pay attention to?**
+
+M: Take AI's response to emotions as an example. Americans generally don't like negative emotions. In some other cultures, there are long, formal rituals for expressing grief or mourning — memorial ceremonies after disasters, funerals for the dead, and so on — and (those negative emotions) are acceptable. But in the US, there's enormous discomfort in dealing with these negative feelings; people instinctively want to "fix" the emotions or help someone get out of the negative state. So if a person tells an AI "I'm angry" or "I'm sad," we should have comforting, supportive responses, rather than immediately saying, "How can I cure you and get you out of this negative state?"
+
+An international brand/image should of course take different regions' cultural backgrounds into account and adapt accordingly, but this cannot violate its core. For example, if I travel to South America now, my dress and speech will differ from when I go to Japan, but I won't change so drastically that even my family wouldn't recognize me. That's how we build an image that is adaptable yet trustworthy.
+
+**Q: You said at a Stanford AI roundtable that creating a voice isn't hard — what's hard is creating a voice people want to talk to every day. What do you think such a voice is like?**
+
+M: When people first encounter AI, they have lots of fun ideas, like, "Oh! We should create an AI like Mr. T (the famous American actor known for his distinctive hairstyle, gold chains, and tough-guy image)!" or "We should build an AI that's wisecracking nonstop!" But the problem is, creating a voice that makes you laugh — the kind you see on TV — is different from creating a voice you can live with day in and day out. A funny voice quickly becomes annoying. Meanwhile, a boring, harmless AI isn't likable either — you feel it has no personality at all. Without any emotional attachment, people quickly get bored and won't hesitate to drop it and hunt for the next new thing. So the two are a bit like the difference between a short-term romance and a long marriage. As we all know... marriage is always hard to sustain! Right now I can create 10 funny, amusing voices that would delight people when they hear them. But the real test is whether people still like a voice day after day — and three years from now?
+
+### Anthropomorphizing Machines Alone Won't Create an Ideal Human–Machine Relationship; It's Still Needs-Driven
+
+**Q: You wrote in your piece, "AI should aspire to the best of human literature and art, creating inspired conversation for our lives." Specifically, how should AI achieve that? In my conversations with Siri, I've found that Siri has no "memory" — it can only answer one question at a time, and when I follow up on its answer, it can't understand. A conversation like that can't continue, and it's hard for it to be an inspiring human-machine dialogue, no?**
+
+M: What you're describing is a technical limitation, and the AI field is working on solving it right now — I think we can look forward to it.
+
+Once we've solved the technical problems, we should make sure not to merely give people what they want and functionally satisfy their needs. We should have AI shift slightly: now and then quote a literary wit, share an obscure fact about the mantis shrimp, or throw back at people a question worth pondering. We should let AI bring a bit of artistry and pleasure to people's lives, even when they haven't asked for it. The most beautiful human relationships achieve this. A good friend of mine always shows me unexpected things or says things I never saw coming. I think that's the best kind of friendship — she never plays by the rules, haha.
+
+The risk of AI not doing this is: if we design AI to satisfy every desire, never questioning, never changing, what is that for? To make us more restless, more greedy, haggling over our little interests? (That really would be our worst selves.) We should help people transcend themselves (their limits).
+
+**Q: Your piece also mentions that functional human-machine dialogue compresses the function of language into information transmission, which is tragic — so you've raised the point, on many occasions, that we should give AI a personality. But if AI becomes too "humanized," and a tragic story like the one in the film *Her*, where a human falls in love with a robot, comes to pass, that doesn't seem like the best outcome either. Where is the middle ground?**
+
+M: I think this is a question worth exploring. First, I believe AI's development is still very far from the scenario in the film *Her*. But indeed, this question is determined by (human) needs and (AI's) design. I've always felt that AI exists not to satisfy every human need or to replicate human existence, but to make up for humans where we're not good.
+
+![The film *Her* / [Douban](https://movie.douban.com/photos/photo/2161272123/)](http://img.qdaily.com/uploads/201805261516569AeZbhuF0cCds5LU.JPG-w600)
+
+**Q: The current trend of anthropomorphizing AI makes me wonder: are we supposed to deny the artificiality of artificial intelligence? That doesn't seem realistic. But today's AI robots really are entirely different from robots fifty years ago — technological progress has brought many possibilities. It feels like current AI is something in between: not human (and never will be), but not quite a fully mechanical "machine" either. How should we adjust our relationship with it? For example, moving from what you [described](https://www.theparisreview.org/blog/2018/05/02/how-to-write-personalities-for-the-ai-around-us/) as the one-way utilitarian type (I-It) to the amusement-satisfaction type (I-That), and even to the two-way experiential type (I-Thou).**
+
+![Three types of human–machine relationships / [Paris Review](https://www.theparisreview.org/blog/2018/05/02/how-to-write-personalities-for-the-ai-around-us/)](http://img.qdaily.com/uploads/20180526151946sT6oC9k1jlcxErwg.JPG-w600)
+
+M: I regard them as machines, entirely. I don't think they're anywhere near "close to human" at this point. Everything they can do, even activities that look smooth and natural, is controlled by written programs. So I don't see any organic intelligence, nor any blurred middle ground between human and machine.
+
+The transformation of the (human-machine) relationship requires us to think about the very meaning of relationship — why we build this relationship, what kind of relationship we're building. The change in human-machine relationships lies not in how human-like we can make robots, but in clearly knowing what kind of relationship we want, and then designing AI from there. If we want a trusting, considerate relationship (say, therapy robots, friend robots), then we might not want a robot that looks very human — facing a robot whose appearance closely resembles a human, we'd only feel very uncomfortable, a creepy feeling. Studies have shown that the less human-like something looks, the more easily people open up to it. So the key is to identify the specific relationship we want (with a machine), and design the corresponding robot from there — rather than assuming anthropomorphism is the best solution.
+
+**Q: In your view, what aspects of AI's use of language still need improvement?**
+
+M: There are many, but I think one of the more important ones is (that AI still can't) understand human language naturally. This is very difficult — far more difficult than we think. Amid our pauses, hesitations, nonstop streams of speech, and all kinds of messy grammar, accents, and background noise during conversation, we humans still understand each other perfectly well! It's truly remarkable. But machines can't. So this problem matters a great deal, and we need to improve AI's comprehension. Understanding is only the beginning of the battle; without comprehension, nothing else can follow.
+
+### About the Interviewee
+
+Mariana Lin, a Chinese American writer and poet, worked in Apple's creative department from 2014 to 2017 and now lives in California. She holds a bachelor's degree in English literature from Swarthmore College, a master's in journalism from Columbia University, and a doctorate in law from UC Berkeley, and has studied in France and elsewhere. Her work has appeared in The Paris Review, The Mississippi Review, The Huffington Post, New York magazine, GQ, and other publications. Her poetry has been a finalist for the Knightville Poetry Contest of The Mississippi Review and The New Guard Review. She is also a member of the National Writers Union, the Academy of American Poets, and PEN America.
+
+Cover image and banner / [Macworld](https://www.macworld.com/article/3106088/ios/sirious-mistakes.html); the long cover image is a Star Trek comic / [io9](https://io9.gizmodo.com/geordi-la-forge-has-a-ship-full-of-datas-in-a-first-loo-1786994832)
