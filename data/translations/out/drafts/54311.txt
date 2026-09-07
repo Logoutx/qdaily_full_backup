@@ -1,0 +1,130 @@
+@@QD_TITLE@@
+Global Headlines Express | The Conversation Explores Why Humans Can't Predict Suicide; Over a Hundred Killed in Mexico's Election
+@@QD_EXCERPT@@
+Global Headlines is a new QDaily column launched in 2018, currently in a trial run, still committed to helping you know more.
+@@QD_BODY@@
+Global Headlines is a new QDaily column launched in 2018, currently in a trial run, still committed to helping you know more.
+
+### What the Agenda-Setters Are Talking About
+
+**[The Conversation: Why predicting suicide is a difficult and complex challenge for humans, yet machine learning can do it](https://theconversation.com/why-predicting-suicide-is-a-difficult-and-complex-challenge-98052)**
+
+The author of this piece is Joseph Franklin, an assistant professor of psychology at Florida State University.
+
+This month's suicides of Kate Spade and Anthony Bourdain made people confront, almost involuntarily, that terrible question: how exactly do these tragedies happen? Those close to someone who dies by suicide always fall into agonizing second-guessing, convinced they must have fallen short somewhere — "How did I not see it coming?" Yet Franklin, who has spent the past decade studying suicide, notes with regret that today not a single suicide expert, psychologist, or physician can predict who will take their own life — and this has nothing to do with how long you've known someone or how well you know them. All they can do is nudge the odds of a correct prediction up slightly.
+
+Scientists took 50 years to reach consensus that "suicide is hard to predict," but now a new glimmer of hope has appeared: machine learning. Several research groups have reported in recent years that machine learning can identify who has suicidal tendencies and who is most likely to die by suicide, with accuracy as high as 90%. To understand how this works, and why humans cannot predict suicide precisely, we need to know a little about the properties of human cognition and of machine learning.
+
+Humans like explanations with two properties: first, an explanation should be simple, involving just one or a few things — for example, "depression" can neatly account for suicidal behavior; second, the explanation should ideally be fixed, meaning it can explain everything or most cases — for example, "most suicides are caused by depression" is a fixed explanation. Such simple, fixed explanations are intuitive and efficient; they help us survive, reproduce, and get through each day.
+
+But this way of thinking does not help us understand nature or essence, because "essence" is never simple and fixed. In recent decades, scientists have finally recognized that everything — from physiology to biology to human behavior — is complex and uncertain. You have to combine a huge number of elements in a complex way to explain most things.
+
+Take an analogy: X+Y=1 is indeterminate. As humans, we instinctively search for a solution to this equation. But there is far more than one solution — there are infinitely many. And there are infinitely many values that fail to satisfy the equation. The indeterminate middle ground between "one solution" and "anything could happen" is exactly what confuses humans, yet it is precisely how nature works.
+
+As with everything in nature, the causes and warning signs of suicide are exceedingly complex and unstable. Hundreds of elements are linked to suicide; prediction is scarcely better than guessing. People tend to regard depression as a major key trigger of suicide, but in reality only 2% of people with major depression ultimately die by suicide — only slightly higher than the overall U.S. suicide rate of 1.6%. This result tells us that we must consider combining multiple factors to find the causes of suicide.
+
+A relatively ideal solution would be to find, by some method, an optimized combination of dozens to hundreds of factors. Machine learning can do this. It can now draw on data from electronic health records and scan hundreds of factors related to mental-health diagnoses, physical conditions, medications, demographics, and patterns of medical visits. The resulting optimized combination can successfully predict 80–90% of suicide cases. But people must also realize that the algorithm's solution is not the only one.
+
+Still, although machine learning can foresee "who will die by suicide," it cannot predict "when" — and it may take humans many years to crack that problem. In the meantime, what we can do is care for the people around us. If you know someone who is struggling, talk to them and suggest they call a suicide-prevention hotline.
+
+### 24-Hour Newsmakers
+
+**[New York State sues Trump for illegally profiting from his charitable foundation.](https://www.theguardian.com/us-news/2018/jun/14/trump-charity-sued-latest-new-york-attorney-general-violations)**
+
+On Thursday — Donald Trump's 72nd birthday — New York State Attorney General Barbara Underwood sued Trump and his three children, who serve as directors of the foundation, accusing them of illegally using their charitable foundation as a personal "checkbook," in violation of state charity law.
+
+The suit alleges that the foundation amassed assets through tax-deductible donations, which Trump then used for his own benefit, for political promotion and to buy personal items. The investigation uncovered at least five instances of self-dealing that benefited the Trump Organization, including the settlement of a legal dispute involving one of his golf clubs and the purchase of a US$10,000 portrait of Trump to decorate another club.
+
+Trump also held a charity fundraiser in Iowa in early 2016, but it was in fact a campaign event — he even participated in a televised debate — and its purpose was not at all "raising money for veterans," as the event claimed. The attorney general said Trump's aides and campaign manager at the time dictated the timing, amounts, and recipients of payments after the fundraiser, violating state and federal law. Under New York State law, charitable foundations are in most cases prohibited from engaging in political activity in order to maintain their "charitable" status.
+
+The New York Attorney General's office began investigating the foundation in June 2016 and ordered it to stop raising funds. Trump said after the election that he would dissolve the foundation, but then-Attorney General Eric Schneiderman blocked the move on the grounds that an investigation was still underway.
+
+Underwood is seeking a US$2.8 million penalty from the foundation and US$1 million in restitution to other charities. The suit also seeks to dissolve the foundation and to bar Trump from serving as a director of any charitable foundation for 10 years (and his three children for one year).
+
+Trump immediately tweeted that the lawsuit was the work of "sleazy New York Democrats," claiming his foundation gave away more than it received, and that the case was filed only because he had been unwilling to settle at the time.
+
+### What Else Happened in the World
+
+**[Host nation Russia beat Saudi Arabia 5–0 to win the opening match of the World Cup](https://www.bbc.com/sport/football/44392911)**.
+
+**[Sources say Trump has approved tariffs on roughly US$50 billion of Chinese imports](https://cn.wsj.com/articles/CN-BGH-20180615073944)**, intensifying the trade offensive over China's alleged practice of forcing American companies to transfer technology to Chinese partners. It is not yet clear when these tariffs will take effect.
+
+**[Mexico wants to impose US$4 billion in tariffs on U.S. corn and soybean imports](https://www.reuters.com/article/us-usa-trade-mexico-exclusive/exclusive-mexico-studies-tariffs-on-billions-of-dollars-of-u-s-corn-soy-idUSKBN1JA353)**, if Trump escalates the tariff war further.
+
+**[In Catholic Argentina, the lower house backs a bill allowing abortion within 14 weeks](https://www.bbc.com/news/world-latin-america-44486190?__twitter_impression=true)**. After 22 hours of debate, 129 lawmakers voted in favor and 125 against. The bill now moves to the Senate. Abortion is currently illegal in Argentina, with exceptions only for rape and threats to the mother's life, and women seeking an abortion must also petition a judge. President Mauricio Macri strongly opposes the bill but says he will not veto it as long as it passes both houses.
+
+**[A prominent journalist was shot dead in Kashmir, India](https://www.bbc.com/news/world-asia-india-44488081)**. Shujaat Bukhari was the editor of the local newspaper Rising Kashmir and also reported frequently for the BBC. On the 14th he was shot in his car near his newspaper's office and died despite rescue efforts. Of the bodyguards present, one was killed and one wounded. No group has yet claimed responsibility. In a piece Bukhari wrote for the BBC in 2016, he described the plight of local journalists: "Death threats, intimidation, attacks, arrests, and censorship are all part of the routine."
+
+In an interview with Fox News, when reporter Brett Baier brought up Kim Jong Un's oppression of his own people, **[Trump brushed aside Kim's human rights record](http://thehill.com/homenews/administration/392174-trump-brushes-off-kims-human-rights-record-saying-a-lot-of-others)**, saying, "Yeah, but a lot of other people have done some really bad things too. I mean, I could go through a lot of countries where a lot of bad things have happened."
+
+**[Putin invites Kim Jong Un to Russia in September](https://news.sky.com/story/vladimir-putin-invites-kim-jong-un-to-russia-in-september-11404581)**. At a meeting Thursday with North Korean official Kim Yong-nam, Putin extended the invitation for Kim to visit Russia. He also spoke approvingly of how the Trump–Kim summit eased state-to-state conflict, saying the summit pushed unpopular tactics aside and began seeking ways to resolve all disputes through peaceful diplomacy.
+
+### Someone Said
+
+> "BREAKING NEWS! A German from 100 years ago didn't happen to hold views on race that are widely accepted by society today, like modern people do! What garbage! I guess this means we should remove all of his contributions to science?"
+
+So commented Reddit user [caine269](https://www.reddit.com/r/news/comments/8qoo1s/einsteins_private_diaries_reveal_shocking/) on the Guardian story ["Einstein's private diaries reveal his xenophobic tendencies"](https://www.theguardian.com/books/2018/jun/12/einsteins-travel-diaries-reveal-shocking-xenophobia).
+
+The newly published *The Travel Diaries of Albert Einstein* from Princeton University Press reveals that this physicist, long regarded as a humanitarian, held discriminatory attitudes toward Asian peoples, especially the Chinese.
+
+Einstein traveled through Asia in the 1920s. In his diaries he described Chinese people as "industrious, filthy, obtuse people" with a "peculiar herd-like nature" — "a pity if these people supplant all other races." In a later passage written to his stepdaughter in Berlin, he continued, "Even those who work like horses never seem to have any awareness of pain; a herd-like nation, more like automatons than human beings."
+
+Ze'ev Rosenkranz, the book's editor and assistant director of the Einstein Papers Project at Caltech, said, "A lot of what's in there is really unpleasant, especially what he says about the Chinese... it stands in stark contrast to his great humanitarian public image. Reading this, and then thinking of his public statements ('racial discrimination is a disease of white people'), is quite shocking. They were written without any expectation that they would ever be published."
+
+He pointed out that Einstein regarded foreign races as a "threat" — a striking characteristic of racism; as for his failure to understand "why unattractive Chinese women could attract Chinese men to reproduce with them," that was an extremely misogynistic trait. Einstein's views were fairly common for his time — that is the broader social context — though progressive figures with more tolerant views already existed back then.
+
+He noted in his introduction that exploring why a man regarded as a symbol of humanity would write such xenophobic words is of great importance, "and the answer to that question is especially relevant to today's world, given the rampant acts of hatred happening in so many places. It seems that sometimes even Einstein had a hard time seeing himself clearly when facing others."
+
+### You Might Also Be Interested In
+
+**[Since Mexico's election campaign began last September, 113 political candidates and 8 journalists have been killed](https://www.pri.org/stories/2018-06-13/unprecedented-wave-political-violence-rocks-mexico)**.
+
+Last week, Mexican congressional candidate Fernando Puron was shot dead while taking a selfie with supporters, becoming the 133rd political figure murdered since the election began; the killing was captured on video.
+
+The general election formally begins on July 1, yet Mexico faces an unprecedented nationwide wave of violence. The campaign process started last September, with more than 3,400 political seats up for grabs, and the authorities cannot provide adequate security for candidates — especially those in small towns and rural areas. A total of 133 candidates and 8 journalists have been killed, 72% of violent incidents have targeted opposition candidates, and three female candidates were murdered on the same day this month.
+
+The country's mainstream media mostly attribute political violence to drug cartels, as if all the violence were connected to the drug war. The truth, however, is that these cartels usually serve as the armed wings of powerful political groups, and are often used to execute opposition figures and journalists who bravely expose corruption.
+
+The consequence of this violence is that Mexican voters find themselves with ever less information and ever fewer choices at the ballot box.
+
+**[Chair of Russia's "Committee on Women, Children and Family Affairs" warns: Russian women should not have sex with foreigners during the World Cup.](https://www.rferl.org/a/russian-lawmaker-pletnyova-warns-sex-foreigners-world-cup-soccer/29288609.html)**
+
+The official, Tamara Pletnyova, said in an interview with a Moscow radio station that with the start of the World Cup, thousands of foreign fans would enter Russia, and the number of single mothers might grow.
+
+She advised that if a Russian woman wants to become pregnant, the father should ideally be of "the same race" as her. "If it's another race, then things will be worse; we should leave the chance of being born to children of our own ethnicity. I am not a nationalist. I know those children will suffer, will be abandoned by their foreign fathers, and will have to depend on their mothers alone."
+
+She also warned that even if a Russian woman marries a foreign partner, the result could be settling abroad and never finding a way back home.
+
+"They will come to the committee and cry to me, saying their children were taken away, that they had abortions, things like that. I would like people in this country to marry for love, regardless of ethnicity, to build happy families with true Russian citizens, live in harmony, and raise children."
+
+This is not Pletnyova's first controversial remark. In March, parliamentary speaker Vyacheslav Volodin commented on female journalists' sexual-harassment allegations against his colleague Leonid Slutsky, saying that if female journalists were harassed by lawmakers in the legislature, they should consider changing jobs. Pletnyova voiced support for this — "I would say these female journalists should be more serious, wear proper clothes when entering a state building instead of exposing their navels. If they are so scared and worried about being harassed, they shouldn't come at all."
+
+Statistics from January show that Russia's birth rate fell by another 10.7% in 2017, marking three consecutive years of decline.
+
+### On This Day in History
+
+June 15, 1948: The People's Daily was founded.
+
+June 15, 1962: The Secretariat of the CPC Central Committee met to discuss the question of the "household responsibility system," and Deng Xiaoping delivered his famous line, "It doesn't matter whether a cat is yellow or black, so long as it catches mice," arguing that whichever form of production could restore and develop agricultural production relatively easily and quickly should be adopted — and whichever form the masses were willing to adopt should be made legal if it was not already.
+
+June 15, 1965: The Beatles were awarded the MBE (Member of the Order of the British Empire) by the Queen, the highest honor for ordinary British citizens.
+
+June 15, 1998: China ended the in-kind allocation of housing and switched to monetary housing allocation; newly built housing would in principle be sold rather than rented.
+
+### On This Day — and the Days After — in History
+
+June 16, 1888: *The Internationale* was born.
+
+June 16, 1903: Henry Ford founded his automobile company.
+
+June 16, 1932: The Lausanne Conference decided to halt German war reparations.
+
+June 17, 1967: China's first hydrogen bomb was successfully detonated.
+
+June 17, 1972: Five men were arrested for breaking into the Democratic Party's Watergate office building to install wiretaps, opening the curtain on the Watergate scandal and leading to Nixon's downfall.
+
+June 17, 1980: Scientist Peng Jiamu disappeared in Lop Nur.
+
+June 17, 2011: The UN Human Rights Council passed a human-rights resolution on sexual orientation and gender identity by 23 votes to 19, with 3 abstentions — the first time in the history of both the UN Human Rights Council and the UN General Assembly that a resolution on the rights of gay people was adopted by vote.
+
+Cover image from [Pexels](https://www.pexels.com/photo/adult-art-conceptual-dark-278312/)
