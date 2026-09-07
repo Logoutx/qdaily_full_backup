@@ -1,0 +1,181 @@
+@@QD_TITLE@@
+Approved by special CSRC dispensation, Foxconn lists on the A-share market on Friday — this company is not just about assembling iPhones
+@@QD_EXCERPT@@
+Foxconn wants to move into higher-end manufacturing, and the A-share market needs it to show its resolve.
+@@QD_BODY@@
+Foxconn wants to move into higher-end manufacturing, and the A-share market needs it to show its resolve.
+
+At 9:30 a.m. on June 8, the A-share market will welcome [the rare listing of a major company](http://www.sse.com.cn/disclosure/listedinfo/announcement/c/2018-06-07/601138_20180607_1.pdf).
+
+That is the day Foxconn Industrial Internet lists on the A-share market. Its fundraising totals 27.1 billion yuan — the largest IPO raise on the Shanghai Stock Exchange since 2015, and it will also be the largest IPO by a non-state-owned company in A-share history.
+
+Over the past few years, almost none of China's best companies have listed on the A-share market. Alibaba and JD.com went to the U.S. market, Tencent is in Hong Kong. And Xiaomi and Haidilao, both in the listing pipeline, filed prospectuses with the Hong Kong Stock Exchange.
+
+To bring Foxconn on board, the China Securities Regulatory Commission (CSRC) set a string of records. This company fell short of the written requirements on both operating history and the absence of a controlling shareholder, yet in the end — counting the Spring Festival holiday — [it was approved for listing in just 36 days](https://www.qdaily.com/articles/50941.html). By comparison, ordinary companies queue for at least a year and a half.
+
+The Foxconn name is a household word, but that does not mean it is a good reputation. Those three characters are still more readily associated with sweatshop factories.
+
+But the Foxconn listing this time is not actually that 1.3-million-person iPhone assembly plant. Rather, it is the parent company's attempt to transform and upgrade within a consumer-electronics supply chain firmly controlled by Apple.
+
+Beyond a name that is very much on-trend, riding the "advanced manufacturing" policy, what exactly is this Foxconn Industrial Internet that is about to list?
+
+### Hon Hai Group's most successful new company is still a manufacturing business
+
+Foxconn Industrial Internet's parent company is Hon Hai Precision Industry. In 1974, 24-year-old Terry Gou founded Hon Hai Plastics in Taiwan, mainly making channel-selector knobs for televisions. Three years later, Hon Hai built its first standardized tooling production line.
+
+Most people today know Terry Gou's business because it made the iPhone. But its beginnings actually trace back to IBM, Apple's great rival of the early days.
+
+In 1981, IBM launched the personal computer, and Taiwan's electronics industry took off in tandem. For chip manufacturing there were TSMC and UMC; for PCs, Acer and ASUS; for chip design, VIA Technologies and MediaTek; for display panels, AU Optronics and Innolux... And the contract manufacturers assembling components made in Taiwan and the U.S. into computers were Hon Hai and Pegatron.
+
+Hon Hai Precision's earliest orders were precisely for manufacturing computer connectors for Acer and UMC.
+
+The other great era Terry Gou caught was the reform and opening-up of the mainland. At the end of 1987, the two sides reached a consensus on Taiwan compatriots returning home. The following January, the first group of returning Taiwan compatriots went back to the mainland. Gou also returned to the mainland that year, and in the same year built factories there, using mainland labor to lower production costs. After that, "Foxconn" became the collective name for all of Hon Hai Group's mainland factories.
+
+Later, the Hon Hai Group's businesses grew numerous, and so did its listed companies. Hon Hai Precision, FIH Mobile, FIT Hon Teng, Yunzhihui Technology, and Xunzhihai are already listed in Taiwan and Hong Kong. These companies differ greatly in scale, business, and profitability.
+
+The largest is Hon Hai Precision — the one that assembles iPhones. Its 2017 revenue exceeded 1 trillion yuan, with profit of about 29.1 billion yuan. But FIH Mobile, the subsidiary that provides phone assembly services for Huawei, Xiaomi, OPPO, and Vivo, lost about 3.1 billion yuan in 2017.
+
+![](http://img.qdaily.com/uploads/20180607083818KG7H3vcDM2stFLQp.jpg-w600)
+
+The Foxconn Industrial Internet listing this time is the second-largest business under Hon Hai Group. Its businesses include high-precision components for communications equipment, cloud server equipment (Amazon is a customer), and industrial robots (the kind used in phone and car manufacturing). Its 2017 revenue was 354.5 billion yuan, with net profit of 16.2 billion yuan.
+
+In the new generation of data-centric manufacturing, Foxconn Industrial Internet's main businesses cover nearly every stage, monitoring raw materials and product production across the entire process:
+
+- Generating data. Industrial robots, precision tools
+- Transmitting data. Communications network equipment
+- Storing data. Cloud computing equipment
+- Industrial internet services. Analyzing and using industrial production data
+
+![](http://img.qdaily.com/uploads/20180607084417gqEWkFfZa9HnDoCT.jpg-w600)
+
+Although it covers every stage, what Foxconn Industrial Internet currently offers customers is not an industrial-internet solution encompassing the whole process.
+
+It provides consumer-electronics manufacturing customers with manufacturing management, processing equipment, and even partial R&D support. What cloud-computing vendors such as Amazon AWS want is the production of all kinds of equipment in a data center.
+
+This is still a manufacturing business.
+
+![](http://img.qdaily.com/uploads/201806070839287sLof6l2REuWh9tk.jpg-w600)
+
+### No longer a low-end assembly plant, the newly listed Foxconn is still a labor-intensive company of 270,000 people
+
+Its revenue is not the only thing that's big — Foxconn Industrial Internet also has a very large workforce, nearly 270,000 employees. These people belong to dozens of factories across China, located in Shanghai, Chongqing, Shenzhen and Dongguan in Guangdong, Hangzhou in Zhejiang, Nanning in Guangxi, Zhengzhou, Hebi, and Jiyuan in Henan, Taiyuan and Jincheng in Shanxi, Wuhan in Hubei, Langfang in Hebei, Chengdu in Sichuan, and elsewhere.
+
+Counting by the once-popular question "how many pigs does Foxconn eat a day," it would come to roughly 270 pigs (assuming each person eats 0.2 jin — 100 grams — of pork a day, and each pig has a net weight of 200 jin — 100 kilograms).
+
+![](http://img.qdaily.com/uploads/20180607074306wnMDiN4LWaGjOJAg.jpg-w600)
+
+Of the workforce, about 200,000 are engaged in production and manufacturing, and more than 200,000 have less than a junior-college education; each group accounts for over 75% of the total.
+
+These 270,000 employees generate output per capita of about 1.3 million yuan each and contribute about 58,000 yuan in profit per person.
+
+By comparison, Apple's 123,000 employees (including staff at more than 500 retail stores worldwide) generate output per capita of about 12 million yuan and contribute 2.6 million yuan each. Foxconn Industrial Internet is still far from being a technology business like Apple's, but it is no longer the assembly factory of old.
+
+### Foxconn's overall success is thanks to the iPhone, but its dealings with Apple are a fierce contest
+
+Last year, CICC broke down and calculated the production cost of an iPhone X at roughly US$417. Of that, the assembly portion was only US$4.2 — and that is where the profit for contract manufacturers like Foxconn comes from.
+
+![](http://img.qdaily.com/uploads/20180607074317Mfd5kBvVT3xaReWp.jpg-w600)
+
+But the relationship between Foxconn and Apple is not that simple. Apple procures the important raw materials it needs itself — including things that sound utterly ordinary, like aluminum.
+
+The raw materials Foxconn uses to produce Apple products are not purchased by Foxconn from raw-material suppliers; they all have to be purchased from Apple. In 2015, 2016, and 2017, Foxconn's main operating costs were 243.9 billion yuan, 243.1 billion yuan, and 317.7 billion yuan, of which direct raw-material costs accounted for 82.02%, 83.21%, and 86.51%.
+
+This kind of relationship between Foxconn and Apple is also known as "Buy and Sell."
+
+![](http://img.qdaily.com/uploads/20180607083523gzlYVEkvw1NP4yuX.jpg-w600)
+
+Buy and Sell means Apple first procures core components such as chips, memory, and touchscreens, then sells them to Foxconn; Foxconn assembles the products and then sells them back to Apple.
+
+The core of this production model lies in payment terms and cash conversion.
+
+When Apple pays for its procurement of raw-material makers and contract manufacturers, it extends payment terms; but when it sells raw materials back to the contract manufacturers and recovers funds, it can compress payment terms. When Apple's scale and bargaining power are big enough, simply adjusting payment terms lets it use other people's money to run its own business — and its cash flow is very impressive.
+
+On top of that, Apple's products are popular: once made, they move off the shelf in an average of six to seven days. "Move off the shelf" here does not mean reaching consumers; it refers to how quickly carriers and retail channels buy them up once they are produced.
+
+At the same time, Apple's supply-chain management is extremely efficient. Its collection terms from contract manufacturers are within 28 days, but its payment terms to raw-material suppliers and contract-assembly manufacturers exceed 100 days. Apple's cash-conversion cycle is negative — and it stretched from -68 days in 2016 to -80 days in 2017.
+
+This means that for every batch of products Apple produces, it only needs to pay Foxconn the assembly fees 80 days after receiving money from Foxconn.
+
+![](http://img.qdaily.com/uploads/20180607083329xyT7iV0RMpKHX6mf.jpg-w600)
+
+In terms of cash management alone, doing business with Apple puts Foxconn under heavy pressure. Its solution is to transfer that funding pressure to other suppliers that provide it with services and raw materials.
+
+As a result, a distinctive feature of Foxconn's financial statements is that both accounts receivable and accounts payable are very high.
+
+![](http://img.qdaily.com/uploads/20180607083347ABsxgwjprQR0XHoS.jpg-w600)
+
+### The phone supply chain is changing, and the manufacturing plants are extending upstream
+
+On the surface, Foxconn appears to be in a weak position amid competition. But as Foxconn's position across the whole supply chain keeps evolving, its accounts receivable will shrink year by year, its accounts payable will grow year by year, and its cash-conversion days will fall — transmitting through to revenue and profit, driving revenue growth and higher profits.
+
+According to Foxconn's prospectus this time, its accounts-receivable turnover days were both around 67 days in 2016 and 2017; inventory turnover days fell, showing that its products ship out faster; and accounts-payable turnover days rose, so that overall cash-conversion days dropped from 51 to 36.
+
+This means Foxconn ships its products faster while it can drag out its debts to upstream brand-owner customers longer. It shows that Foxconn Industrial Internet's bargaining power over the phone supply chain's upstream and downstream is growing.
+
+![](http://img.qdaily.com/uploads/20180607083358NSB4IXOjf9qx07ah.jpg-w600)
+
+The global smart-manufacturing industry for electronic equipment includes consumer-electronics equipment, computers, network equipment, telecom equipment, and cloud-service equipment. The segments Foxconn Industrial Internet is involved in mainly include smartphones, network equipment, telecom equipment, and cloud-service equipment.
+
+According to IDC statistics, global phone shipments in 2017 were about 1.98 billion units, of which smartphone shipments were 1.52 billion units — but that was already the peak for smartphones.
+
+Generally speaking, once the phase of fighting over the growth market is over, new operational goals become improving efficiency, eating into competitors' market share, and even strengthening one's own position in the supply chain.
+
+The phone supply chain can be divided into three stages: upstream components, midstream modules, and downstream assembly.
+
+Electronic components mainly fall into two categories: chips and parts. Chips include baseband chips, processors, and sensor chips; parts include memory, panels, lenses, antennas, and so on. The main companies include Qualcomm (chips), OmniVision (image sensors), BOE (panels), Sunny Optical (cameras), Samsung (memory), and others.
+
+Modules mainly include backlight modules, memory modules, camera modules, and so on. One of Apple's camera-module makers is Foxconn (along with Sharp, which it acquired). Other well-known module companies include OFILM and Sunny Optical.
+
+Assembly is putting the modules together into finished devices. The main companies include Hon Hai/Foxconn, Pegatron, and Longcheer.
+
+On this supply chain, the stage with the lowest technological content is assembly, with an average gross margin of only 6.92%.
+
+![](http://img.qdaily.com/uploads/201806070839070aVnwSrokhpJzjcT.jpg-w600)
+
+As consumer-electronics products iterate rapidly, the demands on large-scale, elastic manufacturing keep growing. Foxconn's bargaining power has actually become stronger.
+
+In other words, new consumer-electronics products need stable, large-scale, intelligent, and efficient factories to do tooling and assembly. This trend is already becoming visible. Beyond Apple, Foxconn's new customers in recent years include Amazon AWS (cloud servers).
+
+The Foxconn Industrial Internet that is about to list is taking over more business of exactly this kind.
+
+![](http://img.qdaily.com/uploads/20180607083634u5km8PFvEftrpsKO.jpg-w600)
+
+### Foxconn's A-share listing is also the start of mainland financial-reform experimentation
+
+At the end of last year, *Fortune* magazine held its annual forum in Guangzhou. In an onstage conversation, Terry Gou mentioned the various kinds of support Foxconn had received — for example, he was to meet several senior Guangdong officials that very evening, and after an earlier meeting with Trump, he had been contacted by governors of ten U.S. states.
+
+Unlike the public memory of sweatshop factories and a spate of suicides, Foxconn has always been welcomed by local governments for the employment possibilities brought by its enormous workforce. And not only in China: Wisconsin in the U.S. [offered US$4 billion in tax breaks](https://urbanmilwaukee.com/2017/12/21/murphys-law-foxconn-subsidy-now-exceeds-4-billion/) for a Foxconn plant.
+
+This Foxconn Industrial Internet listing on the A-share market likewise cannot be separated from policy considerations.
+
+At the time it applied to list, Foxconn Industrial Internet had been in existence for less than three years and had no controlling shareholder. According to the CSRC's *Administrative Measures for the Initial Public Offering and Listing of Stocks*, which explicitly require a company to have been operating continuously for more than three years, and given the high rejection rate by the listing-review committee for companies without a controlling shareholder, it should not have been approved for listing in early 2018.
+
+But not only did it pass the review — it did so at a record-setting pace, taking just 36 days from submitting materials to approval, with a Spring Festival in between. Compared with the queue of at least a year and a half for ordinary IPO applicants, Foxconn's speed was quite astonishing. And Foxconn's fundraising of 27.2 billion yuan this time is also the largest IPO raise since 2015.
+
+The backdrop of this fast-track approval is that the mainland capital markets, the Shanghai and Shenzhen exchanges, need to face competition from the Hong Kong Stock Exchange.
+
+![](http://img.qdaily.com/uploads/20180607083435AY82zxT3HORb0XIF.jpg-w600)
+
+In 2017, the SSE 50 rose 25.08%, but that was mainly driven by the banking, real-estate, and baijiu (liquor) sectors. The ChiNext board, originally meant to represent a new generation of companies, was a sorry sight.
+
+At the same time, Alibaba, JD.com, and NetEase kept hitting new highs in the U.S. market, and the Hong Kong market as a whole became more active. For the whole of 2017, net capital inflow into Hong Kong stocks was HK$339.9 billion, up 40% from 2016, and the Hang Seng Index gained 36% for the year. A number of companies backed by Tencent's investment listed in Hong Kong.
+
+Under these circumstances, in 2018 the Hong Kong Stock Exchange also launched its biggest reform in more than 20 years, allowing internet companies with dual-class share structures to list. Hong Kong's competitive edge over the A-share market has become increasingly pronounced.
+
+This year, Xiaomi and Canaan have already filed prospectuses in Hong Kong, and even Haidilao in the restaurant business has chosen Hong Kong because of [A-share industry and financial restrictions](http://www.qdaily.com/articles/53434.html).
+
+A-share regulators and investors alike have realized that the A-share market has reached a rather dangerous pass.
+
+Because money is finite, and money chases companies with potential. If internet companies all go to list in Hong Kong and the U.S., then the capital chasing internet companies will flow to those markets too — even though the foreign-exchange regulator keeps imposing more restrictions on capital outflow.
+
+The recent move, now underway, to let overseas-listed companies [return via CDRs](http://www.qdaily.com/cards/51306.html) is also happening to address this problem.
+
+"New economy" and "unicorns" have become words regulators use. To make a statement, the regulators broke all manner of rules they had set themselves to bring in Foxconn Industrial Internet.
+
+But when will the A-share market become a market that follows its own rules?
+
+Charts/Feng Xiuxia, Gong Fangyi
+
+Cover image source: [Sohu](http://www.sohu.com/a/233706118_100155985), [Radovan](https://unsplash.com/photos/Vj1OqmW4oh8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@chiling/likes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Motherboard](https://motherboard.vice.com/en_us/article/ypw8ww/beyond-foxconn-inside-shenzhen-the-worlds-gadget-factory) (Liam Young/Unknown Fields Division
+
+)

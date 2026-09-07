@@ -1,0 +1,222 @@
+@@QD_TITLE@@
+Hands-on with the first iOS 12 beta: 23 changes worth noting
+@@QD_EXCERPT@@
+Perhaps because there are no major changes, this year's beta doesn't have nearly as many bugs as the ones from the past two years.
+@@QD_BODY@@
+Perhaps because there are no major changes, this year's beta doesn't have nearly as many bugs as the ones from the past two years.
+
+On Monday, at its annual developer conference, Apple laid out the changes coming in iOS 12 — a software update that focuses more on performance and experience improvements. Battery throttling, endless bugs, features delayed past launch… over the past few years iOS iterations have come a bit too fast, creating too many problems that affect real-world use.
+
+Judging by the interface, iOS 12 doesn't feel like a fresh start.
+
+We spent two days with the first developer beta of iOS 12 on an iPhone X. This is an early version offered to app developers to help them get to know the new system and finish adapting their apps. The official release won't be available to all users until the new iPhone arrives three months from now.
+
+But you won't mistake it for iOS 11.
+
+After two days of use, the most immediate feeling is that everyday operations have gotten faster — opening apps, switching between screens.
+
+The first big change Apple announced at the keynote was an adjustment to how the processor works. To save power, the phone's processor normally runs at a lower frequency, jumping to a higher one when there's complex work to handle. In the past, iOS adjusted the processor in a relatively "gentle" way, with performance ramping up gradually. iOS 12, by contrast, ramps performance up abruptly — which in theory means you should feel the speedup in more everyday operations.
+
+For now it's unclear how much of this performance gain comes from the new processor management, and how much from internal code optimization in the operating system and tweaks to the transition animations.
+
+There are still quite a few small bugs, and some features are real battery hogs, but overall the developer beta of iOS 12 is far more polished than its predecessors — smooth and stable.
+
+If you want to try it too, first make sure you have a [developer account](https://developer.apple.com). Back up your phone and you can download and install it. There are risks, of course — this is the very first version, some apps will crash, and the phone tends to run hot.
+
+These are the supported devices:
+
+![](http://img.qdaily.com/uploads/20180607214841EApbLhoOql7RjcNT.png-w600)
+
+The main interface of iOS 12 looks no different from iOS 11, but in fact [iOS 12 fine-tuned hundreds of features](https://www.apple.com/ios/ios-12-preview/features/), some of which weren't mentioned at Monday's keynote. From our two days of use, we've picked out 23 things worth paying attention to.
+
+### Detailed changes to how you interact
+
+To accommodate the iPhone X, which has no Home button, last year's iOS 11 completely reworked some interactions and interface designs — the way you switch apps, the font that drops down from the top, and a Control Center that looks entirely different.
+
+iOS 12 makes some adjustments on top of that.
+
+**1. Notification grouping**
+
+This is probably the new feature that most affects daily use. Notifications used to be organized strictly by the time they were pushed; now notifications from the same app stack on top of each other as cards, leaving the whole notification screen clean and tidy. Tap a group of notifications and the cards expand downward to show them all; tap again to enter the app, or reply directly from within the notification.
+
+![](http://img.qdaily.com/uploads/20180607211630igyHYCUX1jvPxetd.png-w600)
+
+Swipe left on a card group and there's an extra Manage button here. The two options are "Deliver Quietly / Prominently" and turning off that app's pushes. "Deliver quietly" means the notification only appears in Notification Center, with the little badge number on the app icon, but no sound and nothing on the lock screen.
+
+There's also a Settings button below that takes you straight to that app's push notification settings, which have seen a small change of their own.
+
+![](http://img.qdaily.com/uploads/20180607211653xsl9XKMgihqJmFZ3.png-w600)
+
+Notification grouping is a feature Android has had for a while, and now iOS has it too.
+
+It's all about simplifying how notifications are displayed, reducing the number of times you check your phone, and helping you focus. If you care about a particular app's pushes more than others, notifications in that group reach further back in time. For example, my go-to news app now lets me scroll through a whole day's worth of pushes at once, instead of scrolling past other apps' notifications all the way to the bottom of the list.
+
+**2. Multitasking goes back to iOS 10's swipe-up-to-close**
+
+On the iPhone X under iOS 11, you summoned multitasking by swiping up from the bottom of the screen and pausing, and to close an app you then had to tap the red minus sign in the top-left corner — not very convenient. iOS 12 supports swiping up to kill apps, which is the iOS 10 interaction — in other words, it's been changed back.
+
+iOS's background mechanism works differently from a PC or a Mac; most of the time you don't need to close apps to save power. The iOS 11 adjustment was clearly meant to encourage users to close fewer processes. But a lot of people didn't like the change, and a handful of apps genuinely had problems with it, so Apple's long-press-to-close solution had something of a learning curve.
+
+**3. Control Center gains a button**
+
+A new button has been added here to open the QR code camera — which actually just opens the built-in Camera app. iOS 11 already had this feature: point the native camera at a QR code and it recognizes it directly, with a banner popping up at the top of the screen prompting you to tap in and see what was scanned. Still, in China, what everyone's most used to is scanning codes with WeChat.
+
+**4. Do Not Disturb really lets you be undisturbed**
+
+This is another substantially reworked part. With Do Not Disturb on, the lock screen shows no notifications at all — total silence. They're quietly recorded in the background, and you can see them by unlocking the phone and opening Notification Center.
+
+Do Not Disturb adds a Bedtime Mode: once it's on, the lock screen shows a new widget with only the weather in the center of the screen and no notifications.
+
+![](http://img.qdaily.com/uploads/20180607212227ReAXi6lcCxJGobPu.png-w600)
+
+To some extent, this eases the information anxiety of the obsessive-compulsive among us.
+
+### Face ID quietly improved
+
+**5. Face ID gains a second face enrollment.** This is an update the keynote didn't mention. If you've used an iPhone X, you'll have noticed that Face ID greatly increases how often you have to type in your passcode — face unlock is fast, but there are simply too many situations where it doesn't recognize you. iOS 12 adds a second face enrollment in Settings, letting you register a second face.
+
+![](http://img.qdaily.com/uploads/20180607212528Ok9DGS8gc3twdQza.png-w600)
+
+The point is to let the iPhone know "the other side of you," raising the odds of an accurate recognition. For example, you could enroll once before putting on makeup and once after. We tried enrolling a face while lying on our side (lying down distorts your face against the pillow, which previously threw off recognition) — a scenario where Face ID often fails to unlock. After enrolling, Face ID subjectively feels a bit more accurate.
+
+Note that this doesn't mean one Face ID lets two people unlock the phone. If the second face belongs to someone else, the iPhone will still only use the first enrolled user for unlocking — the so-called second enrollment exists solely to boost recognition accuracy.
+
+The mask problem, however, remains unsolved: try to enroll a masked face and Face ID will prompt you to remove the obstruction from your face.
+
+**6. Face ID unlock gets a second recognition attempt.**
+
+When the first face scan fails, the iPhone X automatically prompts you for the passcode so you can get going as quickly as possible. iOS 12 adjusts this: swipe up again, and Face ID starts a second recognition attempt.
+
+![](http://img.qdaily.com/uploads/20180607215704R0UBdu5EwTyQraVh.png-w600)
+
+### The features for cutting down phone use are remarkably thorough
+
+**7. Screen Time: the final say is yours.**
+
+Screen Time isn't an app; you find it inside Settings, and it contains a mass of detailed settings.
+
+At the very top is a report telling you how long you've used your phone so far today, which categories of apps you used, and what your longest single stretch was. Some of the results are genuinely surprising — I stared at my phone uninterrupted for 40 minutes today? I don't remember that.
+
+Tap into the report for even more detail: how many times and how often you woke the screen, which apps' notifications you received and how many of each, and a ranking of your most-used apps by time.
+
+![](http://img.qdaily.com/uploads/2018060721291126JbLdlCnvwVG5pO.png-w600)
+
+Back at the first Settings screen, below the report are four main functions. Always Allowed is your app whitelist; the security-and-privacy option lets you set a passcode for Screen Time controls; Downtime is similar to Do Not Disturb, letting you set a time window during which every app except those on the whitelist is restricted.
+
+App Limits are usage controls for specific apps. The categories in the list include Games, Social Networking, Entertainment, Productivity, Reading, Health & Fitness, and Others, and each category can have its own daily time cap.
+
+![](http://img.qdaily.com/uploads/20180607213738uCMnFYVKT8xw35Js.png-w600)
+
+What happens when you hit the limit? Say I've set a time limit on social networking: the system pops up a banner notification five minutes before the cap. The moment time's up, the app goes into a locked state — a tiny hourglass appears next to the icon, and the icon itself dims.
+
+![](http://img.qdaily.com/uploads/20180607213419lGAywCjYLg8X7uxW.png-w600)
+
+But you can still open the app — you just see a "Time Limit" overlay first. Choose the Ignore option and you can dismiss it for 15 minutes, or let yourself off the hook for the whole day. If a passcode has been set, there's one more step of entering it below.
+
+So the so-called forced screen-time control ultimately leaves the choice up to you. Based on my two days of use, my phone time hasn't dropped noticeably; I'm inclined to check how long I've used my phone, but I haven't yet figured out how to get a handle on my app habits.
+
+### Upgraded Animoji, and the effects that come with them
+
+**8. Animoji adds four animals.**
+
+A dinosaur, a tiger, a koala, and a little ghost.
+
+**9. Animoji can detect your tongue.**
+
+But only the tongue sticking out — complex motions like wagging it up, down, left, and right can't be detected. There are still some bugs at this stage, and it doesn't work smoothly.
+
+![](http://img.qdaily.com/uploads/20180607214614MSrzLaubRQjs3ETk.png-w600)
+
+![](http://img.qdaily.com/uploads/20180607214617SGBeXnD309kERjc4.png-w600)
+
+Each Animoji's tongue has a little design flourish too: the robot's tongue is also a machine, the alien spits out a green tongue, and the unicorn's tongue sparkles and glitters.
+
+**10. Memoji: build your own avatar.**
+
+Just as demoed at the keynote, Emoji personalization is rich in detail — you can choose everything from hair, eyebrows, eyes, nose, and face shape to freckles. Interestingly, Memoji has no gender; you don't have to pick male or female first.
+
+![](http://img.qdaily.com/uploads/20180607214804LQ6qSMJApZ5t47mo.png-w600)
+
+Though fiddling with all the options eats up quite a bit of time — you might need to set some screen-time controls for it.
+
+**11. Animoji recording time goes up to 30 seconds.**
+
+![](http://img.qdaily.com/uploads/20180607214821gjyOqB3USaXJAL5s.png-w600)
+
+**12. Memoji can be used in Messages and FaceTime.**
+
+You can take a selfie with your own Memoji and add effects like oil painting. The camera in Messages is far more fun than the native camera.
+
+### A few new apps
+
+**13. The AR ruler, Measure.**
+
+Apple made quite a few apps that third-party developers already offer. Measure is a simple AR ruler app: aim at a point on a real object, stretch it out, and you can measure the actual distance. We tested it on both an iPhone 8 Plus and an iPhone X — it runs smoothly on both, though the back of the phone heats up within minutes.
+
+![](http://img.qdaily.com/uploads/20180607215237aJEBiWSZLdQl3N1v.png-w600)
+
+As for accuracy, it depends on environmental factors. The object you're measuring is best contrasted against the background — if the colors are similar, the measurement point drifts.
+
+**14. The Stocks app gets an upgrade.**
+
+Swipe up to show a card with financial news from Yahoo. Tapping each stock likewise pops up a card.
+
+![](http://img.qdaily.com/uploads/20180607215038huT4XyfZaCdsSG5z.png-w600)
+
+**15. Voice Memos has changed too.**
+
+The interface likewise adopts the card design, and a simple trimming function has been added.
+
+**16. Books is more like an e-reader.**
+
+But the Books Store remains pulled from mainland China and hasn't been restored to this day.
+
+**17. Photos inches closer to Google Photos.**
+
+It automatically categorizes images by content — dogs, cats, places, people — making them easier to search. At this stage, the current version isn't as refined as Google Photos, and it still has a few small bugs.
+
+![](http://img.qdaily.com/uploads/20180607215823VqLB5KS7Hu0gTCdl.png-w600)
+
+### Siri got a bit smarter
+
+**18. Siri can understand more questions.**
+
+For example, "What's my Amazon account password?" That's determined by the volume of data in Apple's hands — even if most companies built a better voice assistant, they don't have this data.
+
+Of course, if you don't use Safari's built-in iCloud Keychain password storage, you can't use this.
+
+**19. Shortcuts makes it easy to set phrases, but the standalone app hasn't arrived yet.**
+
+Take "set a 10-minute timer": with Shortcuts you can reduce the Siri command to "10 minutes."
+
+![](http://img.qdaily.com/uploads/20180607220116RkSLNVGAg6K0OU1w.png-w600)
+
+In actual use of Siri, this didn't save me much time. The Shortcuts demoed at the keynote let you set up task workflows — one command completing a chain of actions across different apps — which looks rather more useful. However, the standalone Shortcuts app hasn't shown up in this first iOS 12 beta.
+
+### A few more small changes
+
+**20. Interface color changes.**
+
+Background colors for app folders, Apple Music on the lock screen, and other apps have gone dark.
+
+![](http://img.qdaily.com/uploads/20180607220512qDZEKHmFBAWYVx6T.png-w600)
+
+**21. Battery management adds visualized statistics.**
+
+You can now see which apps used your battery over the past day or two, and when drain peaked.
+
+![](http://img.qdaily.com/uploads/20180607220602tChyKpGd97FUTwJM.png-w600)
+
+### The iPhone X's interactions are transplanted onto the iPad
+
+This is another part the keynote didn't mention. With no Home button on the iPhone X, some of its operations are replaced by gestures. iOS 12 brings some of those gesture interactions to the iPad.
+
+![](http://img.qdaily.com/uploads/20180607220817zIjZNeqg4JsAo09T.PNG-w600)
+
+**22. Control Center moves to the top-left corner and appears on a swipe down.**
+
+**23. Swipe up from the bottom to exit an app; swipe up and hold to summon the multitasking view** — exactly the same as the iPhone X.
+
+The iPad barely needs the Home button anymore. Every year, the new iOS version prepares the ground for that year's new hardware — so if the next-generation iPad Pro gets Face ID, it wouldn't be much of a surprise.
+
+Cover image: photographed on site at WWDC
