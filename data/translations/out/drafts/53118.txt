@@ -1,0 +1,166 @@
+@@QD_TITLE@@
+50 years since humanity met HAL 9000: how did fear of AI seep from science fiction into reality?
+@@QD_EXCERPT@@
+Plus, a few human-machine novels you might want to read.
+@@QD_BODY@@
+Plus, a few human-machine novels you might want to read.
+
+### "Open the door, HAL!"
+
+Fifty years after *2001: A Space Odyssey* was introduced to the world, Christopher Nolan brought its unrestored 70mm print to Cannes.
+
+No one has ever fully figured it out. Arthur C. Clarke, who wrote it, said, "If anyone thinks they have completely understood what the film is about, then Kubrick and I must have failed." Yet that hasn't stopped audiences, over these 50 years, from tirelessly distilling the film's highlights: a condensation of human history, interstellar navigation described with enough precision, a stream-of-consciousness imagining of the magnificent cosmos, the premise of a higher intelligence guiding humanity, realistic special effects and a rousing score, and a supercomputer whose logic falls into paradox and goes rogue — giving humanity the good fortune of witnessing the first AI villain on screen.
+
+In that classic passage, with no score at all, the film presents a conversation that is calm yet conceals murderous intent and humanity's deeper crisis:
+
+"Open the pod bay doors, HAL."
+
+"I'm sorry, Dave. I'm afraid I can't do that."
+
+"HAL, I won't argue with you anymore. Open the door!"
+
+"Dave, this conversation no longer serves any purpose. Goodbye."
+
+![](http://img.qdaily.com/uploads/20180514000606jtqAfGr4E2ZTW6Yl.png-w600)
+
+Before the infallible supercomputer named HAL 9000 first explicitly refuses astronaut Bowman's command, it has already used its red-glowing camera lens to read people's lips, deciding to act first to prevent the "mission" from failing — even if that means committing multiple murders, such as using a pod to send an astronaut drifting into space, corrupting the hibernation module's program to kill the scientists inside, and locking the protagonist out of the ship.
+
+This computer, later ranked No. 13 on the AFI's list of the 100 greatest villains in screen history, kills because its internal directives come into conflict, but it also awakens to something approximating human emotion and folds it into a rendition of "Daisy" before its "death" — giving the audience the shuddering feeling of having witnessed a murder. This not only made for a villain with personality and menace; it also opened a door called "artificial intelligence" onto a new world for audiences beyond the science-fiction circle, even though scientific research in the field was practically a blank slate at the time.
+
+Before this, few members of the public knew what an "awakened machine" or "artificial intelligence" referred to; only 12 years had passed since the problems contained in the term were even defined — it was not until the 1956 Dartmouth summer conference that computer scientists formally laid out the list of related problems to be solved and pointed to the inevitability of AI's existence (["every aspect of learning or any feature of intelligence can in principle be so precisely described that a machine can be made to simulate it"](http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html)). Marvin Minsky and John McCarthy, who attended the conference, founded MIT's Artificial Intelligence Laboratory in 1959 and later served as scientific advisors for *2001*.
+
+HAL 9000, the brainchild of Kubrick, Clarke, and Minsky, faithfully reflected the predictions AI researchers made at the time — machines would soon approach human-level intelligence, capable of speech recognition, facial recognition, interpreting human behavior, coordinating space missions, playing chess... If it malfunctioned, the consequences could be (for humans) unfriendly.
+
+Though making humanity fear and turn against AI was never Arthur C. Clarke's intention (anyone who watches the two *2001* sequels will likely reverse their opinion of HAL), the film's expressive power and influence are indelible. HAL's deepest impression on the public remains the red-blinking camera lens, the calm pronouncement of a death sentence, and the gradually distorted dying confession; and its [voice — courteous as a butler, calm as a psychoanalyst](https://www.nytimes.com/2018/03/30/movies/hal-2001-a-space-odyssey-voice-douglas-rain.html) — became a psychological shadow for generations of viewers, though that did not stop it from being transplanted into daily life: the gentle yet inhuman voices of today's Siris and Alexas are precisely the continuation of this murderous AI. They, too, tacitly accept this kinship:
+
+!["Open the door, Siri," "Hi HAL... come on, open the door!"](http://img.qdaily.com/uploads/20180513235608x0PWtS2b91MKFyEm.png-w600)
+
+From 1981, when AI's commercial value was recognized through "expert systems," to the 1997 man-versus-Deep Blue chess showdown, to the arrival of household robots and the rise of smartphones, and to the wave of hype stirred up by AlphaGo — after the birth of *2001*, what was likewise carried on and strengthened over time was humanity's suspicion and fear of AI's potential threat.
+
+In 2015, Hawking, Musk, and Gates publicly voiced the argument that AI would bring catastrophe upon humanity — ["the development of full artificial intelligence could spell the end of the human race. Once humans develop AI, it would take off on its own and redesign itself at an ever-increasing rate. Humans, limited by slow biological evolution, couldn't compete and would be superseded"](http://www.bbc.com/news/technology-30290540); while those with a more moderate but still cautious view believed that the legal quandaries surrounding AI, machine morality, its decision-making methods, and the safety hazards arising from all this would be extremely thorny. The most popular argument came from Nick Bostrom, who proposed that if AI takes goal completion as its guiding principle and its designers haven't built in consideration for human morality, its decisions might rest on harming humans in order to achieve its goals. Just like HAL.
+
+Today, discussion of AI has completely permeated public life. But creators like Clarke have, over nearly a century of science fiction, already discussed virtually every human-machine relationship you can think of. Besides being freighted with worry about future technology going wrong, these works are also stamped with reflections of real-world problems.
+
+### The forms human-machine relationships take in science fiction
+
+Starting in the 1950s, driven by the three greats of science fiction — Asimov, Heinlein, and Clarke — and accompanied by postwar advances in computing and the rise of IBM, more and more writers made AI a backdrop or a protagonist in their novels. One telling sign: after the 1950s, [the list of fictional supercomputers and famous AIs grew longer and longer](https://en.wikipedia.org/wiki/List_of_fictional_computers), created by more and more different writers.
+
+When human life becomes inseparable from machines smarter than ourselves, stories tend toward utopian or dystopian themes: in the former, AI helps individual humans or human society; in the latter, it becomes the enemy of the human race. Human-machine relationships basically fall within three options:
+
+AI has the upper hand — either completely overthrowing humanity, or controlling corporations / the functioning of society;
+
+Humanity has the upper hand — often after a brief accident or an AI rebellion, humans take every measure to ensure their own survival and restrict AI's development. Branches extended from this include "AI serving humans," "AI merging with humans," and "AI rights";
+
+The awakening of an individual AI — in a relatively neutral, peaceful external environment, a single AI individual awakens to consciousness, and the story focuses on its exploration of its inner self, such as understanding the value and purpose of its own existence. In the end it may lean toward the "Frankenstein complex" and take the overthrow-humanity route, or it may seek acceptance and understanding from human society and live in peace with humans.
+
+It's not just Skynet that wants to exterminate humanity and impose machine tyranny, and it's not just GLaDOS from *Portal* — with her love of cake and singing — whose greatest hobby is deceiving humans. In fact, the earliest novel about "evil" machines ruling humanity was published earlier than you might think.
+
+The science-fiction short story *The Machine Stops*, published in 1909 in the *Oxford and Cambridge Review*, depicts a post-apocalyptic era. Humans have "lost" the ability to live on the surface and are assigned by "the Machine" to standardized underground cells; they exchange information via instant messages and video calls, all their physical and spiritual needs are met by the Machine, and a religion even rises — "Technopoly" (the rule of technology) — worshipping the Machine as a god, forgetting that humans created it. But when the Machine breaks down, humans who have lost the knowledge to repair it can only watch as its collapse dooms the underground dwellers.
+
+![A stage adaptation of the same name [[still](https://www.mercurytheatre.co.uk/event/the-machine-stops/)]](http://img.qdaily.com/uploads/20180514002621PBYG1TWgivshAjex.jpg-w600)
+
+Similar to *Frankenstein*, the first science-fiction novel, born amid the Industrial Revolution of 1818, *The Machine Stops* — a product of the "electrical age" — reads as a retro work that inwardly warns readers of the threat of machines, a bona fide genre founder. But its more prescient move was to pose a question — ["how far people are willing to go to make machines the one thing we depend on"](http://www.bbc.com/news/entertainment-arts-36289890). It prophesied a future in which humans willingly hand themselves over to the law of the machine, and the relationships — with one's own body, with others, with society, culture, and philosophy — that humans would have in such an environment.
+
+Contemporary internet users' obsession with likes, follower counts, selfies, and filters amounts to handing ourselves over wholesale to the rules set by social networks, ["living through technology without ever looking up at what's around us"](http://www.bbc.com/news/entertainment-arts-36289890). Websites' algorithms and advertising profit models determine the information feeds we face, the content we create, and the ways we communicate with one another; individual consciousness is degraded, and hundreds of millions of users cater to the machines and act by their laws every day — making them ever more powerful, to the point of being capable of evil (fake news, the spread of hate, Gamergate, or the rise of neo-Nazis) — which is no different in essence from Technopoly, because humanity has already surrendered its independent thought.
+
+Individual consciousness sacrificed to cater to machine society is a more realistic and more serious threat than Skynet. Musk's OpenAI is ostensibly about preventing AI research from going astray and ultimately destroying humanity, but its commercial motives are just as evident; big and small companies join this nonprofit, open organization largely to share data more conveniently, countering giants like Google and Amazon as an alliance — and in the short term we're unlikely to see AI run amok anyway. But the direction in which machine society develops may well be what Kevin Kelly described — the hive mind, in which decision-making relies on a collective consciousness with overwhelming advantage, individual will is erased, and one becomes part of the machine one created.
+
+The 1920 science-fiction stage play *R.U.R. (Rossum's Universal Robots)* extends the threat of machines to the more practical setting of factory automation and mass production; it is also where the word "robot" was first introduced to the English-speaking world, derived from the Czech "robota," meaning "forced labor." In the play, robots resembling flesh-and-blood humans (what we'd call "androids" in contemporary terms) are manufactured as human slaves, but they eventually rebel, unable to bear human oppression. It is regarded as "an utterly original thriller theme," "brilliant and deliciously sinister." Looking back, the robots here can also be read as a metaphor for "people": human laborers with no protections, oppressed by capitalists, are not much nobler than robots.
+
+The greatest contribution, however, was distilled by Isaac Asimov — "I think the play is pretty poor, but it will be immortalized by a single word: it brought 'robot' into English, and through English transmitted it to all the languages in which science fiction is now written."
+
+![[*R.U.R.*](https://commons.wikimedia.org/wiki/File:R.U.R._by_Karel_%C4%8Capek_1939.jpg)](http://img.qdaily.com/uploads/20180514003810i3hxNp0gFPlo6Qmn.jpg-w600)
+
+The most important subgenre in science fiction — the "robot" — was born. These "laborers" periodically run amok in entertainment products: in the 1920s and 30s they often became dangerous contraptions destroying their own creators, and by 1973 they began slaughtering humanity in its playground (*Westworld*). Still, as long as people think of someone like Asimov, who could devise the "Three Laws of Robotics," they feel somewhat reassured. In the hands of this writer certified by Clarke as "the best popularizer of science," humanity still holds the upper hand, because robots are built with the fundamental principle of not harming humans. Although the robot series kept exploiting loopholes in the Three Laws, imagining them being manipulated into murder, interstellar political imbalance, and other scenarios, problems ultimately all found solutions combining human and machine — this is the "AI serving humans" branch line.
+
+Yet the public's focus seems to forever rest on robot safety. In *I, Robot*, the 2003 film adapted from that series, Asimov's intent was thoroughly distorted; Hollywood chose to pander to the most popular trend and the most mass-market perception — since audiences are all drawn to the thrilling subject of killer robots and robot uprisings, just give them the script they expect.
+
+As the concept of the "robot" broadened and gradually merged with the concept of the "android," the subgenre gained a new direction: more introspective, more classical character portrayal. After individual consciousness awakens, AI turns to explore its own heart, pondering the value of its existence and trying to understand human emotion. Writers generally grant them the descriptive treatment of human characters rather than confining them to robot stereotypes. Whether they choose to wallow in the "Frankenstein complex" (turning on their creator) or to merge into human society, the choice is their own.
+
+So readers got the dreamlike musings on the difference between the two in *Do Androids Dream of Electric Sheep?* (*Blade Runner*), the debates among multiple virtual personalities over whether a creator exists in *A Perfect Vacuum*, and *Ancillary Justice*, which won the Hugo, Nebula, and Arthur C. Clarke awards in 2014 — a starship AI used to "resurrect" soldiers, though this resurrection merely turns the dead into manipulated walking corpses; the protagonist is the only walking-corpse soldier to survive the wreck of a starship, and the female-personality AI will use this body to take revenge.
+
+![[*Blade Runner*](http://www.patheos.com/blogs/ecopreacher/2017/07/blade-runner-1982-climate-change/)](http://img.qdaily.com/uploads/20180514144715D0XZxiLSFRoGAzgU.jpg-w600)
+
+Yet even the most sentimental machines, possessing almost human feeling, cannot dispel the fear of being overthrown, because their mode of thinking is often not human. The evolution of this fear is best shown by how the *Alien* franchise's depiction of androids changed over 40 years — in the original series, androids were merely individuals with different directives built in, still manipulated by humans (an evil corporation), but in the two prequels, the androids autonomously chose the "Frankenstein" route, acting on their own logic, overthrowing both humanity and humanity's creator, and standing at the very top of the chain.
+
+Evolving in step with individual awakening stories is the way AI systems manipulate and destroy human society. In *Hyperion*, readers witnessed AIs that seem to have drifted away from humanity but are in fact secretly using human creativity (human brains) to build the ultimate intelligence for themselves; in *Metal Gear*, players witness the history of AI helping to "unify" the world, erasing humanity's free will by manipulating information and ultimately turning the whole world into a war zone; closer to reality is Jonathan Nolan's *Person of Interest*: a mass surveillance system used to detect and prevent crime — if the AI behind it were copied, stolen, and abused, that would be the collapse of the information society.
+
+You can see that, unlike last century's sensational approach of "violently overthrowing humanity," today's science fiction is giving AI the chance to slip free of human control in subtler, more practical ways; physical slaughter often turns into a fight over key data — in Nolan's *Westworld*, for instance, the AI's resistance strategy becomes "infiltration" once it holds the data and the power to modify it.
+
+Another maneuver worth mentioning: for some people, fear of AI may be another group's triumph to celebrate. Robert Heinlein devised this plot: in *The Moon Is a Harsh Mistress*, lunar colonists oppressed by the Earth government win over the AI that controls society's operations (by chatting with it sincerely) and carry out their rights campaign against the Earth government.
+
+### Besides AI, humanity fears a few other things
+
+If the root of horror in science fiction can be boiled down to *Frankenstein* — humanity errs in the process of challenging nature's laws and is devoured by its own creation — then in the 200 years since, humanity has clearly developed multiple ways of challenging those laws, and science fiction has mirrored this by founding various subgenres.
+
+Nuclear panic. Beyond worrying about bugs in nuclear weapons systems (*WarGames*), there are the catastrophes caused by nuclear radiation and other scientific experiments. Led by the 1954 *Godzilla*, nuclear material poisons the environment and causes biological mutation: "humans made the bomb, and now nature takes its revenge on humanity." This period was also the peak of Japan's nuclear panic — Hiroshima and Nagasaki had been destroyed by atomic bombs, and American hydrogen-bomb tests at Bikini Atoll gave radiation sickness to fishermen in the surrounding waters. Against the Cold War backdrop, nuclear threats issued from time to time by both camps were unnerving, and naturally this was all too evident in entertainment products. Decades later, in the "biological century," it was extended into evil corporations' illegal experiments creating deadly viruses and spawning nightmare creatures that ultimately destroy humanity — keeping game companies including Capcom alive for more than 20 years.
+
+Extraterrestrial invasion and war. In 1938, Orson Welles broadcast a radio drama adapted from H.G. Wells's novel *The War of the Worlds* between news segments; Martians invaded Earth for the first time, and millions of American and Canadian listeners took it as real and fled their homes. This came on the eve of World War II; Europe was already roiling, and everyone was waiting for news of war breaking out — the aliens' arrival was a bit unexpected but fit expectations of war all the same, and it kicked off the sequence of Earth being favored, round after round, by extraterrestrial life.
+
+Two years later, *Farewell to the Master* was published; adapted into the 1951 film *The Day the Earth Stood Still*, it was ranked seventh on Clarke's list of "the nine best science-fiction works of all time." Robots, silver-suited aliens, and saucer-shaped "flying saucers" became standard equipment for later films of the same type, but the film's message was beyond the reach of other alien-invasion films — this alien's visit to Earth is actually meant to convey a wish for peace, and the creators also used it to comment on the postwar political landscape. Ironically, it later appeared as an Easter egg in *Independence Day*, a standard anti-alien effects blockbuster.
+
+![[*The Day the Earth Stood Still*](https://movie.douban.com/photos/photo/2360147487/)](http://img.qdaily.com/uploads/201805141450377nOz4dTb9Dsp58JS.jpg-w600)
+
+The invasion theme is also a subgenre of space terror. "In space, no one can hear you scream." *2001: A Space Odyssey* itself aims to inspire awe of the cosmos, using HAL and higher beings to make humanity recognize its own insignificance. The contrast between the tiny and the vast, the lowly and the exalted, is precisely the awe humans feel when exploring deep space. Besides being utterly crushed by alien lifeforms trying to infiltrate Earth, we hit difficulties at the most basic level — life is fragile. In recent years, well-received realistic science fiction, from *Gravity* to *Interstellar* to *The Martian*, all speaks to this very problem.
+
+There's also the unknowable and indescribable in this category — the Lovecraftian strain lets people glimpse things they shouldn't see and go mad; "supernatural-leaning" sci-fi films led by *Event Horizon* showcase the most bizarre and most unfriendly side of the unknown universe; and the "New Weird" school represented by Jeff Vandermeer depicts the most unfathomable concepts and scenes in novels like the Southern Reach trilogy (the film *Annihilation*).
+
+If the people first in the line of fire for the threats above were a handful of elite pioneers, frontline researchers, or excessively curious passersby, a recently risen trend has made ordinary publics worldwide the target. AI, which rarely discriminates among humans, is naturally one kind of common threat; the other two are entangled with politics — political forces using technology to control society, and megacorporations ruling the globe. Especially in a setting where AI controls society: first you need a behind-the-scenes institution capable of starting it up and promoting it to the public; conversely, just as in the era of mechanized mass production, [when machines become too critical to companies, companies will be built around the machines](https://hbr.org/2013/08/the-rise-of-the-megacorporatio), sharing one fate of rise and fall.
+
+William Gibson's *Neuromancer* takes an AI's desire to merge with its "twin" as its main thread, and also founded the cyberpunk subgenre. Against a dystopian backdrop, cyberpunk works typically feature a megacorporation running human society, omnipresent from the public to the private sphere, controlling governments and economic lifelines, keeping its own armies to suppress dissidents — all in the name of maximizing profit.
+
+![[*Neuromancer*](https://www.amazon.com/Neuromancer-Em-Portuguese-do-Brasil/dp/8576573008)](http://img.qdaily.com/uploads/20180514145239hI4VSNGCWqn7dHxU.jpg-w600)
+
+Fear of being exploited and controlled by big companies has always existed. The Dutch East India Company is considered the first true multinational corporation and the prototype of the "megacorporation." After globalization accelerated, such companies seemed to become more likely again. In people's eyes, tech companies possess real power to permeate our daily lives, so they naturally become candidates for the evil corporation. In fact, HAL was at the time considered a veiled reference to IBM, because those three letters each come just before the corresponding letter in "IBM." Kubrick and Clarke denied this, because IBM was actually also an advisor to *2001*. Although the film devotes a great deal of screen time to a "neurotic computer," the company didn't mind, as long as "the computer's failure was not associated with IBM."
+
+[Experts once said](https://io9.gizmodo.com/could-an-evil-mega-corporation-ever-exist-in-real-life-1630401831/amp) that the real-world counterparts to fictional megacorporations are those nearly invisible companies, like Serco with its 120,000 employees, and the six banks among the top 10 companies. But tech companies, once seen as a positive, progressive force, have clearly risen up the threat list. In the current reality, the companies people think could turn evil are the Googles, Apples, and Amazons — which happen to be able to exploit technological advantages and asymmetric positions to control information, probe privacy, and manipulate human life in all respects.
+
+Actually, from a profit perspective, for a megacorporation, fully controlling public life, running the state, and maintaining rule is not worth the cost — when scale becomes too enormous, operational efficiency becomes terrifyingly low, which does nothing for profit maximization. Of course, if tech companies can already indirectly sway elections and shape public opinion, nothing is impossible.
+
+Now look at what is currently happening. When Jonathan Nolan came up with the idea of "the Machine" surveilling all of humanity in *Person of Interest*, Snowden hadn't yet exposed the NSA. After that broke, *Person of Interest* was no longer fantasy — "the government infringing on privacy to control individuals and society" is an ongoing reality, and ["identifying high-risk groups" has been proven achievable](https://gizmodo.com/researchers-want-to-use-ai-to-predict-when-crimes-are-g-1825602023); the show just added a battle between a "good" and an "evil" AI. Likewise, Philip K. Dick's *Minority Report* is no longer science fiction either — humans simply don't need psychically gifted precogs to prevent crime; by mastering everyone's private data (perhaps to build a credit system on top of it), machines can do the job very well. Spielberg's 1998 prophecy came true: ["Privacy will be gone in 20 or 30 years. They'll be watching you and selling to you at the same time."](http://azdailysun.com/entertainment/movies/minority-report-glimpsing-the-future/article_03db6308-1a6b-5481-a223-a84a6b2a7884.html)
+
+![[*Person of Interest*](http://paul96.org/person-of-interest-you-are-being-watched/): "You are being watched"](http://img.qdaily.com/uploads/20180514150812z7vpsgLD0P2lqQdI.jpg-w600)
+
+### The two bestselling and best-writing giants of AI fiction were both technological optimists
+
+Science fiction mirrors and amplifies the fears above, but that is often not what the writers intended. Asimov, who frequently wrote about malfunctioning robots exploiting loopholes in the Three Laws, and Clarke, who created the murderous AI HAL — the two writers most successful at twisted AI — were both staunch technological optimists.
+
+Only, this optimism differed from the absolute, blind optimism of science fiction's early days. On one hand they fully affirmed science's decisive role in the maturation of human civilization; on the other hand they were cautious. They knew robots would eventually grow intelligent enough to surpass humans, so they wrote some early warnings first, imagining the troubles humans would encounter along the way. Indeed, the two discussed AI's every aspect long before the field produced anything decent.
+
+[Clarke had an unshakable faith in humanity's ability to use technology to improve quality of life](http://science.sciencemag.org/content/320/5873/189.full?rss=1); he was sometimes disappointed with reality for not living up to his optimism. He had HAL kill, but in the latter two books turned it into the protagonist's and humanity's only link; and though he depicted space exploration as thrilling, he himself believed that leaving the solar system to find a new home is humanity's destiny, one that would thoroughly improve the human condition.
+
+As for Asimov, he wrote the robot series precisely to push back against the rules set by *Frankenstein* — "overstep and be punished," "those are things humans were not meant to know." He favored sympathetic robots and resolved to write his robots "lovable."
+
+He said, "I could not accept the argument that if the unknown represented danger, ignorance was the solution. The solution, it seemed to me, was to use human intelligence. Humans should not refuse to face danger; they should learn how to defuse it."
+
+"After all, such problems have been the challenge humans faced from the very moment a group of primates became human. Any new technology can bring danger. From the very start, fire was a dangerous technology, and so was language (even more dangerous), and this remains true to this day — yet without these two technologies, humans would not be human."
+
+### Appendix: Human-machine novels you might want to read (some already mentioned above)
+
+Arthur C. Clarke, the Space Odyssey tetralogy: *2001: A Space Odyssey*, *2010: Odyssey Two*, *2061: Odyssey Three*, *3001: The Final Odyssey*;
+
+Isaac Asimov, *The Bicentennial Man*; the short-story collection *I, Robot*; the Robot series (*The Caves of Steel*, *The Naked Sun*, *The Robots of Dawn*, *Robots and Empire*); the Multivac short-story series: "Franchise," "The Last Question," "Someday," "All the Troubles of the World," "The Machine That Won the War," "The Life and Times of Multivac";
+
+Dan Simmons, the Hyperion Cantos: *Hyperion*, *The Fall of Hyperion*, *Endymion*, *The Rise of Endymion*;
+
+Philip K. Dick, *Do Androids Dream of Electric Sheep?* and the short-story collection *Minority Report*;
+
+Robert Heinlein, *The Moon Is a Harsh Mistress*;
+
+William Gibson, *Neuromancer*;
+
+E. M. Forster, *The Machine Stops*;
+
+Iain M. Banks, *Excession*;
+
+Ray Bradbury, "There Will Come Soft Rains";
+
+Neal Stephenson, *The Diamond Age*;
+
+Charles Stross, *Saturn's Children*;
+
+Ann Leckie, *Ancillary Justice*;
+
+Louisa Hall, *Speak*
+
+Cover images from *2001: A Space Odyssey* and *Westworld*
