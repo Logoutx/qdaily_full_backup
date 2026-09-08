@@ -1,0 +1,130 @@
+@@QD_TITLE@@
+Google's Annual Developer Conference: All It Wants to Talk About Is AI
+@@QD_EXCERPT@@
+From Google Assistant to Waymo's self-driving cars, nearly everything Google talked about centered on artificial intelligence.
+@@QD_BODY@@
+From Google Assistant to Waymo's self-driving cars, nearly everything Google talked about centered on artificial intelligence.
+
+On the morning of May 8 local time, Google held its I/O 2018 developer conference at the Shoreline Amphitheatre, near its Mountain View headquarters.
+
+The opening keynote was, as usual, hosted by Google CEO Sundar Pichai. The presentation revolved around the Android platform: Google announced the first beta of the new Android P and rolled out updates to Photos, News, Maps, the voice assistant, and more.
+
+This year's Google I/O brought no heavyweight hardware — only smart speakers with screens, made by JBL, Lenovo, LG, and others, due to go on sale in June.
+
+Near the end of the keynote, Waymo, Alphabet's self-driving car unit, also made its first-ever appearance in an I/O main presentation.
+
+All of these announced products and features still revolved around a single thread: artificial intelligence.
+
+### Google's Voice Assistant Is More Human — in Its Voice and in How It Answers
+
+Pichai laid the groundwork for the feature updates with a few technical demonstrations. He showed a clip from a news commentary program in which two hosts were arguing heatedly, constantly interrupting each other. The upgraded Google AI can analyze both people's speech and generate captions for each of them separately, without being thrown off by the interruptions.
+
+After another example — AI helping to diagnose diabetic retinopathy in developing countries — Pichai moved on to a detailed rundown of the upgrades to Google Assistant.
+
+First, Google Assistant will offer six brand-new voices. All of these voices are synthesized using the WaveNet technology Google announced last year, which works not word by word but by modeling the raw sound waves of speech, producing far more realistic results. One of the six voices was trained with the help of R&B singer John Legend, who recorded a series of words and full sentences at Google; the resulting synthesized voice sounds remarkably like the man himself.
+
+Functionally, the biggest change to Google Assistant is the introduction of a "natural conversation" upgrade. It can continuously track subjects as they shift within a conversation, and handle multiple questions within a single sentence.
+
+In the past, for example, talking to Google Assistant meant assigning one task per sentence, and every sentence had to contain complete information — put simply, the assistant processed speech one sentence at a time.
+
+Now users can talk to it the way they would to a real person: you might ask for one team's game result in one sentence, set a to-do reminder about where to pick someone up in the next, and then continue the same conversation with something like "so when is that team's next game?"
+
+Meanwhile, the "multi-task conversation" update focuses on the word "and" within a sentence, letting you assign multiple tasks in a single utterance — for instance, "what's the weather tomorrow and then order me some food delivery" — and Google Assistant will carry out both tasks directly.
+
+In the most impressive technical demo, Google Assistant's conversational ability was remarkably powerful: it can call a service provider — a barbershop or a restaurant, say — and book the service for you while you're busy.
+
+In the demo, the barbershop staff member kept it short — what service do you need? What time? Which day? — and Google Assistant replied like a real person: "Today at 10, I want a haircut." In the restaurant reservation demo, the operator clearly tried to throw Google Assistant off on purpose, repeatedly saying things like "we can't take a reservation today, but you can just come in on Wednesday — which day do you want? How many people?" Google Assistant paused briefly, but understood exactly what was meant.
+
+"Expectations of technology vary from place to place, depending on where in the world you are," Pichai said. "For someone like me who grew up in a world without phones, I remember clearly how technology changed lives. That's why we're committed to bringing digital technology to communities around the world."
+
+![](http://img.qdaily.com/uploads/20180509093029GfQjVW2gCYTrk4XD.png-w600)
+
+Google also announced new hardware built on Google Assistant: smart speakers with screens. The new hardware resembles a digital photo frame, combining a speaker and a display. Beyond the basic Google Assistant functions, it can play YouTube Live programs on the screen, show feeds from home security cameras, or pull up step-by-step recipes via voice search.
+
+The smart display speakers made by JBL, Lenovo, LG, and others will go on sale in June, and Google Assistant's new features will roll out over the coming weeks.
+
+### The Next Android Has System-Level AI — and Cares About Your "Screen Addiction"
+
+At Google I/O, Android P's concrete changes were announced around three broad directions: intelligence, ease of use, and digital wellbeing.
+
+First, as throughout the keynote, came artificial intelligence. In Android P, AI is applied in multiple areas, such as power saving. The phone learns which apps you use most frequently and decides when to shut certain apps down entirely. Google says this feature, called "Adaptive Battery," can reduce CPU activity by 30%. At the same time, "Adaptive Brightness" analyzes your usage habits and cuts how often and how brightly the screen lights up during periods when you rarely use your phone, achieving further power savings.
+
+In Android P, AI will become a system-level capability that predicts what you're about to do next. For example, when you type "Avengers" into the search box, a trending search option for *Avengers: Infinity War* appears, and at the very bottom of the search results a shortcut button to buy movie tickets shows up. When you type "Lyft" to open the ride-hailing app, a "ride home" shortcut appears at the bottom of the search box; tapping it automatically sets your pickup and drop-off points.
+
+![](http://img.qdaily.com/uploads/20180509093308Icq3Ni8SjA7BuRKy.gif-w600Gif)
+
+The ease-of-use updates are mainly reflected in interface changes. On one hand, Google's global search box has been moved down to the very bottom of the screen, just above the home button. Meanwhile, the three home buttons have been reduced to one, with major actions turning into gestures: swiping sideways on the home button quickly switches between apps, while swiping up opens the traditional multitasking interface. The new multitasking gestures look a bit like the ones on the iPhone X.
+
+Another major update is "digital wellbeing."
+
+Simply put, the update called Digital Wellbeing is an anti-addiction mode. First, the system integrates a statistics tool that tracks daily phone usage — how long you use the phone, which apps you use most, and at what times. At the same time, you can set usage limits for those frequently used apps: for instance, you can set a restriction so a video app can't be opened during work hours. When you're slacking off at the office and tap the video app icon, the system shows a grayed-out icon with a message telling you to stop using it.
+
+Another feature, called Wind Down, cares about whether you get to bed on time. When you lie down ready for sleep, you can set a bedtime; after that time, your phone not only enters do-not-disturb mode so you receive no notifications at all, but the screen also switches to black and white, urging you to go to sleep. This feature is also integrated into automatic do-not-disturb — simply placing the phone face-down on a table activates it.
+
+![](http://img.qdaily.com/uploads/20180509093426oUwKpS3XP86nhvVm.gif-w600Gif)
+
+The Android P public beta starts today. Eleven phones — including the Google Pixel series, Essential PH-1, Sony Xperia XZ2, Xiaomi Mi Mix 2S, Nokia 7 Plus, Oppo R15 Pro, and Vivo X21 — can install the beta directly with official support.
+
+### Waymo's Self-Driving Cars Showed Up at I/O — but Only for a Cameo
+
+Somewhat surprisingly, Waymo also appeared in this year's Google I/O keynote. That's because in the December 2016 corporate reorganization, Waymo was split off and folded into Google's parent company Alphabet, and is no longer a Google subsidiary.
+
+The ones who took the stage were Waymo CEO John Krafcik and CTO Dmitri Dolgov — their first time at Google I/O. They spent some time explaining AI's role in autonomous driving development, claiming that AI is crucial for training vehicles to make the right decisions under different road and traffic conditions.
+
+"We're not just building a better car," John Krafcik said on stage. "We're building a better driver."
+
+![John Krafcik presenting Waymo's on-road testing results. Image/qz](http://img.qdaily.com/uploads/20180509053523jq3SpzmQODLg87BM.jpg-w600)
+
+According to Waymo, the use of deep learning has improved its pedestrian detection accuracy by a factor of 100. In the March incident this year in which an Uber self-driving car struck and killed a pedestrian, the vehicle misidentified the pedestrian as a plastic bag and therefore plowed straight ahead instead of braking.
+
+"Our cars need to understand how every object interacts with every other object, and behave in a safe, predictable way," Dolgov said. In his demo, Waymo successfully predicted that a pedestrian would run a red light and slowed the car down in advance.
+
+The behavior of individual agents in every traffic scenario varies — they lack the salient common features of lane lines, road signs, and guardrails. Waymo is now getting machines to build an understanding of human behavior, which is indeed an area where AI can genuinely help. The team is also trying to use AI to solve the problem of poor radar recognition accuracy and low precision in snowy weather.
+
+So far, Waymo has driven about 10 million kilometers on public roads and completed more than 9 billion kilometers of simulated testing.
+
+Waymo's next major move will be launching its self-driving ride-hailing service in Phoenix, Arizona, later this year; the details are not yet known. A few months ago, Waymo [revealed it was](https://venturebeat.com/2018/03/09/waymo-self-driving-trucks-will-carry-cargo-for-googles-data-centers-as-part-of-atlanta-pilot/) test-driving self-driving cargo trucks for Google's Atlanta data centers, and it also [announced a partnership with Jaguar](https://venturebeat.com/2018/03/27/waymo-and-jaguar-to-build-a-fleet-of-all-electric-self-driving-cars/) to build an all-electric self-driving car fleet.
+
+### Maps, Gmail, News, Photos — Every App-Level Update Is About AI
+
+**Gmail announced Smart Compose, which understands the context of an email and offers suggested sentences.** This is a continuation of Gmail's Smart Reply feature and will roll out to users in the coming weeks, on the condition that the new version of Gmail is enabled.
+
+![Smart Compose understands the context of an email and offers suggested sentences.](http://img.qdaily.com/uploads/20180509064828y9ILVGB7Z1zwhXWK.gif-w600Gif)
+
+Smart Compose runs in the background: when a user types something like "it's been a while," it suggests "hope you've been well," and once the user taps the suggestion, the text is filled in automatically. Google hopes this will make writing email more efficient and reduce the chance of grammatical or spelling errors. It's currently unclear whether it will support Chinese-language environments.
+
+**Google Photos can colorize black-and-white photos.** Google Photos, with 5 billion daily views, is getting smarter: it can automatically colorize old black-and-white photos.
+
+![Google Photos colorizing a black-and-white photo. Image/Ars](http://img.qdaily.com/uploads/20180509065052WkbL2orKg5cTip9F.JPG-w600)
+
+It will also automatically detect underexposed photos and brighten them appropriately, and automatically recognize which people in a photo are in the user's contacts, then prompt the user about whether to share the photo with them. All of these new features will be integrated into Google Photos over the coming months. For developers, Google also [released a new API](https://developers.googleblog.com/2018/05/introducing-google-photos-partner.html) allowing them to integrate Google Photos into their own apps.
+
+**Google Lens can not only recognize text in images — it can also let you select that text.** The new Google Lens beta will be built into the native camera apps of ten devices, including the Google Pixel 2, LG G7 ThinQ, Xiaomi, and HMD-branded phones. Its image recognition can provide more information about books, buildings, and artworks in photos.
+
+![Google Lens, which lets you select and copy text directly from photos. Image/Ars](http://img.qdaily.com/uploads/201805090651491voRGs4feCaKMNiz.JPG-w600)
+
+The way it works: take a photo, and machine learning identifies the text pixels in the image to extract more detail. If the photo is of a product, Google Lens will occasionally offer shopping links. For photos of plain text, Google Lens can select and copy the text directly on the image — similar to the functionality of Google Translate's image translation.
+
+**Google News got a major overhaul.** "I think more journalism is being produced today than ever before," Pichai said. "When people need it, they turn to Google, and we have a responsibility to deliver that information."
+
+Google explained that it uses reinforcement learning to understand users' reading habits, so that when they open the app, the top five stories are all topics they're interested in.
+
+![The new Google News. Image/The Verge](http://img.qdaily.com/uploads/20180509064944SL10tNPJjkrhbOBY.png-w600)
+
+The new Google News also introduces a service called Newscast — a news briefing dedicated to Google News that looks a bit like Instagram Stories, offering a video clip, quote, or summary of a story so users get the basic facts and can decide whether to dig deeper.
+
+For users who want to go deeper on a particular topic, Google News hopes its "Full Coverage" feature can serve as a key tool. It pulls together multiple reports behind an event along with real-time social media discussion, and arranges everything in chronological order.
+
+Meanwhile, the one-click subscription feature that previously lived in the browser has been brought into the app, with more than 60 mainstream news outlets on board.
+
+**Google Maps supports AR navigation.** This is what Google calls a "visual positioning system" — real-world navigation based on image recognition. The user opens the phone's camera and points it at the street ahead or at a building; the bottom half of the viewfinder surface shows Google Maps with the route, estimated arrival time, and remaining distance, while the top half shows real-time navigation cues.
+
+![Google Maps AR navigation. Image/Ars](http://img.qdaily.com/uploads/20180509071203Ny0hKQgAPu9lqoi6.JPG-w600)
+
+In addition, Google Maps can display places it thinks the user might be interested in, based on their interests and the places they have rated positively in the past.
+
+Since Google made AI its focus two years ago, this year's I/O amounted to a big burst of related features. Compared with its only market rival, iOS, Android seems to be heading in a completely different direction. In the keynote, Google emphasized that Android is open, and that open choice drives innovation — which sounded like a hint at something.
+
+But the pity is that, apart from a handful of features like anti-addiction and ease-of-use improvements in Android P, most of what was shown at this year's I/O will probably have nothing to do with users in mainland China.
+
+Cover image/Google
