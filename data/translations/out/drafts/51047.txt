@@ -1,0 +1,135 @@
+@@QD_TITLE@@
+Global Headlines Express: What the World Has Been Talking About in the Past 24 Hours
+@@QD_EXCERPT@@
+Global Headlines is a new QDaily column launched in 2018. It is still in trial run, and it remains committed to helping you know more.
+@@QD_BODY@@
+Global Headlines is a new QDaily column launched in 2018. It is still in trial run, and it remains committed to helping you know more.
+
+### **What the Agenda-Setters Are Talking About**
+
+[**Science: In the Tug-of-War Between True and False News, False News Wins**](http://science.sciencemag.org/content/359/6380/1146)
+
+"Lies always travel faster than the truth." A paper published in *Science* on March 9 confirms with data a worry people have long held: on social media, false news spreads faster, reaches a wider audience, and penetrates deeper than true news.
+
+Politicians' attacks have made the image of "fake news" deeply familiar, but people have never been able to confirm just how large a role communication technologies — social networks included — play in the spread of false information. In the "largest and most systematic" study of false news propagation to date, three researchers at MIT analyzed 126,000 news stories from 2006 to 2017, using six independent fact-checking organizations to define "true" and "false."
+
+The statistics show that false news outperformed true news in spreading **every category of information**. This is reflected in four dimensions:
+
+**1. Depth.** False news has more retweet layers than true news. True news essentially never spreads more than 10 layers deep among users, while false news has spread more than 19 layers deep;
+
+**2. Size.** True news is rarely retweeted by more than 1,000 people, while the top 1% of false news typically reaches between 1,000 and 100,000 retweeters;
+
+**3. Breadth.** At every layer of propagation, false news is retweeted more than true news — meaning most users retweet more false stories than true ones;
+
+**4. Structural virality.** The flood of false news relies not only on conventional propagation mechanisms but even more on person-to-person viral spread.
+
+Among all kinds of false news, political items are especially rampant. Major political events tend to come with a surge in false news — during the 2012 US presidential election, Russia's 2014 annexation of Crimea, and the 2016 US presidential election, the volume of political rumors spiked sharply, and the rising peaks further reflect that false news is becoming ever more popular.
+
+Why is false news so popular? The analysis shows that neither user characteristics nor network structure can adequately explain what makes false news spread distinctive. Contrary to expectations, accounts that spread false news typically have fewer followers, are less active, and are less likely to be verified, and bot accounts did not materially create a difference in how true and false news spread.
+
+The real secret of the false-news flood lies in **novelty**. Novel information changes how people understand the world; they not only feel surprised, they feel it is worth spreading, and so decide to share it. The data show that false news clearly outscores true news on every metric of "novelty."
+
+Building on "novelty," true and false news also trigger different user emotions. False news provokes more surprise, disgust, and fear, while people's responses to true news tend to be anticipation, sadness, joy, and trust.
+
+In short, the spread of false news is grounded in the traits of human behaviour, and curbing false news likewise hinges on intervening in behaviour — not, as some voices in public opinion loudly demand, simply shutting down accounts.
+
+**[How to Respond to False News?](http://science.sciencemag.org/content/359/6380/1094.full)**
+
+Having assessed the scale of the false-information flood and analyzed its causes, the same issue of *Science*, in its "Policy Forum" section, proposes two lines of response — along with their limitations.
+
+First, at the individual level, strengthen awareness of and capacity for fact-checking. Although fact-checking has become daily practice at some mainstream media outlets, individuals always carry cognitive biases and always choose to believe what they already believe. Political parties and ideological allegiances make people unwilling to check whether a story is true or false. There is also hope that education can help individuals better judge the quality of information, but the long-term effectiveness of such efforts has yet to be verified, and focusing education on spotting false news may also cause people to lose trust in true news.
+
+Second, use algorithms to detect and intervene in the information on social platforms. The researchers suggest that platforms such as Google, Facebook, and Twitter adjust their data models — which present information streams based on user characteristics — to emphasize information quality in the algorithm; reduce the "personalized tailoring" of political news to lessen the "echo chamber" effect; and block the automated spread of bot accounts. Some platforms have already done this, but the *Science* article asks these platforms to open up further to collaboration with independent academic institutions and increase the transparency of their information-filtering mechanisms.
+
+Potential responses also include new regulatory measures, including providing a legal basis for suing over rights violations caused by false news. *Science* acknowledges that structural interventions may constrain the initiative of the private sector and individuals, but overall, in the face of new propagation phenomena brought by communication technology, people should distill new patterns and devise new responses.
+
+(Partly drawing on the WeChat official account ["The Intellectual"](http://mp.weixin.qq.com/s/pAuN9LtdSJtMQHLUz0nz1A), by Fang Kecheng, a PhD candidate in communication at the University of Pennsylvania.)
+
+![Do social networks expand people's freedom of choice, or lock individuals in an echo chamber of "only seeing the news they want to see"? Image credit: [William Iven](https://unsplash.com/photos/DfMMzzi3rmg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash](http://img.qdaily.com/uploads/20180313064930e9Rsg7BPpSTJIA60.jpg-w600)
+
+### **The News-Makers of the Past 24 Hours**
+
+On March 12, UK Prime Minister Theresa May presented to Parliament the preliminary findings of the investigation into the poisoning of former Russian agent Sergei Skripal and his daughter in Britain. The investigation found that the two had been exposed to a military-grade nerve agent developed by Russia, and the perpetrator most likely points to Russia.
+
+BBC, CNN, and Russia Today (RT) all carried the story at the top of their websites.
+
+In her [address to Parliament](http://www.bbc.com/news/uk-43377856), May noted Russia's long and notorious record of assassinations abroad. The British government has demanded that the Russian ambassador clarify whether the poisoning was directly ordered by the state or resulted from the state's loss of control over its nerve agent stockpiles. "Unless we receive a credible response, our conclusion will be that the Russian state has unlawfully used force against the UK in this incident."
+
+Putin, in a [BBC interview](https://www.rt.com/news/421050-putin-skripal-agent-reaction/), shot back at the British side: "Sort it out first, then come and talk to us."
+
+[BBC analysis](http://www.bbc.com/news/uk-43318103) suggests the incident could freeze the already chilly relationship between the two countries even further.
+
+Skripal, 63, and his daughter were found unconscious on a bench in the city center of Salisbury, England; their lives remain in the balance. His wife died of cancer in 2012, and his son passed away last July. In 2006, Skripal was convicted of providing Britain with lists of Russian agents, and in 2010 he was released under a spy-swap agreement and left Russia.
+
+### **What Else Happened in the World**
+
+[A **plane carrying 71 people crashed while landing at the airport in Kathmandu, capital of Nepal**, operated by US-Bangla Airlines](http://www.bbc.com/news/world-asia-43369179); 49 people have been confirmed dead so far. The airline believes air traffic control at the airport should be held responsible, while the airport claims the plane approached from the wrong direction, causing the accident.
+
+[**French fashion designer Hubert de Givenchy has died**](http://www.bbc.com/news/world-europe-43375454). The brand he founded under his own name, Givenchy, has become one of the benchmarks of the fashion world; the "little black dress" Audrey Hepburn wore in *Breakfast at Tiffany's* won Givenchy worldwide renown.
+
+[Slovak Interior Minister Robert Kaliňák announced his resignation](https://www.theguardian.com/world/2018/mar/12/slovakian-minister-resigns-after-protests-at-journalists). Kaliňák is a political ally of Slovak Prime Minister Robert Fico, and said he hoped his resignation would bring stability to the country. Last month, [**a journalist and his fiancée were assassinated while investigating ties between the government and the mafia**](http://www.qdaily.com/articles/51007.html)**,** and the wave of protests that followed has thrown Slovakia into political turmoil.
+
+[**Japanese Prime Minister Shinzo Abe apologized to the nation over the "Moritomo Gakuen" scandal**](http://www.thepaper.cn/newsDetail_forward_2026224), but said Finance Minister Taro Aso need not resign over the matter. As investigations by media including *The Asahi Shimbun* deepened and a key witness committed suicide, the Ministry of Finance admitted to the ruling party that day that it had altered 14 approval documents related to "Moritomo Gakuen," including deleting the name of Abe's wife. Earlier, rumors that Moritomo Gakuen had acquired land at a steep discount by invoking the name of Abe's wife had badly dented the Abe cabinet's approval ratings.
+
+[Multiple homes exploded in Austin, Texas, USA](https://www.apnews.com/f48e486c778e4791a5dd78c9682043a9). Investigators announced on Monday that the package bombing that day, which killed one person and injured another, was linked to an earlier bombing this month. Shortly after the announcement, another home in the city exploded, injuring one person. **Investigators are considering whether the bombings specifically targeted the Black community.**
+
+[The results of the Hong Kong Legislative Council by-elections were announced](http://www.xinhuanet.com/gangao/2018-03/12/c_1122522500.htm). Of the four seats left vacant after the "oath-taking controversy," the pro-democracy camp and the pro-establishment camp each won two. Among them, **the pro-establishment camp scored a crucial victory in the Kowloon West constituency**, allowing it to continue blocking the pro-democracy camp from using split voting to veto in the Legislative Council.
+
+![The film *Breakfast at Tiffany's*. Image credit: [Douban](https://movie.douban.com/photos/photo/600828120/)](http://img.qdaily.com/uploads/20180313064300mgIaPQjDbuL4JK25.jpg-w600)
+
+### **Someone Said**
+
+**"**[**Today, I want us all to feel a renewed sense of hope and purpose for the web. I want the web to reflect our hopes and fulfill our dreams, rather than magnify our fears and deepen our divisions.**](https://www.theguardian.com/commentisfree/2018/mar/12/tim-berners-lee-web-weapon-regulation-open-letter)**"** said Sir Tim Berners-Lee.
+
+Berners-Lee is a British computer scientist, best known as the **founder of the World Wide Web**. In 1989, while working at CERN (the European Organization for Nuclear Research), Berners-Lee conceived of combining hypertext systems, the transmission control protocol, and the domain name system. That vision became, in 1990, the world's first web browser and web server, and the world's first website went online in 1991. The birth of the World Wide Web profoundly changed the way data is disseminated and distributed, an achievement that won Berners-Lee the 2016 Turing Award.
+
+Today, the World Wide Web is 29 years old, and more than half of the world's population has used it. **This historic moment comes with anxiety**: misinformation, political propaganda, and the leaking of personal information are gradually stripping the internet of its once-utopian sheen. But Berners-Lee remains committed to building the internet into "a **space that is free, open, and innovative, benefiting everyone**." To that end, he founded the [World Wide Web Foundation](https://webfoundation.org) (Web Foundation) to fight for equal rights and opportunities online for more people.
+
+In Berners-Lee's view, realizing this vision depends on several things:
+
+**First, close the digital divide.** Access to the internet should be protected as a human right, like clean water, electricity, and food — not remain a privilege of men, the rich, city dwellers, and people in upper-middle-income countries;
+
+**Second, make the internet industry more democratic.** Today's internet giants not only stifle innovation through rampant acquisitions but, amid trends of centralized power, have become weapons that can be wielded. Internet companies must save themselves and shoulder their social responsibility to the public;
+
+**Third, innovate the way the internet operates.** People should think about how to make internet technology cooperate better with individuals from all backgrounds, and how to free the internet from the single advertising-revenue model, so that future generations can share in the prosperity the internet's development brings.
+
+"From business, technology, government, and civil society to the arts and academia, let us bring the world's brightest minds together to clear the way for the web's future development," Berners-Lee wrote in his column for *The Guardian*.
+
+### **Things You Might Also Be Interested In**
+
+[British/Indian artist Anish Kapoor is somewhat angry](https://www.theartnewspaper.com/news/kapoor-condemns-nra-s-use-of-his-chicago-bean-sculpture-in-promotional-ad) — his iconic sculpture for Chicago, "Cloud Gate" (2014), has become a target of attacks by the National Rifle Association (NRA).
+
+In the video titled "The Violence of Lies," the NRA warns that "they" are threatening Americans' freedoms. Images of "them" that flash across the screen include a Hollywood landmark, The New York Times building, the Walt Disney Concert Hall, and "Cloud Gate." It remains unclear why the NRA harbors such particular hostility toward these buildings. That said, some architects have reminded people that three of the four buildings were designed by Jews or people born outside the United States.
+
+In a statement on March 12, Kapoor said his work — affectionately known to people as "The Bean" — symbolizes openness and democracy. In his view, the NRA's propaganda reflects its xenophobia — a mentality it goes on to inflame further, urging its followers to arm themselves.
+
+**Irishman David Flynn is about to be a groom.** Before the wedding, he took his other single friends to Britain for one last spree, and this trip may change the British public's poor impression of "stag parties" from Ireland.
+
+When David and his old mates passed the Tottenham Court Road subway station, they found a piano. This felt wonderfully familiar to the bachelors, who all had years of performing experience. David stepped right up and played Elton John's "Don't Let the Sun Go Down On Me," while his friends sang at the top of their lungs beside him.
+
+Before long, passengers began gathering around them, some even joining the chorus — until the bachelors sang the final two lines: "I'd just allow a fragment of your life to wander free, but losing everything is like the sun going down on me."
+
+![David Flynn and his stag-party mates. Screenshot from: [independent.ie](https://www.independent.ie/entertainment/banter/trending/watch-waterford-stag-party-finds-a-piano-in-london-underground-station-and-ends-up-entertaining-a-crowd-36692452.html)](http://img.qdaily.com/uploads/20180313070348bMi1ZKYUn6C9ht8u.jpg-w600)
+
+### **On This Day in History**
+
+March 13, 1781: British astronomer Frederick Herschel discovered Uranus.
+
+March 13, 1848: The German revolutions of 1848 broke out in Vienna. The revolution shook the traditional political structure of the German Confederation but ultimately failed.
+
+March 13, 1881: Tsar Alexander II was assassinated near his palace.
+
+March 13, 1940: The Soviet Union and Finland signed the Moscow Peace Treaty, ending the war between the two countries that had begun in 1939. Finland ceded territory and paid reparations, laying the groundwork for Finland's joint attack on the Soviet Union with Germany in 1941.
+
+March 13, 1943: The Nazis launched the final liquidation of the Kraków Ghetto in Poland; 8,000 people were deported to forced labor, 2,000 were killed on the spot, and the remaining inhabitants were sent to the Auschwitz concentration camp.
+
+March 13, 1972: China and the United Kingdom signed a joint communiqué establishing diplomatic relations at the ambassadorial level.
+
+March 13, 1996: Polish film master Krzysztof Kieslowski died. His representative works include the television series *Dekalog* and the *Three Colors* film trilogy — *Red*, *White*, and *Blue*.
+
+March 13, 2013: Cardinal Jorge Bergoglio, born in Argentina, was elected the 266th pope at the Vatican, taking the name Pope Francis.
+
+March 13, 2016: Hilary Putnam, one of the most important analytic philosophers of the second half of the 20th century, died. The "brain in a vat" thought experiment he proposed deepened people's understanding of knowledge, reality, truth, and thought.
+
+The lyrics translation in this article comes from: [NetEase Cloud Music](http://music.163.com/#/song?id=18003389&market=baiduqk)
+Cover image: the film *Three Colors: Red* (1994), from: [Douban](https://movie.douban.com/photos/photo/2330482022/)

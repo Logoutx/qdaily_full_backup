@@ -1,0 +1,110 @@
+@@QD_TITLE@@
+Global Headlines Express: What the World Has Been Talking About in the Past 24 Hours
+@@QD_EXCERPT@@
+*Global Headlines* (《全球头条》) is a new QDaily column for 2018, currently in a trial run; it remains committed to helping you learn more.
+@@QD_BODY@@
+*Global Headlines* (《全球头条》) is a new QDaily column for 2018, currently in a trial run; it remains committed to helping you learn more.
+
+### What the Agenda-Setters Are Talking About
+
+**[The Economist: "Could Literature Be the Next Target of Virtual Reality?"](https://www.economist.com/news/books-and-arts/21738344-one-morning-you-might-wake-up-find-you-have-been-transformed-gregor-samsa)**
+
+To get young students interested in literary classics that seem dull on the surface, Mika Johnson, a lecturer at the Prague Film School, planned a new experiment for his classroom: adapting passages from literary works into VR scenes that students could experience firsthand.
+
+His chosen test subject was Kafka's *The Metamorphosis*. The project also received funding from Kafka biographer Reiner Stach and the Goethe-Institut, and was named "VRwandlung" — a pun on the German title of *The Metamorphosis*, "Die Verwandlung" — and will run through the end of March.
+
+In one trial, a student named Michael Syrovatka stood in a ground-floor classroom at the Goethe-Institut in Prague and put on a VR headset. Seeing the figure of a giant insect in the mirror, he couldn't help crying out. The sleepy students raised their heads and began discussing what it would actually feel like for Gregor, the protagonist, to be transformed into an insect.
+
+If many more people get ideas similar to Mika Johnson's, literature could become the next target of virtual reality technology, after the gaming and adult-entertainment industries. For all the immersive experience it offers, the technology's limitations when applied to literature are plain to see. Cost comes first — an immersive VR system tracks the user's movements through sensors on the limbs and an infrared grid, which means the operating space must be small, and any interactive effects cost a large sum of money.
+
+More fatally, most books have no fixed conclusion, while the operating logic of VR requires setting up certain outcomes for the user to choose among. The rich metaphors of Kafka's story are not something a piece of technology can match.
+
+Mika Johnson ran into similar problems when building the VR system for *The Metamorphosis*. The German original of the word "vermin" — "Ungeziefer" — in *The Metamorphosis* troubled him for a long time: the word carries rich meanings and refers to more than a specific insect.
+
+And *The Metamorphosis* already counts as a literary text that is relatively easy to adapt into VR. Joseph Nugent, a teacher at Boston College, once considered turning Joyce's *Ulysses* into a VR experience, only to find that simply mapping out the geography was an impossible task. The scenes of *The Metamorphosis*, by contrast, were originally set within a small, enclosed space, and consist largely of the protagonist Gregor's inner thoughts as he hears his family knocking on the door and imagines his boss cursing him for being late to work.
+
+Kafka biographer Reiner Stach believes that if Kafka were alive, he would delight in seeing experiments with new technology, but would find it horrifying "to make people believe that virtual is better than real."
+
+In the words of German teacher Susanne Reif-Breitwieser after experiencing it: "I did feel immersed — I just couldn't be sure it was 'Kafka's' world."
+
+![The world of *The Metamorphosis* created by VRwandlung; image from The Economist](http://img.qdaily.com/uploads/20180312100802SaxmKAi8LUHy5zYh.jpg-w600)
+
+### Newsmakers of the Past 24 Hours
+
+At 15:52 on March 11, 2018, the first session of the 13th National People's Congress voted to adopt the amendment to the Constitution of the People's Republic of China. Of the 2,964 deputies who cast votes, 2,958 voted in favor, 2 against, 3 abstained, and 1 ballot was invalid.
+
+Compared with the earlier draft, the newly adopted constitutional amendment added one item: the NPC Law Committee was renamed the NPC Constitution and Law Committee.
+
+After the vote, the Legislative Affairs Commission of the NPC Standing Committee answered questions from Chinese and foreign reporters on issues related to the "constitutional amendment." Director Shen Chunyao said that, according to the Constitution, the power to amend the Constitution belongs to the National People's Congress, while the power to interpret the Constitution and oversee its implementation belongs to the NPC Standing Committee. This amendment changed the Law Committee into the Constitution and Law Committee, whose powers include oversight and interpretation, which helps advance the implementation of the Constitution.
+
+*The Beijing News* and Reuters then asked "what considerations lay behind deleting the provision that the president and vice president may serve no more than two consecutive terms, and whether similar amendments would be considered in the future for other state leaders of state organs." [Shen Chunyao replied](http://news.sinovision.net/politics/201803/00433121.htm):
+
+"The highest leadership positions of the Party's Central Committee, the highest leadership position of the Party and the state's armed forces — the chairman of the Central Military Commission of the Chinese People's Liberation Army — and the state presidency, the highest leadership position of the state, form a 'trinity.' Such a leadership system and leadership structure are not only necessary but also the most appropriate for a big party and a big country like ours. This leadership system and leadership structure are successful experience in state governance that the Communist Party of China has explored and summarized through its long practice in power."
+
+### What Else Happened in the World
+
+On March 11, [**elections for Cuba's National Assembly deputies formally began**](https://www.reuters.com/article/us-cuba-election/cuba-holds-one-party-vote-as-post-castro-era-looms-idUSKCN1GN05H?il=0). More than 8 million voters will cast ballots based on the official list of candidates, including deputies to the 605-seat National Assembly and deputies to the 1,265-seat local assemblies of the country's 14 provinces. The electoral process will run until April 19, when a new national leader will be chosen to succeed Raúl Castro — meaning Cuba will enter a "post-Castro era."
+
+**Chile's new president, Sebastián Piñera Echenique, [was sworn in on March 11](https://www.nytimes.com/2018/03/11/world/americas/chile-sebastian-pinera-michelle-bachelet.html?rref=collection%2Fsectioncollection%2Fworld&action=click&contentCollection=world&region=stream&module=stream_unit&version=latest&contentPlacement=4&pgtype=sectionfront)**. Politically conservative, Piñera previously served as Chile's president from 2010 to 2014. Pro-business policies, rising copper export prices, and massive reconstruction after the 8.8-magnitude earthquake kept average economic growth at 5.3% during his term.
+
+**Russia [successfully test-fired a hypersonic missile on March 11](http://www.bbc.com/news/world-europe-43362213)**. In his state of the nation address earlier this month, Russian President Vladimir Putin introduced this missile, named "Kinzhal" ("Dagger"), along with a series of new weapons. He described the missile as traveling at ten times the speed of sound, beyond the reach of any current missile-defense system.
+
+[According to the Ministry of Trade, Industry and Energy of South Korea on the 11th](http://www.zaobao.com.sg/realtime/world/story20180311-841868), South Korea recently asked the United States to relax or remove emergency import restrictions targeting South Korean-made washing machines and solar cells, and to provide compensation; the US side did not accept. **The South Korean government plans to file a lawsuit with the WTO in the near future.**
+
+On the evening of March 10, while campaigning in Pennsylvania for Republican candidate Rick Saccone, US President Donald Trump **[announced his 2020 re-election slogan](https://www.npr.org/2018/03/10/592659508/trump-in-pennsylvania-i-need-rick-saccone-to-help-keep-america-great) — "Keep America Great."** He said: "We can't say 'Make America Great Again,' because I already did that."
+
+[According to the Belarusian Telegraph Agency](http://lenta.inform.kz/cn/article_a3179877), **a blizzard struck the northeastern United States on March 10, hitting Connecticut, New Jersey, New York, and other areas**. Continuous snowfall has left more than half a meter of accumulation in those areas, severely disrupting road and air traffic. Dozens of traffic accidents have already been recorded locally. Schools in some areas have announced closures, and traffic has ground to a halt. At least a million residents have been left without power.
+
+[India's Supreme Court recently ruled](http://www.bbc.com/news/world-asia-india-43341155) that **terminally ill patients with no hope of a cure, and those in a permanent vegetative state, may receive passive euthanasia**. The ruling stated that for such terminally ill patients or permanently vegetative patients with no chance of recovery, hastening the process of death to reduce suffering during that period is "one of the rights of a person to live with dignity."
+
+### What People Are Saying
+
+["Many of the monks at the temple have left Kesen. Though scattered to the ends of the earth, they still need somewhere that provides them spiritual support. **I believe this temple is that community center, a place where people can have faith.**](https://www.nytimes.com/2018/03/10/opinion/sunday/buddhism-japan-tsunami.html?rref=collection%2Fsectioncollection%2Fopinion)" said Kobayashi Nobuo.
+
+Kobayashi Nobuo is the chief priest of Kongoji temple in Kesen, Iwate Prefecture, Japan. According to him, the temple has a history of 1,200 years. The earthquake and tsunami of March 11 killed 16,000 people and destroyed Kesen, where Kobayashi Nobuo lives. Near the city of Rikuzentakata, it was one of the hardest-hit areas: more than 200 residents died, and of 550 homes only 2 escaped destruction. Those who survived all left; only 15 residents refused to abandon their town, continuing to live in the ruins for months without water or electricity.
+
+The Kobayashi family was among them. Kobayashi Nobuo's daughter Kobayashi Mako was only 15 at the time; also in the family were his wife Kobayashi Kyoko and eldest son Kobayashi Takamasa. With their home destroyed, the four of them temporarily moved into a nearby temple. Every day Kyoko and Mako cooked for the refugees who stayed behind, while Takamasa spent his days searching the ruins for surviving Buddha statues and scriptures. Nobuo held funerals for the victims while planning to rebuild the temple — the temple needed to move to higher ground than its original site, which meant he had to clear a patch of open ground in the dense forest, win the support of believers, and raise funds for the project. He also needed to rebuild his own home.
+
+Now 22, Mako is studying chemistry at a nearby university. Her original interest was cosmetics R&D, but she decided to take her brother's place, become a monk, and carry on her father's legacy. Her brother, meanwhile, went to medical school. When making this decision, Mako wrote her parents a three-page letter explaining her resolve to study Buddhism. Despite her mother's fervent attempts to dissuade her, Mako stuck to her decision. For training, Mako went with her father to the Chishaku-in temple in Kyoto last March, received the Buddhist name "Eishin" (荣进), and became one of the few girls in the class.
+
+Several months later, the new Kongoji was completed, five years after the disaster. Roughly several hundred people attended the dedication ceremony, including 50 monks from across the country. By then Mako had shaved her head and, dressed in white monastic robes, led a procession of monks clad in colorful vestments.
+
+Reconstruction in Kesen remains slow. There are only 10 new homes near the temple; the rubble has been cleared, but it has left large patches of empty ground. Many of the villagers who left have settled down nearby.
+
+The Kobayashi family hopes Kongoji can watch over the villagers as they return to their normal pre-disaster lives.
+
+![Kesen, waiting to be rebuilt; image from The New York Times](http://img.qdaily.com/uploads/201803120911361x7zpK5QvF0sdC3h.jpg-w600)
+
+![Kobayashi Nobuo (far left) and Kobayashi Mako (far right) celebrating the new temple's completion; image from The New York Times](http://img.qdaily.com/uploads/201803120911525eqTwpRlmAX6tD1O.jpg-w600)
+
+### Things You Might Also Be Interested In
+
+[A **new study** published in *Frontiers in Ecology and the Environment* found](https://news.nationalgeographic.com/2018/03/mumbai-leopards-sanjay-gandhi-national-park-stray-dogs-rabies-spd/) that **leopards prevent roughly 100 rabies cases a year in Mumbai**. About 20,000 people in India die of rabies each year, and the country has 30 million stray dogs. The study says leopards near Mumbai kill about 1,500 stray dogs a year, saving roughly US$18,000 in management costs for the city. The density of stray dogs near the park is also 10 times lower than in the city as a whole.
+
+In 2016, [a similar study was published in the United States](https://www.vox.com/2016/7/19/12199658/cougars-car-crashes-deer). It found that the decline in cougar populations in the eastern United States caused white-tailed deer numbers to surge, which in turn led to frequent car crashes and was part of the reason for a rise in Lyme disease (an infectious disease transmitted by tick bites, causing symptoms such as rash and fever; ticks typically attach to the fur of white-tailed deer).
+
+A company called Goblatime recently [won the right **to build a building dedicated to brothels** in Magadino](https://www.swissinfo.ch/chi/%E5%95%86%E4%B8%9A%E6%B4%BB%E5%8A%A8_%E5%8E%86%E6%97%B65%E5%B9%B4%E4%B9%8B%E4%B9%85%E7%9A%84%E5%A6%93%E9%99%A2%E4%B9%8B%E6%88%98-%E6%9C%80%E7%BB%88%E8%A6%81%E5%9C%A8%E5%B7%A5%E4%BA%BA%E8%81%9A%E5%B1%85%E5%9C%B0%E5%BC%80%E5%BB%BA%E4%BA%86/43937422), an industrial town in Ticino, the Italian-speaking region of Switzerland.
+
+As early as March 2013, the company submitted a construction permit application to the government to build a brothel building in Magadino. This drew fierce criticism from town government officials, who argued that the sex trade plainly ran counter to the codes of conduct the town upheld for industry, commerce, and handicrafts.
+
+The case landed on the desk of judges at the cantonal administrative court. In the end, the Second Public Law Division of the Federal Supreme Court at the national level handed down its ruling: prostitution serves both commercial purposes and the service industry, and therefore complies with industrial-zone regulations**.**
+
+### On This Day in History
+
+March 12, 1782: the first *Complete Library in Four Branches of Literature* (《四库全书》) was completed.
+
+March 12, 1824: German physicist Gustav Robert Kirchhoff was born; in 1845 he proposed Kirchhoff's current law (KCL) and Kirchhoff's voltage law (KVL).
+
+March 12, 1925: Sun Yat-sen died in Beijing.
+
+March 12, 1929: Asa Candler, the inventor of Coca-Cola, died.
+
+March 12, 1947: the Truman Doctrine was proclaimed, and the US-Soviet "Cold War" formally began.
+
+March 12, 1990: Mikhail Gorbachev was elected the first president of the Soviet Union.
+
+March 12, 2009: Muntadhar al-Zaidi, the Iraqi journalist who threw his shoes at former US President George W. Bush in protest, was sentenced by an Iranian court to three years in prison.
+
+March 12, 2012: an explosion at the Fukushima Daiichi Nuclear Power Plant in Japan released radioactive material.
+
+Cover image from: [al.blog.com](http://blog.al.com/wire/2011/04/tsunami_warning_issued_for_jap.html)

@@ -1,0 +1,258 @@
+@@QD_TITLE@@
+After 11 Years and 8.5 Billion Units, Smartphone Growth Has Reached Its End
+@@QD_EXCERPT@@
+What comes next?
+@@QD_BODY@@
+What comes next?
+
+In 2017, global smartphone shipments came to 1.472 billion units, down 1 million from the year before.
+
+An industry that generates nearly $480 billion a year from selling phones alone had been growing steadily for more than a decade — this was [the first time it stopped](https://www.gartner.com/newsroom/id/3859963). The Chinese market also [declined for a full year for the first time](https://www.canalys.com/newsroom/china%E2%80%99s-smartphone-market-suffers-first-ever-annual-decline-shipments-fall-4-2017) last year.
+
+![](http://img.qdaily.com/uploads/20180308135102bGCXe6wy7dRWOTng.jpg-w600)
+
+Back in 2007, when smartphones were just taking off, only 15 million of America's 250 million mobile phone users owned one. At the time, Apple's total revenue was under $40 billion — less than it books in a single quarter now. Tencent and Google had been public for just three years, and along with Amazon and Alibaba, they were services or apps you'd only use on a computer.
+
+Now the smartphone has become a business [worth $478.7 billion a year](http://menafn.com/1096416418/Global-smartphone-sales-register-478.7bn-in-2017), second only to the auto industry within manufacturing. That figure would rank 26th on a global GDP league table, above Thailand and Iran.
+
+![](http://img.qdaily.com/uploads/20180309081806OtXKvzYLwakoFf07.png-w600)
+
+Today, six of the ten most valuable companies in the world are tied to the smartphone: Apple, Google, Amazon, Tencent, Alibaba, and Facebook. The spread of smartphones drove the mobile internet, giving everyone the chance to use these services anytime, anywhere.
+
+No other product is like the smartphone: everyone has to buy one, and it isn't even cheap, yet people keep replacing it over and over.
+
+![](http://img.qdaily.com/uploads/20180308224257LgOahWfC4unZGz8H.png-w600)
+
+Every business is run to achieve growth. When growth can no longer be sustained, problems follow.
+
+People point to Southeast Asia's emerging markets, Central Europe, and Eastern Europe as new growth engines. But those markets are limited in size, and once a giant market stalls, their sales growth is not enough to fill the gap.
+
+![](http://img.qdaily.com/uploads/20180308065252tfA2bI19oknXaLxU.jpg-w600)
+
+Smartphones have advanced to the point that people won't — and can't — live without them, but for manufacturers and the suppliers that serve them, this is a big deal.
+
+### Why smartphone sales are slumping is simple: everyone already has one, and there's little reason to upgrade
+
+Right now, at least half of the world's mobile phone users are on smartphones. Among the major markets, smartphone adoption in North America and Europe has passed 70%. China has about 700 million smartphone users, and 96% of its internet users are smartphone users.
+
+In the US, a high-end phone like the iPhone or Samsung Galaxy [changes hands three to four times](https://www.wsj.com/articles/your-love-of-your-old-smartphone-is-a-problem-for-apple-and-samsung-1519822801) before it's retired. Every year, phone makers recycle the same buzzwords at their launch events: camera, processing speed, resolution.
+
+Year after year there are indeed new highlights, but never enough to make upgrading feel necessary. Whether it's an 8,000-yuan iPhone X, a 4,000-yuan iPhone 6, or a 2,000-yuan Android phone, the apps people use most are the same.
+
+![Even the logos of the various Android phone makers look alike now. Image/collected from public sources](http://img.qdaily.com/uploads/20180308170912kKmDpVdChFvXBS82.jpg-w600)
+
+Independent analysis firm Asymco used mathematical modeling, Apple's disclosed sales figures, and its count of activated devices to estimate that one in every three Apple devices in existence is in "retirement." It then fed that number into a formula to estimate the average lifespan of an Apple device. That figure has gone from one year when the iPhone first launched to four years and three months.
+
+![Asymco's estimate of Apple device lifespans. Assume 2 billion units sold minus 1.3 billion activated equals 700 million retired. Then find the point on the chart where cumulative sales last reached 700 million; the time from that point to today is the product's average lifespan. Image/Asymco](http://img.qdaily.com/uploads/20180308065100anZgPdAfH2tTcL8E.png-w600)
+
+This kind of trend curve resembles population growth: roughly exponential at first; then growth slows as saturation sets in; finally, when maturity is reached, growth stops. Phones have now entered the aging phase.
+
+![A standard logistic function curve.](http://img.qdaily.com/uploads/201803090018458idLBsZYuebRIyfv.png-w600)
+
+[IDC research director Jeronimo said](https://www.theguardian.com/money/2017/sep/01/upgrade-downturn-why-are-people-holding-on-to-their-old-phones): "People have phones, they know what they're using and what features they want, and they're not in a rush to go to the store (to buy a new one)."
+
+Since 2014, people have been keeping their phones longer. The US replacement cycle stretched from 23 months in 2014 to 31 months now, and [data firm BayStreet expects](https://www.wsj.com/articles/your-love-of-your-old-smartphone-is-a-problem-for-apple-and-samsung-1519822801) it to reach 33 months next year.
+
+One study found that a cracked screen, battery aging, and the manufacturer ending software support are the [top three reasons](https://www.theguardian.com/money/2017/sep/01/upgrade-downturn-why-are-people-holding-on-to-their-old-phones) people replace their phones.
+
+Carolina Milanesi, principal analyst at US research firm Creative Strategies, [argues](https://www.theguardian.com/money/2017/sep/01/upgrade-downturn-why-are-people-holding-on-to-their-old-phones) that over the past decade the biggest sales driver for smartphones was ever-larger screens; the megapixel race and dual cameras could only boost sales for a while, and features like waterproofing basically did nothing for sales.
+
+![](http://img.qdaily.com/uploads/20180308045306ITJGeEH1uQOg3bXZ.jpg-w600)
+
+With more and more aging devices on the market, app developers have to support and optimize for them, or else lose a significant chunk of the market.
+
+This creates a vicious cycle. Even though new phones offer noticeably better processor performance, few apps support only new phones — so even fewer people upgrade for the sake of the apps.
+
+Buzzwords like AR and VR have failed to stir enough buying desire, and facing this stalled market, makers are looking elsewhere for answers.
+
+### With sales slipping, phone makers sell pricier phones to protect margins
+
+Data from market research firm [Canalys shows](https://www.canalys.com/newsroom/china%E2%80%99s-smartphone-market-suffers-first-ever-annual-decline-shipments-fall-4-2017) that China shipped 459 million smartphones in 2017, down 4% from 2016 — the first-ever full-year shipment decline in the Chinese smartphone market.
+
+But smartphones are actually selling at higher prices. GfK tracked a [14.4% increase](http://www.gfk.com/zh/insights/news/2018/) in China's 2017 smartphone sales revenue, with an average selling price of 2,250 yuan, up 295 yuan from the year before.
+
+![](http://img.qdaily.com/uploads/20180308140959oKQ5cPEzWTuaMymI.png-w600)
+
+Across price bands, the 2,500–4,000-yuan tier and models above 4,000 yuan gained the most market share, while every other band lost share. OPPO and vivo each spent more than half a year holding the top two monthly sales spots in the 1,999–2,999-yuan band, with the R9s and X9 respectively.
+
+![](http://img.qdaily.com/uploads/20180308050530RN7EwaiT9KcHZqPz.jpg-w600)
+
+The R11, launched in the second half of last year, sharply boosted OPPO's sales share in the 2,999–3,999-yuan segment, from 19% in May of last year to 44% by the end of July.
+
+Samsung — hit in both sales and brand image by the battery explosions — raised the price of the newly launched S8 by 800 yuan over the S7, to 5,688 yuan. The mainland Note 8 went up 1,000 yuan to 6,988 yuan, with the top configuration nearing the iPhone X's price.
+
+The main reason behind the price hikes is the sharp rise in component costs like memory chips and screens; offline channels also want a bigger cut. Phone makers have had no choice but to raise prices to protect gross margins.
+
+And the trend will likely continue. GfK expects China's phone sales volume to fall from 469 million units to 449 million units in 2018, while sales revenue grows 7.1% to 1.09 trillion yuan.
+
+The same trend holds globally. [According to IDC](https://www.statista.com/statistics/788557/global-average-selling-price-smartphones/), the global average selling price of smartphones rose from $282 in 2016 to $288 in 2017, and is forecast to keep climbing to $317 over the next four years.
+
+Apple raised prices the most aggressively. In the fourth quarter of last year, the iPhone X made each user spend an average of $178 more. It also helped Apple deliver a record-profit earnings report despite falling phone sales: net income of $20 billion.
+
+![](http://img.qdaily.com/uploads/201803080517485HbJElzaPwi8fpoM.jpg-w600)
+
+### Differences in the operating system make switching phone brands increasingly troublesome for Chinese Android users — and increasingly easy for overseas Android users
+
+When it comes to working across devices, Android now increasingly resembles iOS — Google has a unified account system, so using a Sony, Samsung, Google, or LG phone is essentially no different, and user data like texts, call logs, photos, and apps can all be synced across devices using Android's built-in backup/restore tools.
+
+But that has basically nothing to do with Chinese users.
+
+Due to various restrictions, even though Chinese smartphone makers all use Android and follow its upgrade cycle with updates, many of Android's features are unusable in China. The makers build their own custom systems — crafting user interfaces and account systems, trying to keep users through some differentiation. Xiaomi's MIUI and Huawei's EMUI, for example.
+
+There are ways to migrate data between devices from different makers, but most rely on third-party backup software, and the process is complicated.
+
+Meanwhile, phone makers in overseas markets — firmly under Google's control — are becoming like HP, Dell, and Lenovo in the PC era: the devices differ in design and some hardware features, but the software experience of Windows, Office, and the like is identical. Android is now the same.
+
+So Chinese phone makers want to open up new markets overseas. But once they leave China, these makers really can only sell hardware — internet services and app stores are firmly in Google's hands.
+
+### The business model Xiaomi talked about long ago is being picked up again by all the phone makers
+
+In 2011, [Lei Jun said](http://tech.qq.com/a/20110818/000266.htm) Xiaomi was a mobile internet company that would make money from internet services in the future, with hardware earning only thin margins.
+
+Reuters had previously reported that Xiaomi's 2015 internet services revenue [was about $560 million](https://cn.reuters.com/article/xiaomi-revenue-idCNKCS0V50XX) — just over half of Lei Jun's $1 billion target.
+
+Internet services include app stores, ads built into the system/software, joint game operations, and more. These services may not make much money right now, but with phone sales falling and new users hard to win, phone makers still have to pursue them.
+
+The one thing they can control best is the phone's own app store.
+
+In 2016, only about 30% of smartphone users used the maker's own app store; nearly 60% chose third-party app stores. But in the first half of 2017, the share of users on makers' own app stores overtook third-party stores, reaching 50.3%.
+
+The chance to profit from an app store is the motivation for makers to run their own. Overseas, for example, the Google Play store captures most of Android's profit: it carries app ads and takes a 30% cut of paid apps and games.
+
+![](http://img.qdaily.com/uploads/20180308142758TO6Rzk4Dt7dqBlWI.png-w600)
+
+So makers are also trying to stop third-party app stores from capturing the remaining market. Exploiting their control over the phone's system, they prevent users from uninstalling the built-in app store or installing third-party ones — a process that easily triggers disputes between phone makers and third-party app store operators.
+
+In 2015, for instance, Anzhi Market sued Huawei for unfair competition, seeking 500,000 yuan in damages; Tencent also sued OPPO in an unfair competition case that so far has won a court injunction ordering OPPO to stop the infringing practices.
+
+In internet services, phone makers have an even better model to follow: Apple.
+
+In the fourth quarter of last year, one of the growth highlights in Apple's earnings was the two internet services App Store and Apple Music, which generated $8.5 billion in revenue, up 18% from a year earlier.
+
+Apple even makes its own TV shows. Xiaomi, while not directly paying production teams, invested $300 million in iQiyi in 2014. The latter recently filed its prospectus, with Xiaomi holding an 8.4% stake.
+
+### When a market stops growing, small brands' users gradually drift to the big brands
+
+In the fourth quarter of 2017, the top five smartphone makers by global sales — Samsung, Apple, Huawei, Xiaomi, and OPPO — all gained market share compared with the same period in 2016; the leaders took roughly 5.2% of share from those ranked behind them.
+
+This is even more pronounced in China, where sales are also falling. GfK data shows the combined share of China's top five smartphone brands rose from 60% at the end of the third quarter of 2015 to 83% by the end of 2017.
+
+Over the same period, the combined share of brands ranked sixth through tenth fell from 27% to 10%. Meizu, Gionee, Samsung, and other brands all shipped fewer units last year than the year before; smaller makers are fading further from view.
+
+![](http://img.qdaily.com/uploads/20180308061026nfrykZhtRDbe6xjz.jpg-w600)
+
+And right behind Xiaomi, which sells on the order of 50 million units, comes Meizu at 20 million — with a gap in between. No maker has been able to fill that middle ground, and the situation has persisted for three years.
+
+Lenovo owned the Motorola brand. But with constant reshuffling of its phone business and team, and a chaotic product lineup, Lenovo — despite owning Motorola — sold just 1.79 million units in China last year, effectively vanishing from the market.
+
+360 briefly returned to the spotlight because of a recent string of alarming news. Lately it is mentioned alongside Smartisan, another brand people keep bringing up and forgetting, one whose sales figures have never been clear — there were rumors of a merger between 360 and Smartisan, but Luo Yonghao quickly denied them.
+
+### As competition gets harder, makers increasingly want to control the upstream
+
+Differentiation is the most important thing in the phone business — whether a better software experience, a better brand, or the hardware product itself. Right now, the software of Android makers is increasingly indistinguishable from one another. Differentiation has shifted mostly to hardware.
+
+![](http://img.qdaily.com/uploads/20180308065228iakzAc36hr8SCYpu.jpg-w600)
+
+Most of the money in the phone business now goes to channels and the supply chain. As product competition intensifies, phone makers want more control over the upstream supply chain. Chips are a key part of that.
+
+And on the matter of phone makers designing their own chips, Apple has gone the furthest.
+
+It acquired chipmaker P.A. Semi in 2008 and launched its first self-designed chip, the A4, on the original iPad two years later. Since then, the performance of its A-series processors has left even dedicated chip firms like Qualcomm and Intel behind. Apple has also extended its chip development to GPUs, co-processors, and Bluetooth chips.
+
+Samsung and Huawei are among the few phone makers after Apple to design their own chips. Samsung not only uses its chips in-house but has made them one of its pillar businesses. From April to June last year, on the strength of its semiconductor business, Samsung's operating profit surpassed Apple's for the first time, making it the world's number one. Samsung has also decided to spin off its chip foundry business, aiming to become the world's second-largest chip foundry behind TSMC within five years.
+
+Xiaomi uses self-designed processors in a small number of phones. On the Pinecone phone it released last year, it used its first self-designed processor, the Surge S1.
+
+![](http://img.qdaily.com/uploads/20180308064720mz5oagG1rvUCWpu3.png-w600)
+
+Even vivo — long known more for its marketing and always avoiding talk of performance and new technology — has started racing to adopt new tech. At CES this past January, vivo showed an engineering phone using an under-display fingerprint solution from identification-technology firm Synaptics — the device that was subsequently released as the vivo X20 Plus UD.
+
+Its front holds only the front camera and the screen, with none of the "forehead" seen on the iPhone X. With the fingerprint sensor built into the display, the phone's "chin," where the fingerprint sensor used to sit, also became screen.
+
+![vivo X20 Plus. Image/[9to5Google](https://9to5google.com/2018/01/24/vivo-x20-plus-ud-in-display-fingerprint-sensor-official/)](http://img.qdaily.com/uploads/20180308232735hX5rLsvNI0VHG2qn.jpg-w600)
+
+vivo staff said at the time that the company was actually working with multiple fingerprint-solution providers at once, including Qualcomm and Goodix; the local firm Goodix contributed the most manpower and R&D resources, but Synaptics was still the first to turn out an actual product.
+
+But any new technology carries potential risks until it has passed mass-production verification on the order of 100,000 units. vivo's under-display fingerprint technology suffered from low yield rates and high costs.
+
+At MWC last month, vivo unveiled the Apex concept phone, which also uses under-display fingerprint recognition, over an even larger recognition area. And because the front camera is a pop-up module that hides inside the body when not in use, the Apex's front is nothing but screen, with bezels of just 1.8 millimeters on the left, right, and top. Among the crowd of notched Android phones copying the iPhone X, it genuinely stands out.
+
+![Image/GIPHY](http://img.qdaily.com/uploads/20180308232642byemKRQhO1JDUlcV.gif-w600Gif)
+
+### Chip companies are either merging or turning to look for new opportunities
+
+As phone makers start to control the upstream supply chain, some suppliers are either merging or, once marginalized, turning to other industries.
+
+Nvidia and Intel once wanted in on the phone processor business too.
+
+In 2011, Nvidia — by then holding most of the desktop graphics card market — began launching phone chips, and during the transition from single-core to dual-core phones developed the Tegra 2 dual-core processor. At the time, Qualcomm was still a company that provided basebands.
+
+But Nvidia fell behind competitors like Qualcomm in subsequent R&D. Once the latter's Snapdragon 8 series launched, Nvidia had no chance left. It chose to abandon the low-margin mobile device market, shifting its focus to graphics processors, automotive, and supercomputing.
+
+Intel had also long wanted to develop chips for smart handheld devices, offering hefty subsidies. But after losing billions of dollars, Intel gave up on the market.
+
+In 2017, Intel drew on nearly its entire cash reserve to acquire the Israeli autonomous-driving provider Mobileye for $15.3 billion, and formed an alliance with BMW to jointly develop autonomous driving technology.
+
+The survivors are talking mergers too. The Broadcom–Qualcomm takeover, worth as much as $140 billion, has been under negotiation for months and even drew in US regulators.
+
+![M&A value in the chip industry. Left axis unit: US$10 billion](http://img.qdaily.com/uploads/201803082355247ZO1WvQqft0DkCdi.jpg-w600)
+
+A merged entity would create an even more severe monopoly in the chip market. If MediaTek doesn't adjust its strategy, it could well disappear in this wave of competition. After several exits and mergers, phone makers will be left with only two or three suppliers to choose from.
+
+![](http://img.qdaily.com/uploads/20180308234146K7eNhw6fYAsqC0vi.png-w600)
+
+### With margins too thin to split, more and more offline stores can only sell one brand of phone
+
+Built on capital accumulated in the Subor and BBK eras, OPPO has used celebrity star power in its marketing since the MP3 days. In 2011 it got Leonardo DiCaprio to advertise its first phone; later endorsers have included Yang Mi, Yang Yang, Li Yifeng, the TFBoys, and others.
+
+But these aren't the main reason OPPO — and vivo, its blood relative in capital terms — became a top-three smartphone seller in China in recent years. Rapidly expanding offline stores are.
+
+![](http://img.qdaily.com/uploads/20180308064602AiFrw34NZ7gsmbk2.png-w600)
+
+In fact, no third company in China has expanded township offline stores through franchised agency shops the way OPPO and vivo have, growing from 50,000 to more than 200,000 outlets in three years starting in 2013.
+
+Even so, in mid-2016, exclusive stores selling only one brand accounted for about the same share of retail channels as carriers and communications chains that sell many brands at once.
+
+But by September 2017, brand-exclusive stores' share of retail channels was twice that of all other chains. In a year and a half, phone makers' leverage over channels rose fast. OPPO and vivo also [sent their provincial agents in China](https://www.qdaily.com/articles/49069.html) to India to contract-build local sales channels.
+
+Offline channels aren't charities: for franchisees, recommending OPPO or vivo to customers is how they make money. According to China Securities Journal, around 2016 a salesperson earned roughly 100 yuan in commission for every OPPO phone sold. It is generally believed that more than 20% of OPPO's sales revenue goes to stores, store staff, provincial agents, and similar links in the chain.
+
+Canalys analyst He Tianhua told QDaily that, whether for brand upgrading or margin control, phone makers are very likely to reduce subsidies for "street-side stores" with fewer than five outlets and for stalls in phone markets.
+
+It's still unknown whether domestic subsidies will shrink or stop, but OPPO and vivo have already started in India.
+
+India's The Economic Times reported that OPPO and vivo together held about 17% of India's smartphone market earlier this year, but they have cut the profit share offered to local phone retailers by more than 40%, sparking discontent among neighborhood shops and phone chains.
+
+![](http://img.qdaily.com/uploads/20180308061536V4tFZU8BD2sXvnrR.jpg-w600)
+
+According to OPPO, it now has more than 10,000 exclusive stores, accounting for 10% of the company's sales revenue; counting other authorized storefronts, the total reaches 250,000. But the earlier rapid expansion left brand management thin and not deep enough, and all of that now has to change.
+
+In the restructuring, resources will concentrate in mid- and large-sized retail stores. GfK analysts believe this means site selection, fit-out, and floor space could all be brought up to flagship-store standards. Under this policy shift, small and mid-sized retailers will be squeezed.
+
+### 5G is seen as the next growth point — but even the people setting the standard can't think of a reason you must use it
+
+5G was the hottest word at this year's Mobile World Congress (MWC). Siemens, Huawei, Intel, Qualcomm — nearly every exhibitor was showing off 5G technology and related products, spanning the internet of things, autonomous driving, and connected cars.
+
+None of this has a direct connection to the smartphone. Even so, 5G is still regarded as the smartphone's next growth point, and by convention carriers will subsidize it — that is the makers' motivation.
+
+A GfK report believes China plans to commercialize 5G by the end of 2019. A year after China's 4G licenses were issued, 4G phone sales grew explosively, rising from under 5 million units in July 2014 to 15 million in October. 5G has hope of continuing — or even shortening — that cycle.
+
+![](http://img.qdaily.com/uploads/20180308064526gvcKSPqu0QLIypOe.png-w600)
+
+The reason 4G phone sales could explode in such a short time was the huge pool of China Mobile 2G users with demand to move to 4G — 4G's arrival meant they could finally truly use the mobile internet. At the end of June 2014, China Mobile's 4G users had just passed 10 million; by the end of October that year, the figure had exceeded 50 million.
+
+![](http://img.qdaily.com/uploads/20180308064536ESdtOfabhjPugx8Q.png-w600)
+
+But there is no comparable experience gap between 4G and 5G. In the GSMA's 5G vision, apart from VR, AR, the internet of things, and autonomous driving, every other service — including real-time calls and remote collaboration — can already be achieved on 4G or even 3G networks.
+
+After personal computers gradually spread in the 1980s, they drove more than two decades of prosperity, during which companies like Apple and Microsoft grew strong, Bill Gates became the youngest person ever to top the rich list, and the internet that came with computers gradually took shape and [reached a peak in 2000](http://www.qdaily.com/articles/42549.html).
+
+When the bubble burst in 2000, the smartphone took over, keeping up rapid growth for another dozen years and pushing the information society forward. The computer market was still growing then, but people were already thoroughly familiar with it — owning a computer was no longer something to be happy about for weeks on end.
+
+Now smartphone growth has stopped, and no new technology or product can be found to pick up where it left off. The phone itself, like the TV and the computer before it, has become an everyday presence, an appliance.
+
+The growth ceiling for smartphones, long discussed, has finally been touched.
+
+These technologies and products brought enormous progress to society, and their impact on human life and work has been thorough. But the businesses themselves have become increasingly unattractive.
+
+Cover image/[Christian Research Service](http://www.christianresearchservice.com/whats-your-relationship-with-your-smartphone/)、[1ZOOM.Me](http://www.1zoom.me/en/wallpaper/512004/z4984.8/1080x1920)
