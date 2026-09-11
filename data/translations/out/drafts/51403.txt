@@ -1,0 +1,176 @@
+@@QD_TITLE@@
+Amazon's Market Cap Has Surpassed Google's, and the Fear of It Is Spreading to Every Industry
+@@QD_EXCERPT@@
+Whenever Amazon enters a new field, the share prices of potential competitors immediately fall.
+@@QD_BODY@@
+Whenever Amazon enters a new field, the share prices of potential competitors immediately fall.
+
+Amazon has reached a new milestone. This Wednesday, Amazon's market capitalization hit $768 billion, making it the second-most-valuable company in the world.
+
+Google had held the No. 2 spot for roughly four years. Just a year earlier, Amazon's market cap was only about 70% of Google's, ranking fifth globally.
+
+![](http://img.qdaily.com/uploads/20180323003753Wgy4UIx6O1oasfP0.jpg-w600)
+
+It was also not long ago that Jeff Bezos became the richest person in the world on the Forbes list — a position he has now firmly settled into.
+
+[A set of photos](http://www.slate.com/blogs/xx_factor/2017/07/17/swole_jeff_bezos_is_exactly_the_meme_the_world_needed.html) from last year roughly captures Bezos's transformation. On the left is the 1998 Bezos, bookish in demeanor, wearing a brown pullover sweater and smiling tightly at the camera; on the right is the 2017 Bezos, in aviator sunglasses, the muscles of his arms straining the lines of a black T-shirt, striding forward at full presence.
+
+![](http://img.qdaily.com/uploads/20180323075804HfL8MZ0lgyCA9Jkw.jpg-w600)
+
+Someone even captioned the photos — 1998: "I sell books," 2017: "I'll sell whatever the f*** I want."
+
+From selling books to selling general retail merchandise, then to hardware devices, cloud computing, filmmaking, smart speakers, physical supermarkets, health insurance, finance... Amazon has entered one new field after another and achieved astonishing growth. At the same time, it has sown growing panic among the incumbent companies in those fields.
+
+### Whenever Amazon enters a new industry — even on mere rumor — the stocks of related companies crash
+
+In September 2016, Amazon announced it would launch a food delivery service in London. The share price of British food delivery company Just Eat fell immediately. That same September, when Amazon announced its photo printing service Prints, photo-sharing site Shutterfly's stock dropped 13.6%. A year later, media reported that Amazon [had started selling meal kits](http://www.qdaily.com/articles/43218.html) — the news alone that Amazon had registered a trademark for meal kits knocked 10% off the stock of the industry's only listed company, sending it to its lowest point since going public.
+
+When a big company enters a new industry and smaller companies get crushed, that's normal.
+
+But in the past two years, with Amazon, it has become a matter of crushing an entire industry at once. Companies that had held solid positions in their industries for years have also seen billions in market value evaporate on a single piece of Amazon news.
+
+In June 2017, Amazon announced it would acquire Whole Foods, the offline healthy-supermarket chain. After the announcement, the stocks of American supermarket chains of all sizes fell: the three giants of U.S. grocery retail — Walmart, Kroger and Target — dropped 7.1%, 16.7% and 12.4% respectively. The worst hit was United Natural Foods, down 25.7%, with $570 million of market value wiped out in a single day. The entire food retail industry lost at least $40.9 billion in market value that day.
+
+![](http://img.qdaily.com/uploads/20180323004626U3sZzIc6DiPdvxQe.png-w600)
+
+If the Whole Foods acquisition still concerned the retail industry Amazon inhabits, the panic sparked by Amazon's later move to form a healthcare company came entirely from the company itself.
+
+On January 30, 2018, Amazon jointly announced with investment bank JPMorgan Chase and Warren Buffett's Berkshire Hathaway the formation of a not-for-profit healthcare company that would provide medical coverage for their more than 500,000 U.S. employees and their families. No concrete plans were disclosed, and no funding commitment was announced. After the news broke, more than 30 health insurance company stocks fell together, wiping out over $30 billion in total — including UnitedHealth Group, with a market cap of $218.7 billion and the largest global revenue in the industry.
+
+This newly formed company was only meant to provide medical coverage for employees of the three companies, with no details yet. The panic the news sowed in the healthcare industry came almost entirely from Amazon.
+
+![Chart localized from: Bloomberg](http://img.qdaily.com/uploads/201803230048575rIGlTa3NpoCicV1.png-w600)
+
+By 2017, other companies' fear of Amazon could no longer be hidden.
+
+Data firm CB Insights counted the companies mentioned by name on 2017 earnings calls of U.S. listed companies: Amazon was mentioned 3,000 times — roughly five times the combined total for Apple, Google and Facebook. The words mentioned alongside Amazon included groceries, apparel, physical stores, cloud computing, logistics — all things Amazon has been doing in recent years.
+
+### There once was Microsoft panic too, but it wasn't on the same scale
+
+In the tech industry, Microsoft was once a company everyone feared. Starting with the launch of the first Windows system in 1985, Microsoft monopolized the operating system and office software markets in under a decade.
+
+Many first-generation internet companies — including the earliest portal, Yahoo — stayed away from software precisely because they feared Microsoft, starting from websites instead.
+
+The fear of Microsoft at the time also included fear of Microsoft's way of competing. [There's even a dedicated term for it: "FUD" — fear, uncertainty and doubt](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt).
+
+In the late 1990s, for example, the open-source Linux system threatened Microsoft's server operating system business. An internal Microsoft document proposed [using marketing channels to disparage Linux's reliability and security](https://www.qdaily.com/articles/31699.html). For more than a decade afterward, Microsoft followed this strategy — from the CEO's public speeches to company advertising to sales pitches.
+
+But the industries Microsoft ventured into were still basically those related to personal computers and software. Even its entertainment ventures could not be separated from Windows.
+
+And that panic's influence gradually faded in the following years.
+
+When Microsoft unveiled its Surface tablet on June 18, 2012, many analysts believed PC makers such as HP and Dell could not keep their new products in step with Microsoft's software update cadence, so the latter had to make its own hardware to compete with Apple. On the day of the product launch, even as the S&P index rose, HP's stock fell more than 3%. Lenovo's stock also dropped 1% that day.
+
+But a year later, when Microsoft acquired Nokia's mobile devices division for US$7.1 billion, only Samsung and HTC were significantly affected, their stocks falling 2.2% and 6.7% respectively. These two companies were among the few at the time that supported Windows Phone. The news had little effect on the real heavyweights of the phone industry, Apple and Google.
+
+Apple also dealt a blow to an established industry by launching a product. On September 9, 2014, Apple officially unveiled the Apple Watch, without disclosing a release date or price. The next day, Swatch Group — owner of watch brands including Swatch, Omega and Breguet — fell 1.6%.
+
+### The panic rests on Amazon's several successful entries into new industries
+
+Amazon started out selling books in 1995; its first entry into a new market came three years after launch.
+
+In 1998, a report from Amazon's marketing department showed that a significant share of users never used the Amazon website at all, because they weren't interested in reading. This "bad news" excited Bezos: it was time to expand the business into a broader range — if they wouldn't buy books, sell them other things.
+
+That nearly bankrupted Amazon.
+
+Amazon's category expansion was anything but smooth. At the outset, Amazon built fulfillment centers all over the world.
+
+Building out the warehousing system came with pressure from inventory and payment terms. When the dot-com bubble burst in 2000, Wall Street analysts accused Amazon of recklessly expanding its categories. A bond analyst at investment bank Lehman Brothers believed Amazon might not survive to the end of that year. Amazon outlived Lehman Brothers.
+
+Amazon borrowed a lifeline of cash just before the bubble fully burst, then cut losses through layoffs and improving operational efficiency, posted a small profit in 2001, and ultimately pulled through the crisis.
+
+Everyone knows what happened next: Amazon became the world's largest direct e-commerce company. In 2015, Amazon's market cap surpassed Walmart's, making it the largest retailer in the United States. Today, Amazon's market cap is three times Walmart's, having left far behind the company that once remade American society.
+
+But that's just retail. An important reason Amazon panic has spread to other industries is two other cross-industry successes.
+
+One is the Fire Phone, the phone Amazon developed and launched in 2014. This smartphone, [panned by most of the media as "boring"](http://qdaily.com/display/articles/1972), carried Amazon's hardware ambitions: it featured glasses-free 3D and could use its camera to recognize 100 million products.
+
+Amazon's phone experiment was not a success; [the entire Fire phone R&D division was laid off](http://www.qdaily.com/articles/14757.html) the year after launch.
+
+But Amazon's broad investment in hardware later paid off with the Echo smart speaker. Today Google and Apple are both making their own smart speakers following the direction Amazon set, chasing after it.
+
+And then there's the even bigger cloud computing business. The [earnings report](http://phx.corporate-ir.net/External.File?item=UGFyZW50SUQ9NjI4NTg0fENoaWxkSUQ9MzI5NTMwfFR5cGU9MQ==&t=1) that sent Amazon's stock soaring past Walmart's market cap in 2015 had its biggest highlight not in retail at all.
+
+It was the first time Amazon listed its cloud computing business (AWS) as a separate segment in its earnings: growth had stayed above 50% for three years. In fact, [cloud computing had become the main business supporting the company's continued cash burn](http://qdaily.com/display/cards/5866.html).
+
+Today AWS is worth far more than $5 billion: Amazon holds 47.1% of the entire cloud computing market, and in the most recent quarter AWS revenue exceeded $5 billion, with growth still above 45%.
+
+Cloud computing can be seen as the evolution of the enterprise server market. That was once home turf for IBM, Microsoft and Google. Today, those three companies' combined market share is still less than Amazon's alone. As early as 2013, AWS's share of the cloud computing market had already surpassed the combined shares of Salesforce, Google, IBM and Microsoft.
+
+The huge successes in retail and cloud computing let Amazon disrupt Walmart and IBM. Both companies were among the 10 stocks Buffett held in heavy concentration: starting in September 2016, Buffett successively unloaded his US$900 million worth of Walmart stock; in February 2017, he sold a third of his IBM shares, and said at that year's shareholder meeting that he had previously underestimated Amazon.
+
+The outside panic — and the hostility it produced — directly changed the way Amazon, and Bezos himself, communicates with the public.
+
+For Amazon's first twenty years, apart from writing an annual letter to shareholders, Bezos kept a low profile with the outside world. At least part of the reason was his belief that this was better for Amazon's growing business, minimizing involvement in public affairs and social activities.
+
+That lasted until August 2015, when a long article in The New York Times said Amazon was changing the world by wringing its employees dry. The article triggered enormous debate across the United States, and Bezos personally responded to it.
+
+After that, Amazon and Bezos [began remaking their public image](http://www.qdaily.com/articles/49181.html).
+
+Bezos posted his first tweet in August 2015. He also attended the Golden Globes, made charitable donations jointly with his wife, and sat for a full hour-long onstage interview at the Recode conference — all things he had avoided for the previous twenty years.
+
+The New York Times recently interviewed more than 30 people who know Bezos; they said [Bezos has realized Amazon is facing mounting opposition](http://www.qdaily.com/articles/49181.html), and Bezos has accepted the possibility that Amazon faces stricter government scrutiny.
+
+Bezos's image has gone from the frail book merchant of the early years to a "monopolist" whose image needs to be diluted through philanthropy and an active social media presence. On social networks, people have begun calling for boycotts of Amazon, and comparing photos of Bezos to the Terminator and to Superman's old nemesis Lex Luthor.
+
+### Alibaba and Tencent have also entered many new industries, but the market's reaction is completely different
+
+Alibaba and Tencent both have — or once had — market caps above $500 billion; both run businesses directly related to consumers; both command enormous traffic; and both are buying companies left and right across every industry.
+
+But unlike the American investors' instinct to "sell the incumbents," Chinese investors like not only to buy companies that Alibaba and Tencent invest in, but also to buy other companies in the same industry.
+
+On February 17, 2017, Lianhua Supermarket, under Bailian Group, surged 13.78% on the Hong Kong stock market; Sun Art Retail Group, parent of RT-Mart, jumped 6.49%. Their stocks rose because the capital market speculated that one of them was Alibaba's partner for developing new retail. Sun Art denied it the same day, but still closed up 6.68%.
+
+When Alibaba promoted its staffless supermarkets on multiple occasions, companies up and down the supply chain also rallied. In July 2017, stocks such as Invengo, Huina Technology and Kelan Software all gained more than 20% over five days, because Alibaba was going to open a staffless café at the Taobao Maker Festival.
+
+If the American investor's logic is: Amazon has entered this industry, so the other companies in this industry are done for. The Chinese investor instead thinks: Alibaba and Tencent have entered this industry, so this industry is about to take off — though of course that doesn't mean the companies in the industry get any benefit.
+
+If there is any logic to this at all, it's probably best explained by "gambling."
+
+For short-term speculators, having obtained relatively sufficient information, you plow large sums into a company while its stock price is still low, pushing the price up, attracting hordes of retail investors to follow, driving the price higher and higher — then, with no warning, you pull out your capital in one go, pocket the difference, and clap your hands and leave. As for the company's actual profitability, not many people care.
+
+China's stock market investors are dominated by retail investors. According to weekly reports disclosed by China Securities Depository and Clearing, as of March 2018, among newly added and existing investors in China that week, retail investors accounted for nearly 100%, and the value of the shares they held was mostly concentrated below 100,000 yuan. They usually lack the time and methods to analyze stocks; their decisions come from the current market trend and the judgment of people around them. The consequence is information lag and a herd effect: I'll do what everyone else does — only always a beat slower than the well-informed.
+
+By contrast, retail investors make up only 4% of the U.S. stock market; most individual investors hand their stocks to professional institutions, which have relatively rich information and analytical methods and can respond more calmly and rationally when risks hit.
+
+![Stock turnover rate here refers to how often shares change hands within a year. In 2016, Chinese investors' turnover rate was roughly three times that of U.S. investors.](http://img.qdaily.com/uploads/20180323005056gA65kfRCWnic2xtB.jpg-w600)
+
+The difference between Chinese and American investors can be seen in how long they hold stocks. According to statistics from investment research firm NDR (Ned Davis Search), in the U.S. the average stock is sold 8.3 months after purchase — and that is already at the most frenzied moment in U.S. stock market history.
+
+By comparison, for investors on the Shanghai Stock Exchange and the Shenzhen Stock Exchange, that time is 1.73 months and 1.47 months respectively.
+
+![At the end of 2016, NYSE investors held shares for an average of 8.3 months](http://img.qdaily.com/uploads/20180323022431t7mJrPIC38kQv6bj.jpeg-w600)
+
+### Chinese and American internet giants once had very different expansion paths
+
+Calling Tencent and Alibaba "China's Amazon" also reflects the marked difference in how the internet giants of China and the U.S. have expanded.
+
+Over decades of development, Alibaba, Tencent and Baidu have tried their hand at every kind of business, whether or not they could pull it off. Apple, Microsoft, Google and Facebook have all been fairly focused on their core businesses.
+
+Apple earned $20 billion in net profit in its most recent quarter and has over $200 billion in cash on its books, yet its largest single investment so far is only $3 billion — the companies it has acquired were mostly directly related to its hardware business. Facebook's biggest single purchase was WhatsApp for $16 billion, the direct reason being that the latter was in direct competition with its own business.
+
+Google's parent Alphabet has a more diverse set of businesses, but they are mostly about incubating new technologies; even when it enters a new field like transportation, education or healthcare, it starts from a specific, distinctive technology.
+
+But Amazon's pace of entering new markets in the past two years is more like a Chinese giant: it built AWS to compete with Microsoft, built the AI assistant Alexa to compete with Google, set up a video unit to compete with Netflix, and has launched private-label brands in categories like underwear, apparel and furniture that already have plenty of established brands. At the same time, it is forming a healthcare company, investing in food delivery companies, and opening physical retail stores — not to mention the recurring rumors that Amazon is considering entering industries like toys and pharmacies.
+
+![](http://img.qdaily.com/uploads/20180323022157dquMRhEnKDr6loQ2.jpeg-w600)
+
+They are all searching early for new growth engines for the day their core businesses run out of headroom.
+
+As early as 2016, the number of people using WeChat monthly had already reached 889 million, while China at the time had only 731 million internet users. Everyone in China was on WeChat, which meant that in China, its main market, Tencent's user growth had already topped out.
+
+Tencent's recently released [2017 annual report](http://www.qdaily.com/articles/51352.html) shows that the growth of its core businesses — gaming and social — has already started to slow. At this point, new growth points become especially important: over the past few months, Tencent has successively taken stakes in Yonghui Superstores, Carrefour, Wanda, HLA and Better Life.
+
+Tencent was never a retail company, but retail combining online and offline could become Tencent's next new story after gaming, social advertising and membership services.
+
+Amazon is telling the same story.
+
+Electronics and groceries are Amazon's main sources of revenue, accounting for 81.3% of its total revenue in 2016. But according to a survey by consumer products research firm TABS Analytics, in 2017 only 4.5% of customers still frequently bought groceries online — barely up from 4.2% four years earlier.
+
+AWS and the smart voice assistant both count as new growth points for Amazon beyond e-commerce — but that's still not enough.
+
+Now Amazon's acquisition of Whole Foods to do offline business follows much the same logic as Alibaba and Tencent going offline to take stakes in physical supermarket chains.
+
+Different paths, same destination.
+
+Cover image from Wikipedia; long cover image from Unsplash

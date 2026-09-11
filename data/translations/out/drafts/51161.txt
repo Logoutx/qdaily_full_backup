@@ -1,0 +1,208 @@
+@@QD_TITLE@@
+From building rockets to renting launch pads to reaching orbit: who are the players in a commercial space launch?
+@@QD_EXCERPT@@
+The truth is, commercial space launch is not yet an industry with a finely divided division of labor.
+@@QD_BODY@@
+The truth is, commercial space launch is not yet an industry with a finely divided division of labor.
+
+Four days ago, at a *Westworld* panel at the SXSW festival in Austin, a video drew several minutes of sustained applause — even though it had nothing to do with *Westworld*.
+
+Jonathan Nolan — writer and director of the *Westworld* series, and the younger brother of the more famous Nolan — had recut footage of SpaceX's successful Falcon Heavy launch on February 6: a Tesla roadster floating in space, set to David Bowie's song "Starman."
+
+When the video ended, the entire audience rose to applaud, and some people were so excited they swore out loud.
+
+This was Musk's own version, with the soundtrack swapped for David Bowie's *Life on Mars?*
+
+"Last year, while drinking with a friend, we talked about how to inspire people, how to get people communicating," Nolan said after the video played. The end result was that red roadster plus a David Bowie song.
+
+Then Nolan's "friend" — SpaceX CEO Elon Musk — appeared on stage, quoting Konstantin Tsiolkovsky, the father of astronautics: Earth is the cradle of humanity, but humanity cannot stay in the cradle forever. The audience applauded and screamed again, as if meeting their idol.
+
+After the video, Musk spoke briefly for two minutes. Beyond marveling that his current work was what his heart desired, he said SpaceX is actively pushing ahead with development of its next-generation BFR rocket, and that Mars in the future should have factories, bars, and nightclubs.
+
+Commercial companies are already doing what once required the concerted might of a national government — and doing it faster and cheaper.
+
+More numbers illustrate how hot commercial spaceflight has become. In January, the US government said it would simplify space-related regulation to encourage the growth of private space companies.
+
+US Commerce Secretary Wilbur Ross went further, saying space business is a $330 billion market that can create at least 210,000 jobs. He said there are currently 1,700 private space companies worldwide, 45% of them in the United States.
+
+### Rockets matter most in the space business, but companies that want to build a new rocket basically have to start from scratch
+
+In 2001, Musk's original space plan was to build a plant greenhouse on Mars. He conceived the project back then mainly in hopes of lobbying the government to increase the space budget and to draw public interest in space exploration.
+
+But Musk quickly changed his mind, because he realized that without a fundamental breakthrough in rocket technology, leaving Earth would be too expensive and none of his plans could be carried out.
+
+Musk began thinking about launching rockets. He went to Moscow with mechanic Jim Cantrell and his college friend Adeo Ressi, hoping to buy Russian Dnepr rockets and run a launch service. The Dnepr was converted from the Soviet SS-18 "Satan" intercontinental missile — its NATO codename — and such rockets were common after the Cold War ended.
+
+Musk hit a wall at first. ISC Kosmotras, the Russian company that operated the Dnepr, dismissed this outsider out of hand. Just to buy a single rocket, Musk had to — with the help of a friend who worked at In-Q-Tel, the CIA's venture-capital arm — form a consortium with Orbital Sciences, and spent $8 million on one Dnepr rocket.
+
+![Dnepr rocket/Wikipedia](http://img.qdaily.com/uploads/20180316053624VWuJAN8ok0vcG9dw.jpg-w600)
+
+But this time Musk lost all confidence in buying rockets. He decided the value for money was too poor and resolved to build his own.
+
+In SpaceX's earliest days, Musk estimated that by using a fully self-produced "vertical integration" model, plus the modular approach common at internet companies, SpaceX could cut launch prices by a factor of 10 while enjoying a 70% gross margin.
+
+Judging by today's Falcon rockets, Musk largely met his original targets. But the process was nothing like a new brand entering the phone or car business today, where partners can help with the various software and hardware, and having money is enough to build a product — whether it sells afterward is another question.
+
+Many companies supply components for government space programs, but there was no off-the-shelf package for assembling them into a new rocket. And as the US space program contracted after the Space Shuttle accidents, technological evolution gradually stalled as well.
+
+A rocket's main parts are its outer structure, propellant tanks, electronics, and — most critical of all — its engines.
+
+![Artist's impression of the Falcon Heavy; the engine is a rocket's core component/SpaceX](http://img.qdaily.com/uploads/20180316053703DJBArtLwpSqlE01O.jpg-w600)
+
+The engine can be regarded as the single highest technical hurdle in a rocket: essentially, whatever the principle, the structure of a present-day launch vehicle exists only to store fuel and support the payload on top.
+
+A Falcon 9 weighs 500 tons at liftoff but carries only 2.2 tons of payload — a mere 4% of liftoff weight. The vast majority of the weight goes to storing the fuel needed to break free of Earth's gravity. For most rockets, this ratio is under 4%.
+
+With no commercial engine company available off the shelf, Musk recruited Tom Mueller, former vice president at TRW and a rocket engineer. Tom Mueller is one of the world's most authoritative rocket-engine experts; during his time at TRW he designed two liquid-fueled rocket engines for NASA. As a SpaceX founding employee and CTO, Tom Mueller led the design of the "Merlin," the core of SpaceX's rockets.
+
+SpaceX's latest engine, the Merlin 1D+, is a medium-class rocket engine that runs on kerosene–liquid oxygen, uses a gas-generator cycle, a regeneratively cooled nozzle, and pintle-type throttle valves.
+
+All in all, this engine can throttle its thrust by 30%, reignite for reuse, and is structurally simpler and cheaper than the engines Boeing uses on its Delta rockets.
+
+![A Merlin 1D engine being assembled/Wikipedia](http://img.qdaily.com/uploads/20180316053839MZ0LwPt3Abs7ESlR.jpg-w600)
+
+At the same time, Mueller's industry experience made it easier for SpaceX to procure the engine's core component, the turbopump, from Barber-Nichols.
+
+The materials for the rocket's other parts are not hard to obtain. The 2195-series aluminum–lithium alloy used for the Falcon's airframe is an industry-standard material used in spacecraft, rockets, and aircraft alike, which SpaceX buys openly from the supplier Alcan.
+
+In manufacturing, SpaceX chose friction stir welding, a process widely used in the rocket and shipbuilding industries. Born in the early 1990s, it is mainly used where high-strength aluminum joints are needed. SpaceX's friction stir welding capability came from General Tool Company (GTC), which is also a Boeing supplier.
+
+![A Falcon rocket built with friction stir welding/Wikipedia](http://img.qdaily.com/uploads/20180316054157owObEgakG46NqARF.jpg-w600)
+
+A rocket also needs electronic components and onboard computers to control flight. Past rockets generally used radiation-hardened, space-grade chips — chips that are expensive and underpowered, built for high reliability.
+
+SpaceX's thinking was: a rocket only works for a few minutes anyway, so it doesn't matter if commercial computer chips are unreliable — just add several redundant backup sets to make sure they don't all fail during flight.
+
+Each engine on the Falcon 9 is controlled by three computers, each with two independent master chips. The operating system is written in C++ and runs on Linux, no different from an ordinary industrial computer.
+
+In the end, with its modest-performing Merlin engines and every possible means of shaving structural weight, the Falcon 9 devotes 24/25 of its launch weight to fuel. This minimizes the rocket's unusable "dead weight" and achieves maximum efficiency, lowering launch costs.
+
+In the end, the portion of the rocket SpaceX can produce itself accounts for 85% of all its components. By contrast, a company building a phone today with off-the-shelf designs barely needs to design or manufacture anything itself.
+
+Launching a new rocket is still a job a commercial company must do from the ground up. Combined with the technological bottlenecks in engines and design, latecomers basically cannot simply pay for technology and build a rocket more efficient than what's already on the market. And the value of commercial companies in this industry is that they cost less than government-run programs.
+
+### The private space company that came before SpaceX launched satellites by converting military missiles
+
+Although SpaceX is currently the most technologically advanced private commercial space company, it is not the earliest.
+
+Orbital Sciences was the first private company to run space launch missions. Founded in 1982, it successfully launched its first Pegasus rocket in 1990 — the first launch vehicle ever developed and launched by a private company. After the successful launch, Orbital Sciences went public.
+
+But unlike the common launch vehicle that stands a dozen-plus stories tall, the Pegasus is a small, solid-fueled, air-launched rocket about the size of a sedan. It hangs beneath a large aircraft, is carried to high altitude, and fires there; its capacity is limited to small satellites of around 100 kg.
+
+After the Pegasus, Orbital Sciences introduced the Minotaur rocket. This rocket is converted from retired US LGM-30 "Minuteman" and LGM-118A "Peacekeeper" solid-fueled intercontinental ballistic missiles, as part of a US Air Force program to repurpose decommissioned missiles.
+
+The newest Minotaur 5 can send a 630 kg payload into geosynchronous orbit; its only launch to date was in 2013, when it carried NASA's LADEE lunar atmospheric and dust environment probe into lunar orbit.
+
+Technically speaking, the Minotaur is really just an ICBM with a different target, so Orbital Sciences' business counts as operations at best. The Antares rocket, first launched in 2013, was its conventional liquid-fueled launch vehicle.
+
+![The Antares rocket/Wikipedia](http://img.qdaily.com/uploads/20180316134433xyQ0tLbEIpAU3SKu.jpg-w600)
+
+The Antares was born in the same era as SpaceX's Falcon. In 2008, to cut its budget, NASA launched the Commercial Orbital Transportation Services program, opening public tenders with the goal of resupplying the International Space Station and eventually carrying crew. Winning companies had to develop rockets and spacecraft and complete dozens of ISS resupply missions.
+
+After competing against Boeing, Lockheed Martin, and a dozen-plus other companies, SpaceX and Orbital Sciences won the orders, receiving contracts of $396 million and $288 million respectively. To date, Orbital Sciences has used the Antares to launch nine Cygnus cargo spacecraft, with three more planned flights through 2019.
+
+### Once the rocket is built, launching it still takes a lot of work
+
+A rocket of the Falcon 9's class must launch from a dedicated pad. Before liftoff, the rocket's sections are shipped from various factories to a hangar near the launch site, assembled horizontally, and then moved to the launch mount, which lifts the several-hundred-ton assembly upright for fueling while it awaits launch.
+
+Different types of satellites also impose requirements on the launch site: its latitude determines how well the launch can exploit the linear velocity from Earth's rotation. Low-latitude sites near the equator suit eastward launches into low Earth orbit and geosynchronous orbit, while higher-latitude sites make it easier to overcome Earth's gravity into high-inclination polar or sun-synchronous orbits.
+
+For example, Europe's latitude is too high, so the Ariane family's launch site was built in French Guiana in Latin America, near the equator. For national-security reasons, China originally built its Jiuquan site in the northwest, which actually has no performance advantage; it has now built a new one at Wenchang, Hainan.
+
+SpaceX currently operates three launch sites: pad SCL-40 at Cape Canaveral Air Force Station in Florida, leased from the US Air Force in 2007 and mainly used for Falcon 9 launches to low Earth and geosynchronous orbit.
+
+![The CRS-13 mission launching from pad SCL-40 at Cape Canaveral Air Force Station/Wikipedia](http://img.qdaily.com/uploads/201803160544574lRwBHaYcuhOpAKZ.jpg-w600)
+
+In 2014, SpaceX signed a 20-year lease with NASA for the LC-39A launch complex at Kennedy Space Center, also in Cape Canaveral.
+
+This pad was once used to launch the Apollo moon missions; to accommodate the enormous Saturn V, the LC-39 complex was built with giant launch structures and assembly buildings. After the Apollo missions ended in the 1970s, the complex was modified to launch the Space Shuttle. But the shuttles have all been retired, and since no other rocket could use the shuttle's facilities, LC-39 was mothballed by NASA. After leasing it to SpaceX, the company paid to update the assembly buildings, transport roads, and launch structures, and built a landing zone, using it to launch crewed Falcon 9 missions and the Falcon Heavy. Meanwhile, NASA saves $1 million a year in maintenance costs for the idle, mothballed site.
+
+![Falcon Heavy launching from pad LC-39A at Kennedy Space Center/SpaceX](http://img.qdaily.com/uploads/20180316054521dN9hGlfSITnB7Yt6.jpg-w600)
+
+In 2011, SpaceX leased the SLC-4E complex at Vandenberg Air Force Base in California from the US Air Force; the lease, extended once, now runs through 2019. This base is mainly used for polar-orbit and sun-synchronous missions.
+
+Leasing a pad takes more than money: it also requires government approval and environmental impact assessments — and you may face would-be competitors. When SpaceX leased the Kennedy Space Center complex, Jeff Bezos's Blue Origin bid against it; during the bidding, Blue Origin even protested to the US Government Accountability Office over suspected backroom dealings, while SpaceX said it could accept sharing the pad. In the end, Blue Origin lost, largely because SpaceX's plans were further along.
+
+With a pad in hand, a launch still answers to someone. At Cape Canaveral, launches come under the command of the US Air Force's 45th Space Wing, which also handles launch support such as airspace clearance, weather forecasting, and security. SpaceX is a private company; when carrying out commercial launches it has no subordinate relationship with the Air Force, but it relies on the 45th Space Wing's coordination.
+
+![A Falcon 9 waiting on the pad at Vandenberg's SLC-4E/Wikipedia](http://img.qdaily.com/uploads/20180316054631LRT9nFhvoyfiZW3u.jpg-w600)
+
+At Vandenberg Air Force Base, launches are coordinated by the Air Force's 30th Space Wing. Once SpaceX's private launch site in Texas is completed, its launches will come under the command and coordination of Air Force Space Command (AFSPC).
+
+In addition, launching a commercial communications satellite generally requires approval from the country's communications regulator. Take the US: whether a US communications satellite launches on US soil or overseas, its functions, frequency bands, power, orbit, and other information must be reported to the Federal Communications Commission (FCC) for approval.
+
+A [mix-up](https://spectrum.ieee.org/tech-talk/aerospace/satellites/fcc-accuses-stealthy-startup-of-launching-rogue-satellites) involving satellite approval happened just recently: after US company Swarm Technologies' four micro relay communications satellites — launched aboard India's PSLV rocket — reached orbit, India discovered that the satellites' launch license had been rejected on safety grounds. The FCC says it is investigating the incident.
+
+### The only space business that has been industrialized is renting existing rocket space to put satellites into orbit — and it's still mostly government-led
+
+Among artificial Earth satellites, the vast majority are communications satellites. To date, humanity has launched 1,337 civilian communications satellites, accounting for 16.07% of all objects in Earth orbit — the largest share of any category. Besides communications satellites, the other numerous types are military spy satellites, military communications satellites, and experimental and technology-demonstration satellites.
+
+In practice, if a commercial company needs satellite services today, there are basically only three kinds: geoinformation (that is, photographing the Earth), communications, and navigation and positioning.
+
+Navigation services are essentially government programs everywhere in the world — GPS in the US, BeiDou in China, Galileo in Europe, and GLONASS in Russia.
+
+Photographing the Earth and communications are the main things commercial companies want from satellites.
+
+For example, the high-definition aerial imagery used in Google Maps and Google Earth comes from the US Geological Survey's Landsat 7 and Landsat 8 satellites; to provide borderless internet service worldwide, companies like SpaceX and Facebook plan to rent or launch artificial satellites to form satellite constellations.
+
+When a company needs a satellite, it doesn't actually need to know how to build one. It only has to submit its requirements and budget to a satellite design-and-manufacturing firm, which will custom-build the satellite it needs. What remains is to negotiate a launch contract with a company like SpaceX, Arianespace, or CASIC, and then wait for the satellite to go up.
+
+This segment is highly industrialized, but the party you end up dealing with is often a government agency or a state-owned enterprise.
+
+The world's large satellites are built by a handful of defense contractors: Airbus Defence and Space in Europe; OHB, which builds the Galileo navigation satellites; Boeing in the US, which builds GPS satellites; US-based SSL, which has built the most communications satellites; and Russia's JSC, which builds the GLONASS navigation satellites and Ekspress communications satellites.
+
+If students or research institutions need to launch small satellites with simple functions — or just want to launch one for fun — there are more and cheaper options. One is the CubeSat standard developed at Stanford University. These 10-centimeter-square standard modules can be assembled by hand and can carry cameras, communications gear, experiments, and other instruments, as well as orbit-maintenance devices such as nitrogen thrusters.
+
+But launching such satellites doesn't require buying a big-rocket contract like SpaceX's Falcon 9; they can simply go to space as "secondary payloads," hitching a ride.
+
+For instance, the four micro relay communications satellites that US company Swarm Technologies commissioned India's PSLV rocket to launch hitched a ride on the launch of a large Indian mapping satellite.
+
+At the same time, specialized companies handle the outsourcing of these "ride-along" small-satellite launches. Take US company Spaceflight: its business is buying up excess capacity on large rocket launches and packaging it for organizations with small-satellite launch needs, letting small satellites hitch a ride.
+
+On Spaceflight's website, for example, you can see a schedule of planned large-rocket launches, with orbital parameters and times listed. You just choose your satellite's size and weight to get a quote. The company supports the Falcon 9, Russia's Soyuz, India's PSLV, and Orbital ATK's Minotaur; ride-along launch of a 10-centimeter CubeSat is quoted at just $295.
+
+Finally, launching satellites still carries risk — and so there is insurance.
+
+What happened to Facebook in 2016 is one example. On September 1, 2016, a Falcon 9 was scheduled to launch the Israeli-built Amos-6 communications satellite into geosynchronous orbit. Facebook had paid $95 million to lease part of its bandwidth for five years, planning to provide satellite internet service to parts of Africa. During a pre-launch ground static-fire test, the rocket exploded, leaving nothing behind.
+
+In this accident, Facebook, being merely a customer, could get a refund. Spacecom, the satellite's owner-operator, and SpaceX's losses were in theory covered by insurance. The satellite cost $200 million to build, and the rocket's manufacturing cost was $16 million; Lloyd's paid $196 million to Spacecom. But SpaceX's insurer, Aon, did not have to pay, because the rocket exploded not during a launch but on the ground, outside the insurance's coverage.
+
+In fact, there are currently dozens of commercial launches a year worldwide, with a cumulative success rate above 95%, and many insurers offer space insurance. In China, for example, launches of the Long March rocket series are underwritten by PICC.
+
+In the end, the rockets these businesses rely on include SpaceX's and Orbital Sciences', but more often they are products of the government space race. The most successful players in this business today are Russia and Europe.
+
+From the 1950s to the 1970s, amid the US–Soviet space race, the vast majority of global launches carried state-backed spy satellites and crewed spacecraft. After the Apollo moon program ended in the 1970s, these existing heavy-lift rockets began carrying commercial payloads such as communications satellites, forming the commercial launch market. The Europeans were the pioneers of the commercial space market.
+
+In 1980, led by the French space agency CNES, the governments and companies of 10 countries pooled funding to found Arianespace, a company whose founding goal was to launch satellites for customers around the world. From 1980 to the present, Arianespace has introduced five versions of the Ariane rocket, from Ariane 1 to 5, completing 228 successful launches.
+
+![The Ariane 5 rocket/Wikipedia](http://img.qdaily.com/uploads/20180316140329R1luKNtWpfscHa5m.jpg-w600)
+
+Ariane ranks eighth among all rocket families in number of launches, but it is one of the few that mainly launch commercial payloads. Among the families that have launched more often — including Russia/the Soviet Union's Soyuz and Proton, the US Delta and Atlas, and China's Long March — all were designed for military and government needs. Between 1979 and 2009, Ariane rockets placed 300 satellites into orbit, of which 236 were commercial satellites; the rest were scientific satellites, military satellites, and interplanetary probes.
+
+Besides Ariane, Russia's Proton is the other major rocket family used mainly for commercial launches. To date, the Proton has 378 successful launches, though most of them were government missions launched before the Soviet Union collapsed.
+
+Beyond Ariane and Proton, China's Long March, Russia's Soyuz, and India's PSLV and GSLV also compete in the commercial launch market.
+
+SpaceX's Falcon 9 has now become one of the most-launched rocket families in the world, with 18 launches in 2017. Ariane 5 launched 14 times, Proton-M three times. In 2018, 25 Falcon 9 launches are planned — more than Ariane 5's 15.
+
+### More commercial companies are entering the industry, most starting with "small stuff"
+
+SpaceX's current success has many ingredients. On one hand, SpaceX caught NASA at a moment of belt-tightening, took NASA contract prepayments, and stole market share from traditional military contractors. On the other hand, Musk's personal charisma drew seasoned industry figures like Tom Mueller, and publicity stunts like colonizing Mars brought him more fame and investment.
+
+But what shouldn't be overlooked is that for a company backed by a wealthy patron like Blue Origin, rocket-engine development remains the biggest bottleneck. In the past, private companies like Orbital Sciences succeeded in launching satellites because they took advantage of decommissioned ballistic missiles. Blue Origin was founded before SpaceX, but 17 years on it still hasn't put a rocket into orbit.
+
+Of the 17 private companies that once bid against NASA for space station resupply missions, only Orbital ATK and SpaceX survive today. Even by the US Commerce Secretary's count of 1,700 new companies entering this industry, commercial space remains a market with an extremely high barrier to entry — building rockets will probably never be as ordinary as building phones.
+
+But demand for satellite launches looks set to grow. Take startups: US company Planet is dedicated to launching shoebox-sized CubeSats into polar orbit, mainly to photograph the Earth in high definition. In early 2017, riding a single Indian PSLV launch, it put a constellation of 88 satellites into orbit at once.
+
+There's also OneWeb, which has proposed a constellation of 648 satellites and needs to launch 600 microwave-oven-sized small satellites by 2025 — more satellites than were launched in the previous 10 years combined.
+
+Rockets must be able to provide these services to support these satellite-based new applications. Whether large satellites or small, whether ride-along launches or dedicated launch contracts, cheaper ways of reaching space are a must. In the past, the defense contractors' launch services faced no market competition — staggeringly expensive, with no room for negotiation. Private rocket launch has broken that status quo.
+
+Going further than satellite launches — say, Musk's Mars ambitions, or the orbital tourism services being developed by companies like Virgin Galactic — commercialization hinges on lowering costs. A spaceship ticket priced at $10 million would still find buyers, but cheaper prices bring more customers and spur the growth of commercial spaceflight.
+
+Only if rocket launch prices stay stuck at tens of thousands of dollars per kilogram, every commercialization project remains unrealistic.
+
+SpaceX and similar companies are doing exactly this work: building cheaper rockets. And that road looks like it has no shortcuts.
+
+Images/SpaceX

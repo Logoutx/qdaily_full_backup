@@ -1,0 +1,158 @@
+@@QD_TITLE@@
+The "Book Number" That Publishing Hinges On: What Can We Know About It?
+@@QD_EXCERPT@@
+There's an unverified report saying book numbers will be cut by a third — how should we read that claim?
+@@QD_BODY@@
+There's an unverified report saying book numbers will be cut by a third — how should we read that claim?
+
+On the evening of March 5, 2018, a message appeared on Sina Weibo: "2018 is a year of strict publishing controls. The publishing administration will cut 100,000 book numbers, about a third of the year's total. We expect book numbers to become scarce and hard to come by after September, so we advise everyone to get their books out in the first half of the year! The few remaining numbers will only go to bestsellers!"
+
+The message was posted by "@Publisher Xing Hainiao," whose verified identity was "general manager of Sandingjia Books Co." — an intermediary in book publishing — and whose profile carried the slogan: "Want to publish a book? Find Uncle Bird!"
+
+![](http://img.qdaily.com/uploads/20180315205012Cek5KO3iE70zXHJG.png-w600)
+
+China's book publishing still operates under a strict quota system: how many books come out in a year is governed by book numbers. Before 2009, each publishing house editor had a quota of roughly five book numbers a year. The body that manages their allocation is the "publishing administration" mentioned by "@Publisher Xing Hainiao" — its full name is the State Administration of Press, Publication, Radio, Film and Television, formed in the last round of institutional reform five years earlier by merging the General Administration of Press and Publication with the State Administration of Radio, Film, and Television.
+
+The post drew just four reposts among his more than 20,000 followers and was deleted by the blogger himself four days later.
+
+What does it mean when a market that has run calmly for years, with unchanged capacity, suddenly sees its production quota cut by a third?
+
+### 1.
+
+Perhaps we need to start with the book number itself.
+
+Before us is a mainland simplified-Chinese edition of *The First Love Paradise of Fang Siyi* 《房思琪的初恋乐园》, published in February 2018.
+
+The copyright page lists the book number, the copyright contract registration number, the printer, the word count, the distributor, the author, and a responsible editor.
+
+Inside the back-flap fold, alongside the responsible editor, six more editors' names are printed on the white belly band. Above their names is the owner of the book's mainland rights: "Keyi Books," a wholly owned sub-brand of Motie Books.
+
+![Cover and back cover of *The First Love Paradise of Fang Siyi* 《房思琪的初恋乐园》, naming the two institutions](http://img.qdaily.com/uploads/20180315204722Jc5LiXYUPhqsQZBV.jpeg-w600)
+
+![](http://img.qdaily.com/uploads/20180315204801yLs8xcKkbX1EnpDC.jpeg-w600)
+
+This means the simplified-Chinese rights to *The First Love Paradise of Fang Siyi* rest with Motie Books. Motie handles title selection, rights acquisition, printing, distribution, marketing… most of the work is done by those six editors and their colleagues. But the institution that licenses a book to be published is not Motie — it is another name on the cover: Beijing United Publishing Co.
+
+In industry terms, Beijing United Publishing Co. owns the book number; it is a legitimate publishing house, and it is to houses like these that the book-number quotas we mentioned are allocated.
+
+About two-thirds of the books you see in bookstores today, online or off — especially bestsellers — involve complex cooperation between two or more institutions behind the scenes.
+
+According to data released by OpenBook, the book-market research firm, in 2017 the ten state-owned publishing groups together accounted for 28.56% of total list-price sales, with Beijing United Publishing ranking first among publishers at 2.63% — and most of its books are planned and produced in partnership with companies like Motie. Moreover, while privately owned book companies hold only 8.8% of the market, 90% of the titles on OpenBook's three major 2017 bestseller lists came from these private players.
+
+"@Publisher Xing Hainiao" was addressing precisely these private publishing companies. If the supply of book numbers shrinks, they will be the first affected — for one thing there is the price issue; for another, if the volume really falls by a third, money alone may no longer be enough to "buy" one — or rather, to "partner" for one.
+
+### 2.
+
+China currently has more than 500 publishing houses. In business terms, they hold a "franchise": the publishing bureau issues each house a quota of book numbers — before 2009, generally five per editor on staff. At year's end those numbers are printed in the books published; use them or lose them. By issuing the quotas, the state can already estimate and control how many books will be published that year.
+
+Starting in the 1980s, faced with growing demand for book publishing, private publishing outfits began to appear. They typically obtained book numbers by cooperating with publishing houses under the name of "cooperative publishing": the house supplied the number and handled the final review, while the remaining editorial work, printing, and distribution were handled by the research unit, which paid the publishing house a publishing fee. This gradually developed into a business of "selling book numbers." For small publishing houses especially, compared with the laborious planning work they originally did, it required no manpower, fulfilled the publishing quota in the shortest possible cycle, and earned them a tidy "book management fee." Like many state-owned enterprises that made a fortune from their "franchise" at the time, the state publishing houses developed a taste for it.
+
+The fee usually goes by the name of a "publishing management fee" or "review fee." An editor at a private publishing house who spoke to QDaily recalled that book numbers were priciest in the 1990s, when the market saw numbers fetching as much as 300,000 yuan. As the domestic publishing landscape gradually stabilized, the current price runs from about 6,000 to 15,000 yuan. "There are higher ones — I've heard of 20,000 — but no one around me ever bought a number that expensive. The publishing house sets a cap; it won't let you buy an expensive number, so it's 10,000 to 15,000."
+
+![In 2008, GAPP director Liu Binjie discussed book numbers on CCTV's *Decision Makers*](http://img.qdaily.com/uploads/20180315220005RoW9LpQP8KakfMUd.jpg-w600)
+
+Based on various factors — the publisher's rank or the institution it belongs to (central or local), its name (whether it is a specialist house), and so on — book numbers are priced differently in this huge, non-public market. As one editor summed it up: "A very rough rule is: the more market-oriented the house, the lower its price tends to be."
+
+In 2009, industry insiders estimated, private book studios were spending 1 billion yuan a year buying and selling book numbers.
+
+All these fees are folded into book costs — part of private booksellers' annual expenses, spread thin across the price of every single copy.
+
+Compared with the traditional Xinhua Bookstore sales channels of the 1980s, the booksellers built what was then called a "second channel" system. Like most private companies in China's transition from a planned to a market economy, it started as a "supplement" and later became the mainstream of the market.
+
+### 3.
+
+By 2018, few private booksellers still kept to the standard form of cooperative publishing. Beijing Motie Books Co., Ltd. is the most representative of them.
+
+Founded in 2007 on Dewai Street in Beijing's Xicheng district, the company has three subsidiaries, including an animation company, and nearly ten publishing brands such as "Tiehulu" and "Black Swan." Its heyday came around 2010, when it planned and published a string of bestsellers — *Those Things About the Ming Dynasty* 《明朝那些事儿》, *The Graver's Chronicles* 《盗墓笔记》, *Jade Dynasty* 《诛仙》 — and took in 800 million yuan in list-price sales in 2011, earning the name of China's largest private publisher of general-interest books.
+
+![*Those Things About the Ming Dynasty* 《明朝那些事儿》 was first published by China Customs Publishing House, later moving to Zhejiang People's Publishing House](http://img.qdaily.com/uploads/201803152054598kL6mbE04tfzneYi.jpg-w600)
+
+In its own description, Motie is a "general publishing planning and distribution company" — with no publishing business of its own — but it has a not-so-small rights department. Like most state-owned publishing houses, this department of no more than seven people handles all manner of rights information every day, negotiating with authors and rights companies and signing book-rights contracts.
+
+More importantly, the publishing department has to field book-number requests from the product managers (Motie's proprietary term for its acquiring editors). An editor who once worked at Motie described their workflow to QDaily: "The acquiring editor picks a suitable publishing house based on the content and style of the book in hand, then asks the rights department to help out and pays that house for its number. That's it."
+
+Next, the Motie side hands the materials prepared in advance to the publishing house for review. According to another editor surnamed Lei, "What each house requires varies, but it's basically the author's identity information, a description of the book, and sometimes the cover." Once the number is bought, the in-house editing and proofreading is completed, and the manuscript — after its three rounds of review and proofreading — goes to the number provider for the final read.
+
+"We review manuscripts for the quality of the work — I respect the author's copyright and get the manuscript up to publishing standards. They (the houses selling numbers) mainly do political vetting — the political check," another product manager added.
+
+At the printing stage, the rights department still has to coordinate with the publishing house, issuing the various documents publishing requires, such as the printing commission and the sales permit. Once the books are printed, the Motie side buys up the entire print run from the publishing house, acquiring exclusive distribution rights to the title.
+
+Editor Lei said, "Behind every published book there are at least eight contracts between us and the publishing house."
+
+The private publisher Thinkingdom Culture Co., Ltd., for its part, describes its cooperation with publishing houses this way in its prospectus: the issuer first conducts market research and title planning and acquires book rights, then signs a framework publishing-cooperation agreement with a publishing house, which is responsible for obtaining the publication number and for printing and publishing the book.
+
+In its prospectus, Thinkingdom also lists this distribution process for its own-rights books as one of its potential risks.
+
+![In 2011, Thinkingdom acquired the rights to *One Hundred Years of Solitude*, published by Nanhai Publishing House](http://img.qdaily.com/uploads/20180315214449W3wXOvG1fsYcRCBi.jpg-w600)
+
+"We don't find it troublesome — these are all routine procedures." In interviews, all three Motie editors said they never felt this detour had any effect on the publishing houses.
+
+But the effects are real enough.
+
+The book-number fee mentioned above is the most tangible one. A few years ago, a successful private bookseller once put it this way: publishing the same 500 books a year, "I have to pay nearly 10 million yuan more for book numbers, while a legitimate publishing house, as a state cultural company, may save 10 million through tax breaks and the like — that's a difference of maybe 20 million yuan in profit, inside and out."
+
+And the trouble doesn't stop there.
+
+Before 2013, because only publishing houses could issue printing commissions to printers, the publishing house, the bookseller, and the printer often had to sign an unprotected "tripartite agreement," entrusting the private company to pay the printing costs directly to the printer. Otherwise, the bookseller had to hand large sums of printing money to the publishing house in advance and report the matter to publishing bureaus in multiple localities. "The business of a production enterprise differs from that of a circulation enterprise, and their taxes fall out of alignment. Since the biggest cost — paper and printing — cannot be booked as business cost, there is no way to report tax on a cost basis. Many private companies have to keep two sets of books, or ask the publishing house to issue other invoices for them. Of course, it's all gray," an editor at Social Sciences Academic Press told QDaily.
+
+These gray financial zones are also seen as a major reason domestic private booksellers have never managed to enter the capital markets.
+
+Not to mention the issue of censorship.
+
+### 4.
+
+The 2009 reform was perhaps the largest single release of productive capacity the publishing industry has seen — the tightly controlled "franchise" loosened.
+
+That year, faced with a book-number market that had become a fixed practice, the General Administration of Press and Publication introduced a new way of regulating book numbers. In July 2008, it trained the nation's 519 publishing houses in the business of the real-name book-number application information system. From March of the following year, all 579 book-publishing units nationwide would apply for book numbers and bar codes over the internet through the real-name application system.
+
+![The client interface of the real-name book-number application system](http://img.qdaily.com/uploads/20180315210026TXIrpJHQlxS94cBy.jpg-w600)
+
+In the administration's vision, this method would curb the old model of "an editor sells five numbers a year to fulfill the annual publishing plan." Under the new real-name rules, the publishing administration no longer released numbers in a single unified batch; it now had to verify manuscripts that had passed three rounds of review and proofreading. Each book could claim only one number, which would also put a complete stop to the phenomenon — more than a decade old — of several books sharing a single number.
+
+But this tightening didn't scare off the book-number trade. With numbers now managed transparently, the cost of selling numbers rose sharply for publishing houses, and prices climbed ever higher.
+
+Meanwhile, that April, under strong calls from private booksellers and market players, the General Administration of Press and Publication issued the "Opinions on Further Advancing the Reform of the Press and Publication System," encouraging publishing and distribution companies and distribution groups to cross-hold shares and encouraging non-public capital to enter policy-permitted fields in multiple forms. In the publishing-industry reform championed that year by GAPP director Liu Binjie, the document explicitly proposed "guiding the healthy development of non-public publishing studios and developing new publishing productive forces." At the time, private book companies already held 50% to 80% of the market in all categories except textbooks, which remained the preserve of state-owned publishers.
+
+After 20 years on the list of "targets of severe crackdown," private booksellers finally gained legal status. From then on, book numbers could no longer tie their hands. They now had countless ways around this license — all fully compliant and legal.
+
+The 2009 policy had scarcely come down when, in April, Phoenix Publishing and Media Group announced that Jiangsu People's Publishing House and Beijing Gonghe Liandong Books Co. would form a strategic partnership: the two would invest 100 million yuan to jointly establish Beijing Phoenix Liandong Culture Media Co. Gonghe Liandong founder Zhang Xiaobo took a stake with the company's brand and other resources. The new company's chairman would be Liu Jianping, president of Jiangsu People's Publishing House, with Zhang Xiaobo as general manager.
+
+For a time, private publishing rushed into partnerships with state-owned houses. After this "public-private joint operation," the state houses — which had been struggling — found themselves under the control of the private companies. The first book Phoenix Liandong released, *China Is Unhappy* 《中国不高兴》, sold more than 600,000 copies in its first month on the market.
+
+![*China Is Unhappy* 《中国不高兴》, billed as the No. 1 bestseller of 2009](http://img.qdaily.com/uploads/20180315210343MA9WhuPqnjtG3Yx8.jpg-w600)
+
+In 2008, Lu Jinbo's "Rongshuxia" team merged with Liaoning Publishing Group's Wanjuan Publishing to form Wanrong Books Development Co.; in 2011, Beijing Bojitianquan (Booky) Book Distribution Co. married into Central South Publishing & Media Group to form a joint venture… Private publishers, always outside the system, also gained through "co-optation" the most critical legal resource of all: publishing rights and book numbers.
+
+As for Motie, which stayed independent, it too began to place publishing at the heart of the team's development. Obtaining book numbers became an indispensable yet routine part of operations. Some market-minded state publishing houses also developed regular cooperation routines for selling numbers; closely tied to private book companies, fast in their work and moderate in their review standards, they even built their own brands through number cooperation and cooperative publishing — "houses like Beijing United owe their publishing-world honors and awards precisely to the contributions of private companies."
+
+More importantly, a former Motie product manager revealed that private publishing companies like Motie can also obtain specially approved book numbers every year; though far from enough, this already proves the publishing administration's policy toward private publishing has loosened.
+
+Besides, by 2018, the book was no longer the only way knowledge reached people's hands — or even the only way for those booksellers to cash in.
+
+![Each volume in the *ZHI JAPAN* series has its own book number](http://img.qdaily.com/uploads/20180315214228A8ohJl4MIUku7jy2.jpg-w600)
+
+In interviews, numerous studios — including the team behind the well-known *ZHI JAPAN* series — told QDaily that their cooperation with publishing houses is no longer the book-number trade of ten years ago. Su Jing, editor-in-chief of *ZHI JAPAN*, describes the team as a "major author" of CITIC Press: they plan and produce content on a regular schedule and leave all remaining publishing, printing, and distribution to CITIC.
+
+Today, occupying just one link in the publishing chain no longer shapes a company's revenue the way it once did. Su Jing sees publishing as just one of several channels for monetizing content. And in the business plans of Thinkingdom and Motie, the rights they hold will become films and TV series in the future, bringing the companies profits far exceeding those of physical book publishing.
+
+### 5.
+
+Book numbers no longer matter — unless something changes.
+
+In 2014, Ge Jianxiong, a scholar at Fudan University, submitted a "Proposal on Improving Publishing" at the Two Sessions, once again recommending that "book-number restrictions be abolished," "journal numbers be gradually increased," and "the documents containing guidance on authors' remuneration be rescinded." It was the first time since 2009 that the call to abolish book numbers had reappeared in the media spotlight.
+
+In his proposal he wrote: "I recommend abolishing book numbers and journal numbers, to guarantee the freedom of publication stipulated by the Constitution." "Restricting book numbers is probably a marvel in the history of world culture. … On the one hand we talk about cultural development; on the other, we are still restricting book numbers. Since the Constitution guarantees freedom of publication, publication itself cannot be restricted. If something violates the law after publication, it can be prosecuted — but you cannot limit how much someone publishes."
+
+But even Ge Jianxiong himself said in a later interview that these proposals had never received a reply.
+
+— Which suggests that if there is a change, it won't be this kind.
+
+Despite years of doomsaying about the book market, China maintained extremely high growth rates from 2012 to 2015 — 2015's growth even hit 34%. By 2017, the Chinese book market totaled 80 billion yuan; the retail market had 1.89 million active titles and 204,000 new titles, steady for six consecutive years.
+
+When QDaily reached "@Publisher Xing Hainiao," his voice was hesitant and guarded. He said the Weibo post had been deleted and offered no clear statement on the source of the information.
+
+We have no further information about this reduction in book numbers.
+
+The latest news about the publishing industry is that in the State Council's new round of institutional reform, the State Administration of Press, Publication, Radio, Film and Television — formed in the merger five years earlier — will be abolished, and the State Council will establish a new "National Radio and Television Administration." Unconfirmed reports say management of press and publishing will in future fall to the Publicity Department of the CPC Central Committee.
+
+Cover image, banner image, and long cover image respectively from: *The Great Passage* (《编舟记》), [shutterstock](https://www.shutterstock.com/video/clip-9140606-stock-footage-animation-of-barcode-on-paper-texture.html), Ryoji Ikeda

@@ -1,0 +1,137 @@
+@@QD_TITLE@@
+Zuckerberg wrote an apology letter, and $57.3 billion in market value vanished — what exactly is Facebook's big problem?
+@@QD_EXCERPT@@
+Inevitable, really.
+@@QD_BODY@@
+Inevitable, really.
+
+This morning, [Zuckerberg apologized again](https://www.facebook.com/zuck/posts/10104712037900071):
+
+> I want to share an update on the Cambridge Analytica situation — including the steps we've taken to address this important issue and what we plan to do next.
+> We have a responsibility to protect your data, and if we can't do that, we don't deserve to serve you. I've been working to understand exactly what happened and how to make sure this doesn't happen again. The good news is that the most important steps to prevent this from happening again were taken several years ago. But we still made mistakes, there is still more to do, and we need to act now.
+> Here is a timeline of the events:
+> In 2007, we launched the Facebook Platform (Facebook Platform), hoping it would help more apps become social. Your calendar should show your friends' birthdays, your maps should be able to show your friends' addresses, and your address book should show your friends' photos. To achieve that, we allowed people to log into other apps with their Facebook accounts, and allowed those apps to access information such as users' social connections.
+> In 2013, a Cambridge University researcher named Aleksandr Kogan developed a personality quiz app. Around 300,000 people installed the app, and in doing so also shared their personal information — and that of their friends — with it. Under the rules the Facebook platform operated on at the time, this gave Kogan access to data from tens of millions of users.
+> In 2014, to stop apps from abusing data, we announced a redesign of the entire platform to limit the information third-party apps could access. Apps like Kogan's would no longer be able to ask for data about a user's friends unless those friends also used the app. At the same time, developers had to get Facebook's approval before asking users for any sensitive information. These restrictions made it impossible for any app like Kogan's to obtain such massive volumes of user data.
+> In 2015, we learned from reporters at *The Guardian* that Kogan had shared the data he collected with Cambridge Analytica. This violated our developer policies, which prohibit developers from sharing collected information without users' permission. We immediately banned Kogan's app from the platform, and we required both Kogan and Cambridge Analytica to certify that they had deleted all improperly obtained data. They provided those certifications.
+> Last week, we learned from reports in *The Guardian*, *The New York Times*, and Channel 4 that Cambridge Analytica may not have deleted the collected data as promised. We immediately banned the company from using any Facebook services. Cambridge claimed to have deleted all the data and agreed to let us send an external auditor in to confirm it. We are also working with government regulators investigating the incident.
+> This broke the trust between Kogan, Cambridge Analytica, and Facebook. It also broke the trust between Facebook and the people who share their data with us and expect us to protect it. We have to fix this.
+> On this issue, we took important measures back in 2014 to prevent bad actors from obtaining user data through such means. But there is still much more we need to do. I list the coming changes below:
+> First, we will investigate all apps that had access to large amounts of user data before we put stricter data-access policies in place. We will conduct a full review of any app showing suspicious activity. Any developer who refuses to cooperate with the audit will be banned from the platform. And if we find developers who abused user data, we will ban them too and notify everyone affected. That includes the people whose data was caught up in Kogan's app.
+> Second, we will restrict developers' access to user data even further, to prevent other kinds of data abuse. For example, if a user hasn't used an app for three months, we will restrict the data developers can access — keeping only the user's name, profile photo, and email address. We will require developers, before accessing other private data such as the posts a user has published, to obtain not only the user's consent but also a signed electronic contract. We will announce more changes in the coming days.
+> Third, we want to make sure you know exactly which apps you've granted consent to access your data. Next month we will add a tool at the top of the Facebook News Feed showing all the apps you've used, so you can easily manage the permissions those apps have to use your information. We already provide this tool in privacy settings; now we're putting it at the top of the News Feed so everyone can see it.
+> Alongside the data-access measures we took in 2014, I believe the steps we're taking now will keep the platform safe going forward.
+> I started Facebook, and until the very last day I am responsible for what happens on our platform. I take seriously anything that can protect this community. No new app like Cambridge Analytica will emerge now, but that does not change the fact that we were negligent in the past. We will learn from this incident and make our community and our platform safer going forward.
+> I want to thank each of you for continuing to believe in our mission and for building this community together. I know solving all these problems will take longer than any of us would like, but I promise we will get through them and serve you better in the long run.
+
+This apology statement is classic Zuckerberg: first, a detailed account of what happened and how Facebook let people exploit the loophole back then; next, what Facebook will do to keep the same thing from happening again; along the way, the reminder that protecting user data is ultimately Facebook's responsibility; and finally, a nod to his own responsibility.
+
+But there are still many questions this statement fails to address, and this carefully worded statement is not enough to quell the enormous controversy Facebook has stirred up over the past few days.
+
+According to reports last Saturday by [*The Guardian*](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election) and [*The New York Times*](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html), Cambridge Analytica — a data-driven campaign consultancy controlled by the Trump organization — used the stolen profiles of 50 million Facebook users to power precisely targeted messaging during the U.S. election. During Trump's run for the U.S. presidency, the company received $6 million from Trump to produce campaign-related ads.
+
+Because it touches on the U.S. presidential election, the story has become the most hotly debated topic across America over the past few days.
+
+Facebook has already paid a huge price. Over the past two trading days, Facebook's market value briefly evaporated by $57.3 billion — nearly the equivalent of two Weibo corporations. The crisis brought on by the leak of user information is still brewing.
+
+![](http://img.qdaily.com/uploads/201803221253532knHrgeMDpoyGzqj.jpg-w600)
+
+### So what exactly is this so-called data leak?
+
+This Facebook user data leak does not mean Cambridge Analytica obtained these 50 million users' email addresses, passwords, bank accounts, or anything of the sort.
+
+When you log into a game with your WeChat account, that service can get your basic information, and some can even connect you with other WeChat friends who are already playing the game.
+
+Facebook works the same way — except that overseas, this kind of app integration came earlier and was far more widespread.
+
+In 2013, a Cambridge University researcher named Aleksandr Kogan built a personality quiz app. Some 300,000 Facebook users installed it, and in doing so authorized the app to access their personal data along with their friends' data.
+
+Under Facebook's platform rules at the time, Kogan could basically access all the information of those 300,000 users and their friends.
+
+At the time, the app described itself as being for academic research. *The Guardian*'s report said the test was a paid one — to qualify for taking the test and receiving the reward, you first needed to have more than 185 friends. That is also why 300,000 users taking the test ended up affecting at least 50 million users.
+
+Zuckerberg said Facebook changed this rule in 2014, so that apps like Kogan's could no longer access users' friends' information in this way.
+
+But Kogan had already sold the data to Cambridge Analytica. In 2015, when Facebook learned of this from a *Guardian* reporter, it demanded that the parties involved delete the data.
+
+Clearly, the data was never fully deleted.
+
+Cambridge Analytica set up a dedicated company to conduct data-mining research based on this data. The information Kogan had collected included not only the basics — gender, age, job, education — but also users' everyday browsing on Facebook: what articles they posted, what articles they read, and which pages they had liked.
+
+The incident was first exposed to *The Guardian* by a former Cambridge Analytica employee, [Christopher Wylie](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election). [Wylie said](http://www.cbc.ca/news/canada/british-columbia/christopher-wylie-background-1.4583054) that to mine this data, Cambridge Analytica spent roughly $1 million.
+
+Once Cambridge Analytica obtained the information, it processed it and derived the kind of insights precision marketing requires.
+
+Pushing precisely targeted marketing messages based on user preferences is something every company that owns data does. Google, Facebook, and domestic players like Weibo, WeChat, Toutiao, and Baidu all run their advertising businesses on a similar model: try to figure out what users like, then deliver advertisers' ads to users as precisely as possible. When you browse Taobao and it recommends products based on your search and purchase history, that's the simplest example.
+
+The difference is that usually this "user" is a vague one. Data matters in the digital advertising era precisely because each user's data is held separately in the hands of tech companies. What Cambridge Analytica did was obtain preference data on these 50 million users from Facebook — and know exactly who those users were.
+
+Another big problem is the granularity of Cambridge Analytica's information. Judging from Kogan's private emails, the user profiles he computed from the data were far more detailed than what commercial companies let advertisers filter by:
+
+Gender, age, political leaning (conservative / liberal / libertarian / uninvolved), IQ, job type, college major, religious inclination, life satisfaction, openness, interests (an affinity for the military, violent cults, intellectual pursuits, and so on), degree of belief in astrology (on a five-level scale)...
+
+![](http://img.qdaily.com/uploads/201803221442375Bye1OcznlHuvGh7.jpg-w600)
+
+Facebook's ad backend may also offer a political-leaning option, but targeting ads to user segments labeled "20–30 years old" and "supports the Democratic Party" is surely less effective than delivering campaign ads to users as precisely defined as "visited Trump's campaign page three times" or "liked Trump."
+
+Of course, there is no evidence that the profiles Cambridge Analytica computed from user data were accurate enough to be reliable.
+
+Moreover, even with more precise ad-targeting data, the Trump campaign's ad spending still [lagged far behind Hillary Clinton's](https://www.wsj.com/articles/donald-trump-lags-far-behind-hillary-clinton-in-staffing-ad-buys-1466551930) — less than one-eighth of hers.
+
+And just like the several flare-ups after the election, this incident has once again been blamed by many as part of the reason America elected Trump president.
+
+### After the story broke, Facebook's response came far too late
+
+The *Guardian* and *New York Times* reports drew nationwide attention in America last Saturday, but Facebook's reaction came rather late.
+
+It was only [a few hours ago](https://www.facebook.com/zuck/posts/10104712037900071) that Facebook CEO Mark Zuckerberg and the COO formally responded, saying "we were wrong." Five days had passed since the *Guardian* and *New York Times* reports came out.
+
+[In his Facebook post, Zuckerberg](https://www.facebook.com/zuck/posts/10104712037900071) said: "We have a responsibility to protect your data, and if we can't do that, we don't deserve to provide you with any service."
+
+In response to the Cambridge Analytica scandal, Facebook changed developers' permissions: when users log into apps with their Facebook accounts, developers can only obtain very limited information at the outset; when a user stops using the app, the developer loses access to that information; and to obtain more information, developers need further permission from Facebook.
+
+But it was already too late.
+
+And it wasn't just the developer-permission changes that came late. Throughout the crisis, Facebook's management stayed silent. Tech investor Jason Calacanis told CNBC on Monday: "As the CEO of a social media giant, Zuckerberg has done a very bad job lately." He believes Zuckerberg should hand the CEO job to someone else.
+
+On the fifth day after the story broke, Zuckerberg finally spoke up.
+
+At Tuesday's internal briefing for Facebook employees, neither CEO Zuckerberg nor COO Sheryl Sandberg showed up. [The Daily Beast](https://www.thedailybeast.com/exclusive-mark-zuckerberg-awol-from-facebooks-data-leak-damage-control-session?ref=home&utm_source=Memberful&utm_campaign=635ccd5e1b-Stratechery_Daily_Update_2018_03_21&utm_medium=email&utm_term=0_d4c7fece27-635ccd5e1b-110895009), citing people familiar with the matter, reported that the meeting was chaired by Facebook's outside counsel, Paul Grewal.
+
+This was similar to what happened last fall, when Facebook faced congressional questioning: Facebook sent its chief lawyer Colin Stretch, rather than anyone from management, to submit material to Congress on Russia's interference in the U.S. election via Facebook.
+
+The reason this Facebook user data leak has blown up so much is also that the matter has once again become entangled with the U.S. presidential election.
+
+Once a topic drags in "how did Americans put Trump in the White House," the story can't stay small. And in a dramatically charged event like this one, Facebook having no member of management show up drew yet another round of criticism.
+
+In September last year, [Facebook admitted in its report to the U.S. congressional intelligence committees](http://www.qdaily.com/articles/45481.html) that during the 2016 presidential election, Russian agents interfered in the U.S. election by secretly buying political ads on the platform. [An investigative report Facebook released](http://www.qdaily.com/articles/44956.html) showed that 500 "likely Russia-operated" fake accounts bought ad placements on the platform during last year's U.S. election in order to interfere with the vote.
+
+Over the past two years Russia published more than 80,000 posts on Facebook attempting to influence American politics, and roughly 126 million Americans saw that content. Keep in mind that only 135 million people cast ballots in the election that put Trump in office.
+
+[At the start of 2018,](http://www.qdaily.com/articles/48982.html) when Zuckerberg laid out his New Year's resolution, he said this year's Facebook felt a bit like the aftermath of the 2009 financial crisis: the company was facing a series of problems it needed to solve.
+
+He said the first priority was making sure Facebook would not be manipulated by foreign actors, and cracking down on inflammatory, hateful speech, in order to give users a comfortable social environment.
+
+But now a new crisis has arrived. It seems Zuckerberg's New Year's resolution will be a hard one to keep.
+
+The U.S. Federal Trade Commission has already stepped in and opened an investigation into Facebook. [Facebook could face a $2 trillion fine as a result.](https://www.cnbc.com/2018/03/20/ftc-reportedly-to-investigate-facebooks-use-of-personal-data.html)
+
+[Bloomberg reported](https://www.bloomberg.com/news/articles/2018-03-21/facebook-is-blacklisted-at-nordea-s-sustainable-investment-unit) that Nordea, the largest bank in the Nordic region, has barred its sustainable investment unit from buying any more Facebook stock. The questions raised by the unit's head, [Sasja Beslik](https://www.cnbc.com/2018/03/19/sheryl-sandberg-should-replace-mark-zuckerberg-at-facebook-calacanis.html), also speak for many ordinary users: "This clearly happened in 2016 — so why are we only finding out now? Is this crisis only about the U.S.? Has users' information been used in other elections or for other purposes?"
+
+Facebook's crisis has dragged down other social networking companies as well. Twitter dropped more than 10% at one point, and Snap also fell [2.56%](https://www.investopedia.com/news/facebook-data-breach-twitter-and-snap-stock-tumble-news/).
+
+One of the two founders of the messaging app WhatsApp,
+
+Brian Acton, joined a Twitter initiative on Tuesday night, #deleteFacebook, writing: "It's time. Uninstall Facebook."
+
+Brian Acton
+
+made billions of dollars when WhatsApp was sold to Facebook in the first place.
+
+Judged purely by the privacy breach, the data exposed in this Facebook incident is not as serious as the credit-card and account-information leaks that happen every year. But get Trump tangled up in it — "misleading the world" — and it becomes an especially big deal.
+
+And the reason a social network knows so much about us is that users chose this business model: users choose a free social network → the social network collects data and sells ads for advertisers → the social network offers more features → users provide more information → the social network collects more data and runs ever more precisely targeted ads for advertisers.
+
+Every time you click a "log in with an xx account" button, you hand more data over to the social network. Who analyzes it afterward and how it gets used — you have no idea.
+
+Cover image from [EnriqueMendez](https://visualhunt.com/author/508706) on [Visual hunt](https://visualhunt.com/re/a68425) / [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/2.0/)
