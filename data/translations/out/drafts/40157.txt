@@ -1,0 +1,98 @@
+@@QD_TITLE@@
+The Oxford English Dictionary is a microcosm of the reference-book transformation: what has it been through, and what will it become?
+@@QD_EXCERPT@@
+When was the last time you opened a paper dictionary?
+@@QD_BODY@@
+When was the last time you opened a paper dictionary?
+
+In 1857, several British churchmen affiliated with a group called the Philological Society found that the dictionaries available to them not only had pitifully few entries, but were stuffed with obscure, odd English words. So they decided to launch a project to compile an English dictionary.
+
+In 1933, the first edition of the Oxford English Dictionary (OED), which had taken 71 years to compile, was officially published. The first 22 years (1857–1879) were preparation; during the 49 years of actual editing (1879–1928), the project went through four chief editors, and the team recruited about 1,300 volunteers in Britain and America through newspaper ads to supply quotations. James Murray, the fourth chief editor of the OED, had to build a small "scriptorium" next to Oxford University to house these snowflake-like entries.
+
+![Dr. James Murray. Image: [Oxford Dictionary blog](http://blog.oxforddictionaries.com/2013/02/james-murray/)](http://img.qdaily.com/uploads/20170427021032f54U7IRp8hgjscKB.jpg-w600)
+
+Barely a century later, in 2010, the OED's editorial team announced that the third edition of the OED — the authority on contemporary English — would most likely never be published in print.
+
+![The first edition of the OED. Image: [Bauman Rare Books](https://www.baumanrarebooks.com/rare-books/murray-james-cragie-william/oxford-english-dictionary/106143.aspx)](http://img.qdaily.com/uploads/20170427021717wFihUJsvaznZc0xk.jpg-w600)
+
+![The second edition of the OED. Image: [Centered Librarian](http://centeredlibrarian.blogspot.com/2011_04_01_archive.html)](http://img.qdaily.com/uploads/20170427021733GyuJSRowWHretsOx.jpg-w600)
+
+When the news came out, apart from some sighs of regret, most people thought it was no big deal. For modern people used to living amid the internet and smart mobile devices, the act of "looking up a word" had long since shifted from flipping through a paper dictionary to typing it — as an image, a voice, or text — into a computer or phone, and getting the answer within seconds.
+
+The man in charge of digitizing the Oxford English Dictionary was John Simpson, who served as the OED's chief editor from 1993 to 2013.
+
+To be precise: this Englishman witnessed the electronic conversion of the OED corpus in the 1980s, and from the 1990s onward, he led the online Oxford English Dictionary project and the compilation of supplements for the second edition.
+
+In 1976, John Simpson, who had graduated from the University of Reading in the UK with a degree in medieval studies, joined the OED's editorial team as an assistant who sorted index cards. If you've seen the film *The Great Passage*, adapted from a manga of the same name, you probably have a fairly vivid sense of what index cards are. Before dictionary editors commonly entered data by computer, index cards were the most important corpus-gathering tool in dictionary editing. They were small cards, one by one, each bearing a word and its definition.
+
+![Index cards stored in the offices of Merriam-Webster in the United States. Image: [Boston Globe](https://www.bostonglobe.com/magazine/2017/02/14/how-dusty-merriam-webster-dictionary-reinvented-itself-bigly/Knytvd8ZHBjHismFi4fK9N/story.html)](http://img.qdaily.com/uploads/20170427022342tfYHkhDpxvINQPuC.jpg-w600)
+
+In the process of compiling the OED, every word had to go through collection and recording, drafting, verification, and repeated proofreading before it could enter the dictionary. At the OED's editorial office, the editors responsible for drafting entries were divided into four types — general entries, scientific entries, new-word entries, and Germanic and French entries — and all of them had to decide whether a word qualified for inclusion based on the collected sources of the word, its frequency of use, its mobility across nations, and so on. During the drafting process, the editorial team developed even finer divisions of labor — for instance, there were editors dedicated to recording pronunciation, tracing and verifying how each word was pronounced through channels like television, film, and radio.
+
+This was a practice that lasted more than a hundred years — editors and researchers trudging up and down in vast libraries, hunting through newspapers and ancient books for the subtle footprints of every word's changes through history. Then, with reverence, they arranged them on thin sheets of special dictionary paper.
+
+But John Simpson happened to stand at the crossroads of a changing era.
+
+"Back in 1989, when the second edition of the OED was published, we began collecting data from printed materials and keying it into computers. (Oxford University Press hired 120 typists who spent 18 months entering the entire second edition of the OED, which contained 67,000,000 characters, into computers, using a basic tag-language structure.) At the time, we set our exploratory direction on building a giant electronic database. In the 1990s, once the rough structure of the database took shape, the world changed again. We began to notice the possibilities brought by the World Wide Web and the internet — it could transform the traditional ways of searching and publishing dictionaries that we had always used," Simpson wrote in his memoir, *The Word Detective: A Life in Words: From Serendipity to Selfie*.
+
+Because of the particular nature of dictionary compilation, the editors — a bit like "information craftsmen" — were early adopters of electronic database technology. Simpson revealed that as early as the 1980s, dictionary editors were already beginning to work with Lexis/Nexis, the American newspaper database. They gradually grew used to searching corpora and entering data on desktop computers.
+
+In 1995, the OED team began using the Making of America online database, developed by the University of Michigan — which stored material in the university's archive about early American books and magazines. This was also the OED editors' second shift, from CD-ROM databases to online databases.
+
+In 2000, Simpson and his team officially put the OED online. From then on, editors could add to and revise entries over the internet, and people could obtain the OED's latest entries through a subscription.
+
+![The web version of the OED, launched in 2000. Image: [ARIADNE](http://www.ariadne.ac.uk/issue23/oed-review)](http://img.qdaily.com/uploads/20170427023913qGSVnTpbKkWhFeoY.jpg-w600)
+
+"When you get to know a word, you get a rough sense of what the final product will look like. Every word is a poem — as small as a Shakespeare sonnet, as large as Joyce's *Ulysses*. But when compiling a dictionary on a computer, we increasingly realized that we shouldn't actually focus on any individual word; a single word is like one brick in the collage that is 'language.' In the network of language we can now build, you can see the close relationships between words far more clearly than in the old days," John Simpson said in a 2013 interview with *Time*.
+
+So would the paper materials filling libraries die out as electronic data was built? John Simpson asked himself this question too.
+
+He soon found the worry seemed somewhat unnecessary, because even if electronic databases could help editors find far more material than before, they did not truly speed up the drafting of entries. For one thing, people simply can't read that much information; and the inaccuracy of online material could also cause trouble for the verification process. "Sometimes," Simpson said, "you still have to rely on sheer human effort, and on a resourceful researcher finding the root of a problem deep in the stacks. The two methods of verification can coexist."
+
+As for the app-ification of the Oxford English-Chinese dictionaries, that was accomplished under the advocacy of a Chinese man named Liu Haoxian.
+
+Liu Haoxian has been with the Hong Kong branch of Oxford University Press for 16 years. When he first joined, he worked as an editorial assistant for English-Chinese dictionaries. Now he is chief editor of the Oxford English-Chinese dictionaries and head of Oxford University Press's dictionary publishing for Greater China.
+
+Just as John Simpson was nearing retirement, Liu Haoxian and his team were responsible for turning the Oxford Advanced Learner's English-Chinese Dictionary (seventh edition) into an app.
+
+![Image: [Dangdang](http://product.dangdang.com/20644088.html)](http://img.qdaily.com/uploads/20170427025258AbWjL02wTFOcgf8s.jpg-w600)
+
+"We chose the Oxford Advanced Learner's as our first experiment in digital publishing because this dictionary's sales had always been fairly stable," Liu Haoxian told QDaily.
+
+Around 2011, Liu Haoxian, on behalf of Oxford University Press, proposed the idea of making an app to The Commercial Press. With the arrival of the internet and search engines, paper dictionary sales worldwide had entered a state of rapid decline, and change was imperative.
+
+At the time, Oxford University Press already had some foundation in developing and producing related digital products, including licensing content to electronics manufacturers. A typical case was the electronic dictionaries produced in cooperation with Japan's Casio starting in the late 1990s. They greatly simplified the manual process of flipping through pages to look up words, while fitting more than a dozen dictionaries of different editions and purposes into a compact body.
+
+But the reality he still had to face was that the entire dictionary editorial team knew nothing about the process of developing an app.
+
+On top of that, Liu Haoxian's app proposal faced obstacles from all sides from the very start. Because the readership for e-books was still unclear, publishers had little confidence in the nascent digital publishing business. On the other hand, over more than a hundred years, paper dictionaries had formed a complete set of sales and marketing channels and reference standards — but who would an app be sold to? How would it be promoted? No one knew.
+
+"It was precisely this unfamiliarity that made all the partners wary of it in the early days of the proposal," Liu Haoxian said. "The only standard we could draw on was the software that had made it to the top of the charts, so we downloaded them one by one to study: what flaws did these apps have, what could we do, what couldn't we do? Some editors even got their first smartphone because of this project."
+
+Another factor that piled pressure on Liu Haoxian: there was still no clear verdict on a business model for dictionary software.
+
+On the eve of the entire app development plan being finalized, his boss asked him two questions: what impact would making a digital version now have on print publishing? And how much money could this digital version make?
+
+"I didn't overthink it at the time," Liu Haoxian recalled. "My answer was: first, don't see publishing a digital version as a blow to print, because the way a digital version is used is different from print. A digital version is a brand-new opportunity — to find new readers, and to bring new content to old readers. As for the second question, I can't tell you how much money we can make, but I can tell you the most we can lose, which is the cost of the programming and development."
+
+Liu Haoxian felt the answer didn't look very satisfying at the time, but fortunately his plan was not hastily rejected over it. What made him even happier was that within two months of the Oxford Advanced Learner's app going live, its sales had already recouped the development costs, and during a seasonal discount promotion it reached No. 7 on the overall paid-app chart of Hong Kong's Apple App Store.
+
+![The Oxford Advanced Learner's English-Chinese Dictionary app (8th edition). Image: [Apple Store](https://itunes.apple.com/cn/app/%E7%89%9B%E6%B4%A5%E9%AB%98%E9%98%B6%E8%8B%B1%E6%B1%89%E5%8F%8C%E8%A7%A3%E8%AF%8D%E5%85%B8-%E7%AC%AC8%E7%89%88/id1022727104?l=en&mt=8)](http://img.qdaily.com/uploads/20170427024258k4Unl3M5mbL9GXug.jpg-w600)
+
+Liu Haoxian attributed this success to "an approach that went with the times," and, in addition, the Oxford dictionaries' well-established reputation, which earned recommendations from many educational institutions and professional publishers.
+
+The Oxford Advanced Learner's English-Chinese Dictionary app is actually not the same as the online dictionary software everyone loves to use today, even though both draw on the corpora of professional dictionary publishers. Take Youdao Dictionary, owned by NetEase: its word bank includes the Collins English-Chinese Dictionary, the 21st Century English-Chinese Dictionary, and even content from Wikipedia. When you look up a word, you can get different explanations from these databases, plus English example sentences provided by search engines.
+
+By contrast, the range of definitions that a corpus built by a traditional dictionary publisher can offer is correspondingly limited.
+
+First, all the content in the app comes from the Oxford English Dictionary's corpus. And the tag structure of the corpus determines the word-lookup functions and the range of definitions the app can offer. When editors and engineers produce dictionary content, they are, to a large degree, constrained by the tags on each piece of information in the corpus.
+
+Compared with the freshly digitized database that John Simpson worked with in the 1990s, this OED corpus that Liu Haoxian repeatedly mentioned is now a giant database of billions of words, continuously refined by editors and engineers. It collects material from different media, including newspapers, magazines, literature, radio recordings, and drama dialogue. The source of every piece of material — including time, place, and origin — is recorded. Editors analyze the corpus's contents to write entries — deciding whether to include a word based on frequency of use, time of first appearance, international mobility, and so on, and analyzing and writing its senses. Example sentences are also selected from the corpus, guaranteeing that they are records of real usage. Editors generally prefer material that is well organized and grammatically illustrative.
+
+In fact, whether dictionaries, electronic dictionaries, or content licensing, all are front-end products supported by this corpus. It used to be Murray's little scriptorium; now, the corpus lets us travel abroad, and in a few seconds, understand the names of dishes on the menu before us.
+
+Also on the strength of the corpus, beyond dictionary-making in the traditional sense, Oxford University Press licenses its content to a wide range of partners — including content partnerships with tech companies like Apple, Google, and Tencent.
+
+"Beyond that, we are also building an academic project to include different languages," Liu Haoxian said at the end. "What we've been talking about now are Chinese-English and English-Chinese dictionaries, but Oxford has other dictionary projects in different countries and regions. We're also planning to build a large multilingual database. In the future, it will not only produce dictionaries, electronic dictionaries, and translation software — it will also be part of Oxford University Press's language preservation program. Our goal is to bring in a hundred different languages."
+
+Cover image: [Examining the OED](http://oed.hertford.ox.ac.uk/main/content/view/255/338/)
