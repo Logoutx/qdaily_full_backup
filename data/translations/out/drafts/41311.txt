@@ -1,0 +1,202 @@
+@@QD_TITLE@@
+13 Years After Dropping Out, Zuckerberg Returns to Harvard to Teach Graduates How to Live
+@@QD_EXCERPT@@
+Zuck says a sense of purpose brings real happiness.
+@@QD_BODY@@
+Zuck says a sense of purpose brings real happiness.
+
+**Editor's note:** A genius who wrote games in high school, a Harvard dropout, the cold-blooded sociopath in David Fincher's film, the Silicon Valley CEO who dictates how 2 billion people socialize, a 31-year-old whose personal fortune ranks fifth in the world, a future US president... Facebook founder Mark Zuckerberg carries countless labels. Now there's one more: "Dr. Zuckerberg."
+
+On the afternoon of May 25 local time, Zuckerberg put on a crimson graduation gown and delivered a speech at Harvard's commencement.
+
+In 2004, Zuckerberg, then a sophomore, dropped out of Harvard; Facebook, too, was born in his Harvard dorm room.
+
+Now, accepting an honorary Doctor of Laws degree, he took the stage for a 40-minute address. Like every successful business figure — Gates, Jobs — who gives a commencement speech, Zuckerberg's theme this time, too, was teaching graduates how to live.
+
+### Full text of the speech ([original transcript](http://time.com/4795031/mark-zuckerberg-facebook-harvard-commencement-transcript/)):
+
+President Faust, Board of Overseers, faculty, alumni, friends, proud parents, members of the Corporation, graduates of the world's greatest university:
+
+Today I'm honored to stand before you, because, honestly, you accomplished something I never could. In fact, if I get through this speech today, it will be the first thing I ever finished at Harvard. Class of 2017, congratulations!
+
+I'm actually not the person who's supposed to be giving this speech — not just because I dropped out of here, but because we're the same generation. We spent less than a decade apart on this campus, we learned the same lessons, and we both dozed off in Ec10. We came here by different paths — some of you from the Quad, a long way off. But what I want to share with you today is what I've learned about our generation and the world we're building together.
+
+Now, over the last few days, this place has brought back a lot of good memories.
+
+How many of you remember exactly what you were doing when you got the email that you'd been accepted to Harvard?
+
+I was playing *Civilization*. I ran downstairs to tell my dad. For some reason, his reaction was to film me opening the email. It may well be one of the most touching videos ever made. I can tell you that getting into Harvard is still the thing my parents are most proud of me for.
+
+Do you remember your first lecture at Harvard? Mine was Computer Science 121, taught by the great Harry Lewis. I was running late, so I threw on a T-shirt. Only later did I realize it was not only inside out but also backwards, so the tag was sticking out in front. I couldn't figure out why nobody would talk to me — except for KX Jin, who didn't mind. We ended up solving our problems together, and today he runs a big division of Facebook. Class of 2017, that is why you should be nice to people.
+
+But my best memory from Harvard was meeting Priscilla. I had just launched the prank website Facemash, and the Administrative Board wanted to "see me." Everyone thought I was going to get expelled. My parents came up to help me pack my bags, and my friends threw me a going-away party. Luckily, Priscilla came along with a friend. We met in line for the bathroom at the Pfoho Belltower. And I said one of the most romantic lines ever uttered: "I'm getting expelled in three days, so we need to start dating fast."
+
+In fact, that line works for everyone about to graduate.
+
+It turned out I wasn't expelled — I dropped out of my own accord. Priscilla and I started dating. You know, if you've seen the movie (*The Social Network* — ed.), it looks like Facemash was crucial to the founding of Facebook, but that's not true.
+
+But without Facemash, I wouldn't have met Priscilla, the most important person in my life. So you could say Facemash is the most important thing I built while I was here.
+
+All of us started lifelong friendships here, and some of us even started families. That's why I'm so grateful to this place. Thank you, Harvard.
+
+Today I want to talk about purpose. But I'm not going to give you the standard commencement speech about finding your purpose. We're millennials — we'll instinctively do that anyway. Instead, I'm here to tell you that finding your purpose isn't enough. The challenge for our generation is to create a world where everyone has a sense of purpose.
+
+![Image from Visual China Group](http://img.qdaily.com/uploads/201705261851442rSFzAIo3u6NmknH.jpg-w600)
+
+Now let me tell you one of my favorite stories. When John F. Kennedy visited the NASA space center, he saw a janitor holding a broom. He walked over and asked what the man was doing, and the janitor replied: "Mr. President, I'm helping to put a man on the moon."
+
+Purpose makes us feel that we belong to something bigger than ourselves, that we're needed, that we can work toward something better. Purpose brings real happiness.
+
+And that's especially important in the era you're graduating into. When our parents graduated, a reliable sense of purpose came from your job, your church, your community. Today, technology and automation are eliminating many jobs; communities are shrinking; many people feel disconnected from society, deeply discouraged, and they're trying to fill that void.
+
+As I've traveled, I've sat with kids in juvenile detention and with opioid addicts, and they told me that if they'd had something to do after school — somewhere to go — they wouldn't be living the lives they are. I've met factory workers who know they can't go back to their old jobs and are struggling to find their place.
+
+To keep our society moving forward, our generation faces a challenge: we have to create not just new jobs, but new purpose.
+
+I still remember the night I launched Facebook from my dorm room in Kirkland House. I went to Noch's with my friend KX. I remember telling him how excited I was to connect the people at Harvard, but that one day, someone would connect the whole world.
+
+The truth is, I never imagined that person might be us. We were just college kids; we didn't know anything about this. There were plenty of big tech companies with plenty of resources, and I figured one of them would do it. But we all know the idea — everyone wants to connect. So every day we kept pushing toward that goal.
+
+I know a lot of you will have the same experience. You think the world obviously needs some change, and surely someone else will do it. But they won't. Only you will.
+
+But having your own sense of purpose isn't enough. We have to create a sense of purpose for others, too.
+
+I learned that lesson the hard way. You know, my goal was never to build a company; it was to make an impact. And as people started joining us, I figured they cared about that too, so I never explained what kind of thing we were trying to build.
+
+Over the years, several big companies wanted to buy us. I didn't want to sell — I wanted to see whether we could connect more people. We were building the first News Feed, and I thought that once we shipped it, it would change the way we learn about the world.
+
+Nearly everyone else wanted to sell. Without a higher sense of purpose, selling the company would fulfill their startup dream. It split the company. After a heated argument, one adviser told me that if I didn't agree to sell, I'd regret that decision for the rest of my life. Relations became extremely tense, and within about a year, everyone on the management team was gone.
+
+That was the hardest time in my tenure leading Facebook. I believed in what we were doing, but I felt alone. Worse, it was my fault. I wondered whether I'd made a mistake, whether I was a fraud, whether I was a 22-year-old kid who didn't understand how the world worked.
+
+Now, years later, I know that was the result of not having a higher sense of purpose. That sense of purpose has to be created by us, so that together we can keep moving forward.
+
+Today I want to talk about three ways to create a world where everyone has a sense of purpose: take on big, meaningful projects together; redefine equality so everyone has the freedom to pursue purpose; and build community all across the world.
+
+The first way is to take on big, meaningful projects.
+
+Our generation has to face the reality that tens of millions of jobs will be replaced by automation — autonomous cars and trucks — but we can do so much more together.
+
+Every generation has its defining feats. More than 300,000 people — including that janitor — worked to put a man on the moon. Millions of volunteers vaccinated children around the world against polio. Millions more built the Hoover Dam and other great projects.
+
+These projects didn't just give the people doing them a sense of purpose; they gave our whole nation a sense of pride that we can do great things.
+
+Now it's our turn to do great things. I know, some of you are thinking: I don't know how to build a dam, or how to get a million people to do anything.
+
+But let me tell you a secret: no one does when they start. Big ideas don't spring fully formed. Ideas get clearer as you work on them; all you have to do is get started.
+
+If I'd had to know everything about connecting people before I started, I'd never have founded Facebook.
+
+Movies and pop culture get this all wrong. (They tell you) there's a moment when it clicks — when you shout "Eureka!" — but that's a dangerous lie. It makes those of us who haven't had that flash feel inadequate, and it stops people whose good idea is just taking shape from getting started. Oh, and you know what else movies get wrong about innovation? Nobody writes math formulas on glass. Never seen anyone do that.
+
+Idealism is good, but you have to be ready to be misunderstood. Anyone who works toward a big vision will be called crazy, even when they turn out to be right; anyone who tackles a complex problem will be accused of not fully understanding the challenges, even when no one could have known everything in advance; anyone who acts will be criticized for moving too fast, because there's always someone who wants you to slow down.
+
+In our society, we often fail to do big things because we've become so afraid of making mistakes — and if we do nothing, we make no mistakes. The truth is, anything we do today will run into problems in the future. But that can't stop us from getting started.
+
+So what are we waiting for? It's time to do things for everyone and define our generation. Can we try to stop climate change before we destroy the planet, with millions of people producing and installing solar panels? Can we try to cure all disease, with volunteers tracking their health data and sharing their genomes? Today we spend 50 times more treating the sick than on finding ways to prevent people from getting sick in the first place. We can fix that. Can we try to modernize democracy so everyone can vote online, and personalize education so everyone can learn?
+
+These are all within our power. Let's do them together — let's all contribute to our society. Let's do great things — not only to create progress, but to create purpose.
+
+We can build a world where everyone has a sense of purpose, and starting a big, meaningful project is the first step we can take.
+
+The second step is to redefine equality and give everyone the freedom to pursue purpose.
+
+Many of our parents had one stable job for their whole lives. Today, all of us are entrepreneurial — we're either starting a project, or looking for one, or helping to push one forward. That's great. Entrepreneurial culture is exactly why we've created so much progress.
+
+Entrepreneurial culture thrives today because it's so easy to try lots of new ideas. Facebook wasn't my first project — I'd built games, chat systems, study tools, and music players. And I wasn't alone. J.K. Rowling's *Harry Potter* series was rejected 12 times before it was published, and even Beyoncé sang hundreds of songs before "Halo." The freedom to fail is what makes the greatest successes possible.
+
+But today, the wealth gap we're facing hurts everyone. If you don't have the freedom to take your idea and turn it into a historic enterprise, we all lose. Our society is too focused on the metrics of success's rewards, and we've done far too little to make it easy for everyone to have many attempts.
+
+Let's face it: our system is broken. I could drop out of here and make billions of dollars in ten years, while millions of students can't pay back their loans, let alone start a company.
+
+I know a lot of entrepreneurs, and I've never heard of anyone giving up on starting a company because they couldn't make enough money. But I know many people give up on their dreams because they have no cushion if they fail.
+
+We all know that success doesn't come from a good idea or hard work alone — it also takes luck. If I'd had to support a family and had no time to write code, if I hadn't known I'd be fine even if Facebook failed, I wouldn't be standing here today. Honestly, we all know how lucky we are.
+
+Every generation expands the definition of equality. The last generation fought for voting rights and civil rights; they had the New Deal and the Great Society. Now it's our turn to define a new social contract for our generation.
+
+We should have a society that measures progress not just by economic metrics like GDP, but by how many of us are doing work we find meaningful. We should explore ideas like universal basic income, so everyone has a cushion to try new things.
+
+We'll all change jobs many times, so we need affordable childcare that lets us work, and health care that doesn't depend on one company. We'll all make mistakes, so we need a society that's less rigid and less quick to defame. Technology keeps changing, so we need to value lifelong learning more.
+
+Yes, giving everyone the freedom to pursue purpose has a cost. Someone like me should pay it. Many of you will go on to great success, and you should give something, too.
+
+That's why Priscilla and I started the Chan Zuckerberg Initiative, putting our wealth behind the cause of equal opportunity. These are the values of our generation. It was never a question of whether we'd do this — only when we'd start.
+
+![Image from The New York Times](http://img.qdaily.com/uploads/2017052619161298oNvcXiLnTEhdtJ.jpg-w600)
+
+Millennials are already the most generous generation in history. Every year, three-quarters of young American millennials donate to a cause, and 70% raise money for charity.
+
+But it's not just money you can give — you can give your time, too. I promise you, if you spend just an hour or two a week, you can help someone reach their potential — and it takes only that much to help one person.
+
+Maybe that sounds like too much time. I used to think so, too. After Harvard, Priscilla became a teacher. Before she and I started working in education, she told me I needed to teach a class. I complained: "Well, I'm busy. I run a company." But she insisted. So I taught a middle-school program on entrepreneurship at the local Boys & Girls Club.
+
+I taught them product development and marketing, and they taught me what it's like to be targeted for bullying because of your race or because a family member is in prison. I told them stories from my school days, and they told me they hoped they'd go to college one day. For the past five years, I've had a meal with these kids every month. One of them threw the first baby shower for Priscilla and me. They're going to college next year — every one of them — and each will be the first in their family to go.
+
+We can all make time to help someone else. Let's help everyone have the freedom to pursue their own purpose — not only because it's the right thing to do, but because we all benefit when more people turn their dreams into great things.
+
+And it's not just work that provides purpose. The third way to give everyone a sense of purpose is to build community. When our generation says "everyone," we often mean "everyone in the world."
+
+Now, quick show of hands: how many of you are from outside the United States? And how many of you are friends with one of them? Now that we can talk about it, we all grew up in environments connected to people all over the world.
+
+A survey of millennials around the world asked: what defines our identity? The most common answer wasn't nationality, region, or ethnicity — it was "citizen of the world." That matters.
+
+Every generation expands the circle of who counts as "one of us." And for us, "one of us" includes the whole world.
+
+We know that from tribes to cities to nations, as human communities grew larger, we exerted growing influence on the great course of human history and accomplished things no one could do alone.
+
+We know that right now we face some of the greatest opportunities ever — we could be the generation that ends poverty and ends disease.
+
+And we know that these great challenges require the whole world to take them on together. No country can fight climate change or prevent pandemics by itself. Making progress on these fronts takes not only cities and nations working together, but mutual aid on a global scale.
+
+But we also live in an unstable time. Around the world, people have been left behind by globalization; when we struggle just to get by on our own land, it's harder to care about people elsewhere; and there's pressure to turn inward and search within.
+
+That is the struggle of our era. The forces of freedom, openness, and global community are fighting the forces of authoritarianism, isolationism, and nationalism. The forces of knowledge, trade, and the movement of people are fighting the forces that would constrain them. This isn't a battle between nations — it's a battle of ideas. In every country, there are people who support a globally connected world, and many who oppose it.
+
+The United Nations can't decide these things. They touch every place, and only when enough people feel that sense of purpose and stability in their own lives will we open our hearts and start caring about everyone. And the best way to do that is to start now, by building local communities.
+
+Our communities give us meaning. Whether it's a neighborhood or a sports team, a church or a music group, they make us feel part of something bigger, that we're not alone, and they give us the strength to broaden our horizons.
+
+So here's a startling fact: for decades, membership applications to all kinds of communities have been declined a quarter of the time.
+
+Those people now have to find their purpose somewhere else.
+
+But I know we can rebuild our communities and create new ones, because many of you are already doing it.
+
+I met Agnes Igoye, who's graduating today. Where are you, Agnes? Her entire childhood was spent shuttling between conflict zones in Uganda, and today she trains thousands of law enforcement officers to keep communities safe.
+
+I met Kayla Oakley and Niha Jain, also graduating today. Could you two stand up? Kayla and Niha started a nonprofit that connects people suffering from diseases with people in their communities willing to help.
+
+And I met David Razu Aznar, graduating today from the Kennedy School. David, stand up, please. He's a former city councilman who led a successful fight to make Mexico City the first city in Latin America to pass marriage equality — and Mexico City did it even before San Francisco.
+
+My story is the same. A student in a dorm connected a community through a single chance, and will keep at it until we've connected the whole world.
+
+Change starts local. Even global change starts small, with people like us. There's only one measure of whether our generation connects more people and achieves our greatest aspirations: whether you can build communities and build a world where everyone has a sense of purpose.
+
+Class of 2017, the world you graduate into needs purpose, and that purpose has to be created by you.
+
+Now you might be thinking: can I really do this?
+
+Remember I told you I taught a class at the Boys & Girls Club? One day after class, I was talking with them about college when a really good student raised his hand and said he wasn't sure he could go, because he's an undocumented immigrant. He didn't know whether a college would accept him.
+
+On his birthday last year, I took him out for breakfast to celebrate. I wanted to give him a gift, so I asked what he wanted, and he started talking about classmates he'd seen struggling, and said: "You know, what I'd really want is a book about social justice."
+
+That floored me. This young man had every reason to be cynical. He didn't know whether the country he calls his home — and the only country he knows — would deny his dream of going to college. But he wasn't feeling sorry for himself; he wasn't even thinking about himself. He has a bigger purpose, of bringing everyone along with him.
+
+That story reflects our current reality — I can't even say his name, because I don't want to put him at risk.
+
+But if a high school senior who doesn't know what his own future holds can contribute to moving the world forward, then we all owe the world our share.
+
+![Image from Wikimedia Commons](http://img.qdaily.com/uploads/20170526191639mc8fOtLgqF6nzVeS.jpg-w600)
+
+Before you walk through these gates for the last time, as we sit together in front of Memorial Church, I'm reminded of a prayer: Mi Shebeirach. I say it whenever I face a challenge, or when I tuck my daughter in at night, singing and thinking about her future. It goes like this:
+
+"May the source of strength who blessed the ones before us help us find the courage to make our lives a blessing."
+
+I hope you find the courage to make your lives a blessing, too.
+
+Congratulations, Class of 2017 — and good luck.
+
+Translated by the Panda Translation Society: Qingshan Liu, Gongyi Qian, Zhongjun Ge
+
+Cover image from Visual China Group [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_-_South_by_Southwest_2008_-_4.jpg)

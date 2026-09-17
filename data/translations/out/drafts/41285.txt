@@ -1,0 +1,144 @@
+@@QD_TITLE@@
+Five players with seven world titles between them ganged up on AlphaGo — and still couldn't win
+@@QD_EXCERPT@@
+Tomorrow is Ke Jie's final game against AlphaGo.
+@@QD_BODY@@
+Tomorrow is Ke Jie's final game against AlphaGo.
+
+Today Ke Jie rested while AlphaGo kept playing — a pair-go match in the morning and a team match in the afternoon.
+
+The pair-go match pitted "Gu Li + AlphaGo" against "Lian Xiao + AlphaGo." Each side had one hour of thinking time, shared between the human and the machine. Once the hour ran out, the players alternated one-minute countdowns.
+
+Before the match, Gu Li said he needed to adopt the attitude of a student, working hard to understand AlphaGo's moves to see whether the two of them could work well together.
+
+![The venue, the Wuzhen Internet International Conference and Exhibition Center. Photo/QDaily](http://img.qdaily.com/uploads/20170526145352wBNFgVJGDavWEXp8.JPG-w600)
+
+The pair-go match began at 8:30. The playing area was moved from the second-floor game room to the ground-floor hall where Ke Jie's press conference had been held; the referee, the humans, and the computer sat in the center of the stage.
+
+Unlike Ke Jie's games, the pair-go and team matches drew far less attention. The media room, which seats 80, held fewer than 20 people, and the number of spectators in the hall was roughly 30% of what it had been for Ke Jie's games.
+
+DeepMind sent two amateur players to place stones on AlphaGo's behalf. Teammates were forbidden from discussing moves while playing (and the players couldn't actually discuss anything with AlphaGo anyway). The order of play was Gu Li (black) — Lian Xiao (white) — AlphaGo (black) — AlphaGo (white).
+
+At 10:59, after 2 hours and 29 minutes of play, Gu Li raised the card to resign.
+
+Just over half an hour earlier, Gu Li had been on the verge of winning. Lian Xiao had already exhausted his thinking time and moved into the countdown, white was behind on the board, and Gu Li still had 17 minutes left. "The game is almost over," said Hua Yigang, vice chairman of the Chinese Weiqi Association.
+
+"In the middle game, Gu Li's advantage was at one point enormous," said Liu Jing, 8-dan.
+
+![Gu Li. Photo/Google](http://img.qdaily.com/uploads/20170526144426hENRqpdALF2wXilW.jpg-w600)
+
+But after AlphaGo (black) and Gu Li each made a mistake, the entire position flipped. In the analysis room, Nie Weiping and Ke Jie [thought Gu Li's black stones were in danger](http://weibo.com/1730866981/F4RNggSe1?from=page_1002061730866981_profile&wvr=6&mod=weibotime). On stage, Gu Li shook his head.
+
+Before Gu Li raised the card, AlphaGo (black) had already tried to resign, but Gu Li refused. He wanted to see how AlphaGo would react when its winning odds were low.
+
+In pair go, resigning requires the agreement of both players.
+
+"AlphaGo resigns when it evaluates its own winning odds at below 30%," said Wang Lei, 8-dan, the commentator for the pair-go match.
+
+In the end Gu Li couldn't recover the deficit he had left himself, and finally raised the blue card to resign. His partner entered the command into AlphaGo and confirmed the agreement. With that, Lian Xiao's side, playing white, won by resignation in the middle game.
+
+"I was wondering whether AlphaGo had made a wrong move — I turned around and looked at the computer, thinking it had played a mistake, wondering what it was thinking. Lian Xiao and I both went 'ah,'" Gu Li said. "I should have saved more time for later — I often miscount the points during the countdown. I had wanted to play this pair-go game all the way to the endgame to see how AlphaGo would handle it..." Gu Li said after the match.
+
+At the press conference, Lian Xiao said that after AlphaGo beat Lee Sedol, he came to greatly admire the DeepMind team. The emergence of Master made people realize there was still enormous variety in how Go could be played. "AlphaGo may be a master hundreds of years ahead of humanity, but it's not completely invincible — it still backs down, which is very human. I think we will progress together with it."
+
+### Five players gang up on AlphaGo in the team match — and still lose
+
+The match in which humans ganged up on AlphaGo is over. On an enormously complicated board, five Chinese players joined forces and still lost to AlphaGo, in exactly four hours of play.
+
+The team match continued to use Chinese Go rules: black plays first, and at the scoring stage black gives komi to white. Each side's thinking time was shortened from three hours in the individual matches to 2.5 hours. China's five team-match players were:
+
+- Zhou Ruiyang: 9-dan; his best international result is the 2012 Bailing Cup championship;
+- Mi Yuting: 9-dan; his best international result is the 2013 Mlily Cup championship;
+- Shi Yue: 9-dan; his best international result is the 2012 LG Cup championship;
+- Tang Weixing: 9-dan; his best international results are the 2013 Samsung Cup championship and the 2016 Ing Cup championship;
+- Chen Yaoye: 9-dan; his best international results are the 2012 Chunlan Cup championship and the 2016 Bailing Cup championship;
+
+![Zhou Ruiyang places the stone. Behind him, from left to right: Shi Yue, Mi Yuting, Tang Weixing, and Chen Yaoye. Photo/Google](http://img.qdaily.com/uploads/20170526144601zKNMdeWktPa37o4U.jpg-w600)
+
+For this match, Dr. Aja Huang once again served as AlphaGo's "human arm." At yesterday's post-match press conference after the second game, Ke Jie said Dr. Huang is AlphaGo's central figure, and that sitting across the board from him is like playing against a robot.
+
+"You can see on the broadcast that I fidget a lot. Dr. Huang is different — very calm. He sits there without moving, doesn't go to the bathroom, doesn't drink water. I really admire it — I don't know how he does it," Ke Jie said with a laugh.
+
+![Dr. Aja Huang. Photo/Google](http://img.qdaily.com/uploads/20170526144510G6l7jd2JfSBCP5X4.jpg-w600)
+
+Zhou Ruiyang sat across from Dr. Huang, placing stones on behalf of the Chinese team, while his four teammates sat behind him analyzing the game. After each of AlphaGo's moves, Zhou Ruiyang would turn to the side and discuss it with the others. Before the match, Ke Jie had wanted to serve as the human arm for the Chinese team, but after some discussion the others worried he might place moves on his own initiative, so they didn't agree.
+
+Mi Yuting thought that collaborating in a multi-player match had pros and cons, and that it all came down to how the team performed on the day. Gu Li felt that a team of five would normally have a bit of an advantage, "but one problem is that the team match only has 2.5 hours — if the players' thinking isn't unified and they get into disputes, there won't be quite enough time."
+
+The Chinese team started off looking relaxed. "Zhou Ruiyang smiled — he seemed pretty satisfied with how the game was going," Gu Li said. Whether placing stones or turning back to discuss, a smile was always on Zhou Ruiyang's face.
+
+![China's 9-dans, having a fine old time playing Go. Photo/Google](http://img.qdaily.com/uploads/20170526145816LD9n4eZxTS8ch5Mz.jpg-w600)
+
+The oldest of the five Chinese players on stage was Chen Yaoye, born in 1989, and Gu Li spoke highly of them. "Tang Weixing is very active and performs especially well in big tournaments. Mi Yuting won his first world championship against me — I made a huge blunder at the time and instantly lost my confidence, feeling I already had a gap compared with the young post-90s players."
+
+As the game progressed, the Chinese team repeatedly sank into long deliberation. "It's usually not good to change your move once you've made up your mind — it disrupts your train of thought instead; better to stick to one path... I feel we still lost a move in the lower side, and spent a bit too much time," Gu Li commented.
+
+At this point AlphaGo had used 20 minutes of thinking time, while the Chinese team had used more than an hour.
+
+"AlphaGo basically takes under a minute per move," Gu Li said. More often than not, only Zhou Ruiyang had a smile on his face, while his four teammates rested their chins on their hands with grave expressions.
+
+"Zhou Ruiyang seemed to be the opposition. Thinking from black's perspective, he thought his teammates' moves — this one and that one — were all no good."
+
+"Time is pretty tight" was the observation Gu Li mentioned most frequently in his commentary. During the break, Gu Li judged the team's position to be less than optimistic — [a bit worse than Ke Jie's situation yesterday](http://weibo.com/1730866981/F4T9ucbZE?from=page_1002061730866981_profile&wvr=6&mod=weibotime).
+
+Away from the board, [according to Sina](http://sports.sina.com.cn/go/2017-05-26/doc-ifyfqqyh8548741.shtml), Ke Jie played a move from AlphaGo's point of view. Everyone else thought it wasn't very good, and while they were debating it, AlphaGo's stone landed on exactly the spot Ke Jie had in mind. The room fell silent.
+
+![Lian Xiao and Ke Jie watching from the sidelines. Photo/Google](http://img.qdaily.com/uploads/20170526160025l3X6xVzYwFrDJZhU.jpg-w600)
+
+"According to AlphaGo's evaluation, the first 50 moves — or rather the first 100 — were very, very close between the two sides." That was DeepMind CEO Demis Hassabis's assessment of Ke Jie's second game yesterday.
+
+The game, which began at 12:30, reached 15:14 with the Chinese team down to just 25 minutes of thinking time, while AlphaGo across the board still had 1 hour 52 minutes. "Zhou Ruiyang is going to have to fight for every second," Gu Li said. "Grinning like that — things must be bad." In the camera shot, Zhou Ruiyang rested his chin on one hand, leaning forward sideways, smiling as he propped himself against the go table.
+
+Ke Jie and Nie Weiping now believed that, having lost too much in the opening, the Chinese team's winning odds were [only around 30%](http://weibo.com/1730866981/F4TLnE7UK?from=page_1002061730866981_profile&wvr=6&mod=weibotime).
+
+In the final endgame stretch, the Chinese team clawed back some of their deficit. "Teacher Liu, the position seems much better now than when we first sat down," said Wang Lei, who had taken over the commentary from Gu Li, to his partner Liu Jing.
+
+Part of the reason was that AlphaGo always placed its stones with the single goal of maximizing its winning odds. Simply put, between a 99% probability of winning by 5 points and a 100% probability of winning by 1 point, AlphaGo chooses the latter.
+
+Human players can use this to narrow the margin of defeat, but they cannot change the outcome.
+
+"At this point it's just a question of whether AlphaGo wants a big win or a small one," Wang Lei said. "It especially loves beating you by half a point." Half a point is the smallest possible margin in Go. In the first game, Ke Jie lost to AlphaGo by exactly half a point.
+
+![Tang Weixing. Photo/Google](http://img.qdaily.com/uploads/20170526161354L5RpE3Z8uzemsWXl.jpg-w600)
+
+When the Chinese team exhausted its 2.5 hours of thinking time and entered the countdown, Tang Weixing took over from Zhou Ruiyang. Wang Lei explained that in an earlier team-match simulation, the five Chinese players had faced Ke Jie, and it was also during the countdown, with the position slipping away, that Tang Weixing stepped in and turned the game around.
+
+But no miracle happened. "The game has reached a hopeless point. This five-man team shouldn't be playing like this out of the opening," Liu Jing said.
+
+On stage, only Tang Weixing remained in battle mode; his teammates behind him had started chatting.
+
+"Continuing to play now doesn't mean very much," Liu Jing said.
+
+At 16:29, the five Chinese players consulted again and played a good move, drawing a reply from AlphaGo that no human would play — one that narrowed the gap between the sides to "half a point to one and a half points." This move from AlphaGo also made Dr. Aja Huang, himself a strong amateur Go player, shake his head.
+
+At 16:30, the Chinese team resigned in the middle game.
+
+"The chance to play a team match against AlphaGo had me really excited. I'm also very grateful to my teammates for trusting me so much and letting me play the main role. But my performance today was probably not very satisfying," Zhou Ruiyang said at the post-match press conference. "Our preparation for playing black may not have been thorough enough. AlphaGo has so many variations with the white stones — its fourth move already surprised us... Perhaps, as everyone predicted, we never really had a good chance in the whole game."
+
+### What is the point of humans ganging up on AlphaGo?
+
+[A previous article touched on this question.](http://www.qdaily.com/articles/41147.html)
+
+The point is clear: if an artificial intelligence algorithm can beat a single human, can human collective wisdom — and writing, pitted against the AI — win? And can a human-plus-machine combination produce a better result?
+
+[Nie Weiping thinks so.](http://weibo.com/1568006292/F4SBOvJNS?from=page_1035051568006292_profile&wvr=6&mod=weibotime) He wrote on Weibo: "Had a great chat with Hassabis yesterday. Human Go players partnering with AlphaGo would undoubtedly be able to beat AlphaGo alone — both of us are completely certain of this."
+
+There have been pair-go matches like this before. In 2005, Playchess.com ran a "freestyle" chess tournament in which contestants could team up freely with other people or with computers. Ordinarily, chess websites use "anti-cheating" algorithms to prevent contestants from cheating with computer programs.
+
+Lured by the big prize, several grandmasters entered with multiple computers in tow. At first, the results were as expected: human-computer teams far outperformed the strongest computers on their own.
+
+"Hydra," like "Deep Blue," was a dedicated chess supercomputer, yet it lost to the combination of a reasonably strong human player and a fairly weak laptop. Human strategic guidance plus the computer's precise tactical calculation.
+
+The ultimate winners were not the "strong human + high-end computer" combinations, but two American amateur players teamed with three computers.
+
+Their technique was to intervene and "coach," steering the computers to search possible positions more deeply. This strategy defeated not only the grandmasters' profound understanding of chess, but also the sheer computing power of the other entrants.
+
+"Weaker human + machine + better process" outperformed the powerful computer itself, and also outperformed "stronger human + machine + inferior process."
+
+"The pair go and the Chinese team match were both fun and fascinating. They hint at what humans and machines can achieve working together. Congratulations to all involved." After today's two matches, Hassabis posted [the above tweet.](https://twitter.com/demishassabis/status/868021945291292672)
+
+AlphaGo lead programmer David Silver also praised the matches and the seven Chinese players: "Today's games were not about winning or losing, but about exploring Go's many variations and how we can learn from them... Perhaps this gives us some insight into the future of Go, and how humans and machines can work together."
+
+Tomorrow is the final game of Ke Jie's three-game series against AlphaGo, with Ke Jie again playing white. The game still starts at 10:30, and DeepMind will provide a bilingual Chinese-English livestream on its [YouTube channel](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A).
+
+Cover image/Weibo user Tianlelu Xiaozuzhang

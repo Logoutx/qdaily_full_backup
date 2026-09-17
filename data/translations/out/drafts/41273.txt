@@ -1,0 +1,221 @@
+@@QD_TITLE@@
+1996: *Being Digital* and the Dawn of the Internet in China | What Bestsellers Reveal About China ⑦
+@@QD_EXCERPT@@
+On one level we look back at the stories of these legendary books; more importantly, of course: why we have the society we have today, what we have been through, what we have gained and lost, what wealth and consensus we have accumulated, and how we came to be where we are.
+@@QD_BODY@@
+On one level we look back at the stories of these legendary books; more importantly, of course: why we have the society we have today, what we have been through, what we have gained and lost, what wealth and consensus we have accumulated, and how we came to be where we are.
+
+**The kind of society you have is the kind of book market you get.**
+
+**We selected several books that had a major impact in China, found the authors or editors involved at the time, and asked them to tell the story of each book.**
+
+**On one level we look back at the stories of these legendary books; more importantly, of course: why we have the society we have today, what we have been through, what we have gained and lost, what wealth and consensus we have accumulated, and how we came to be where we are.**
+
+**This is book No. 7.**
+
+### 1.
+
+In the spring of 1996, two people came to a room at the Beijing Institute of Information Engineering (now the Beijing Information Science and Technology University) on Beisihuan Middle Road in Beijing's Chaoyang District to select books. The room was a studio rented by the Taiwanese rights agency Boda, with two long rows of shelves filled with the latest English books.
+
+Among those books, because its color "popped," Sanlian Life Weekly reporter Hu Yong spotted the black-covered *Being Digital* (《数字化生存》). Opening it, he saw the dedication on the frontispiece: "For Elaine, who has put up with my digital life for 11111 years." The author, Nicholas Negroponte, expressed himself not in the traditional decimal system but in binary — and that immediately hooked Hu Yong. After a quick flip through, Hu Yong decided to set aside the book he was then writing, *King of the Web*, and translate this one first.
+
+A few months earlier, on January 30, Sanlian Life Weekly had just published a feature by Hu Yong titled "How Far Away Is the Internet from Us?" The article ran to more than 10,000 characters and was among the earliest comprehensive introductions to the internet published in China. That same year, China's earliest internet company, Yinghaiwei (a transliteration of "Information Highway"), had just been founded. Its founder, Zhang Shuxin, built a "Yinghaiwei Science and Technology Hall" in Weigongcun, preparing to offer internet access to the general public. At the time, Yinghaiwei had also put up a street billboard at the Zero Point of Zhongguancun — "How far is the internet from China? 1,500 meters north" — and those 1,500 meters were exactly where the Yinghaiwei Science and Technology Hall stood. That billboard later became the source of Hu Yong's article title.
+
+![Source: [kongfz](http://book.kongfz.com/item_pic_19945_649099810/)](http://img.qdaily.com/uploads/201705260309277bpJTKPOHoWkFn8h.jpg-w600)
+
+And in October a year earlier, the 30-year-old Hu Yong had gone online for the first time in a computer room at Tsinghua University. It left him "utterly shocked" and "very excited"; he felt the internet should be popularized in China on a mass scale immediately. As a journalist, he could not wait to write an article introducing "what the internet can do" to Chinese readers at the time — it was "not as mysterious and distant as everyone thinks" — and that is how the long piece "How Far Away Is the Internet from Us?" came about.
+
+Back then, the internet had not yet been commercialized at scale in China; only a small number of people could access the education network from universities or research institutes, and ordinary people knew little about it. Still, there were already widely told stories of people successfully "seeking medical help" online. For instance, a young woman named Yang Xiaoxia in Shandong had a strange disease in which her muscles were rotting; through an online plea for help, a way to treat her was found. Zhu Ling of Tsinghua University also came down with a strange illness; after her friends appealed for help over the internet, it was finally identified as thallium poisoning.
+
+Stories like these seem utterly ordinary today, but at the time they were a great shock to Chinese people. After the article was published, Hu Yong received a call from Ouyang Huan of Hainan Publishing House, who hoped he would expand the piece into a book about the internet. That became *King of the Web*, which Hu Yong published in 1997. Not only that, Ouyang Huan also asked Hu Yong to help assess which books would be worth translating and importing for Hainan Publishing House.
+
+![Source: WeChat official account "Hu Yong"](http://img.qdaily.com/uploads/20170526031151Xo2eB5K8b3IC7gZw.jpeg-w600)
+
+And so we arrive at the scene of Hu Yong selecting books at the outset. At the time, Hu Yong urged the editor beside him to publish it quickly. "Negroponte's book is this era's *The Third Wave*," Hu Yong told the Hainan editors. The *Third Wave* by American futurist Alvin Toffler was a bestseller published by Sanlian Bookstore in the 1980s. It divides human society into the agricultural stage, the industrial stage, and the informatization stage; its ideas and content influenced the generation that came of age in the 1980s.
+
+Liu Yi, deputy editor-in-chief of Hainan Publishing House, felt that Negroponte's views were refreshingly new, and since Hu Yong was keen, the house decided to publish the book. Once Hainan decided to go ahead, Hu Yong and his wife, Fan Haiyan, completed the translation in just three weeks. Because they did not yet own a computer, the entire translation was handwritten and then delivered to the publisher to be typed up.
+
+![Source: Douban](http://img.qdaily.com/uploads/201705260312343n60s1RO8GcaEXVU.jpg-w600)
+
+### 2.
+
+In December 1996, *Being Digital* was published in China and quickly became a sensation. More than 20 years ago, the book boldly — and largely accurately — predicted the various changes digital technology would bring to our lives, work, education, and entertainment, and explored the questions worth pondering within them. For example, bits, as the "DNA of information," were rapidly replacing atoms as the basic element of human society. Information would no longer be "pushed" at consumers; instead, people — or their digital butlers — would "pull in" the information they needed and take part in creating it, and so on.
+
+At the time, Hainan Publishing House repackaged and redesigned everything from the title and cover to the copy, table of contents, and synopsis. For instance, the original had only a chapter-level table of contents, but chief editor Su Bin turned it into a guided reading with content summaries, bringing it closer to the reading tastes of a general audience rather than leaving it a purely technical book.
+
+Worth noting is the translation of the title. At the time, Hu Yong insisted on translating *Being Digital* with a title built around the word "survival," rather than borrowing the title of the Taiwan edition, 《数位革命》. In addition, the cover carried a line — "Computing is no longer only about computers; it determines our survival" — emphasizing the concept of "survival." "You cannot allow yourself to be left behind again, or you will not stand among the nations of the world. If you don't do this, you may lose even the possibility of survival," Hu Yong told QDaily. Such positioning largely stoked the nationalist feelings of Chinese people at the time — the urge to acquire new knowledge quickly so as not to fall behind. And catchphrases like "being expelled from the globe" were also in vogue then, a reflection of the same sentiment.
+
+![Source: WeChat official account "Hu Yong"](http://img.qdaily.com/uploads/20170526031254NpQLJBFAK8g6C1Ij.jpeg-w600)
+
+In the end, *Being Digital* sold 600,000 copies. "Counting pirated editions, it should be over a million," Hu Yong said. "The overall acceleration of China's marketization came after Deng Xiaoping's southern tour in 1992, and amid that violent process of market transition, I think there was a group of intellectuals — a knowledge class — who had a real hunger for finance and new technology, because they knew that in a new social transition you had to completely renew your knowledge in order to survive better in society. This kind of reading met that need," Hu Yong told QDaily.
+
+More importantly, "the book's essential influence was to play an enlightening role. For ordinary readers it was pure enlightenment — it told them that the tide of the world was flowing in this direction. For many people in the internet industry, a lot of them entered the field because of this book and built their work around it," Hu Yong added.
+
+Hu Yong recalls that middle-school teachers at the time would even recommend *Being Digital* as extracurricular reading for students. For instance, the later best-selling writer Han Han wrote the book into his famous debut novel *Triple Door*. "She was the youngest teacher in our school, and she left a deep impression on me. I remember that in her first class she said she didn't encourage us to read our Chinese textbooks; instead she talked to us about Gao Xiaosong — the guy who made campus songs. In her first class she sang 'Youth Without Regret' for us, telling us not to be satisfied with the dead, useless stuff within exam scope but to enrich ourselves beyond exams, so that our youth could be without regret. Then she recommended Whitman's books to us, Kobayashi Takiji's books, one about the knowledge economy, and *Being Digital*...," Han Han wrote in the book.
+
+![Source: [kongfz](http://book.kongfz.com/item_pic_18310_363566256/)](http://img.qdaily.com/uploads/20170526031437yWbRrgYhikdfqCXt.jpg-w600)
+
+Beyond Han Han, the book also influenced many people at the time. "For those who had only just learned what 'seeking truth from facts' meant, only just understood what respecting objective laws entailed, only just grasped the importance of scientific forecasting, scientific decision-making, and scientific management, the line — 'the best way to predict the future is to invent it' — was undoubtedly a clap of thunder. It was a brand-new view of the future, and even more a ringing declaration of activism," [recalled Duan Yongchao, chief strategy officer of SEEC Media Group, in his essay "From 'Digital' to 'Survival': Rereading Being Digital"](https://mp.weixin.qq.com/s?src=3&timestamp=1495742984&ver=1&signature=D286wS9LBkpSTSEL8E0aXl-fBsbnI1h4v7eZJL6irOoexflCfNTcEg48YkP3Iz4IY1jkHvk6CviNV3O1I9JI225zmJIXXDzkAfT7PRWXbsqxPQWq5OJ7oxT3DpQCxdVbvObK5mJNf9gsr*uWa9i2JYXtTZyA3vTxQmCZ71fpcW8=).
+
+Wu Bofan, a professor at the Changjiang School of Journalism and Communication at Shantou University, read it in 1996 and then "talked about it and quoted it on every occasion," "increasingly convinced that he had understood it." [In his view](https://mp.weixin.qq.com/s?src=3&timestamp=1495743061&ver=1&signature=3i4CBH62NL81Yj15gvVY5NnhQnhBjSC7027ryXprjrcyqvoXFxIihp4gOrMsJ9bkqcXpT2mF4fF*wKa16QMcS2UEMn7R67cRGjLnR77L3RDT8LTN3--PoJ7sC-xvA7kplhNHz4-hT4qOIK0SSCfDo2QQUcnKrdkCn5XSwNoIl5o=), "Since *Being Digital* was published in China, its ideas and vocabulary, through second- and third-hand transmission, have long since reached the point of being 'used daily without our noticing.' Someone reading the book for the first time today cannot imagine how it electrified the first generation of Chinese readers." Wu Bofan was formerly editor-in-chief and publisher of *21st Century Business Review* and co-hosted the finance talk show "Dong-Wu Relativity" with Liang Dong, the well-known former Phoenix TV host.
+
+Liu Jiuru, chief editor of the Publishing House of Electronics Industry, recalled that *Being Digital* changed his work and his life. Influenced by the book, he became convinced that the IT industry would inevitably move from the professional to the mass market, and that the internet and digitization would dominate our future; he threw himself into launching publications such as *Computerworld*, *Computer Fan*, and *IT Manager World*, wrote numerous articles, and organized many related events.
+
+![Wu Bofan, source: [ljsw](http://www.ljsw.cc/thread-182787-1-1.html)](http://img.qdaily.com/uploads/20170526031636LOf50SRhCUxyvsV4.jpeg-w600)
+
+Of course, *Being Digital* had an even more direct influence on China's earliest cohort of internet entrepreneurs. Charles Zhang, founder of Sohu, was not only Nicholas Negroponte's student but also one of his investees: Negroponte invested a total of US$75,000 in Zhang, the earliest venture investment in a Chinese internet company. So from ideas to action, Negroponte deeply influenced Charles Zhang.
+
+Wang Xing, founder of Renren, Fanfou, and Meituan, read the book in his second year of high school, and it shaped him profoundly. Wang Xing recalls that it was this book that made him believe: "Every industry not yet changed by the internet will soon be changed by the internet."
+
+Charles Zhang, meanwhile, became not only an "evangelist" but a dazzling star of the internet world. He appeared on the covers of fashion magazines and rode roller skates in Tiananmen Square, among other things. "Back then he went around talking about this stuff everywhere. He had founded Sohu, plus the halo of being an MIT returnee, so in a sense many people were inspired by Charles Zhang," Hu Yong told QDaily.
+
+[At a salon event on January 31, 2013, Charles Zhang also claimed that the startups of Robin Li and Pony Ma both had something to do with him](https://mp.weixin.qq.com/s?src=3&timestamp=1495742813&ver=1&signature=3i4CBH62NL81Yj15gvVY5NnhQnhBjSC7027ryXprjrcyqvoXFxIihp4gOrMsJ9bkqcXpT2mF4fF*wKa16QMcS2UEMn7R67cRGjLnR77L3RDT8LTN3--PoJ7sC-xvA7kphTemKACI9l7uyl6-bOe9VfoV*zHjtKn5cmkAM8W6xSk=): "In 1998 I went to Silicon Valley to recruit people, and asked Li Yanhong whether he wanted to return to China to do the internet. He said in Silicon Valley that Sohu had made it in China, so some Silicon Valley investors gave him funding. In 1999 I was incredibly hot — when I went to Shenzhen I got rock-star treatment, and among the 700 people in the audience was Pony Ma; he listened to my story and was so excited that he went home and made OICQ."
+
+![Charles Zhang, source: [enet](http://www.enet.com.cn/article/2004/1015/A20041015352677.shtml)](http://img.qdaily.com/uploads/20170526031751IebqhimdQ5zr6Nj9.jpg-w600)
+
+In 1997, Hu Yong's *King of the Web* — the first monograph to give Chinese readers a comprehensive introduction to the internet — was also published by Hainan Publishing House. [Hu Yong said](https://mp.weixin.qq.com/s?src=3&timestamp=1495743061&ver=1&signature=3i4CBH62NL81Yj15gvVY5NnhQnhBjSC7027ryXprjrcyqvoXFxIihp4gOrMsJ9bkqcXpT2mF4fF*wKa16QMcS2UEMn7R67cRGjLnR77L3RDT8LTN3--PoJ7sC-xvA7kplhNHz4-hT4qOIK0SSCfDo2QQUcnKrdkCn5XSwNoIl5o=) that at the time Edward Tian of AsiaInfo bought several thousand copies to give to officials in various provinces, because he felt it was the best primer to help popularize the internet in China. The buzzword back then was "information superhighway." Edward Tian remembers that when he went to remote provinces to discuss with local officials how to speed up construction of the information superhighway, they told him to go find the transportation department.
+
+China's internet companies were all born in this period one after another: NetEase (1997), Sohu (1998), Sina (1998), Tencent (1998), Shanda (1999), Alibaba (1999), Baidu (2000), and so on. Over the following two decades, all of these companies benefited from the digital era and the knowledge economy that Negroponte predicted, occupying the very forefront of Chinese business.
+
+Among them, the portal sites represented by Sohu, NetEase, and Sina were the emblem of Chinese internet companies at the time; they turned vast numbers of Chinese people into netizens, and the internet spread rapidly. By 1999 — three years after *Being Digital* was published — the internet had "essentially fully entered mainstream society."
+
+![Charles Zhang, source: [techweb](http://www.techweb.com.cn/special/zt/sohu10/)](http://img.qdaily.com/uploads/20170526032243GRI8gEqyhsbrOLxJ.jpg-w600)
+
+In a sense, *Being Digital* also changed the course of Hu Yong's own life. Hu Yong planned, published, and translated a series of books about the internet.
+
+**A selection of books on digitization planned, published, or translated by Hu Yong** (Note: some were co-written or co-translated, but for readability they are not individually marked.)
+
+1997
+
+Published *King of the Web*, *Hackers: Cowboys of the Computer Age*, and *Heroes of the Era*. *King of the Web* was the first book to give Chinese readers a comprehensive introduction to the internet, and was later also published in Taiwan by Jieyou Publishing. *Hackers* was included in the "Cyberculture Series" he curated. *Heroes of the Era* grew out of his articles for Sanlian Life Weekly.
+
+1998
+
+Translated *2.0: Designing Life in the Digital Age*.
+
+1999
+
+Published *Alternative Space* and *We Are the Ugly and the Lusers*, and translated *City of Bits: Space, Place, and the Infobahn*. *Alternative Space* and *We Are the Ugly and the Lusers* were included in the "Digital Forum Series" he curated.
+
+2008
+
+Published *The Rising Cacophony: Individual Expression and Public Discussion in the Internet Age*. Adapted from his doctoral dissertation in political science, it was among the first works to explore the private and public spheres in cyberspace. It was included in the "Thought @ Internet China" series he curated, and won second prize at the 11th Beijing Philosophy and Social Science Outstanding Achievement Awards and an excellence award at the 6th Wu Yuzhang Humanities and Social Sciences Prize.
+
+2009
+
+Translated *Here Comes Everybody: The Power of Organizing Without Organizations* (republished in 2012 under the title *The Age of Everyone*). The book was named one of the "30 Best Books Worth Reading in 2009," jointly chosen by CCTV's reading program *Ziwu Shujian* and *China Book Business Report*, and one of the "Top 10 Business Books of 2009," jointly selected by the Blue Lion Reading Club, Sina Finance, and Yicai.
+
+2011
+
+Translated *Cognitive Surplus: Creativity and Generosity in a Connected Age*; published *No Two Clouds Are Alike*, which explored cloud computing. *Cognitive Surplus* won the "2011 Hexun Chinese Finance Book Award" and the "2013 Most-Watched Booklist" award in *Business School* magazine's "Managers' Reading Tastes Annual Report."
+
+2012
+
+Translated *Macrowikinomics*.
+
+2014
+
+Published *Information Wants to Be Free*, *Cyberpolitics: Action and Choice in Contemporary Chinese Society and Media*, and *New Media Empowerment and the Rise of the Meaning Internet*, and translated *Too Big to Know*.
+
+2015
+
+Translated *Another Earth: The Internet and Society*.
+
+2017
+
+Served as editor-in-chief of *After Connection: Rebuilding Public Space and Redistributing Power*, the first volume of the "Commons" series.
+
+Beyond all this, at the end of 1996 Hu Yong launched a column called "Being Digital" in Sanlian Life Weekly and wrote a large number of related introductory essays. It was the magazine's second column, after the one by the writer Wang Xiaobo. In 1997 he produced a special issue, *Heroes of the Digital Age*, systematically introducing 15 leaders of the American digital age — Gates, Jobs, Grove, and others — to readers for the first time. He went on to write a series of influential cover stories, including *The Future Racing Reality*, *The Silicon Era*, *The Sun Sets on the PC*, *Year One in Zhongguancun*, and *Cisco > Microsoft?*, making Sanlian Life Weekly a stronghold for championing digitization and the internet.
+
+![Source: [Amazon](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00FGKOS6G/ref=sr_1_1?ie=UTF8&qid=1495740312&sr=8-1&keywords=%E4%BC%97%E5%A3%B0%E5%96%A7%E5%93%97)](http://img.qdaily.com/uploads/20170526032546GAR7uC3IF10Ngfle.jpg-w600)
+
+To popularize digitization and the internet, beyond publishing books and writing articles, he personally took part in and promoted a series of events. In 1998, for example, Hu Yong co-founded China's first civilian internet think tank, the "Digital Forum." The next year he helped organize the China Internet Contest, and that same year he also took part in staging a "72-Hour Network Survival Test": volunteers were recruited in Beijing, Shanghai, and Guangzhou, locked in hotel rooms, and observed to see whether they could survive on the internet alone. E-commerce and O2O had not yet emerged, and many volunteers ended up going hungry and quitting halfway.
+
+Today Hu Yong is a professor at Peking University's School of Journalism and Communication, still researching questions related to digital being. Even the bio line of his personal WeChat official account reads "designing life in the digital age." But if Hu Yong's work was mainly about popularizing the internet and digitization before, much of what he does now leans toward reflecting on digitization and the internet.
+
+![Source: [Amazon](https://www.amazon.cn/%E8%AE%A4%E7%9F%A5%E7%9B%88%E4%BD%99-%E8%87%AA%E7%94%B1%E6%97%B6%E9%97%B4%E7%9A%84%E5%8A%9B%E9%87%8F-%E5%85%8B%E8%8E%B1-%E8%88%8D%E5%9F%BA/dp/B006FA4YF6/ref=sr_1_1?ie=UTF8&qid=1495740245&sr=8-1&keywords=%E8%AE%A4%E7%9F%A5%E7%9B%88%E4%BD%99)](http://img.qdaily.com/uploads/20170526032710v8MqGQpK7yrboO2x.jpg-w600)
+### 3.
+
+In 1990s America, the economy prospered and high-tech industries rose rapidly; numerous internet companies were founded, grew, and went public. Among them were famous names like Netscape, Amazon, eBay, PayPal, Yahoo, Netflix, and Google. Meanwhile, New Economy theory was all the rage. It held that, thanks to economic globalization and advances in information technology, low inflation and low unemployment could be sustained while the economy kept growing.
+
+This naturally affected the media industry as well. In 1992, Nicholas Negroponte — then an MIT professor and director of the Media Lab — became the first investor in Wired magazine. A year later, Wired was founded, positioned to cover technology's impact on culture, the economy, and politics. From that year on, Negroponte also wrote a monthly column for it. The columns focused on the theme "Move bits, not atoms." Two years later, *Being Digital* was published in the United States; its content was edited and reworked from those Wired columns. Arriving at exactly the right moment, *Being Digital* soon became a New York Times bestseller and was translated into 30 languages for publication in countries and regions around the world.
+
+![Source: [Amazon](https://www.amazon.com/Being-Digital-Nicholas-Negroponte/dp/0679762906/ref=sr_1_1?ie=UTF8&qid=1495740488&sr=8-1&keywords=being+digital)](http://img.qdaily.com/uploads/20170526032904wI2bFoek1YJalRKm.jpg-w600)
+
+But whether in China or the United States, the first readers of *Being Digital* were mostly stunned by Negroponte's arguments. "On one side there was the conceptual shock. On the other, the science-fiction-like scenes he described — reading it, you felt it was sheer fantasy," Hu Yong told QDaily.
+
+Specifically, for example, "he talked about the contrast between bits and atoms. He visited a company and brought an Apple laptop. The receptionist said that to enter, the computer had to be registered. He said the computer was priceless — worth US$2 million. The receptionist said no way, your computer can't be worth US$2 million, and in the end wrote down US$2,000. Negroponte tells this story to say she would never understand: bits are priceless, while atoms are worth only that much. Then he told another story: he was going to a conference in Canada, and PolyGram — a record company — had the optical discs it brought detained by customs. At inspection, customs said the discs couldn't be brought in. But at the same time, I was tossing those bits back and forth from my hotel — something customs couldn't control at all," Hu Yong recalled for QDaily.
+
+Beyond that, Hu Yong remembered Negroponte devoting special discussion to the user-friendliness of device interfaces: grandmothers had to be able to use them; agent programs should be as thoughtful as an English butler; a stolen car would notify you that it had been stolen, its voice sounding genuinely frightened, and so on. Those science-fiction scenes of the time have all become reality today — in fact they are exactly what we now call touch, artificial intelligence, and voice technology.
+
+![Nicholas Negroponte, source: Wikipedia](http://img.qdaily.com/uploads/20170526033101MFAgILH0kaXKPRvn.jpg-w600)
+
+For Americans, an era was also just beginning. The bit-based world represented by the internet formally raised its curtain. A host of upstart internet companies battered America's old business and value systems, and genuinely changed the way human beings live.
+
+For the Chinese, this was indeed the *The Third Wave* of the 1990s. On the one hand, the Third Wave that Toffler described — information civilization — had finally found the internet as its concrete means of realization. On the other, the bestseller status of *Being Digital* carried on the emotional state and mindset of China in the 1980s: after long isolation, people were hungry for every kind of Western knowledge, feeling that "to lag behind is to be beaten" and that "if we don't catch up now, we will once again miss the boat with the world."
+
+"Picking up Negroponte's book, I thought of Yan Fu's *Evolution and Ethics*: *Evolution and Ethics* was not a particularly outstanding book in England at the time, and Huxley (Thomas Henry Huxley) was not a major figure among English thinkers either. But when Yan Fu introduced *Evolution and Ethics* to China, the country happened to be at the critical moment of national salvation, and the idea of 'natural selection, survival of the fittest' instantly struck a chord in the hearts of the Chinese — so the book instead became a 'bible' that every person of ideals and conviction had to read," [Hu Yong wrote in a translator's reflection published 20 years after *Being Digital*](https://mp.weixin.qq.com/s?src=3&timestamp=1495742813&ver=1&signature=3i4CBH62NL81Yj15gvVY5NnhQnhBjSC7027ryXprjrcyqvoXFxIihp4gOrMsJ9bkqcXpT2mF4fF*wKa16QMcS2UEMn7R67cRGjLnR77L3RDT8LTN3--PoJ7sC-xvA7kphTemKACI9l7uyl6-bOe9VfoV*zHjtKn5cmkAM8W6xSk=).
+
+![Wired magazine, source: Wikipedia](http://img.qdaily.com/uploads/20170526033340QWeuiOMpBmkD9d4G.jpg-w600)
+
+And in 1992, the year Negroponte invested in Wired, China joined the Universal Copyright Convention. Rights trading became an important part of book publishing. Because in the early days many publishers had not yet realized the importance of buying overseas rights or how to negotiate for them, Hainan Publishing House seized the advantage and, through the Taiwan rights agencies Big Apple and Boda, licensed a batch of bestsellers. To use Beijing's connections and information to produce trendy books at scale, they even set up an editorial office in Zizhuyuan in Beijing, recruiting a pool of publishing talent that included the now-writer Tujia Yefu, who then served as director of Hainan Publishing House's Beijing editorial center.
+
+"Back then they had capital and dared to make decisions. The whole process and mechanism were extremely flexible. I think Hainan Publishing back then was a bit like CITIC today. Its guiding idea was to import the West — but books of new Western knowledge. For instance, they did Buffett, Soros, and *The Whiz Kids*, which were very new at the time," Hu Yong told QDaily.
+
+[Huang Mingyu, formerly assistant to the chief editor of Hainan Publishing House and general manager of its Beijing publishing center, also recalled](http://chuansong.me/n/1572021): "Hainan Publishing House's Beijing editorial office had policy flexibility and was dubbed a '1.5-channel' operator by the industry: nominally a publishing house, but actually run like a private book company. The team based in Beijing worked hard at honing copy and on marketing, with a batch of experts at the helm. This is what they call 'the times making heroes.'"
+
+In the late 1990s and early 2000s, Hainan Publishing House also put out a series of influential bestsellers, including *The Diary of Anne Frank* (1996), *Warren Buffett Speaks* (1998), *The Soros Whirlwind* (1998), *The Alchemy of Finance* (1999), *Liar's Poker* (2000), *Security Analysis* (2004), *The Glory and the Dream* (2004), *Buffett: The Making of an American Capitalist* (2007), *The Whiz Kids* (2008), and others. The year 1997, when *Being Digital* became a bestseller, was also called the "Hainan year" in Chinese publishing.
+
+![Source: [Douban](https://book.douban.com/subject/1005492/)](http://img.qdaily.com/uploads/20170526033652mjzVDZS0tWXwdC8f.jpg-w600)
+
+"Twenty-five years ago, I was convinced the internet would create a more harmonious world. I believed the internet would promote global consensus, even advance world peace. But it did not — at least not yet. The reality: nationalism is running rampant, control is tightening, and the gulf between rich and poor is widening. I once also hoped that China, by virtue of its size, its determination, and the advantages of socialism, could play a better, bigger role in leading the global internet. How did that work out? Very simple: globalization turned into localization. Despite the rapid growth of intellectual, economic, and electronic backbone infrastructure, ubiquitous digitization has not brought about a unified world," Negroponte wrote in "Been Digital," a commemorative essay for the 20th anniversary of the Chinese edition of *Being Digital*. From *Being Digital* to *Been Digital*, Negroponte, now 74, called it "the biggest misjudgment of my life."
+
+This was also the deepest feeling of Hu Yong, now 52, 21 years after the publication of *Being Digital*. "If the digital revolution is considered at the level of technology, you can say that many of the things Negroponte predicted back then have become reality today. But in fact, the problems after digitization may be bigger than the problems within digitization," Hu Yong told QDaily.
+
+![Hu Yong, source: [Wikipedia](https://zh.wikipedia.org/wiki/%E8%83%A1%E6%B3%B3_(%E5%AD%B8%E8%80%85))](http://img.qdaily.com/uploads/20170526034015NfMbHJ3goqlei7K8.jpg-w600)
+
+Hu Yong believes that "the most urgent question now is whether the internet is a global, truly borderless, barrier-free internet."
+
+Because when the internet was born, most people deeply believed it was a fully open, free system; but to date, the free flow of information without barriers has proven to be an illusion — each country has its own internet, and it is not a single whole. The free flow of information faces enormous obstacles.
+
+"The internet has created a brand-new possibility for us, and that possibility, fundamentally, is to let information flow without barriers and to let people who have information connect and communicate with each other without barriers. Only under such conditions can the internet achieve its greatest utility. If it becomes a variety of internets, I think both the free flow of information and the free exchange among people who have information will face enormous obstacles," Hu Yong told QDaily.
+
+![Zhang Shuxin, source: [CAS](http://alumni.cas.cn/yyfc/201510/t20151021_4443046.html)](http://img.qdaily.com/uploads/20170526033845CM6qVNmKTgSPBj1p.jpg-w600)
+
+In 1997, invited by the State Council Information Office, Negroponte came to China for the first time, holding a small, technically oriented seminar at the Chinese Academy of Sciences. At the time, the not-yet-famous Charles Zhang served as his interpreter. The whole event was sponsored by Yinghaiwei's Zhang Shuxin and did not have much impact. By then, the Chinese government had only recently laid the domestic backbone networks, establishing the infrastructure of China's internet — which in large part aided the internet's later development.
+
+But by 1999, when Negroponte came to China a second time, things were completely different. The venue had moved to the China World Hotel. "The whole hall was packed; the venue, I'd say, must have held 1,000 people — it really felt like a celebrity making an entrance," Hu Yong recalled for QDaily.
+
+The event was also sponsored by Sohu, and Sohu bestowed on Negroponte the honorary title of "Sohu Angel." "I remember it very clearly: just before I went on stage to formally appoint Mr. Negroponte as chief advisor of the Digital Forum, I heard someone behind me mutter: 'A big foreign fellow — what kind of "angel" is he supposed to be?'" [Hu Yong recalled in his essay "Acknowledging and Celebrating the Human Condition"](https://mp.weixin.qq.com/s?src=3&timestamp=1495742813&ver=1&signature=3i4CBH62NL81Yj15gvVY5NnhQnhBjSC7027ryXprjrcyqvoXFxIihp4gOrMsJ9bkqcXpT2mF4fF*wKa16QMcS2UEMn7R67cRGjLnR77L3RDT8LTN3--PoJ7sC-xvA7kphTemKACI9l7uyl6-bOe9VfoV*zHjtKn5cmkAM8W6xSk=). Although the internet had gradually spread by then, many Chinese people did not know what "angel investment" was. And as is still the case today, the internet companies that later emerged — Sohu among them (then called ITC) — were basically all raised on venture capital; the "angels" midwifed their birth.
+
+"It was a wonderful combination of national will and grassroots innovation, which gave the internet a very good start in China," Hu Yong told QDaily.
+
+![Source: [Amazon](https://www.amazon.cn/%E6%95%B0%E5%AD%97%E5%8C%96%E7%94%9F%E5%AD%98-Nicholas-Negroponte/dp/B01N4MPXDJ/ref=sr_1_1?ie=UTF8&qid=1495740882&sr=8-1&keywords=%E6%95%B0%E5%AD%97%E5%8C%96%E7%94%9F%E5%AD%98)](http://img.qdaily.com/uploads/201705260335409SDUfXNoYQCG0F48.jpg-w600)
+
+**List of book articles planned for the series:**
+
+*The Path of Beauty* (1981)
+
+*[Tolerance (1985)](http://www.qdaily.com/articles/40475.html)*
+
+*[The Tangshan Earthquake (1986)](http://www.qdaily.com/articles/40890.html)*
+
+*The Birth of Tragedy* (1986)
+
+*The Ugly Chinaman* (1986)
+
+*Wild Fire* (1988)
+
+*[Being Digital (1996)](http://www.qdaily.com/articles/41273.html)*
+
+*[China Can Say No (1996)](http://www.qdaily.com/articles/40262.html)*
+
+*[Rich Dad Poor Dad (2000)](http://www.qdaily.com/articles/39465.html)*
+
+*[Who Moved My Cheese? (2001)](http://www.qdaily.com/articles/39666.html)*
+
+*[Jack: Straight from the Gut (2001)](http://www.qdaily.com/articles/39666.html)*
+
+*[Unhappy China (2009)](http://www.qdaily.com/articles/40262.html)**among others*
+
+Cover image: a still from the film *Ex Machina*, from Douban.
