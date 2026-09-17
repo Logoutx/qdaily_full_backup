@@ -1,0 +1,184 @@
+@@QD_TITLE@@
+Every Supermarket Is Doing E-Commerce, So We Reviewed China's Top Five Supermarket Brands
+@@QD_EXCERPT@@
+RT-Mart, Carrefour, Yonghui, Bailian and Wumart. (We excluded China Resources Vanguard, which actually ranks No. 2, and Walmart, No. 3 — the former's e-commerce is little more than a formality, while the "online Walmart" began life as Yihaodian, now part of JD.com.) Here are some of our findings.
+@@QD_BODY@@
+RT-Mart, Carrefour, Yonghui, Bailian and Wumart. (We excluded China Resources Vanguard, which actually ranks No. 2, and Walmart, No. 3 — the former's e-commerce is little more than a formality, while the "online Walmart" began life as Yihaodian, now part of JD.com.) Here are some of our findings.
+
+The e-commerce blow to brick-and-mortar supermarkets shows no sign of being cushioned.
+
+According to consumer market research firm [Kantar, in the first quarter of this year, physical retail stores — hypermarkets, supermarkets and convenience stores included — grew just 0.3%.](http://cn.kantar.com/%E5%95%86%E4%B8%9A%E8%B6%8B%E5%8A%BF/%E9%9B%B6%E5%94%AE%E5%95%86/2017/%E5%BF%AB%E9%80%9F%E6%B6%88%E8%B4%B9%E5%93%81%E5%A2%9E%E9%80%9F%E8%90%BD%E5%90%8E%E4%BA%8E%E7%BB%8F%E6%B5%8E%E6%95%B4%E4%BD%93%E5%A2%9E%E9%80%9F/) And if you take convenience stores, which are still growing, out of the equation, the picture for supermarkets is far grimmer: hypermarkets fell 0.8%. Meanwhile, e-commerce sales of fast-moving consumer goods — personal care, packaged food and the like — grew 35%. And over all of 2016, 53.5% of Chinese urban households bought fast-moving consumer goods online, up another 10 percentage points from the year before.
+
+Chances are you haven't set foot in a supermarket in ages, and it is precisely this exodus of young consumers that has trapped supermarkets in a downward spiral. Lianhua Supermarket's revenue fell 2% last year, with same-store sales down 1.23%; Sun Art Retail Group, which owns RT-Mart and Auchan, saw same-store sales fall 0.34% year on year, with its 4.2% revenue growth propped up almost entirely by newly opened stores; Carrefour China is still in the red, to the point of dragging down results for the entire Asia-Pacific region. Yonghui was one of the few to grow against the trend, opening 33 new stores in the first quarter. But with its focus on fresh food and imported goods, strictly speaking it was never quite the same kind of business as traditional chains like RT-Mart.
+
+And after trying everything from hooking into WeChat and Alipay to lure young people back into physical stores — with little success — launching e-commerce seems to have become a choice supermarkets can no longer avoid.
+
+Walmart was among the earliest movers, through its controlling stake in Yihaodian. But after the two big e-commerce platforms Tmall and JD.com both moved in and aggressively pushed supermarket businesses, Yihaodian ended up little more than a regional e-commerce player centered on Shanghai, its market penetration down to 1.5%. RT-Mart and Yonghui both launched their own e-commerce platforms in 2014, and the slowest of the bunch, Bailian, rolled out its own only last June.
+
+Supermarket e-commerce launch dates
+
+2004
+
+JD.com
+
+2012
+
+Tmall Supermarket
+
+2014
+
+RT-Mart launched Feiniu.com; Yonghui's e-commerce forerunner "Yonghui Weidian" began trials in Fuzhou
+
+May 2015
+
+"Online Metro" debuts; Beijing-based Wumart began partnering with the app Duodian
+
+June 2015
+
+Carrefour launched e-commerce
+
+December 2015
+
+Yonghui relaunched its e-commerce app "Yonghui Life"
+
+2016
+
+Lianhua Supermarket's parent, Bailian Group, launched its omni-channel e-commerce "iBailian"
+
+![](http://img.qdaily.com/uploads/20170511005120zPqBfMOh60juUiDH.jpg-w600)
+
+But one practical question faces them all: how do you get consumers accustomed to third-party e-commerce platforms to move over to your own website or app — and keep them there?
+
+Of the consumers we randomly interviewed, most had no idea these supermarkets had their own e-commerce. And their financials show just how weak a presence these supermarkets have online. According to Yonghui's earnings reports, online customers account for only 0.098% of spending relative to physical-store customers — meaning that for every 1,000 yuan Yonghui takes in, less than 1 yuan comes from online. RT-Mart's Feiniu.com posted 2.1 billion yuan in online transaction volume in 2016, still only 2% of the total.
+
+They also turn to third-party e-commerce partnerships to drive traffic. After JD.com took a 10% stake in Yonghui Superstores in 2015, for instance, Yonghui moved its core fresh-food business onto JD.com; Bailian announced a strategic partnership with Alibaba early this year (though the details of the online cooperation have yet to be worked out). Some 10,000-plus offline retail outlets under China Resources, including China Resources Vanguard and Suguo Supermarkets, have joined the Meituan food-delivery platform; RT-Mart's 230 stores nationwide have also plugged into the three big food-delivery platforms.
+
+![](http://img.qdaily.com/uploads/20170511011133wZvVM0GW83lDJk9a.jpg-w600)
+
+This trade — sacrificing control over consumer data in exchange for traffic — is common across many industries, but hotels and airlines alike have been working hard to steer consumers toward their own apps, and so have McDonald's and KFC in fast food. In the long run, supermarkets will likely be no exception.
+
+But how are these supermarket e-commerce operations actually doing? From front end to after-sales, what's the experience like? Could they possibly lure consumers away from Tmall and JD.com onto their own platforms?
+
+We focused our review on five: RT-Mart, Carrefour, Yonghui, Bailian and Wumart. According to Kantar's latest data, RT-Mart ranks first with a 6.5% market share, Carrefour is fourth at 3.1%, Yonghui (2.9%) and Bailian (2.8%) are essentially tied for fifth, followed by Wumart at 1.7%.
+
+A note on our selection: we excluded No. 2 China Resources Vanguard (6.2%) and No. 3 Walmart (4.9%) — the former's "e Vanguard" is little more than window dressing, while the "online Walmart" began life as Yihaodian, which has since become part of JD.com. And since Metro's consumer business keeps growing even though its core customers are businesses, we added Metro to the review.
+
+Here are our findings.
+
+### Front-end: all fall short of mature e-commerce in one way or another — and Carrefour is the worst
+
+Consumers spend more and more time on their phones; if a retailer isn't on mobile, it can barely count as e-commerce. Yonghui and Wumart didn't even bother with websites — they have no PC e-commerce at all. Carrefour, Yonghui, RT-Mart (Feiniu.com) and Bailian all have their own standalone apps; Wumart's is Duodian; and Metro built a mobile shopping entry inside its WeChat official account.
+
+![From left to right: Feiniu, Yonghui Life, Bailian](http://img.qdaily.com/uploads/20170511011730ZHPwDgFVsuJQ9jpf.jpg-w600)
+
+The home screens of these supermarket apps resemble Taobao and JD.com (Bailian's excepted). The bottom "dashboard" holds four to five tabs; at the top sit a search bar and pinned promotional banners (a design most apps share), with eight to ten circular icons in the middle. But in some apps the middle layer of circular buttons feels like clutter — Carrefour's especially, given its limited functionality. That said, it stands to reason that not every app offers features like JD.com's or Taobao's (and Tmall's) bill payment or borrowing (overdraft) services.
+
+![From left to right: Carrefour, Metro, Duodian (Wumart)](http://img.qdaily.com/uploads/20170511011833HoFr3jm08TuGc57M.jpg-w600)
+
+The Carrefour app is below par for such a big multinational. Its fatal flaw is search: search for "sparkling water" and the first results are sparkling wine, followed by Wetcode skincare products; real sparkling water only shows up around the 20th item.
+
+The app also seems unable to tell a swipe from a tap — it's oversensitive. And products can't be selected in large, medium or small sizes. It's hard to imagine this is the product of nearly a year of work.
+
+By contrast, Yonghui's app has no fatal interaction flaws. But it isn't smooth to use, mainly because it splits products into "same-day delivery" and "next-day delivery" categories, shipped from different stores, with little overlap between them.
+
+Users will often find items on their shopping list split between same-day (from the closer store) and next-day (from a farther store), or between Store A and Store B — they can't be combined into one order, yet no one wants to pay shipping twice. Wumart (Duodian) handles this more simply: it automatically assigns an order to same-day or next-day delivery based on the customer's delivery address (how far it is from a store).
+
+Some players are careless about the web end too. For a stretch during our review, Bailian's website would load with scrambled formatting after login (since fixed); and (RT-Mart's) Feiniu.com's homepage won't display in Chrome on a Mac — you need Safari.
+
+Worth noting: these supermarket e-commerce sites have payment pretty well covered — all support Alipay and WeChat Pay, the two dominant electronic payment methods. Carrefour and Yonghui also support Apple Pay. Of course, plugging in payment options is the easiest thing to do, and a basic show of good faith.
+
+### Prices, though, are still competitive compared with third-party e-commerce platforms
+
+![](http://img.qdaily.com/uploads/20170511000716Smat4ABEJVX9DeYz.jpg-w600)
+
+From packaged food, imported food and fresh produce to personal care products, we randomly picked five items and compared prices. Tmall Supermarket and JD.com's price advantage is no longer so obvious. Tmall Supermarket often marks prices up before discounting ([quite a few people on Zhihu have reported the same thing](https://www.zhihu.com/question/37153999)) — Hearttex wet wipes, for instance, carry a "50 off 99" discount on Tmall, but their "original price" is actually twice what the cheapest channel for that product — Carrefour — charges. Of the five randomly selected items, Carrefour's and Wumart's prices were the most attractive.
+
+Worth noting: apart from Metro and [Wumart](http://mt.sohu.com/20170111/n478419921.shtml), which promise "same prices online and offline," none of the others can guarantee consistent pricing between stores and e-commerce.
+
+### All sell imported goods, and discounts remain the most common way to acquire new users
+
+Bailian's e-commerce and Feiniu.com are more like online supermarket-plus-department-store operations in the mold of JD.com or Amazon, with (reportedly) a million-level SKU count. Carrefour, Metro, Yonghui and Wumart/Duodian are closer to hypermarket supermarkets in the traditional sense, focused on food and personal care, with 10,000–20,000 SKUs.
+
+![](http://img.qdaily.com/uploads/20170511001151gMsQ9aO5KhLYR682.jpg-w600)
+
+Still, from Carrefour and Yonghui to Bailian, Feiniu.com and Metro, all have moved into cross-border e-commerce. Yonghui launched a standalone app, "Yonghui Global Shopping," focused on beauty products, alcohol and mother-and-baby goods. The other supermarkets sell imported goods inside their apps, shipped from bonded warehouses or their own overseas stores.
+
+Much like food-delivery platforms' user-acquisition playbook, these supermarket e-commerce sites offer generous discounts and subsidies early on, then gradually scale back. When Feiniu.com launched in 2014, for example, it sent every new user a 20-yuan cash voucher applicable to any purchase; Carrefour ran new-user promotions for at least three straight months from February to May this year, 50 yuan off 99 for new accounts. iBailian, whose flagship three-hour delivery service "Bailian Daojia" launched not long ago, is still running a 15-off-88 promotion; and when Wumart first allied with Duodian, there was an 80-spend-40-back deal.
+
+In short, if you want a bargain, check out the (relatively) newly launched supermarket e-commerce sites. Anniversary promotions sometimes bring discounts too.
+
+### In a big city like Shanghai, delivery speed is basically on par with JD.com and Tmall Supermarket
+
+Except for Duodian (Wumart) and Feiniu.com (RT-Mart), which use their own logistics, the other supermarket e-commerce sites outsource delivery to third-party couriers.
+
+In Shanghai and Beijing, the two first-tier cities we tested, all the major supermarket e-commerce sites can deliver next day; in second-tier cities it is (reportedly) basically the day after that — roughly the same speed as Tmall Supermarket and JD.com.
+
+That's under ideal conditions. Once, Tmall Supermarket delivered the wrong goods and the order took two extra days; fruit I ordered from Yonghui also arrived a day late. Successful-delivery rates also depend on which third-party courier is used.
+
+![](http://img.qdaily.com/uploads/20170511000911nzWPIZsphAcUG28f.jpg-w600)
+
+Some supermarkets also offer same-day delivery — Yonghui and Wumart/Duodian, for example. As mentioned above, Yonghui's same-day and next-day categories barely overlap, which is baffling and a hassle in practice. Search for "Maling luncheon meat": if you want same-day delivery, you can buy a single can (340 grams); next-day items can only be bought in pairs. Wumart (Duodian) advertises two-hour delivery in Beijing, but in our experience it took at least three hours to receive an order.
+
+### All offer in-store pickup — but is it really a benefit for consumers?
+
+Supermarkets have their network of physical stores as an advantage, and most don't skip the pickup option. Online Carrefour is the exception: it only allows pickup at "Carrefour Easy" convenience stores (you can't yet pick up at Carrefour supermarket locations) — clearly hoping to funnel foot traffic to the stores. RT-Mart/Feiniu has far more pickup points: besides RT-Mart stores, there is C-Store under the same parent, Sun Art Retail Group, and in Shanghai it has also partnered with FamilyMart, where consumers can pick up orders.
+
+In-store pickup saves supermarkets the last-mile delivery cost — in some cases the last mile can account for roughly 50% of total logistics costs. In the US, Walmart discounts more than 10,000 products — on the condition that consumers order online and pick up in store — because it saves Walmart delivery costs. Pickup can also bring supermarkets added foot traffic, even added sales: US supermarket chain No. 2 Target found that one-third of consumers who order online and pick up in store end up buying more once inside.
+
+Pickup makes sense in certain situations: no one home to receive a delivery, a conveniently located pickup point, collecting on the way home. But for consumers used to "delivery to your door," it can hardly be called the most convenient option.
+
+### Fresh food is still the weak spot — if you're using supermarket e-commerce, steer clear of this minefield for now
+
+All six supermarket e-commerce sites we reviewed sell fresh produce — fruit, vegetables, meat — online. Except for Metro, which only allows pickup for fresh items, all can deliver them to your door. But buying fresh food via supermarket e-commerce is an unfriendly experience all around.
+
+The biggest problem is quality. Setting appearance aside, some supermarkets can't even guarantee basic timeliness or cold-chain handling. In my single-order experience, Yonghui — famous for fresh food — failed to deliver at the speed and quality fresh food demands. I ordered yogurt and fruit from Yonghui; when the yogurt arrived the next day, there was no sense it had been refrigerated — the ice pack had turned into a bag of water. Nearly half of the eight yogurt cups had swollen packaging. Fruit that should also have arrived next day came a day late. This may not be an extreme outlier: in the App Store reviews of the "Yonghui Life" app, users have also mentioned fresh orders not arriving on time.
+
+Another problem: the free-delivery threshold for fresh food is high (the same as for regular goods). Bailian requires 68 yuan, Feiniu 98 yuan. Even the more mature Tmall Supermarket and JD.com have similar thresholds — free shipping requires 88 yuan and 99 yuan respectively — and fresh-food e-commerce site Tiantian Orchard also sets free shipping at 68 yuan.
+
+Fresh and non-fresh purchases generally can't be combined toward the free-shipping minimum (meaning if I want to reach the threshold, I can only buy fresh items). This presumably has to do with fresh and non-fresh goods being stored separately and handled by separate logistics. Carrefour and Yonghui do slightly better: their fresh items can go in the same basket as non-fresh items and be delivered together.
+
+![](http://img.qdaily.com/uploads/20170511001057spDTEJhLYd2yXn3Q.jpg-w600)
+
+[In a QDaily Research Lab survey from early 2015](http://www.qdaily.com/papers/done/435/1434.html), readers said the three biggest problems with buying fresh food online were: goods not matching their descriptions, rarely being able to get all the ingredients you want, and — the price. Two years on, none of these problems has been comprehensively or effectively solved.
+
+### Returns were the most unpleasant part of the whole review — Bailian and Feiniu.com are fairly convenient; the rest are pretty terrible
+
+Returns are the most unpleasant part of the buying experience. In this round of testing, though, we found that supermarkets shipping from standalone e-commerce warehouses handle returns more conveniently — Bailian and RT-Mart's Feiniu.com, for example — while store-warehouse hybrids like Metro, Carrefour and Yonghui make returns complicated, even awful.
+
+Carrefour's order slip plainly states that e-commerce customers can return items at any store. When I went to the nearest Carrefour, I was told I had to return the item at the store that shipped it. The staffer called the Gubei Carrefour that had shipped my order for me and was told its staff would contact me to arrange a pickup. To this day, no one has called.
+
+"Yonghui Life" is the only supermarket e-commerce site that doesn't state an after-sales or return policy — the delivery slip doesn't mention it either. I only learned after calling customer service that I needed to bring the product receipt to the shipping store to return it. When I arrived at that store, the staff looked completely baffled (perhaps no e-commerce customer had ever come in to return anything). She asked the store manager on my behalf and finally told me returns couldn't be processed there. On my second call to customer service, the agent said someone at the store would contact me to handle the return. After a week of waiting with no follow-up, I was brushed off, just like at Carrefour.
+
+Metro only supports in-store returns. It doesn't have many stores to begin with, mostly in communities far from the city center — hardly convenient for most individual consumers.
+
+Clearly, this is a problem of e-commerce and physical-store return systems not being integrated. The "store-warehouse hybrid" saves costs, but it easily leads to stores and e-commerce operating as separate fiefdoms.
+
+The two supermarkets that ship from warehouses rather than stores have much easier return processes. Feiniu.com's is simple: just select "return" on the website or app. The day after I applied, a Feiniu courier came to collect the item and gave it a quick check. The refund arrived via the original payment method on day three.
+
+Bailian's returns are also quick. Its return page is slightly more complicated than Feiniu.com's — you have to upload photos. Customer service called the next day to verify my information. On day three a third-party courier came to collect the item, and on day four the money was back in my bank card.
+
+As for return shipping: Feiniu.com charges no shipping for returns of self-operated goods. Compared with Tmall Supermarket, that's downright thoughtful (JD.com recently launched "return insurance," which also lowers return shipping costs for consumers) — though it may add to operating costs. Bailian's policy is that the customer bears return shipping for "non-quality issues." But this time Bailian didn't charge me shipping when processing my "7-day no-questions-asked return."
+
+Note: a single experience inevitably involves some variance; after-sales quality at each chain may change.
+
+### If you care about membership: everyone earns points, but points aren't necessarily useful
+
+![](http://img.qdaily.com/uploads/20170511011042STf29EgubDykOtdM.jpg-w600)
+
+Except for Yonghui, all five operate a "register and you're a member" system — no separate application needed. "Yonghui Life" membership costs 100 yuan a year; first-time members get 100 yuan worth of cash vouchers (with certain usage restrictions) plus free-shipping coupons (because its same-day delivery service charges shipping). It has a fairly elaborate online membership system, but the rewards or discounts you can get by earning points through spending are unclear (one user criticized Yonghui's e-commerce points as unusable right in the App Store).
+
+In addition, Yonghui, Carrefour and Feiniu.com (online RT-Mart) have not integrated their online and offline membership systems. If the plan is to use customer segments to retain consumers, integrating those systems matters.
+
+### In sum...
+
+These supermarkets' self-operated e-commerce platforms, for all their bright spots, still lag far behind mature third-party e-commerce platforms. Meanwhile, [JD.com, Alibaba and Amazon — the world's largest e-commerce companies — are all buying up supermarkets offline](http://www.qdaily.com/articles/39886.html), driven in part by rising logistics costs, the huge swaths of people e-commerce still can't reach, and the fact that some categories still sell best offline.
+
+According to Nielsen research, consumers remain more accustomed to buying fresh food and groceries at offline supermarkets, and to buying daily necessities and longer-shelf-life goods online. In China, shower gel (48%), toothpaste (42%), tissues (37%), hair-care products (37%) and laundry detergent (36%) top the list of online purchases, with cosmetics close behind. Food and beverages derive 94% of their sales from physical stores and groceries, with online transactions at 6% — which is why almost all supermarkets are enriching their food offerings in physical stores, and Yonghui has even gone into prepared food plus dining.
+
+Supermarkets' offline stores still hold enormous value — but their online problems are clearly getting urgent.
+
+(Reporter Lan Lianchao also contributed to this piece)
+
+Graphics: Feng Xiuxia
+
+Cover image from Pixabay

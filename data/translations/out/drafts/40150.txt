@@ -1,0 +1,110 @@
+@@QD_TITLE@@
+Can Book Publishing Really Be Run as a Business With the Internet and Crowdsourcing? | 100 Entrepreneurs
+@@QD_EXCERPT@@
+Fiberead has indeed sped up the publication of foreign-language books, but book quality has already become a bottleneck for this business model.
+@@QD_BODY@@
+Fiberead has indeed sped up the publication of foreign-language books, but book quality has already become a bottleneck for this business model.
+
+In a co-working space on the second floor of M&A Coffee on Beijing's Innoway startup street, more than a hundred workstations are crammed together. Fiberead founder Jiang Yuanwei and her three colleagues work in an area of less than 20 square meters, running a crowdsourced translation and foreign-language book publishing platform.
+
+Search for Fiberead in the Amazon Kindle store and 405 e-books will appear before you.
+
+Browsing from the top by popularity, the first five are the thriller *Fifth Avenue*, the parenting book *How to Raise an Outstanding Child*, the spy novel *The Kramsky Case — MI7*, the political novel *The City of Evil*, and the suspense novel *Sugar and Spice*. They are all foreign-language books; the higher-ranked ones are mostly suspense and horror novels, books on romantic relationships, or workplace titles, and quite a few are by bestselling foreign authors. Each e-book is priced anywhere from 0.99 to 10 yuan apiece, published and translated through the Fiberead platform.
+
+![](http://img.qdaily.com/uploads/20170505101409YAnHjlex1mViFTIs.png-w600)
+
+Jiang Yuanwei told QDaily that since the site launched in 2014 they have published more than 400 e-books, sold on platforms such as Amazon, Duokan, and Douban, and have also acquired the rights to over 1,000 foreign-language titles that are now being translated. Six print books are on sale, with plans to publish 100 titles by the end of the year.
+
+Translating and publishing over a hundred books a year, Fiberead now operates at the scale of a small publishing house. It is still far from matching a traditional publisher like CITIC Press, which imports a thousand foreign titles a year — but this is the result achieved by a four-person team.
+
+The only problem is that the quality of these books is decidedly mixed.
+
+### Cutting Out the Middlemen, Fiberead Has Sped Up the Importation of Foreign Books
+
+"Every year, traditional Chinese publishers import fewer foreign books than 1% of what the British and American markets publish annually, and the importation process is very slow." Three years ago, Jiang Yuanwei founded Fiberead with the idea of changing the speed at which foreign books reach the Chinese market.
+
+Compared with traditional publishers, the process of importing and publishing these books works quite differently: all translation is done by crowdsourced translators. In general, a foreign book takes an average of four to six months on Fiberead to go from translation to publication as an e-book — considerably faster than with traditional publishers.
+
+First, the foreign author registers on the Fiberead website and uploads their work; Fiberead then publicly recruits volunteer translators for these works on its homepage. Whichever book finds its translators first gets translated first.
+
+Jiang Yuanwei initially posted recruitment messages in translator forums such as Douban, assembling the first batch of 300 certified translators screened during the site's closed-beta phase. Translators translate, review, and typeset the books according to Fiberead's process management. The site's backend provides communication tools so translators, authors, and the team can talk directly. Finally, Fiberead puts the compiled books on sale through channels such as Duokan, Amazon, and Douban Read. The proceeds from every book sold are split equally among Fiberead, the author, and the translators.
+
+![Fiberead's backend editor](http://img.qdaily.com/uploads/20170505100805l9Bd7IeQof3rVxyJ.png-w600)
+
+Fiberead's efficiency gains come from eliminating all of the original middlemen. For a traditional publisher, importing a foreign book involves the whole process of settling on a title, finding a rights agent (sometimes the book's rights are not in the original author's hands), and then bidding for the rights (several publishers may be buying the same rights at once).
+
+Fiberead exchanges the Chinese rights by offering to produce the author's Chinese-language book for free. Once an author uploads a book to Fiberead, that amounts to agreeing to hand the book's Chinese rights over to the Fiberead platform. This removes the search for a rights agent or the complex rights transactions between publishers in two countries — a process that in the past could take up to a year just to negotiate the rights.
+
+### With Greater Efficiency, Book Quality Became Hard to Guarantee
+
+Fiberead's publishing efficiency is what Jiang Yuanwei is proudest of. "Authors can publish their Chinese-language books without spending money, and translation hobbyists get to translate subjects they are genuinely interested in." Beyond efficiency, Jiang Yuanwei believes this model also benefits authors and translators.
+
+Her thinking is that Fiberead should not play the "gatekeeper" role, handing the job of screening books to the translators — and to readers — and eliminating the "editor" role that traditional publishers use to control book quality.
+
+> "Some authors may have had nowhere to submit their books before they became famous — *Ghost Blows Out the Light* (《鬼吹灯》) in its early days, for example — so I don't think one or two people, or an expert in the field, should decide whether a book deserves to be published. The market should decide."
+
+Throughout the process, the foreign author needs no upfront investment and pays nothing for the translation; if the book sells well, they get a share of the proceeds. For Fiberead, publishing one more e-book has an almost zero marginal cost and may bring in a share of the revenue. The lower the barrier, the more free rights Fiberead can secure, and the more "unshelvable" authors get a chance to publish a Chinese-language book.
+
+But this also raises the cost for Fiberead users of choosing books.
+
+The only criterion a book must meet to be put on the Fiberead platform is this: its e-book can be listed on Amazon US. That is a very low bar, because Amazon's listing standard for e-books is merely "the typesetting meets the requirements."
+
+With the editor, rights negotiation, and other links removed, publishing speed naturally improves, and translators and foreign authors get more opportunities to hone their craft. But the party that ends up paying for this model — the reader — has to spend a great deal of time sifting through material that used to be filtered by professional editors. This is not even a matter of personal taste, because by the listing standard described above, amateur writing enthusiasts can upload their work just as well.
+
+### Most Books Don't Sell Well, and the Value They Generate Is Limited
+
+Chen Haibin is a veteran translator on the Fiberead website.
+
+Over two years, she served as the lead translator on dozens of English-language books. In early 2015, Chen Haibin was a core translator of *The Road Back* (《回归之路》), whose author, Michael Vitez, is a Pulitzer Prize winner. "Before I started, the book had already been translated once, but the quality was so poor it was basically unusable." So Jiang Yuanwei contacted Chen Haibin directly, hoping she could revise that translation.
+
+Over a year and a half, *The Road Back* sold fewer than 5,000 e-book copies across all channels, but Chen Haibin told me that, in e-book terms, *The Road Back* was already one of the relatively good sellers among the e-books she had translated.
+
+![](http://img.qdaily.com/uploads/20170505100907XwtQgzVHIlJ7Dk1G.png-w600)
+
+Fiberead does have "blockbusters" that have sold more than 100,000 copies, such as *How to Be a Smooth Talker: Master Small Talk, Deploy Charm (Techniques for Holding Forth With Anyone)*, which teaches you how to chat, and the suspense novel *Sugar and Spice* — the latter topped the Kindle Chinese paid chart when it launched on Amazon in 2014. With no marketing whatsoever, that is a pretty good result.
+
+But overall, out of the hundred-plus translated e-books, only a handful sell decently, and there is no discernible pattern to it. Over three years, among most of the e-books published on Fiberead, sales in the dozens or hundreds are the norm. With no promotion, authors of little renown, and mediocre writing, sales are hard to lift.
+
+Moreover, these foreign books face another challenge — translation quality.
+
+Fiberead uses a crowdsourced translation model. After registering on Fiberead, translation hobbyists choose from the new titles the platform posts, do a trial translation of a chapter, and then an "editor" like Chen Haibin picks the two to four best translators to become members of the translation project. The "editor" keeps the translation on schedule and coordinates the translators' time; a book takes an average of four to nine months to translate. Fiberead has even designed a foolproof typesetting workflow: the translators complete the typesetting following that workflow and the book goes straight into e-book distribution.
+
+None of these "editors" are Fiberead staff; most are veteran volunteer translators on the platform, like Chen Haibin.
+
+Chen Haibin has run into unreliable collaborators several times. "Translators quitting midway, substandard translation quality — these things happen all the time." Under the platform's revenue-sharing rules, Chen Haibin's earnings as core translator for completing *The Road Back*, a 150,000-character book, came to roughly 1,100 yuan. E-book sales were about 5,000 copies. Correspondingly, the author's own earnings and the platform's revenue were also in the low thousands of yuan.
+
+Chen Haibin feels this is a community like any organized spontaneously around shared interests: income is low, it is quite loosely structured, and translator turnover is high. "Most translators didn't train for this; they do it purely out of interest, just like fan-subtitle groups."
+
+This can create a cycle: most books sell only modestly, and translators, living off e-book revenue shares, gain little commercial benefit, which fails to keep attracting higher-caliber translators. Well-known, well-written authors may have their reservations. And books that badly need to enter the Chinese market but have been overlooked by traditional publishers are not necessarily within Fiberead's sights either, given the lack of "editorial" control.
+
+In the end, most books on Fiberead sell fewer than a thousand copies, and their impact on readers and the book market is negligible.
+
+### The E-Book Market Yields Meager Profits, So She Turned to Publishing Blockbusters in Print
+
+Because e-book revenue is "too low," Fiberead has now shifted its focus back to print publishing.
+
+"E-book sales can be decent, but the prices are low, and the revenue is split with the platform, the author, and the translators. The profit margin is very small." After more than two years of e-book publishing, Jiang Yuanwei and her team began working out the process for publishing print books, spending a full year getting the whole publishing workflow up and running.
+
+![Fiberead's homepage](http://img.qdaily.com/uploads/20170505101456Ogt93DPz5QWnCwxp.png-w600)
+
+From the 400-plus published e-books, Fiberead picked the best few based on online sales and rankings to move into print distribution; they officially went on sale on Dangdang early this year. These include the very self-help-flavored *How to Be a Smooth Talker: Master Small Talk, Deploy Charm (Techniques for Holding Forth With Anyone)*, *The Road Back* by Pulitzer Prize-winning journalist Michael Vitez, and the suspense novel *The Art of Murder* (《谋杀鉴赏》).
+
+The printing approach is a little different, too. Fiberead plans to use print-on-demand (POD). Based on market purchases, it does small reprints of dozens to a few hundred copies a month, which reduces upfront warehousing costs.
+
+"You spend a lot of money upfront acquiring the rights, and if you don't sell at least 100,000 copies, you won't make money — so your expectation is that you have to print at least 100,000 copies. Printing 500 to start is pointless. Upfront you pay a deposit of over 100,000 yuan to the printer, and you also pay warehousing fees — all of that is upfront investment."
+
+Fiberead has no intention of doing it that way. For each book it publishes, Jiang Yuanwei pays the publishing house a review fee to obtain an official publication number (ISBN), and the other pre-press investments a print book normally requires — such as royalty advances, translation fees, and editing and proofreading — either do not exist at Fiberead at all or are borne by the translators and the original author.
+
+"The original pre-press cost of 100,000 yuan can be compressed to about 15,000–10,000 yuan," Jiang Yuanwei figures. Now, with some upfront investment — modest though it is — there is greater sales pressure than with e-books.
+
+Moreover, the "efficiency" and "de-editorialization" Fiberead had always prided itself on do not amount to its biggest competitive edge in the print book market. For readers, the motivation to buy a print book may come from the author's fame, the book's quality, the belly-band blurb, or the cover design — and all of that depends on the work of a "traditional editor."
+
+According to figures Fiberead provided, after it began selling print books in the first three months of 2017, Fiberead achieved gross list-price sales of around 200,000 yuan. Its best seller, *How to Be a Smooth Talker*, sold 5,000 copies in two months. Jiang Yuanwei plans to publish 100 print titles by the end of this year; in category terms, "that's the scale of a mid-size publishing house."
+
+But given the one-in-a-hundred sales rates of Fiberead's e-books, there won't be many titles with the potential to become the next *How to Be a Smooth Talker*.
+
+This makes Fiberead's business look somewhat contradictory: the internet and crowdsourcing make it more efficient than traditional publishers, yet the absence of "editorial thinking" leaves the products on its platform with little chance of winning.
+
+In theory, expanding the base of works on the platform could solve part of the problem. But books are, after all, different from information products in the Toutiao mold. People who want to read — whether to relax or to improve themselves — already stand above a not-insignificant reading threshold. After all, this is still reading!
+
+Cover image from [weseink](http://www.wiseinkblog.com/publishing-industry/are-bookstores-relevant/)

@@ -1,0 +1,267 @@
+@@QD_TITLE@@
+One Year In, How Should We Evaluate Zhihu Live?
+@@QD_EXCERPT@@
+For now, it's still not enough to support Zhihu's revenue.
+@@QD_BODY@@
+It's still not enough to support Zhihu's revenue.
+
+"Hourly wage" seems to be Zhihu's favorite thing to talk about these days.
+
+At the end of last month, Zhihu published [the latest numbers for Live](https://www.zhihu.com/lives/838470120962666496): since launching on May 16 last year, Zhihu Live has held 2,900 sessions, with each speaker delivering an average of 65 minutes of audio per session, and the average "hourly wage" has already topped 11,000 yuan.
+
+In a Live, speakers mainly share their knowledge and insights with paying audiences through voice.
+
+This is the business Zhihu most likes to talk about — it has already reported Live's revenue three times. According to Zhihu's figures, users have purchased Lives 2.69 million times, of which 1.1567 million bought more than one session.
+
+By contrast, Zhihu has never once discussed in detail the revenue from its advertising business, which has been running for nearly two years.
+
+But what does this revenue actually mean for Zhihu, six years into its startup life? And can the income it brings speakers motivate enough — and good enough — users to take part?
+
+We compiled data on the 2,661 Lives held between the very first Live on May 16 last year, "Commercial Bank Annual Report Analysis," and April 27 (Zhihu's announced figure of 2,900 includes sessions announced but not yet held), covering each session's revenue, pricing, and attendance. Based on this, we analyze Zhihu Live's performance in its first year.
+
+### For Zhihu, that's 20 million yuan a year in revenue — not high enough, and sliding in recent months
+
+Over nearly a year, Zhihu users paid a total of 65.0816 million yuan for Live.
+
+Zhihu didn't take a cent of this money.
+
+But starting May 1, Zhihu Live began charging speakers a revenue share of 30%. If users pay on an iPhone, Apple takes 30% first, and Zhihu takes 30% of what remains.
+
+Assuming Apple and Android phones account for half of payments each, a Live grossing 10,000 yuan would yield Zhihu just 2,250 yuan. In reality, Apple's share of spending may well be higher.
+
+By this calculation, if Zhihu had taken its cut during Live's first year, it would have earned roughly 16.596 million yuan from it.
+
+Over the past year, Zhihu's team grew 50%, from 200 people to nearly 300. Salary costs alone run to more than 100 million yuan a year.
+
+![We only counted prices still visible to date; several of the ten highest-grossing Lives
+ran special promotions during their pre-launch warm-up period](http://img.qdaily.com/uploads/20170509152216ZuEOTYxbqlDRtP5v.png-w600)
+
+Last November was Live's highest-grossing month, a peak propped up by hits from speakers like Li Xiaolai, Zuo Xiao Zuzhou, and Daniel FC — and the discounted sales in that month are not even included in the calculation.
+
+Setting aside February, which was affected by Chinese New Year, both total Live revenue and per-session revenue have trended downward over the past six months.
+
+If Zhihu wants to make Live a core revenue source, it needs to attract more speakers than it has today — and let them earn more per session.
+
+### Once preparation time is factored in, even some big-name speakers earn only a three-digit hourly wage
+
+Zhihu's "hourly wage" claim comes from the average: 11,000 yuan earned per hour of Live delivered.
+
+That's the amount users pay. Once the revenue share kicks in, a 10,000-yuan Live leaves the speaker 5,950 yuan after Apple and Zhihu take their cuts. Income tax owed to the state comes out of that too — for those with high per-session earnings, the final take is less than half of what users paid.
+
+What drags the "hourly wage" down even further is preparation time.
+
+He Tao, a writing-class Live speaker and chief writer at *GQ*, has already hosted [six writing Lives](https://www.zhihu.com/lives/users/93de303f63f33f1db533635687df7f0b); before each session he has to write out a full word-for-word script and rehearse repeatedly, spending a week in preparation.
+
+"Compared with users on other platforms, Zhihu users are rather 'picky' about content — they have higher expectations and demands of speakers, and you can't fob them off," he said. "That should be the consensus among Zhihu speakers."
+
+Art agent Weng Xin has held 26 Lives in total, with combined revenue of 144,000 yuan (excluding tax and promotions). He prices each session at around 20 yuan. His best-attended session, themed "The Profession of Art Agent," drew 1,279 participants; his least-attended, on the Impressionist painters Pissarro and Sisley, still drew 111. Weng Xin's average revenue per session is 5,531 yuan.
+
+But that doesn't mean Weng Xin's hourly wage from Live is 5,531 yuan — and he has never calculated it that way.
+
+Typically, to prepare a Live, Weng Xin first spends a full working day going from concept to framework. For his first Zhihu Live, themed "Three Things About Art That Stump Us," he recalls: "Zhihu's operations team told me to just talk about whatever I wanted, so I gathered the questions I'm most often asked on Zhihu and picked this topic."
+
+This stage alone takes eight hours. Once the framework is set, Weng Xin collects material, consults the literature, and verifies the arguments settled on at the concept stage. "This part is more elastic — three to five hours at the minimum, up to twenty hours," he said.
+
+Usually the Live is announced days or even weeks in advance, and once it's posted, ticket buyers can type questions or leave comments on the Live's page.
+
+Like most speakers, each session Weng Xin spends the first half delivering his prepared outline and the second half answering audience questions; while the Live is underway, participants can keep asking questions, and the speaker picks some to answer. In the process, besides voice, the speaker can also post text, images, even short videos, and many speakers prepare a PowerPoint, releasing slides as they talk — just like an offline lecture.
+
+![](http://img.qdaily.com/uploads/20170509024244jdrv27oWYAPwhs8c.jpg-w600)
+
+A Live runs one to two hours; even counting the minimum 11 hours of preparation, Weng Xin's real hourly wage per session is actually 5,531 / (8 + 3 + 2) = 425 yuan.
+
+Weng Xin also told us that [Hesenbao](https://www.zhihu.com/people/hesenbao/answers), a Zhihu honorary member and docent at the National Museum, takes even longer to prepare. "He told me he usually spends three weeks, because he can't afford to make a single mistake," Weng Xin said.
+
+Obstetrician Tian Jishun spends one to two days of his spare time on preparation for each Live, about 6–8 hours. Take his most recent session, themed "How to Scientifically Get Through the First Three Months of Pregnancy?": priced at 39 yuan and attended by 963 people, it works out to an hourly wage of just over 4,000 yuan.
+
+We interviewed ten speakers; the highest-earning session among them grossed over 100,000 yuan, and the lowest 3,000 yuan — but not one said they could simply get up and talk with no preparation. Their prep time ranged from five or six hours upward.
+
+Our statistics show that the minimum threshold for entering the top 20% of Zhihu Live earners is per-session revenue of 20,000 yuan; even counting 6 hours of preparation plus 1 hour of sharing, that speaker's hourly wage comes to 2,850 yuan.
+
+So Zhihu Live speakers' real hourly wage may be a fraction — even a few percent — of the figure Zhihu publicized of "an hourly wage over 10,000 yuan."
+
+Then there's the issue of frequency. Not every field lets you keep going the way Weng Xin has with art, delivering dozens of Lives in a row.
+
+Tian Jishun has run 12 Lives. He tends to batch the consultations he receives day to day and answer them all in a single session. He hasn't updated his Live in a long time now. "I've already covered the most common questions," he said. "My understanding is that Live is just this kind of format — you give the talk and leave it there."
+
+An economics PhD and Live speaker, An Qian (a pseudonym), said that by his observation Live revenue is now trending downward. "More and more people are giving Lives, and everyone's slice of the pie gets flattened out," he told QDaily. For now he's still fairly satisfied with his Live income, but once the revenue share kicks in, he'll have to weigh the costs and returns.
+
+His first Live earned 12,500 yuan, putting him in the top 35% of Zhihu Live speakers.
+
+Our statistics confirm that average per-session Live revenue is indeed declining.
+
+![](http://img.qdaily.com/uploads/20170509152232n47zXfLAErcUoGdV.png-w600)
+
+Among the speakers we spoke to, most said income isn't what they value most. Weng Xin told us what he values most is the sense of live interaction; several speakers told us they themselves learned a great deal from sharing in Lives. He Tao also said Live is a very good way to conduct deep, effective learning — and a way to test the results of that learning.
+
+### Even in Zhihu Live's relatively hand-picked first year, per-session revenue still followed a "two-eight" distribution
+
+For more than half a year after Live formally launched, Zhihu kept it in a semi-closed trial-run state.
+
+Live was never a product covering all users. In its first two months, Live stuck to the path Zhihu had always taken with new products: starting tests with a small number of users while the Zhihu team guided them on how to use it.
+
+Every Zhihu Live in that period bore traces of manual operation. Attendance was capped for each session; in the early testing stage, only a small subset of users could even see the Live sign-up entry, and Zhihu's backend pushed it to users who had interacted with the guest speaker or who showed a certain degree of affinity with the topic.
+
+Although the technology could support 2,000 people in a Live, to balance presentation quality and interactive experience, the per-session cap topped out at 800.
+
+Speakers, too, were relatively screened.
+
+Live speakers were directly invited by Zhihu's operations team or recommended by speakers who had already hosted Lives. They were generally outstanding answerers in various fields who had already accumulated followers and content on Zhihu; some had even published Zhihu e-books.
+
+To test the effect of different topics, early Lives covered a very wide range — from "Commercial Bank Annual Report Analysis," "Three Things About Art That Stump Us," and "The Operating System of Startups" to "How to Build a Pond at Home." The vast majority were priced at 9.99 yuan — a test price set by Zhihu's operations team.
+
+Even within this group of relatively influential speakers in the Zhihu community, a classic "two-eight rule" emerged: the top 20% of Lives by revenue grossed 51.154 million yuan, accounting for 78.6% of Zhihu Live's total revenue.
+
+Among the highest-grossing Lives, the number-one earner was a single session by Nobel laureate in economics [Joseph Stiglitz](https://www.zhihu.com/lives/823888660779892736), invited by Zhihu, which earned 345,600 yuan. Second was a session by astronaut [Buzz Aldrin](https://www.zhihu.com/lives/795679158356312064), with revenue of nearly 240,000 yuan. Only after those came Lives by Zhihu's own users — Ge Jin and Li Xiaolai.
+
+![](http://img.qdaily.com/uploads/20170509152249uUr6Pmq0JpN1aYBb.png-w600)
+
+![](http://img.qdaily.com/uploads/20170509152257n7PLp2RlwieygdWo.png-w600)
+
+We compiled the speakers, prices, and revenue of the first 50 Lives. They were Zhihu's hand-picked seed users, but early Lives had attendance caps, so initial revenue wasn't too high. On average, each speaker grossed 12,715 yuan per session.
+
+The first 50 Lives had 48 speakers. Among them were people like art agent Weng Xin, who went on to host 26 Lives, and documentary director Guan Yadi, who briefly tried the product and then stopped putting energy into it. Over the following nearly year, each person hosted an average of 4.58 Lives — roughly one every two-plus months.
+
+For comparison, we also compiled the popular Lives of the most recent 30 days: these fifty speakers now gross an average of 15,233 yuan per session, with an average ticket price of 19.79 yuan.
+
+Zhihu Live product milestones
+
+2016.5.14
+
+Zhou Yuan announced at the Salt Club that Live was about to launch
+
+2016.5.16
+
+[@Sgt Pepper](https://www.zhihu.com/people/14c43fd66aa5f18ca9b20c7e384a176a) hosted the first Zhihu Live — [Commercial Bank Annual Report Analysis](https://www.zhihu.com/lives/714934256110964736?utm_campaign=zhihulive&utm_source=zhihulivecolumn&utm_medium=article)
+
+2016.6.23
+
+Zhihu Live passed 100 sessions held
+
+2016.7.26
+
+Live launched the "buy after it ends" feature
+
+2016.8.23
+
+Live's 100th day since formal launch
+
+2016.11.2
+
+Live launched a rating system; users can rate Lives they have attended
+
+2016.11.2
+
+Live's collection feature launched: Zhihu's operations team picks Lives on the same or similar themes and bundles them into a collection.
+
+2016.12.6
+
+The "Zhihu Live" WeChat official account launched; entering a search keyword in the account lets you search Lives
+
+2017.4.24
+
+A 7-day unconditional refund was introduced: within 7 days of purchase, if a user has listened to no more than 15 audio clips, they can get a refund for any reason; rating details began to be displayed publicly; Zhihu began openly recruiting Live speakers, streamlining the application process.
+
+### After a Live goes live, follow-up sales account for only 20% of total revenue
+
+Beyond sales before launch, Lives stay up for sale after they end.
+
+Within one to two months after a Live ends, Tian Jishun's revenue from "buy after it ends" can still reach 20% of what it earned before ending — matching the average figure Zhihu officially published.
+
+He's fairly satisfied with this: "Because the Live is already over — the thing is no longer on your timeline."
+
+Tian Jishun's per-session Live revenue ranks in the top 20% of all speakers.
+
+After 2017 began, Weng Xin suspended his Live work for health reasons, but through "buy after it ends" he still earns over 10,000 yuan a month. Compared with the hourly wage, this is the metric he finds more attractive for speakers, because it means more of the value that the Zhihu ecosystem can bring after the talk is done.
+
+"It's not about encouraging creators to sit back and coast, but this isn't a one-shot deal at some so-called 3,000-yuan hourly wage. When I see a session gain twenty listeners in a month, I can tell what Zhihu's audience is interested in," he said.
+
+That 20% means that to earn continuing income from Live, most speakers still need to do more sessions — and keep doing them over time.
+
+According to figures Zhihu has published, as of this March Zhihu's on-site monthly traffic had surpassed 10 billion visits, with 300 million users visiting at least once a month. For now, a huge volume of traffic has yet to convert into Live purchases.
+
+Li Shenshen, Zhihu's co-founder, said that going forward, quality Live speakers and quality Lives will both have the chance to receive corresponding exposure and recommendation based on precision-recommendation algorithms.
+
+### Other companies sell knowledge in rather different ways, but they're all still in the early stages
+
+Over the past year, paid products for knowledge and experience have multiplied. Besides real-time Q&A products like Fenda, Zhihu (值乎), and Weibo Q&A, as well as Live-like products launched by various platforms, what can more continuously bring income to knowledge sharers is the paid subscription column.
+
+Dedao, Ximalaya, and others have all launched paid course products: they invite experts in various fields to produce paid courses, updated regularly as roughly ten-minute audio installments, priced anywhere from a few dozen to 200 yuan. Dedao and Ximalaya are the two biggest platforms of this kind.
+
+The biggest difference from Zhihu Live is this: Live requires users to set aside a full hour or more in one continuous block, while Dedao and Ximalaya have shortened each installment to about ten minutes, twenty at the very most.
+
+Dedao is the one where both the platform and the speaker invest the most.
+
+On June 5, 2016, Dedao launched its first paid subscription column: 《李翔商业内参》(*Li Xiang's Business Briefing*), hosted by Li Xiang, former editor-in-chief of 《财经天下》(*Caijing Tianxia*), updated every weekday evening. The column now has nearly 100,000 subscribers.
+
+Li Xiang told QDaily that over this year-plus, to guarantee a daily update, he has not taken a vacation or had much real rest. At Dedao's office in Langyuan, Beijing, Li Xiang has a fixed desk where he writes.
+
+Wan Weigang, who runs the column 《精英日课》(*Elite Daily Lessons*), was originally a physics professor; after deciding to start a Dedao column, he quit his job to do just this one thing. Pu Yin, author of the column 《老浦识字》(*Lao Pu Teaches Reading*), also gave up his other work to write a ten-minute column every day, full-time.
+
+Some columnists write their own scripts and hand the audio over to a narrator to record; Pu Yin chooses to record himself. To guarantee the listening effect, Dedao assigned Pu Yin a dedicated column editor, Qiqi, who goes into the recording studio with him every time to keep him company. "This way what I record has the feel of an intimate heart-to-heart — every subscriber hears on their phone not some distant person lecturing you, but me sitting down to talk this over with you," Pu Yin said.
+
+Pu Yin's column now has 15,925 subscribers. In the WeChat group used for day-to-day column work, besides Pu Yin there are seven or eight Dedao employees. Dedao even built a literacy-flashcard feature specifically for Pu Yin's column, adapting the app to display oracle-bone script.
+
+To date Dedao has opened only 24 columns, each priced at 199 yuan. At a March briefing, Dedao founder Luo Zhenyu released a set of operating figures: columns have sold a cumulative 1.44 million copies; excluding the Luoji Siwei column priced at 1 yuan, the remaining 800,000 copies generated nearly 160 million yuan in gross revenue.
+
+Dedao is more like a traditional media company, with 170–180 people in total; beyond the subscription-column business, its operations include book and e-book sales. Dedao CEO Tuobuhua told QDaily that from deciding to open a column in a given field, to confirming the author, signing, settling the column outline, and finally taking the product live takes at minimum half a year, and at most 9–12 months. How to scale up is the problem it needs to solve.
+
+At that briefing, Luo Zhenyu said the paid-knowledge industry has only just begun.
+
+He offered an analogy: "This business isn't that big. Even the few companies running at the head of it right now make very limited money. A couple of days ago I learned that not far north of this very spot there's a Sanyuanli wet market, where a fruit stall turns over about 40,000 yuan a day — so basically seven or eight fruit stalls add up to the entire revenue of one company at the head of this industry. So up to now, I don't think it even qualifies as a 'wind tunnel.'"
+
+Ximalaya has opened considerably more paid subscription columns than Dedao. Around the same time Zhihu Live went live, Ximalaya also began preparing content-payment products. In its degree of operational involvement with paid content, Ximalaya sits between Zhihu and Dedao.
+
+Ximalaya now has 2,000 paid knowledge broadcasters. The best seller, for example, is the column 《好好说话》(*Speak Well*) from the team behind 《奇葩说》(*I Can I BB*), expected to reach 50 million yuan in annual revenue — but there are also plenty of broadcasters from niche fields, and even bringing in the most influential speakers doesn't necessarily produce a million-yuan hit.
+
+In the interview, Yu Jianjun said they are digging into the most "top-tier" content creators across different fields: "Our service process is like publishing a book — it's mainly packaging, planning, and connecting with users; the most important part is the early-stage packaging, planning, and sample episodes."
+
+Wang Peiyu, a renowned Yu-school Peking Opera actress at the Shanghai Jingju Theatre, is a typical example. Beyond performing, she devotes herself to the inheritance and education of Peking Opera. Wang Peiyu previously appeared on variety shows including 《奇葩大会》(*Qipa Conference*) and 《朗读者》(*The Reader*), also to promote and popularize Peking Opera. In September 2016, she launched on Ximalaya a daily updated paid column, 《京剧其实很好玩》(*Peking Opera Is Actually Fun*).
+
+The program has brought Wang Peiyu less than 100,000 yuan in earnings, but for her, what matters more is what a daily program means for promoting Peking Opera.
+
+"At Ximalaya's 123 Carnival last year, in the opera and folk-art category the top three sellers were Guo Degang, Wang Peiyu, Guo Degang — if I hadn't done it, it might have been Guo Degang, Guo Degang, Guo Degang," Wang Peiyu told QDaily. "You could say Ximalaya has given Peking Opera a place of its own, opened a possibility for Peking Opera and for other forms of traditional opera, and let more people see how truly beautiful Chinese opera is."
+
+Ximalaya has no transparent revenue figures like Zhihu's, so there's no way to compare. But Ximalaya co-CEO Yu Jianjun told QDaily that paid users currently account for less than 1%.
+
+These columns' subscription cycles generally run as long as a year or nine months; unlike Zhihu Live, they don't need to win a fresh purchase from users with every installment.
+
+But a few months from now, when the subscription periods end, how many of the current users will renew?
+
+The real challenge hasn't arrived yet.
+
+### What's next — how will Zhihu adjust Live?
+
+Weng Xin and Tian Jishun had each already accumulated around 100,000 Zhihu followers before starting their Lives. But for speakers who are themselves outstanding answerers yet, limited by their field, have relatively low follower counts, promoting a Live on their own influence is no easy task.
+
+Some time after Zhihu Live launched, it added a feature to buy a Live and share it with friends; some speakers pay out of pocket to buy their own Lives and share them to Moments and WeChat groups — in effect bearing the effort and money of marketing and promotion themselves.
+
+In that Live — "Come Talk With the Zhihu Team About New Possibilities for Paid Knowledge" — Li Shenshen announced what Zhihu will do next to improve Live. The most important thing is still how to get more people to see a Live — and, moreover, people who are actually interested in that particular Live.
+
+Last November, Live began experimenting with courses and collections. A course invites a speaker to package several upcoming Lives around a single theme for bundled sale; unlike ordinary single Lives, the speaker must prepare up front the outline and "key points" for every upcoming session. Examples include cramming for the LSAT alongside a Yale PhD, or studying art history with a Peking University professor. Courses now account for roughly 24% of total gross revenue.
+
+Collections, meanwhile, are compilations of existing Lives organized by Zhihu's official operations team — manually edited bundles of Lives into themed collections, also sold as discounted packages.
+
+![Live courses and collections](http://img.qdaily.com/uploads/20170509055954Rjw6EvDMd5o4q7Px.jpg-w600)
+
+For now, Live doesn't have its own dedicated tab in the Zhihu app, and the web version's search offers no option to search Lives specifically. You have to follow the Zhihu Live WeChat account to search Lives by keyword.
+
+That said, on each user's profile page you can now see a list of the Lives that user has hosted and attended. A dedicated entry point has also appeared to the right of Q&A answers, letting you view related Live recommendations.
+
+Going forward, Zhihu will begin providing traffic subsidies to Live speakers. Based on factors including the speaker's contribution to the community, the number of Lives they have hosted, the content quality of their Lives, interaction data, sales performance, user retention and repurchase, and the user's weight in their professional domain within the community, Zhihu will identify quality Lives, recommend quality content through "editor's picks," and use algorithms for more precise user matching.
+
+Public job postings show Zhihu offering feed-recommendation algorithm engineers a monthly salary of 50,000–100,000 yuan; they would be responsible for optimizing the recommendation algorithms for all of Zhihu — including everyday Q&A, columns, e-books, and advertising.
+
+The algorithm is now every tech company's answer to every problem.
+
+Whatever the fix, for Zhihu — more than six years in — it has to come faster.
+
+Corrections:
+
+1. The original text stated that a Li Xiaolai Live, "Build a Lifetime-Useful Reading Operating System in One Hour," grossed over 12 million yuan in a single session. After correction: that session was priced at 1 yuan at the time and drew 120,000 participants, while the post-end purchase price was 100 yuan. The relevant figures have been corrected.
+
+2. Among the ten highest-grossing Lives, sessions including Ge Jin's 《正装入门：先穿对，再穿贵》(*Dressing Well 101: Get the Fit Right Before the Price Tag*) and Daniel FC's 《硬笔书法入门：写好字从现在开始》(*Penmanship 101: Start Writing Better Now*) were all promoted at special prices at launch; sales here are calculated at the original prices.
+
+In-article graphics / Zhu Ruomiao
+
+Cover image from Zhihu Salt Club, Pixabay

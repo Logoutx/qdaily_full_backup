@@ -1,0 +1,146 @@
+@@QD_TITLE@@
+In Just 6 Years, Mobile Ads Beat PC to Become the Star of Digital Advertising. What Happened to the Ad Market? ①
+@@QD_EXCERPT@@
+The advertising industry is undergoing a "structural" shift, and "mobile" is the force driving it. Over three articles, we will explain what this shift is and how the roles and power dynamics across the industry's value chain are changing. In this first piece, we look at the current state of the mobile advertising market.
+@@QD_BODY@@
+The advertising industry is undergoing a "structural" shift, and "mobile" is the force driving it. Over three articles, we will explain what this shift is and how the roles and power dynamics across the industry's value chain are changing. In this first piece, we look at the current state of the mobile advertising market.
+
+Seven years ago, Apple's iPhone 4 came out and Google launched the Nexus One. Many advertising professionals only realized later that in that very year, mobile internet entered a phase of explosive growth. Information spread rapidly on devices now in everyone's hands, and the mobile advertising market—destined one day to be worth tens of billions of dollars—was born.
+
+Over the past two years, anyone working in advertising, or media covering the ad business, will have seen this kind of news again and again: Google's mobile search surpassed desktop search; Baidu's mobile revenue overtook its PC revenue; Procter & Gamble cut $2 billion from its ad budget while pledging to keep increasing its mobile ad spending... Even if none of this concerns you directly, you can probably feel that the screen in your hand is becoming more and more valuable.
+
+500,000 iOS apps, 100,000 WeChat official accounts, 21,000 news and information apps, hundreds of video apps... These ever-refreshing numbers are all fighting for people's attention today. In 2016, media consumption worldwide kept growing longer—per-capita total media consumption rose by 9 minutes (to 8 hours a day), and online media consumption increased by 14 minutes. Think about how much time you squeeze out each day to binge-watch shows on the subway.
+
+On April 26, the Interactive Advertising Bureau (IAB) in the U.S. released a data report showing that U.S. digital advertising revenue in 2016 reached $72.5 billion, of which mobile ad revenue exceeded half of all digital ad revenue for the first time. eMarketer, another internet market research firm, had earlier predicted that global mobile ad revenue in 2016 would reach $101.3 billion, accounting for 16.5% of all ad spending.
+
+"Brand money naturally follows consumers, and you'll find that marketers today put mobile first in everything—or even care only about mobile," said David Doty, executive vice president and chief marketing officer of the IAB, crediting mobile advertising with driving the industry's recent growth.
+
+In just six years, mobile advertising became the undisputed "star" of digital ads. By comparison, its predecessor, "online advertising," took 23 years to surpass television advertising (whose revenue share has stabilized in recent years at 41%–44%). Of course, the comparison isn't entirely rigorous, but the contrast in timing still tells you something: the transformation mobile has brought to the ad market is faster and more violent than what PC ever caused.
+
+![](http://img.qdaily.com/uploads/20170505085646HWt0YVyf8IRQauTp.jpg-w600)
+
+The earliest internet ads appeared in the United States. On October 27, 1994, on Hotwired.com, ads from companies like AT&T, IBM, Volvo, and Zima popped up. These ads ran for 12 weeks in total, cost $30,000 each, and achieved click-through rates as high as 30%.
+
+By 1998, the online advertising market had reached $1 billion; two years later, that number had surged to $8.2 billion. In China, the first online ad appeared in March 1997, when companies including IBM and Intel ran $3,000-worth of ads on ChinaByte.
+
+Another 20 years later, the quoted price for a splash-screen ad on a mainstream news app on your phone needs an extra zero tacked on. The birth of super apps has concentrated mobile advertising money in the hands of a small few.
+
+### Who counts as a major player in the mobile advertising market?
+
+![](http://img.qdaily.com/uploads/20170505085707OSUglos6MXRfvhQY.jpg-w600)
+
+Google, Facebook, Alibaba, Baidu, and Tencent. These five companies carve up 74.6% of mobile advertising revenue. The top two, Google and Facebook, have seized more than half of the market between them. And according to the latest *Top Thirty Global Media Owners* report published by media agency Zenith ([available here](https://www.zenithmedia.com/google-facebook-now-control-20-global-adspend/)), from 2012 to 2016, these two companies alone drove 64% of the growth in global ad spending.
+
+Anyone at the 2016 Cannes Lions festival—creative, media buyers, or advertisers—could hardly fail to feel that Facebook and Google seemed to own the entire beach. Sir Martin Sorrell, CEO of the WPP advertising group, described the vast tech-company exhibition area that had taken over the beach as a "duopoly beach."
+
+This "duopoly" pattern will continue into 2017. According to Fred Wilson, founder of Union Square Ventures, "In 2017, internet advertising will be primarily in the form of search, social, and mobile... Google and Facebook will win."
+
+Google controls seven global platforms each with more than a billion users, and Facebook's 1.6 billion users exceed those of any other social platform today. But what strikes fear into marketers is not only the two companies' exclusive grip on data—their own hastily produced, ineffective ads in the new environment are another source of anxiety.
+
+Both companies claim to know consumers best today. Google puts brands in front of customers at exactly the moment of purchase intent; Facebook helps brands find their core audiences. "Advertising agencies are the most likely to be eliminated," a senior advertising executive told the *Financial Times* in an interview last year. "If buying [ads] is as easy as visiting Facebook and Google, and you can target specific audiences, why do we still need media advertising agencies?"
+
+To cope with these two digital advertising giants, more and more media companies are banding together, trying to attract advertisers with greater scale and relatively premium content. In March, Condé Nast announced an ad sales partnership with Vox Media and NBCUniversal, bundling its ad inventory for sale to advertisers. The biggest alliance in television is OpenAP, a media buying platform formed by Viacom, Turner, and Fox Networks.
+
+The New York Times' latest TV ad even used the line "NYT is safer for brands," bluntly mocking Google and Facebook's vagueness over data and the flood of fake news.
+
+### What tricks have they played on your phone to attract advertisers?
+
+As you can see, mobile advertising already accounts for a substantial share of ad revenue at the five companies mentioned above—70% for Tencent and 92% for Alibaba. And for Google and Facebook, which rely on advertising for nearly all their revenue, the figures are 60% and 83% respectively.
+
+![](http://img.qdaily.com/uploads/20170505085730fzkSy9aP6pGtQ8Im.jpg-w600)
+
+The standardization of mobile advertising is still a work in progress. Amid competition between different apps, everyone wants to find the ad format that best satisfies both brands and consumers.
+
+Instagram, owned by Facebook, is the most representative case. Since opening its ad business in September 2015, Instagram has transformed itself dramatically to cater to businesses.
+
+From offering only photo ads at first, it moved to 15-second video ads, then gradually extended to 60 seconds—making it easy for advertisers to put their TV commercials directly on Instagram. On the product side, ads in the feed have gradually added "Shop Now" and "Learn More" buttons to boost sales conversion after impressions.
+
+Another fix for ad exposure was changing the timeline to algorithmic ranking of content. "On average, people miss about 70% of the content in their Instagram feed," Instagram co-founder and CEO Kevin Systrom said in an interview. "What we're really trying to do is make sure the 30% you see is the best 30%."
+
+WeChat Moments ads are also improving; last March, they added official-account follows and mobile app downloads as features.
+
+![](http://img.qdaily.com/uploads/20170505085749m1nPkCBtH63I9wEj.jpg-w600)
+
+Yet after these basic functions were in place, they all pointed to one problem: platforms that carry mobile ads are naturally friendlier to promoting digital products, and marketers can directly observe how many app downloads a single ad generates.
+
+If it's Coca-Cola instead, and a 60-second ad is played on a phone—what difference does it really make?
+
+This is why "advertisers who contribute 90% of TV ad revenue account for only 30%–40% of the digital giants' ad revenue. The other 70% of digital media giants' revenue comes mainly from small businesses and local businesses, usually those that offer only digital products or services."
+
+Still, Rob Norman, global chief digital officer of media agency GroupM, wrote in his latest *Interaction* report: "As TV media becomes increasingly data-driven and targetable (more and more like digital), and the quality of video content on digital platforms keeps improving (more and more like TV), the polarization of advertiser types between TV and digital platforms will change."
+
+### Mobile video ads are taking an ever larger share
+
+According to IAB data, within mobile advertising, search ads' share fell 2 percentage points year-on-year in 2016 to 48%, while mobile video ads grew from 10% to 13%. Cisco says that by 2020, video loading will account for 75% of global mobile traffic.
+
+The ad slots beneath the search box are still the most valuable real estate on the internet, but on phone screens, video ads are generating $4.2 billion in revenue at an annual growth rate of 145%.
+
+Unfortunately, the money spent on this may not be entirely well spent. According to research by Moat, for every 20 video ads served in feeds, only 3 are watched for 3 seconds or longer, and only one is watched for 10 seconds or longer. Last September, Facebook was exposed for having inflated how long users watched ads on its platform, which reignited the industry's discussion about "trust."
+
+In fact, this has probably long been the case. It's just that TV ads used to be measured by ratings, while digital ads can tell precisely whether a user watched an entire ad. So today's advertising professionals may, for the first time, have to face a fact head-on: nobody wants to watch the stuff you make.
+
+![](http://img.qdaily.com/uploads/20170505085912QDaZgteph1f4UzXC.jpg-w600)
+
+In December 2016, Kotex, a sanitary pad brand, ran a 30-second video ad as a Weibo splash screen—a textbook counterexample: the sound turned on automatically, it couldn't be skipped, and the effect was like showing a 30-second static magazine ad on television.
+
+Google has always believed the "forced viewing" model for video ads is unsustainable, and that completing this task by force would ruin the user experience. So YouTube's approach is to charge only after an ad is clicked, or fully watched, or watched for 30 seconds. Yet despite YouTube's staggering scale, it is still considered to lack enough ad inventory that advertisers deem "quality."
+
+And this March, major companies including *The Guardian*, Starbucks, Coca-Cola, L'Oréal, HSBC, and Marks & Spencer pulled their ads from YouTube because they objected to their ads appearing next to extremist content, with estimated losses of $300 million. When it comes to "relevance," this could be a huge hole.
+
+Facebook, itself accused of inflating data, is also working hard on better "relevance." Facebook claims to make more than 25 trillion ad-display decisions every day, determining what content and ads to show in each individual feed.
+
+![](http://img.qdaily.com/uploads/20170505085929fRxFhaujITDWPZik.jpg-w600)
+
+In 2016, Facebook developed a number of video products. Video live-streaming at the top of the app created a new opportunity for longer ads, but more often, people began to question whether longer ads are better (in the PC era, microfilms several minutes long once became the hottest ad format).
+
+YouTube recently launched 6-second mobile video ads that cannot be skipped—2 seconds longer than the 4 seconds users currently wait before skipping YouTube's skippable ads. How to cram the necessary, effective information into such a short time has become marketers' new challenge.
+
+"The future possibilities of feed ads may be an entirely new category of advertising creativity—one that understands the constraints of feeds (time and attention) and their advantages (scale and sharing. Perhaps the focus will be on something like a print ad with static-animation effects, rather than a compressed version of 'traditional' video," Rob Norman wrote in his article on the future of video ads.
+
+### Is "broadcasting" making a comeback?
+
+In 2016, digital audio advertising in the United States generated more than $1 billion in revenue for the first time, including streaming services and podcasts.
+
+Some researchers believe streaming—music in particular, as the most widespread form of consumption—has advantages no other website or platform can match. They can help brands understand the "emotions" behind behavior, offering a new perspective for segmenting audiences.
+
+According to data in GroupM's *Interaction* report, Spotify has 100 million users worldwide (as of June 2016) and 40 million paying subscribers (as of August 2016), yet Spotify's revenue from paying users is roughly $2 billion, while its revenue from advertisers is only $300 million. Each paying user is worth 15 times as much as an ordinary listener.
+
+By comparison, Pandora, with far fewer paying subscribers, leads by a wide margin in ad revenue—reaching $1 billion last year. Chinese music platforms, for now, rarely monetize through advertising. Zhu Yiwen, CEO of NetEase Cloud Music, told QDaily in an interview that advertising accounts for a "small" share of revenue.
+
+But viewed against the entire mobile advertising market, the share held by music streaming and podcasts is still tiny.
+
+### Native advertising will be the mainstream of the future
+
+A term closely related to feed ads is native advertising. This concept, introduced by the IAB in 2012, refers to content—articles or videos made specifically for an advertiser—that remains searchable even after the ad buy has expired.
+
+Compared with traditional advertising, native advertising is more like the content itself. And it has become the tool mobile marketers use today to fight ad blocking.
+
+Jon Steinberg, president of BuzzFeed, once put it this way: "When you take the form of content and put it under the platform's branding, that's native advertising. On Twitter, it's a tweet. On Facebook, it's a status update. On BuzzFeed, it's a piece of news."
+
+![](http://img.qdaily.com/uploads/20170505085955m5yNUzXPvEaLqiRc.jpg-w600)
+
+For the digital giants, creative ad formats unique to their platforms are a manifestation of competitiveness. Google acquired digital marketing company FameBit in October 2016; FameBit mainly helps YouTube influencers find brand partnership opportunities through original video. Snapchat's most representative native ads are its "sponsored lenses," and last year it also acquired a San Francisco ad-tech company called Fliter to further optimize how native ads are displayed.
+
+Many old advertising concepts are also reappearing on mobile in a more "native" guise. If you have watched any Chinese web drama recently, you will surely remember the mini-theaters with complete storylines inserted into the plot by the producers—these mid-roll ads featuring the drama's own actors are essentially another form of TV product placement.
+
+### In the world of mobile advertising, advertisers care about conversion above all
+
+![](http://img.qdaily.com/uploads/201705050900197l5fDN0FSwRtuzyT.jpg-w600)
+
+Perhaps because digital advertising is inherently data-driven, or because ad platforms trumpet so-called "precision" every day, advertisers care about results—conversion rates—more than ever before.
+
+Reports show that performance-based ads, which charge by sales conversion, have become increasingly common over the past decade.
+
+The industry is moving toward ever greater precision, and in the process, the many tricks of traffic fraud have become an open secret, because every stage of the chain is chasing data. In 2014, *The Wall Street Journal* reported that more than 30% of internet traffic was fake. By 2016, the ANA (Association of National Advertisers) said that on exchanges with poor reputations, fraudulent traffic reached 25%–30%, while on well-reputed ones it was below 10%. AppsFlyer, meanwhile, pointed out that 34% of mobile traffic carries a risk of being fake.
+
+The fakeness here doesn't refer solely to machine fraud. It also includes so-called "non-incentivized organic traffic"—the clicks on these ads come from real people, but are often induced by some lure (poor page design, vouchers and red envelopes, giveaway of game items, and the like), and these ads convert just as poorly.
+
+On one hand, third-party verification is becoming imperative; the latest news is that even Snapchat, the least standardized platform for ads, announced as it prepares to go public that it will accept audits. On the other hand, now that the traffic dividend has faded, creativity remains the most powerful tool for improving ad effectiveness—and for avoiding making garbage.
+
+2017 will be the first year in which mobile advertising accounts for more than half of digital ad revenue, and it is also the tenth anniversary of the iPhone's birth. A series of transformations is about to begin. "How exactly do you advertise on a phone?" will be a question every advertising professional has to ponder.
+
+And because the market has changed, the way advertisers are fought over has changed as well. In our next article, we will analyze this more concretely through the contest between local Chinese companies and the 4As.
+
+Charts: Feng Xiuxia
+
+Cover image from Pexels
