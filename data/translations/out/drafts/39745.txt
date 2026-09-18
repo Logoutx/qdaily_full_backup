@@ -1,0 +1,259 @@
+@@QD_TITLE@@
+Apple Suddenly Cares About the Mac Again — But Is That the Right Decision?
+@@QD_EXCERPT@@
+On the question of "what is the next generation of the personal computer," Apple still has no answer.
+@@QD_BODY@@
+Apple still has no answer to the question, "What is the next generation of the personal computer?"
+
+Recently, Apple did two rare and unusual things.
+
+Last week, Apple held a small media event at its headquarters in Cupertino and brought up only one thing: a new Mac Pro is coming. The desktop machine hasn't been updated since its 2013 release.
+
+Phil Schiller, Apple's senior vice president in charge of marketing and the App Store, said Apple has "[rethought](http://cn.engadget.com/2017/04/04/apple-is-sorry-about-the-mac-pro/)" the design of the Mac Pro, and that to "meet the future needs of Mac Pro buyers who want upgradability and expandability," the company will deliver a next-generation product down the road.
+
+According to Schiller, the new Mac Pro will have a modular design that lets users mix and match their own processors, graphics cards, and other components, and it will also come with a new display. The Mac Pro still on sale finally got a minor refresh, focused mainly on the CPU and GPU; the exterior and ports remain unchanged.
+
+![Schiller said desktops account for only 20% of Mac sales, and the Mac Pro's share is in the "single digits." Image/The Verge](http://img.qdaily.com/uploads/2017041304263918MKButOfZarwPnE.jpg-w600)
+
+What makes this unusual is that Apple says the new product will arrive "[not this year](http://daringfireball.net/2017/04/the_mac_pro_lives)." Right — Apple can't even say for sure that it will arrive next year.
+
+Thom Holwerda, an editor at OS News who attended the event, citing people familiar with the matter, said the decision on the new Mac Pro project was made only a few weeks ago. And it won't arrive until [2019](http://www.osnews.com/story/29755/Some_notes_regarding_the_new_Mac_Pro) at the earliest.
+
+This is the first time since Steve Jobs returned to Apple 20 years ago that the company has announced a product it can't ship within a year.
+
+As a rule, Apple — famously rigorous about secrecy — rarely announces new products in advance. Doing so makes users reluctant to buy the products currently on sale, and it deflates the excitement of a product launch.
+
+The only two exceptions were the first-generation iPhone, unveiled at a launch event six months before it went on sale, and the Apple Watch, which arrived seven months after its announcement.
+
+Even so, that is a far cry from the Mac Pro situation — when the iPhone and Apple Watch were announced, they already had complete product designs, working engineering prototypes, renderings, and ad films; the announcements were meant to ensure that Apple would be the first to tell you what its new product looked like. This time, we can't even see a single design drawing of the new Mac.
+
+The second unusual thing: Apple apologized to the outside world over a product problem.
+
+At the media event, Schiller said: "The Mac has an important and long-term future in Apple's roadmap... We're sorry for the pause in upgrades and updates."
+
+Apple also almost never publicly admits a product has problems. The last time this happened was in 2012, when the just-launched Apple Maps app suffered all kinds of bizarre glitches and in many cases simply didn't work. Tim Cook eventually published an open letter apologizing and suggesting users switch to other maps.
+
+The most direct causes of this seemingly ad-hoc, rushed adjustment are the Mac's slow update cadence in recent years and the negative reaction to the ports on last year's new MacBook Pro.
+
+Now, these two unusual moves send a new signal: the Mac, which had been demoted to a less important position, is once again receiving unusual attention — even though more than 60% of Apple's current revenue comes from the iPhone.
+
+Is this the right decision?
+
+### Apple's attitude toward the Mac has swung a full 180 degrees
+
+In recent years, Apple has been steadily lowering the priority of the Mac product line.
+
+Before last year's MacBook Pro update, the line had gone three years without an update; the MacBook Air's design hadn't changed since 2010, and it didn't get an upgrade last year either. Not to mention a marginalized product like the Mac mini.
+
+MacRumors, a news site that tracks Apple products, has a ["buyer's guide" section](https://buyersguide.macrumors.com/#Mac) that rates the six Mac product lines currently on sale: only one — the Mac Pro, which just received the minor refresh — is rated "buy now." Four are rated "don't buy."
+
+The reason the rest aren't recommended is mainly that their last updates came too long ago.
+
+How many days has it been since each Mac product was last upgraded?
+
+168 days
+
+MacBook Pro
+
+359 days
+
+MacBook
+
+548 days
+
+iMac
+
+766 days
+
+MacBook Air
+
+910 days
+
+Mac mini
+
+Users have every reason to suspect Apple plans to abandon the Mac.
+
+Even before the MacBook Pro's big 2016 refresh, it didn't get a CPU upgrade every year, even though Intel rolled out new processor generations annually. From 2012 to 2014, the most expensive 15-inch MacBook Pro kept using the same graphics processor.
+
+As for the MacBook Air — the mid-range product that once drove years of Mac growth — its exterior has been completely unchanged since 2010, and its last processor upgrade was back in [2015](https://www.newmobilelife.com/2016/04/19/macbook-air-2016/); the only other changes were USB 3.0 and more memory, and the screen still lacks a Retina display. It looks more like Apple changed a few parts as a byproduct of consolidating component purchases to cut costs.
+
+The worst off, of course, is the Mac Pro, which targets the high-performance personal computer market. When the product launched in 2013, its sleek cylindrical design drew cheers. A common refrain at the time was that Apple without Jobs could no longer innovate — the evidence being that Samsung had big-screen phones while Apple stuck with the tiny 5 and 5s. On stage, before hundreds of members of the media, Schiller said, "Can't innovate my ass!"
+
+But after that launch, the most powerful computer in the Mac family never received another upgrade. As Intel released generation after generation of new processors, Apple's website kept selling a Mac Pro whose specs were three years out of date.
+
+Ben Evans, a well-known technology analyst and partner at the venture capital firm a16z, commented after the Mac event at the end of last year that the Mac Pro didn't just look like a trash can — by now, it actually was a trash can.
+
+Judging by financial performance, the Mac's importance has also been declining year by year.
+
+Over the past year, the Mac brought in only 10% of Apple's total revenue — one-sixth of the iPhone's. Six years ago, the Mac product line could still sustain sales growth of over 30%; now it is shrinking.
+
+![](http://img.qdaily.com/uploads/20170413042131GxU4EboVX8Y0KzIA.png-w600)
+
+![](http://img.qdaily.com/uploads/20170413042146dt9o2MwgYKLZGuXS.png-w600)
+
+Compared with iPhone users, Mac users also keep their devices longer. Schiller said the Mac currently has "close to 100 million" active users.
+
+But Apple sold only 18.48 million Macs last year. In other words, users replace a device only once every 5.4 years on average.
+
+According to a [Citibank](http://uk.businessinsider.com/iphone-8-launch-apple-sales-2017-4) report, iPhone users' replacement cycles are lengthening, but for now still stand at 2.6 years.
+
+What's worse, Apple's positioning of the "productivity tool" is shifting to the iPad. Apple added a keyboard and a stylus to the large-screen iPad Pro, and Cook said with it you "don't need a computer anymore."
+
+And now the Mac's importance is back. In [December, Cook said](http://www.businessinsider.com/apple-ceo-tim-cooks-answer-about-the-mac-doesnt-mention-mac-2016-12): "There are always some people in the media questioning whether we'll keep making desktops. If anyone still has doubts about this, I can tell you clearly: desktops are still in our product roadmap. No one should question that."
+
+But the personal computer market as a whole has changed.
+
+### The PC market itself is no longer growing, and users are willing to spend less and less on computers
+
+This is not a market that keeps growing. Worldwide PC shipments have [declined for five consecutive years](http://www.gartner.com/newsroom/id/3568420). Meanwhile, most of the computers sold are cheap, low-end products.
+
+Judging from global average selling prices, computers keep getting cheaper — that's the business of traditional PC makers like HP, Dell, and Lenovo. According to [IDC](https://9to5mac.com/2017/04/11/mac-sales-idc-pc-industry-rebound/) statistics for the first three months of this year, Apple ranked fifth in shipments; the top four — Lenovo, HP, Dell, and Asus — together accounted for more than 60% of the entire market's shipments. HP, meanwhile, still grew 13% during those three months.
+
+![](http://img.qdaily.com/uploads/20170413042953Wc30ClHNjSk9tG5E.jpg-w600)
+
+![](http://img.qdaily.com/uploads/20170413042456KcCz53XW7E6yR1nw.jpg-w600)
+
+Even so, there are certain areas that can't do without computers.
+
+As smartphones take over more and more everyday tasks, the personal computer is primarily an office device. The commercial market — the computers you see in offices and service venues — is still growing. [Reports from Gartner and IDC](http://www.businesswire.com/news/home/20170411006238/en/Gartner-Worldwide-PC-Shipments-Declined-2.4-Percent) say consumer and commercial PCs are trading places, even though the overall market is shrinking.
+
+Microsoft announced last year that more than 85% of the global Fortune 500 use Microsoft's Office suite, with more than [1.2 billion](http://www.199it.com/archives/457737.html) users including mobile — more than the number of existing iPhone users.
+
+That enormous number probably won't shrink anytime soon. Walk into almost any company and you'll see rows of computers. Work that requires heavy keyboard input won't switch to tablets any time soon.
+
+But for most users, they are just tools for typing text and tweaking spreadsheets. Open it during work hours; when you're off, toss it as far away as you can.
+
+These computers are like the digital calculators or filing folders of old. Everyone has to use them, but few people love them, and neither companies nor users themselves are willing to spend much on them. Every computer can be used for many years, which is a direct cause of the PC market's stagnation.
+
+In 2010, with the launch of the redesigned MacBook Air, the Mac was for a time an exceptionally good-value computer. For roughly three years, even setting aside brand and looks, no Windows PC could match the Air on the combined merits of price, performance, weight, battery life, and reliability.
+
+In fact, because they had neglected design for years and merely swapped components along with Microsoft and Intel, the vast majority of so-called ultrabooks fell short of the Air on every one of those points.
+
+![The 13-inch MacBook Air released in 2010. Image/[Anandtech](http://images.anandtech.com/reviews/mac/macbookair2011/DSC_4301.jpg)](http://img.qdaily.com/uploads/20170413045117CktUW6VFgX83jfub.jpg-w600)
+
+![The ThinkPad X201 released in 2010. Image/[Notebook Review](http://www.notebookreview.com/notebookreview/lenovo-thinkpad-x201-review/)](http://img.qdaily.com/uploads/201704130505070KQxopgv5UyNZ6VF.jpg-w600)
+
+- [13-inch MacBook Air](https://support.apple.com/kb/SP618?locale=zh_CN&viewlocale=zh_TW): 1.7 cm thick, weighs 1.32 kg, 13-inch screen, 1440 x 900 resolution, retail price US$1,299.
+- [ThinkPad X201](http://www.notebookreview.com/notebookreview/lenovo-thinkpad-x201-review/): 3.5 cm thick, weighs 1.6 kg, 12.1-inch screen, 1280 x 800 resolution, retail price US$1,625.
+
+But that's history. Today's PC makers have relearned design.
+
+Before Apple's late-2016 refresh, machines like the Lenovo ThinkPad X1, Dell XPS 13, and HP Spectre offered more compact designs and better performance at lower prices.
+
+![The ultra-thin Spectre laptop HP introduced in 2016. Image/[Engadget](http://cn.engadget.com/2016/04/05/hp-spectre-13-3/#/)](http://img.qdaily.com/uploads/201704130508541fBD5v4cysXEFYL0.jpg-w600)
+
+![](http://img.qdaily.com/uploads/20170413050857pOfiBb8oGHFznJm4.jpg-w600)
+
+- [13.3-inch HP Spectre](http://cn.engadget.com/2016/04/05/hp-spectre-13-3/#/): 1.04 cm thick, weighs 1.11 kg, 13.3-inch screen, 1920×1080 resolution, retail price US$1,170.
+
+If not for Apple's brand, design, or macOS X, users no longer have much reason to choose the Air, and need some extra motivation to buy the Pro — most people have always used Windows and never developed the habit of using macOS.
+
+Unlike a phone that's with you 24 hours a day, seven days a week, most people won't pay more for marginal improvements in an office device.
+
+Compare HP's current flagship, the Spectre: with similar specs, it's nearly half the price of the MacBook Pro.
+
+If the 2010 MacBook Air couldn't persuade most people to switch to the Mac, today it will only be harder to win over more office users.
+
+Over the past year, among the top five PC makers, only HP — riding its enterprise business — achieved 20% growth. All the others, including Apple, posted declines.
+
+The education market, once dominated by Apple in Europe and the US, is now wavering too.
+
+The product with the most momentum now is the Chromebook. Google licenses Chrome OS, which runs in the cloud, to PC makers, and its biggest advantages are that it's cheap and easy to deploy at scale.
+
+Chromebook sales in the education market [had already surpassed the Mac](https://thejournal.com/articles/2017/03/03/chromebooks-surge-in-schools-as-apple-slides.aspx) by mid-2015. By 2016, more than half of the US K–12 (kindergarten through 12th grade) education market was Chrome — mainly because it's cheap.
+
+### The users still willing to spend big on a personal computer are mostly already Apple users; the Mac's market won't get much bigger
+
+One of the very few PC categories still growing is gaming PCs.
+
+According to [JPR's 2016 statistics](https://arstechnica.com/gaming/2017/01/as-pc-sales-shrink-the-gaming-pc-market-grows-faster-than-expected/), gamers in the Asia-Pacific region are increasing their spending on gaming PC hardware by more than 6% a year. Meanwhile, the share of low-end products is shrinking while the high-end share is rising.
+
+Gamers want better-performing CPUs and GPUs, and ideally customizable hardware. The Mac has long refused to offer these, and most performance-demanding games no longer support the Mac either. This has already left players with the impression that you can't game on a Mac, and reversing that impression will be hard.
+
+Besides, it's not a big market. In 2016, total gaming laptop shipments amounted to just [4.5 million units](http://www.199it.com/archives/563788.html), less than 3% of all laptops. This is not a market big enough for Apple to care about.
+
+One group may have stronger demand for the Mac: software engineers. According to figures from last year's WWDC developers conference, there are 13 million iOS developers alone. And they are already Mac supporters.
+
+Software engineers are one of the few groups who genuinely love their work computers. Today, in almost any internet company — even Google, Apple's longtime competitor — you'll see whole tables of Macs. Moreover, Apple only offers iOS app development tools on the Mac, and working around that restriction is a hassle.
+
+Because the iPhone captured the top 20% of consumers, internet companies tend to develop iPhone apps first. As long as this stays the same, the Mac can hold on to the software developer crowd.
+
+As for the other professions that have long followed Apple — designers and the publishing industry — their numbers are much smaller. [Adobe's software users number around 12.8 million](https://www.cnet.com/news/how-greedy-is-adobes-creative-cloud-subscription-not-very/), and many of them are Windows users.
+
+Unless Cook is willing to give up his pursuit of high margins, the market left for the Mac is mainly developers and designers, plus the few people still willing to spend big on a personal computer.
+
+This market will not get bigger.
+
+### For the Mac's most loyal users, Apple's problem may be that it's overthinking it
+
+The fact that the new Mac Pro won't arrive for at least another two years also suggests, from one angle, that the design and engineering teams may genuinely be overstretched.
+
+Chief Design Officer Jony Ive's industrial design team has led the design of all Apple hardware products over the past 20 years. The team is famously small — just over 20 people — yet it is responsible for the industrial design of every Apple product line.
+
+This also means the team's workload is limited. Looking back at the major design updates of Apple products over the past decade, you'll see a two-year cycle: in most cases, each Apple product line gets only one significant update.
+
+Take 2010, the last year Jobs was still active: nearly the entire Apple lineup got major industrial design adjustments — as if they had been rushed to arrive while he could still see them. But in 2011, apart from the iPad 2, all other Apple products kept the previous year's designs.
+
+![The chart covers products with major changes in appearance; minor upgrades such as memory or processor bumps are not included](http://img.qdaily.com/uploads/20170413052134UjVKLctoCW3OFBrd.jpg-w600)
+
+Now, beyond the four major product lines — phone, watch, tablet, and computer — the design team has even more on its plate: cars, the Apple Store, Apple Park... It even produced a design book that sells for thousands of yuan, and all kinds of design details in the new-generation Apple Stores (including the planters used to grow trees).
+
+It must be said that for such a small team to squeeze out time to adjust Mac designs and deliver the Touch Bar MacBook Pro was already hard.
+
+But the recent friction shows that Apple's most core user base — developers — doesn't like the Touch Bar, and doesn't like desktops that don't improve performance.
+
+John Siracusa, a well-known tech blogger who has written Mac OS reviews for 15 years, said on a recent show: "Improving performance isn't boring." He believes the closer Apple's new Mac Pro gets to the old tower-chassis design — the kind of case you use when building your own PC, which is what the Mac Pro looked like before 2013 — the better it will serve users' needs.
+
+But Apple cares more about whether there's a breakthrough in exterior design, and would rather sacrifice performance for such a breakthrough. The two sides define "boring" rather differently.
+
+Now, when Apple talks again about valuing the Mac, what it talks about is still readjusting the Mac Pro's design — say, using a new modular design.
+
+Maybe Apple will deliver a design that suits developers — but can Ive then endure the boredom, stop fiddling with the looks, and honestly improve performance every year?
+
+Or will Apple fall back into its old rhythm — one big upgrade every three years, then nothing? If so, Apple will eventually lose the Mac's most loyal user base.
+
+### Finally, Apple doesn't seem to have figured out what the future of the personal computer is
+
+Regarding the future of the personal computer, Apple once appeared to have a plan to replace the Mac with the iPad.
+
+In an earlier interview with CBS's *60 Minutes*, Schiller explained that each time Apple launches a new product, the goal is to replace as much as possible of the previous form factor's functions.
+
+For example, the Apple Watch means you look at your watch less. The iPhone means you need the iPad less. The MacBook means you no longer need a desktop.
+
+Taking over everyday office work is the iPad's job. That is also the personal computer's biggest use case.
+
+[In Schiller's words](https://www.aboveavalon.com/notes/2016/11/4/apple-is-placing-a-big-bet-with-the-new-macbook-pro): "The iPad's job is to become so powerful that you never need a laptop anymore. Hey, why do I need a laptop? I can just add a keyboard to it! You can do everything."
+
+At the same time, Apple is turning the iPad into the new productivity tool. After the iPad Pro launched in 2015, Apple [called it a "computer" outright in an ad](http://www.qdaily.com/articles/31114.html).
+
+The iPad Pro's screen has reached 12.9 inches, bigger than most Macs; with a keyboard and stylus attached, it's almost like a laptop.
+
+What Apple now pushes first to the education market is no longer the Mac but the iPad. It has developed iOS apps that teach kids to code, and offers schools complete solutions and discounts.
+
+Once the younger generation, who grew up using touchscreen phones, comes of age, having them work directly on a tablet seems only natural. No one would need to explain why the operating system has to differ from a phone's, or why the screen can't be touched.
+
+But Apple has been hesitant about making the iPad the next generation of the personal computer.
+
+The 12.9-inch iPad Pro, launched in late 2015, has not been updated to this day. The new iPads Apple has released include a cheaper 9.7-inch iPad Pro with a smaller screen that is therefore even less suited to office work, and a low-priced new iPad that doesn't support the stylus and has no matching keyboard.
+
+On the software side, last year's iOS 10 made almost no progress in improving the iPad's office productivity.
+
+Just as it released a generation of Macs and then left them alone, Apple seems to have the same attitude toward the iPad Pro.
+
+In the early 1980s, a personal computer meant typing commands line by line. Anyone who used DOS knows what that experience was like. Everything was done with the keyboard.
+
+In 1984, Apple launched the Macintosh with a built-in mouse — a breakthrough in human-computer interaction.
+
+The expensive Mac changed the habits of a tiny sliver of users and got people starting to accept the mouse. Changing the habits of more users was ultimately accomplished by Microsoft.
+
+Microsoft launched the Windows 1.0 operating system in 1985 to poor reception. Versions 2.0 and 3.0 after it also flopped. Through repeated failures and improvements, Microsoft finally released Windows 95. Starting in 1995, the mouse became the standard control device for personal computers. After that, the whole world grew used to dragging a mouse across a simple, intuitive interface.
+
+From figuring out that the mouse and the graphical interface mattered to getting everyone to accept them, it took Apple and Microsoft 11 years of effort.
+
+Now, whether Apple tries to reform on the basis of the Mac or to push the touchscreen iPad as the next generation of the personal computer, neither effort has lasted more than two years before stalling.
+
+To change the work habits of hundreds of millions of people, that is not enough.
+
+Graphics: Feng Xiuxia
+
+Cover image from Pixabay
