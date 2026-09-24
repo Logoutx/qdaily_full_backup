@@ -1,0 +1,184 @@
+@@QD_TITLE@@
+Fined over fake-drug ads, now moving into healthcare — what has Google been doing to prepare?
+@@QD_EXCERPT@@
+Ten years ago, Google's relationship with healthcare amounted to selling ads — many of them fake.
+@@QD_BODY@@
+Ten years ago, Google's relationship with healthcare amounted to selling ads — many of them fake.
+
+Last week, French pharmaceutical giant [Sanofi announced](http://www.qdaily.com/articles/32138.html) that it would form a joint venture with Verily, the life-sciences company under Alphabet. Each side is putting in $250 million to develop diagnostics and therapies for type 2 diabetes.
+
+Verily began as a medical-technology team inside Google. After Google reorganized into Alphabet last year, it became an independent company, and announced a joint venture with Johnson & Johnson to develop surgical robots.
+
+Just last month, Verily also formed a joint venture with [GlaxoSmithKline](http://www.qdaily.com/articles/30431.html), one of the world's three largest pharmaceutical companies, to create Galvani Bioelectronics, which will develop miniature devices and drugs that can be implanted in the human body and treat a range of chronic diseases by altering the electrical signals between the nervous system and bodily tissues.
+
+Google's past healthcare-related news often bordered on science fiction — contact lenses that monitor diabetes, new technologies to extend lifespan. You can find similar novelties in the research labs of all sorts of venerable tech companies; they sound futuristic, but practical application remains a long way off.
+
+But these three joint ventures are different. Each time, Google and a top pharmaceutical giant jointly commit hundreds of millions of dollars; each time, the ownership split is 50:50 or 40:60; each time, the target is a major market in healthcare — diabetes, the diagnosis and treatment of neurological diseases, and medical devices.
+
+Google, the tech giant that derives more than 90% of its revenue from advertising, appears to have genuinely entered the healthcare industry.
+
+![](http://img.qdaily.com/uploads/20160920213158o3mpDB1GaTUsikXY.jpg-w600)
+
+### At first, Google was no better at healthcare than Baidu
+
+At the earliest stage, Google's connection to the healthcare industry was its search-advertising business. Ads for medicine, insurance, and health supplements have long been a main source of Google's online advertising revenue.
+
+Like Baidu, Google's medical ads were once riddled with false information.
+
+In 2003, Google faced investigative inquiries from three different committees of the U.S. Congress over online pharmaceutical advertising. But as with Baidu's response after its scandal broke, Google put some mechanisms in place, and the false medical ads did not go away.
+
+Not until 2009. The U.S. Federal Bureau of Investigation (FBI) [ran a sting](http://www.tmtpost.com/1706559.html), sending a counterfeit-drug dealer to place fake medical ads on Google. And a Google ad salesperson assigned him a dedicated account manager, teaching him how to get around Google's own filtering mechanisms.
+
+In the end, Google paid a $500 million price for it and [acknowledged the problems with its medical ads](http://www.qdaily.com/app/articles/webview?article_id=20575). From then on, Google rewrote its ad-placement rules, and under those standards reviewed and purged ads. Over the following year, Google took down 130 million false ads.
+
+![A [Wall Street Journal](http://www.wsj.com/articles/SB10001424052970204624204577176964003660658) report on Google's fine over medical ads](http://img.qdaily.com/uploads/20160921050842PtH64kTdYVagpwvQ.png-w600)
+
+Today, if you open Google and search a medical term, the results clearly mark "Ad" in a prominent yellow box, reminding users that it is an advertisement. On the entire search page, the most recognizable element is that yellow ad label. Inside Google, a team of a thousand people is dedicated solely to removing non-compliant ads.
+
+Revenue from medical ads has shrunk, but the number of people going to Google to search for health information has not. By Google's own count, in 2010 alone, 100 million people in the United States made 4.6 billion related searches.
+
+### What Google did next wasn't so different from Microsoft either
+
+Once medical ads became harder business, Google began trying to help doctors and hospitals move diagnosis and treatment online. In 2008, Google launched Google Health, a personal medical-records management service.
+
+Google Wave, unveiled at the Google I/O developer conference that same year, was once applied to electronic medical-record management in the United States; later came Google Helpouts, an online-consultation service, a general advisory platform where users could ask medical questions via video chat.
+
+In February 2014, Google also reached a partnership with diagnostics company Quest Diagnostics, under which more than 100,000 doctors on the platform would provide users with diagnostic-testing information.
+
+All of these attempts were tech companies lending support to doctors and hospitals in the areas they knew well — data management and online Q&A — much like the IT department of a hospital.
+
+But these timid efforts ultimately came to nothing: they didn't change how people see doctors, and they generated no meaningful revenue for Google.
+
+"After the initial attempts failed, tech companies became more cautious about claiming they would completely transform the healthcare industry with digital solutions," Bertalan Mesko, author of *The Guide to the Future of Medicine* (《颠覆性医疗革命》), told QDaily. "I think they've realized this is a far more complicated industry than they imagined."
+
+### Google's serious healthcare efforts began with investment
+
+In 2007, Google invested in 23andMe, the consumer genetic-sequencing company that [Anne Wojcicki](https://www.entrepreneur.com/article/237732) had just founded. It was also Google's first healthcare-related investment.
+
+Google's relationship with 23andMe was not an ordinary one — Wojcicki is the ex-wife of Google co-founder Sergey Brin, and the two were still married at the time of the investment.
+
+The company sold DNA tests for $99 a pop: you buy its testing kit, spit 5 ml of saliva into it and mail it back, and after a while you receive a report listing your genetic-disease risks.
+
+Back then, genetic testing was still a distant, expensive thing for ordinary people. As the world's first low-cost genetic-testing product, 23andMe became a sensation in the United States; doctors and founders went on the evening programs of major TV networks to introduce this product that had once belonged to the world of science fiction.
+
+But at the same time, what 23andMe was doing proved less simple than it had first thought. In 2013, the U.S. Food and Drug Administration barred 23andMe from using its test results for medical diagnosis. It took another two years before 23andMe was approved to offer genetic sequencing for Bloom syndrome, a rare genetic disorder.
+
+23andMe's story roughly captures the style of Google's later investments: hire large numbers of researchers, focus on frontier technology, and face enormous challenges to clinical use.
+
+More investments began in 2009, when Google set up an independent venture-capital arm, Google Ventures.
+
+When GV was founded, Google's CEO Larry Page brought in investor Bill Maris. Maris had done neuroscience research at Duke University and, after graduating, moved into biotechnology and health-related investing.
+
+GV has long operated independently of Google, receiving $300–500 million a year from Google to allocate freely across investments. Life sciences, healthcare, and artificial intelligence are among GV's most important investment areas. Two of its four core partners are in charge of life sciences and healthcare.
+
+Since its founding, GV has invested in more than 350 companies, over 100 of them healthcare-related. GV's healthcare investing focuses mainly on frontier fields such as genetics and cancer, or on helping the healthcare industry process massive amounts of data. Cancer big-data analytics company Flatiron Health and DNA cloud database DNAnexus are typical examples.
+
+Over seven years, GV has become one of Silicon Valley's most successful venture-capital firms. [A CB Insights report](https://www.cbinsights.com/blog/brain-scans-pacemakers-72-medical-device-startups-market-map-2016/?utm_source=CB+Insights+Newsletter&utm_campaign=41ebb0a064-ThursNL_9_15_2016&utm_medium=email&utm_term=0_9dc0513989-41ebb0a064-87158569) shows that, measured by number of successful exits, GV has become the corporate venture arm second only to Intel Capital.
+
+Uber, the workplace-collaboration social software Slack, and the e-commerce site Jet.com — acquired by Walmart for $3 billion — are all companies GV has backed.
+
+But for Google, the bigger significance is that GV has become an authority on healthcare-technology investing.
+
+This year, blood-testing startup Theranos was exposed for faking its technology, and its valuation evaporated overnight from $9 billion to zero.
+
+Afterward, when media outlets such as The New York Times looked back on the Theranos affair, they cited GV's two rejections of Theranos as one of the early warning signs.
+
+Getting a GV investment has become a way for up-and-coming healthcare-technology startups to earn validation. On one hand, this has brought GV itself many investment opportunities; on the other, it has helped Google identify suitable acquisition targets. Some of the acquired companies later became the core of Google's own healthcare teams.
+
+![A smart spoon developed for Alzheimer's patients; the team, Lift Lab, first received investment from Google Ventures and was later acquired by Google](http://img.qdaily.com/uploads/20160921060618gxqUARpZrj9i5uGB.jpg-w600)
+
+### Google also started doing healthcare in-house, in the most traditional way
+
+At roughly the same time that Google Ventures was established, Google began preparing a secretive lab inside the company, Google X — the birthplace of Google Glass and the self-driving car.
+
+2007
+
+Google invests in 23andMe; the investment is led by Google's venture-capital arm
+
+2009
+
+Google establishes a separate venture-capital arm, Google Ventures (GV)
+
+2010
+
+The Google X lab begins preparations
+
+2014
+
+Google X announces a series of frontier projects: glucose-monitoring contact lenses, nanoparticle cancer-fighting robots, and the Baseline Study research project to build a genetic-information database of healthy humans
+
+2015.8
+
+Google splits and reorganizes; its life-sciences division Life Sciences and its secretive-projects lab Google X are both spun off as independent subsidiaries of Alphabet
+
+2015.12
+
+Life Sciences is renamed Verily
+
+2015.12
+
+Verily forms a joint venture with Johnson & Johnson
+
+2016.8
+
+Verily forms a joint venture with GlaxoSmithKline
+
+2016.9
+
+Verily announces it will form a joint venture with Sanofi
+
+Jessica Mega was a renowned cardiologist at Brigham and Women's Hospital and Harvard Medical School. Mega says she never imagined working anywhere outside a hospital as part of her career plan. But recently, she joined Google's life-sciences company Verily as chief medical officer.
+
+Earlier, while running Brigham and Women's genetics lab, Mega realized that progress in genetics depended on large-scale data analysis, and she turned to friends working at Google, asking them to help organize massive amounts of genetic information effectively.
+
+This is also the most common form of research collaboration between Google and medical institutions. Like other tech companies do for medical institutions, Google provides computing-technology support and conducts joint research with universities such as Stanford, Duke, and Harvard.
+
+Quite a few projects were simply absorbed into Google.
+
+![Prototype of the glucose-monitoring contact lens](http://img.qdaily.com/uploads/20160921055842OUkdWp5G8HhePrMD.jpg-w600)
+
+The Google X lab's glucose-monitoring contact lens project originally grew out of [a collaboration between Microsoft and the University of Washington](http://www.geekwire.com/2014/googles-new-smart-contact-lens-project-began-uw-help-microsoft/). In the end, the project's research team joined Google X. "At a university you can take this research into the academic realm, but at Google we have the opportunity to be backed," explained co-founder Brian Otis.
+
+![Andrew Conrad](http://img.qdaily.com/uploads/20160921054509LPsiTu8NnJX3R10d.jpg-w600)
+
+In 2013, Google X brought in the legendary medical figure Andrew Conrad, who had once led the development of a serum-based HIV test — which became the origin of Baseline Study, one of Google X's important projects.
+
+The plan for the whole project is to collect the genes and information of healthy people and ultimately use the data to define a complete picture of a healthy human, to be used to prevent potential disease risks. As the sample base grows in the future, the research team will use this data to redefine what a "healthy human" is.
+
+In his 19 months at Google X, Conrad assembled a team of more than a hundred scientists to work on the anticancer-nanoparticle-robot project: a pill containing magnetic nanoparticles that, once swallowed, enters the bloodstream, and paired with corresponding wearable devices, can detect and relay the body's health data as it flows with the blood.
+
+Like the earlier university-collaboration research projects, this Tircorder project brought in researchers from MIT, Stanford, and Duke to complete it.
+
+In an interview with [Steven Levy](https://backchannel.com/were-hoping-to-build-the-tricorder-12e1822e5e6a#.vihifx4wd), author of *Google: Disruptive Innovation* (《Google：颠覆式创新》), Conrad explained why he chose Google rather than doing this at a university: "Anywhere else, these things might take twenty years to accomplish."
+
+The glucose-monitoring contact lens is the best known of these. At the time, Google X announced a partnership with Novartis to commercialize the smart contact lens, embedding a microsensor thinner than a strand of hair between two layers of the lens, using tear fluid to monitor the body's blood-glucose levels in real time.
+
+All of these projects have recently been reported to be progressing slowly; R&D may be moving much more slowly than imagined.
+
+But as Conrad put it, "We have a million crazy ideas about what could happen to the human body, and putting pills inside humans still has a long journey ahead. But we think it's a matter of a few more years, not decades."
+
+After Google's full reorganization last August, a part of Google X — Life Sciences — was spun off as a separate subsidiary, Verily.
+
+Verily now brings together more than 150 chemists, biologists, and machine-learning and data-mining experts, with Andrew Conrad as CEO. Having become part of Google's "alphabet," he has positioned Verily as "moving beyond traditional medical technology."
+
+"The glucose-monitoring contact lens looks more like science fiction, but there are also rational investments, such as the partnerships with Johnson & Johnson and GlaxoSmithKline, and the spoon that helps Alzheimer's patients overcome tremors," Mesko said, summing up the team Conrad leads.
+
+### Most recently, Google's strength — artificial intelligence — has been applied to healthcare too
+
+Another Alphabet subsidiary actively collaborating with medical institutions is the artificial-intelligence company DeepMind — the one that plays Go.
+
+Recently, it announced its latest collaboration with the UK's National Health Service: working with Moorfields Eye Hospital in London to have artificial intelligence help doctors diagnose and prevent eye diseases.
+
+In a research project announced a few months earlier, DeepMind also obtained access to the medical-record data of 1.6 million London patients.
+
+DeepMind's research project lets tech companies and medical institutions make up for each other's shortcomings: humans cannot process such fine-grained data quickly, but machines can; and machines don't know what the data means, but researchers can teach them to distinguish what the anomalies signify.
+
+This is also the most important advantage in Google's partnerships with healthcare companies — applying data-processing technology and models to an industry that previously could not process data at scale. Healthcare has reached the point where it needs artificial intelligence, and Google happens to be one of the largest AI companies in the world.
+
+Google's engineers taught AlphaGo to play Go; at the same time, they are also teaching artificial intelligence to read X-rays, to learn the experience doctors need years of study to acquire.
+
+This is not an application Google invented. Dozens of AI startups that have received funding are currently trying to teach machines to diagnose disease. What they are doing is more or less the same: not replacing senior doctors, but freeing doctors from simple, repetitive routine diagnosis so they can do work that demands more intellect and experience.
+
+Seven years, hundreds of investments, and teams of over a thousand people. Google, which once operated in the healthcare business at roughly Baidu's level, is finally truly entering this industry.
+
+Cover image from gv.com, The Next Web

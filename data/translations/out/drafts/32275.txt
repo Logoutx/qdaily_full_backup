@@ -1,0 +1,129 @@
+@@QD_TITLE@@
+Not Wanting to Be the Next Nokia, Carmakers Long Used to Outsourcing Are Now Developing Self-Driving Cars Themselves
+@@QD_EXCERPT@@
+Carmakers haven't invested this heavily in new technology for two or three decades.
+@@QD_BODY@@
+Carmakers haven't invested this heavily in new technology for two or three decades.
+
+On September 12, an industrial park west of Detroit sprang to life. Ten white Ford Fusions (called the Mondeo in China) shuttled back and forth along the roads inside the park.
+
+A Ford employee sat in the driver's seat of each car, but they did nothing more than sit there the whole time, watching the steering wheel in front of them turn on its own while chatting with the passengers in the back. After a trip of roughly one kilometer, the car returned to the starting point, picked up a new set of passengers, and the cycle repeated.
+
+This was the [first time Ford opened the experience to the public](http://www.qdaily.com/articles/32229.html) since it unveiled the Fusion self-driving prototype in 2014. This week, hundreds of journalists, analysts, and industry guests invited by Ford from around the world rode in these white Fusions.
+
+In a speech that morning, Ford CEO Mark Fields announced the company's self-driving timeline: by 2025, self-driving Fords will be in consumers' hands.
+
+![The Ford Fusion's roof carries four 32-channel rotating Velodyne lidar units](http://img.qdaily.com/uploads/201609180010383XDS6lRt5ZPFpI1U.jpg-w600)
+
+The Fusion prototypes used at the event looked much like the Mondeo you might see parked along a roadside, except for the four cylinders on the roof. They are lidar units made by Velodyne; while driving, each cylinder fires 32 beams of laser light in every direction, and judges the surrounding scene from how long the light takes to bounce back.
+
+Raj Nair, Ford's head of self-driving car R&D, said lidar is one of the technologies essential to guaranteeing autonomous driving safety. Google's self-driving cars also use this company's products.
+
+To secure this essential technology, [Ford took a direct equity stake in Velodyne](http://spectrum.ieee.org/cars-that-think/transportation/sensors/ford-and-baidu-invest-150-million-in-velodyne-for-affordable-automotive-lidar). Last month, the lidar technology company received its first outside investment since its founding, worth US$150 million, led by Ford and Baidu.
+
+Ford did not disclose the other technologies used in these autonomous vehicles; most of the core components beyond the lidar are hidden away in the trunk.
+
+But you don't need to open the trunk to know which technologies Ford will use in 2025, assuming the plan goes smoothly. In less than six months, [Ford has already announced five investments related to autonomous driving technology](https://www.crunchbase.com/organization/ford).
+
+- In May, Pivotal Software, which makes companion software for in-car infotainment systems.
+- In July, Civil Maps, an HD map for cars to "see."
+- In August, besides Velodyne, Ford also invested in SAIPS, which specializes in machine-learning algorithms and computer-vision analysis.
+- In September, Chariot, a commuter carpooling service.
+
+When a technology company enters a new industry, setting up a relatively independent team and making concentrated investments and acquisitions of new technology are standard practice.
+
+But Ford — and the auto industry as a whole — hasn't done this in two or three decades. Previously, the norm was to spin off component R&D and production and outsource it. The Ford investment news you've seen was more often about it acquiring other car brands, such as Jaguar and Aston Martin in the 1990s.
+
+### For decades, carmakers mostly outsourced technology R&D
+
+"We've vertically integrated ourselves — we're more like the old Ford than Ford is." In an earlier interview, Tesla CEO Elon Musk [compared what he had been doing lately to exactly that](http://www.bloomberg.com/news/articles/2013-07-16/tesla-ceo-musk-morphs-from-tony-stark-to-henry-ford).
+
+Tesla today designs its own battery management systems, sets its own battery standards, collects its own mapping data, and has even hired hardware engineers to develop chips for its autonomous driving system.
+
+It really does resemble the Ford of old. In the 1920s, Ford became the most influential carmaker in America on the strength of the Model T. Back then, Ford's control over car production and technology was far more complete than Tesla's is today.
+
+![Ford's River Rouge plant complex in the 1920s](http://img.qdaily.com/uploads/20160918003408EPFk8Ts4SqfWri63.jpg-w600)
+
+Besides its assembly plant in Highland Park, Ford owned a dense cluster of steel mills, engine plants, glass factories, tire factories and more along the River Rouge in western Detroit — [127 buildings in total](https://books.google.com.hk/books?id=ERZMbFjLM2UC&pg=PA21&lpg=PA21&dq=carmaker+dont+have+their+owner+supplier&source=bl&ots=NJ-Ahrc3Qw&sig=LlybWW5GZmL1FKYcsmzdRrvlg5g&hl=en&sa=X&ved=0ahUKEwif-PSIlpTPAhWDI5QKHXTbAgcQ6AEIIjAB#v=onepage&q=carmaker%20dont%20have%20their%20owner%20supplier&f=false). All of them belonged to Ford.
+
+Henry Ford even required parts suppliers to produce wicker crates for shipping car parts to his exact specifications. After unloading, these wooden crates would be dismantled into slats that became part of the car body itself. The leftover wood and sawdust from processing the slats was turned into Kingsford-brand charcoal. That company, too, was founded by the elder Ford, and it survives to this day.
+
+Today, never mind the crates used to ship parts — on many models Ford doesn't even fully control the core technologies that determine how its vehicles drive. Take its best-selling pickup in the US, the F-150 Raptor: the braking system is bought in from Bosch.
+
+When a parts supplier owns the technology IP, it can often raise its margins in deals with car companies. More and more of the auto industry's new technology is being born inside large parts makers like Bosch, Delphi, and ZF.
+
+In 2015, Bosch's sales reached [€70.6 billion](http://annual-report.bosch.com/home/), roughly 30% of the annual revenue of Toyota, the world's largest carmaker — more than Renault-Nissan, which ranked fourth in global vehicle sales that year.
+
+From having its own steel mills in the 1930s to not even fully controlling its powertrain today, the American auto industry's transformation was all about cutting costs.
+
+Rival Toyota, as early as after World War II, began steadily increasing the share of outsourced components. Founder Kiichiro Toyoda devised a model for managing outside suppliers, applying different strategies to standard parts and core components.
+
+For example, the Toyota Camry — a bestseller in the US in 2007 — had several hundred parts suppliers: the airbags came from Meian, the anti-lock braking system from Bosch, the pistons from Mahle.
+
+![Parts sourcing for the Toyota Camry](http://img.qdaily.com/uploads/20160918001252v7jOwoKVuRmz6nx9.png-w600)
+
+Starting in the 1990s, the American auto industry began wholesale imitation of this model. In 1999, GM spun off its components company Delphi. [GM chairman John F. Smith Jr. said at the time](http://www.wsj.com/articles/SB902170210360923500), "Making everything ourselves is no longer an advantage. We need to become a faster company, focused on the core business of building cars." A year later, Ford likewise spun off Visteon, which handled components production.
+
+If carmakers gradually gave up on powertrain technology, they never took in-car infotainment seriously to begin with. Ford's SYNC system was first developed with Microsoft, and its partner later switched to BlackBerry's QNX — for the most part Ford simply supplied product requirements, leaving implementation to software companies like Microsoft and BlackBerry.
+
+As for Apple CarPlay and Google Android Auto in everyone's new cars, even the user interface owners see every day is entirely decided by Apple and Google.
+
+### It's not just Ford: the major European and American carmakers are starting to do autonomous driving themselves
+
+Carmakers investing in ride-hailing apps or maps doesn't mean they've stopped pursuing cost savings. Ford also said this week it would [move production of its small cars from the US to Mexico](http://www.nbcnews.com/business/autos/ford-move-all-small-car-production-mexico-u-s-announces-n648226).
+
+Today, apart from a handful of companies investing in hydrogen and battery technology, most technology investments are aimed at self-driving.
+
+At CES, the global consumer electronics show held this past January, HERE Maps set up a tent of several hundred square meters outdoors. HERE was originally Nokia's digital mapping business, which since 2009 had provided navigation for Nokia phone users.
+
+In August the year before, Nokia — which had long since shed its phone business — sold the mapping unit to three luxury car brands: BMW, Mercedes-Benz, and Audi. But their €2.8 billion acquisition wasn't about selling in-car maps to drivers already accustomed to navigation software from internet companies like Google, Apple, and Amap.
+
+In HERE's booth at CES, most of the screens played demo animations about self-driving. In the words of staff on site, what the company is now selling is a map for cars to read.
+
+On the maps you normally use, the thinnest line might represent an alley. But a map custom-made for cars needs to know whether the line marking a lane is dashed or solid, and to recognize labels like "bus lane" or "restricted hours."
+
+A self-driving car needs more than maps: it needs lidar to see the road around it and AI algorithms to decide how to drive. Beyond Ford, GM, BMW, Mercedes-Benz, and Volkswagen have all set their sights on these new technologies.
+
+![](http://img.qdaily.com/uploads/20160918001319vCAdU09uKPBOLgzG.png-w600)
+
+[According to the latest data from CB Insights](https://www.cbinsights.com/blog/auto-corporates-investing-startups/), a research firm tracking investment and financing, GM, BMW, and Mercedes-Benz were the most active carmaker investors as of July this year.
+
+Beyond investing, companies like Ford and GM have also set up relatively independent internal teams to work on realizing self-driving technology. From 2010 to 2014, mainstream carmakers' R&D spending rose [67%](http://www.bloomberg.com/graphics/2016-merging-tech-and-cars/) to US$137 billion.
+
+### Why the rush? Carmakers are afraid of becoming the next phone industry
+
+It's not hard to imagine why car companies would rather give up all kinds of powertrain technology than lose the race for autonomous driving.
+
+For over a century, the auto industry has lured people into buying cars with advertising words like comfort, performance, and looks. But if the car drives itself, there's no more fun in driving it home, and the difference between buying a self-driving car and summoning an Uber or Didi shrinks considerably.
+
+Uber thinks so too. [Uber CEO Travis Kalanick once said](http://www.computerworld.com/article/2945817/telematics/uber-will-buy-all-the-self-driving-cars-that-tesla-can-build-in-2020.html) drivers are his biggest cost, and that if Tesla could build self-driving cars, he would buy every single one.
+
+But before long, Kalanick changed his mind and decided to master self-driving technology himself. Uber first poached 40% of the researchers from Carnegie Mellon University's autonomous driving lab. Then it struck a deal with Microsoft to take on the Bing Maps technical team.
+
+If Uber masters self-driving technology, it can pick carmakers with the right prices and mass-produce autonomous vehicles. The new cars wouldn't be sold to consumers — they'd immediately go out and start earning money as taxis.
+
+Once self-driving technology matures, the car business model may change. No more massive ad budgets in the hope that a consumer spends 100,000 to 200,000 yuan on a car in one go.
+
+Plenty of people will still buy cars, but a considerable share of vehicles will become on-demand services. And the makers of self-driving cars would no longer need to worry about whether their cars can be sold — every car built earns money every single day.
+
+If, by then, carmakers don't control self-driving technology themselves, they'll have to depend on technology companies. In the end, auto manufacturing would be nothing more than a slightly upgraded FIH Mobile.
+
+The phone industry is already a cautionary tale: Apple and Google remade the smartphone with their own operating systems. A few years later, Nokia, which made its own system, sold off its phone business, as did Motorola, which had followed Google.
+
+China has no shortage of phone makers, but 90% of the industry's hardware profits belong to a single company, Apple. And while Android is free, using it outside China means the cut from games, apps, and advertising on the phone all goes to Google.
+
+This is probably also why mainstream carmakers are all investing in self-driving, while Toyota, BMW, Volkswagen, and GM have each invested in car-sharing services. As long as a human is still behind the wheel, carmakers can't compete with Uber and Didi — the two companies have each signed up tens of millions of drivers. But if no one needs to drive, carmakers' odds of succeeding in services improve.
+
+Other technology companies are also vying with carmakers for the self-driving future. Tesla's semi-autonomous Autopilot system was the first on the road. Google has been testing since 2009, and Apple recently retooled its car project to focus on autonomous driving systems.
+
+The problems technology companies must solve are no small matter: Tesla has never managed to crack mass production. Google's and Apple's car projects are still years from realization, and their development teams are already in turmoil. A car really is a far more complex product than a phone.
+
+But the carmakers aren't much better off. Compared with technology companies, the traditional carmaker-supplier collaboration model moves too slowly. An all-new model generally takes five to eight years. Eight years was enough for the iPhone to take Apple from zero to the world's most valuable company and to put smartphones into the hands of billions of people.
+
+Investing in companies and building in-house teams means carmakers must change this rhythm and figure out self-driving technology on their own. For an auto industry that can't even get in-car infotainment right, that's no easy task either.
+
+"The impact of the self-driving car on society is like the assembly line Ford invented a hundred years ago." A month earlier, Ford CEO [Mark Fields said this into CNBC's cameras](http://www.nytimes.com/video/business/dealbook/100000004595586/ford-invests-in-self-driving-car.html?action=click&contentCollection=business&module=lede&region=caption&pgtype=article).
+
+The question now is: who will become this century's Ford the fastest?
+
+Cover image from Carkeys

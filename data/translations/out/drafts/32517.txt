@@ -1,0 +1,132 @@
+@@QD_TITLE@@
+“We’ve Been Racing Our Clients,” but Ad Agencies Have Lost Sight of How to Stay Half a Lap Ahead | What Changed the Advertising Industry ②
+@@QD_EXCERPT@@
+Ad agencies, whose core business is producing “creativity,” have entered an era of “product R&D.” What exactly are the “data” and “technology” everyone keeps talking about, and can the innovations agencies are pursuing preserve their say in consumer insight?
+@@QD_BODY@@
+Ad agencies, whose core business is producing “creativity,” have entered an era of “product R&D.” What exactly are the “data” and “technology” everyone keeps talking about, and can the innovations agencies are pursuing preserve their say in consumer insight?
+
+**The model the advertising industry has always run on — “clients” (Party A) set the brief, “agencies” (Party B) create the creative and place the media, covering target consumers as broadly and effectively as possible — is under enormous challenge.**
+
+**Never before have practitioners felt so confused and so unconfident about consumer insight — the very foundation and core of the entire industry.**
+
+**A more mobile life changed all of this. As consumers hop between screens and allocate their time and attention at will, the article of faith marketers lived by — “money follows the consumer” — has lost its bull’s-eye.**
+
+**That the era of TV advertising has definitively ended is close to industry consensus. But in the dizzyingly complex digital marketing environment, what actually constitutes the most effective marketing has, at least for now, no clear answer.**
+
+**The exploration began at least three years ago, but judging from what is happening and from our interviews, the anxiety has not dissipated. Every role along the industry chain, however, has changed fundamentally.**
+
+**Brands, which long left the production of marketing content to agencies, have begun building in-house teams and doing it themselves; agencies may have entered the most “R&D”-obsessed era in their history — setting up data labs, embracing incubation, building data-integration platforms; media outlets, which used to sell nothing but time and space, have been forced into creative work because advertisers demand content “in keeping with the media’s own tone and style”; and Facebook, the representative of social media, has suddenly found itself standing opposite Google……**
+
+**This is why we are running this series. In four articles, we will examine how each role in the advertising industry chain is changing and how each is rewriting the rules of the industry. This is the second article.**
+
+When Jin Jing joined Dentsu Aegis Network in 2014 as its chief information officer, the global advertising group had no clear digital targets. Now it plans to achieve a strategy of “100% digitalized operations” by 2020; the figure currently stands above 50%.
+
+Before joining Dentsu Aegis, Jin Jing spent 18 years at technology companies, including 9 years in Microsoft’s technology division. Walk into any ad agency today and you will find more and more practitioners like Jin Jing, with information-technology backgrounds, typically entrusted with major responsibilities — and titles like “chief digital officer” and “chief information officer” have become increasingly common in recent years.
+
+The advertising industry has collectively charged into digital marketing. A report from market research firm eMarketer shows that digital ad spending in the US will surpass TV for the first time this year, and by 2020 the gap will widen further: digital advertising will claim a market share of US$113 billion, versus US$77.9 billion for TV. China’s digital advertising market is also growing at more than 20% a year.
+
+![Growth in global advertising spending by type, 2017. Source: Carat](http://img.qdaily.com/uploads/201609222046185izpTvXE4yG6D9CJ.png-w600)
+
+None of this is surprising. Young people moved from TV to computers, and now they live inside all kinds of apps; the phone has become something clutched tightly in the hand, access points to information are everywhere, and whether actively or passively, everyone has entered a digitalized life.
+
+So “digitalization,” “big data,” “programmatic buying,” “DSP,” “DMP”…… have become hot buzzwords in industry discussions. A forum hosted by GroupM under WPP this September was simply named “Where Data Gathers Wisdom,” while Dentsu Aegis’s senior leadership summit was more direct: “Using data, insight and technology to communicate with Chinese consumers.”
+
+The fact is, the more enthusiasm agencies show for these topics, the more confusion they tend to reveal about them.
+
+“You need a degree of foresight about changes before your clients see them — otherwise, once clients see the change, they’ll leave us. We’re constantly racing our clients; we always have to stay half a lap ahead,” Wu Jun, GroupM China’s managing director of media buying, told QDaily by phone. This is precisely the problem discussed in the first article of this series: in terms of how to stay ahead of advertisers, agencies are more lost than ever, having lost control over media resources and consumers in today’s highly fragmented media environment.
+
+“The most severe challenge now facing agencies that provide market strategy for clients is that they are drifting further and further from the center of commercial operations,” said Nitin Nishandar, Kantar TNS’s regional director for brand and communications in Asia-Pacific. “Agencies still fall one step short: they can advise advertisers, but they can no longer respond to consumer insight and feed it back in a timely way.”
+
+![](http://img.qdaily.com/uploads/20160922204827H5KNXqBaJCQP9hcg.jpeg-w600)
+
+Agencies are not latecomers to this realization — in fact, they have always been sensitive to change. They too are looking for responses. Publicis Groupe, for instance, announced late last year the creation of an “incubation” program to invest in digital startups; Dentsu Aegis recently set up a “data lab” to connect data across its brands; and at its digital marketing forum a few weeks ago, GroupM launched three digital-marketing-related products in one go.
+
+All of them are trying to solve that most central question: how to use technology to find new ways of reading consumers, and how to use precise data to allocate media-buying resources and improve advertising efficiency.
+
+You will notice that agencies, which used to produce nothing but “creativity,” are now creating “products” — agencies never owned any products before; the products belonged to the clients, and the resources belonged to the media.
+
+Put another way, agencies care more about “R&D” than at any time in the past, which requires them to deal constantly with technology companies and to learn the operating rules behind technology and data.
+
+### So what exactly is the “data” they are all talking about?
+
+“We have asked ourselves: what exactly is data?” said Wei Wei, GroupM’s managing director of mobile marketing, at the digital marketing forum in early September. The eventual conclusion: data is information used to form consumer insight, and its fundamental purpose is to understand consumers better. But agencies did not realize this from the start.
+
+In fact, agencies are no strangers to this “data–information–insight” methodology; the difference now is that the definition of data has changed, and the dimensions of information data can provide have grown far broader — beyond the reach of agencies’ past experience. That is the most important reason they are both fascinated by, and lost in, data.
+
+For example, by plugging into the developer software kits of smartphones, a push-notification technology provider called Getui (which pushes weather forecasts and news-app alerts to your phone) connects with 600 to 700 million valid mobile devices every month. These devices tell it which apps people have installed on their phones and when and in what context those apps are opened. By tracking and analyzing this user behavior, Getui can derive hundreds of consumer models and, without any direct contact with the users, identify groups with particular characteristics — expectant mothers, for instance.
+
+![Every purchase you make online, every page you browse, and every offline shopping trip or use of public WiFi becomes part of “big data”](http://img.qdaily.com/uploads/20160922204712KFwO5ZPeBjmlpTd4.jpeg-w600)
+
+“Peak phone use comes at 10:10 p.m., after which it drops to its lowest point between three and four in the morning…… We found that almost everyone who is pregnant goes to sleep before 11 p.m., and most of them turn their phones off or disconnect from the network. So if we see a girl who habitually uses her phone suddenly going to sleep before 11 p.m. for a stretch of time, we can guess she is pregnant,” said Fang Yi, Getui’s CEO. By monitoring devices connected to the public WiFi at maternal and child health hospitals, they can even tell from the number of days a user’s phone connects to the WiFi signal (i.e., the number of hospitalization days) whether that user had a natural birth or a C-section, and whether she is in her first or third trimester.
+
+This is how Getui became a new player in the advertising industry.
+
+You can easily guess who holds the richest information about Chinese users online: the BAT trio. In the system of Alimama (Alibaba Group’s unified platform for brand marketing resources), every consumer is assigned one and only one independent ID, which integrates their user behavior across Taobao, Tmall, Alipay, Youku Tudou and multiple other internet services, and which is tagged with numerous labels.
+
+For agencies, when Alimama can serve consumer insight with the 4,000 to 5,000 labels a single ID carries, you can imagine the shock this delivers to the entire advertising industry. Bear in mind that the past definition of consumer data was demographic statistics — age, gender, occupation — in which every individual was essentially a blur. And the 76 options Facebook offers for the “gender” field are, in a sense, also refining users’ profiles to better serve advertisers’ demand for consumer insight.
+
+### How does redefining data change the way agencies work?
+
+Wu Jun still remembers starting out in 1996. At the time she did media buying at the agency J. Walter Thompson, and her daily work was drawing up TV ad placement schedules for clients.
+
+“Back then (in Shanghai) there were only Oriental TV, Shanghai Television, Channel 8 and Channel 14. You made the schedule and that was it — the media environment was simple, and client demands were fairly single-minded.”
+
+Thanks to far more diverse digital media, this woefully inefficient media-buying process has long been obsolete.
+
+Now, through a service called “programmatic buying,” agencies let algorithms decide which media platform an ad should be placed on, what price is most reasonable, and which time slots offer the best media resources. This is entirely different from the manual, TV-era process, in which every new client an agency signed meant another batch of staff to negotiate deals, draw up schedules and arrange budget allocation.
+
+![Media buying today is no longer just a three-way interaction among advertisers, agencies and media; more third-party technology, data and monitoring companies have become part of the ecosystem. Image: Adexchanger.cn](http://img.qdaily.com/uploads/20160922204856RhD3zSE4OvAGYNsk.jpeg-w600)
+
+In the US, programmatic buying accounted for 67% of the digital advertising market in 2016; in China, programmatic buying has been the most watched media-buying model of the past two or three years, and its share of digital advertising is expected to exceed 50% this year.
+
+For agencies, programmatic buying means lower labor costs and higher efficiency on the one hand; on the other, it means they are ceding some of their professional skills and media-buying experience to new industry participants — because agencies do not own programmatic-buying technology themselves and instead get it done through third-party ad-tech companies. Put simply, there are more people at the table sharing the cake.
+
+Technology’s more direct impact on agencies lies in how it changes decision-making.
+
+“The days when marketers made decisions in a conference room are over,” said Winder Chen, CEO of ad-tech company Kuaizi Tech, at the marketing leadership summit held by Carat under Dentsu Aegis in early September. “A campaign has only just begun, and the creative has only just begun. Until the moment the campaign goes live, we have no idea that this is the kind of thing consumers actually like. The task now is to use low-cost methods to create frameworks for creative — and possibly multiple pieces of creative content.”
+
+You may not realize this, but when you and a friend open the same app at the same time and in the same place, your splash screens may be different. Advertisers and agencies have built a library of assets — text, images and other elements. When you open an app, that library is connected to a far more complex ad-serving system, which, judging from a phone user’s historical habits and preferences, pulls different assets and arranges them into different splash screens for you. This is what Winder Chen calls “multiple pieces of creative content,” also known as “dynamic creative” or “programmatic creative” — a subset of programmatic buying.
+
+![By combining dynamic assets (text, images), different consumers can see different ad content in the same scenario](http://img.qdaily.com/uploads/20160922204956i2JBF4IChRdyKXav.jpg-w600)
+
+But in the view of Huang Xiaonan, founder and CEO of iPinYou — one of the providers of programmatic-buying services — the number of advertisers in China currently able to do the dynamic-creative programmatic buying described above “is not large yet. They may not have that many creative elements in their ad assets, so the degree of creativity is quite limited,” she told QDaily by phone. iPinYou was China’s earliest company to offer programmatic-buying services, and its founder Huang Xiaonan previously worked at Procter & Gamble, the world’s largest advertiser.
+
+What Huang Xiaonan means is that China’s digital marketing environment has arrived at a state where the technology is in place but creativity is in short supply, and a rift has opened between media and content. In the TV era, there was always an excess of creative chasing scarce media resources — creative was looking for technology and platforms. Today, technology and platforms are looking for content.
+
+Essentially, this is because data has driven a new operating process that does not fit the traditional rules agencies excel at — “client provides the brief → do consumer insight → produce creative → place the ads.” That linear structure has been broken, and the new operating rules do not center on traditional agencies.
+
+### What are agencies trying to solve with all this “R&D”?
+
+Agencies have never attached so much importance to product R&D as they do now.
+
+At the industry forum in early September alone, GroupM — the media group under WPP — launched three new products and services in one go: a data-insight product called “Hummingbird,” a big-data platform from WPP worldwide called Compass, and a “premium media resources platform” designed to pave the way for programmatic buying.
+
+According to Wu Jun, GroupM China’s managing director of media buying, the “premium media resources platform” was set up to meet advertisers’ demand for unifying brand building with sales performance. She describes it as a drawer-style solution, using real-time data to place ad content on the media platforms best suited to it.
+
+![A traditional TV media-buying schedule. Image: [brandnewcommunications.com](http://brandnewcommunications.com/sites/brandnewcommunications.com/files/services/images/television_plan.jpg)](http://img.qdaily.com/uploads/20160922222053GptPEL5xd2wmW94T.jpg-w600)
+
+“In the era when traditional media dominated, everything we talked about was big exposure — brand awareness was achieved, but how much it correlated with sales went beyond the remit of traditional media agencies,” Wu Jun said. Programmatic buying, she believes, can solve such problems — though it also requires agencies to draw on more outside forces: “Programmatic buying has to bring many technology companies and data companies into the whole ecological chain.”
+
+One problem agencies have run into in this process is how to increase their own control over technology and data in order to shore up their say in the industry chain — and this is not where agencies’ strengths lie.
+
+One solution is to hire talent from traditional technology companies — the BAT trio, Microsoft, IBM — and you can already spot increasing numbers of people from these companies at agencies. GroupM has also created a new position of “data chief for media buying,” whose head comes from HP.
+
+A year and a half after joining Dentsu Aegis, Jin Jing took charge of setting up the “data lab” project. The lab’s goal is to connect the group’s data resources across brands, conduct data analysis and consumer insight, and ultimately provide advertisers with more precise consumer profiles so that ad placement becomes more accurate.
+
+According to Jin Jing, the lab is not an independent department; its staff come from Dentsu Aegis’s various brands, because the broader the dimensions of consumer data brought in, the more comprehensive the resulting consumer insight. What you can see is that a data-first way of working has, in essence, also changed the internal operating mechanism of a big advertising group. In the past, the group’s agencies each served their own clients and sometimes even competed with one another; now, everything is shared on the same platform.
+
+The words of Wei Wei, who heads GroupM’s data-insight project “Hummingbird,” perhaps best capture the mindset agencies bring to R&D: it is “breaking your own legs and retraining your inner strength.” Jin Jing at Dentsu Aegis, by contrast, sees the “data lab” as more like “taking a step” toward “revolutionary” innovation.
+
+![Image: datasciencecentral.com](http://img.qdaily.com/uploads/20160922222303nkvMm1wSdHyrRlIG.jpeg-w600)
+
+Everything agencies are doing now comes down to obtaining more data and analyzing it, and they hope technology companies will open up more of their data to them. But another question worth attention at the same time is: beyond the data, what do consumers’ reactions to ad content actually look like? Or, to put it in the words of Winder Chen of the ad-tech company: “When I change the content, how sensitive are consumers to me?”
+
+You can also see agencies’ ambivalence about all this. James Harris, Carat’s global chief digital officer, believes that “sometimes we may be using too much technology, and all that technology brings is noise.”
+
+“If a new touchpoint cannot play a real role for a given category, then we should not be seduced by it,” Nitin Nishandar, Kantar TNS’s regional director for brand and communications in Asia-Pacific, told QDaily.
+
+They may not be sure whether this is how things should be. You can read it as agencies, once sobered up, going with the flow — or as changes they have no choice but to seek amid their confusion.
+
+What everyone is sure about is the need to connect with premium media resources. But who defines “premium”? We will take up that question in the next article.
+
+Cover image: Visual China Group

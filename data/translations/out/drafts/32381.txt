@@ -1,0 +1,112 @@
+@@QD_TITLE@@
+Even a Big Client Like Pepsi Is Making Its Own Creative Now — What Do You Ad Agencies Think? | What Changed the Ad Industry, Part 1
+@@QD_EXCERPT@@
+The demands of the digital marketing environment — tracking trends quickly, pinpointing audiences precisely, keeping brand tone consistent — are pushing advertisers to explore possibilities beyond the traditional advertising workflow.
+@@QD_BODY@@
+The demands of the digital marketing environment — tracking trends quickly, pinpointing audiences precisely, keeping brand tone consistent — are pushing advertisers to explore possibilities beyond the traditional advertising workflow.
+
+**The operating model the advertising industry has always relied on — the "client" (甲方) puts forward a need, the "agency" (乙方) produces the creative and places it in media, covering as many target consumers as possible, as effectively as possible — is now under enormous challenge.**
+
+**Practitioners have never been as confused and insecure as they are now about consumer insight — the foundation and core of the entire industry.**
+
+**A more mobile way of life changed all of this. As consumers hop between screens and allocate their time and attention as they please, the marketing creed "the money follows the consumer" has lost its bullseye.**
+
+**That the era of TV advertising is completely over has almost become an industry consensus, but in the dizzyingly complex digital marketing environment, no one has a clear answer yet as to what marketing is actually most effective.**
+
+**The exploration began at least three years ago, but judging from what is happening and from our interviews, the anxiety hasn't gone away. Every role in the industry chain, however, has undergone a fundamental change.**
+
+**Brand owners, who have always outsourced marketing content production to ad agencies, are starting to build their own teams and do it themselves; ad agencies may have entered an era that prizes "R&D" more than anything — setting up data labs, enthusiastically incubating ventures, building data-integration platforms; media outlets, which used to simply sell time and space, are being forced into creative work because advertisers demand content "that fits the media outlet's own tone and style"; and Facebook, the representative of social media, has suddenly found itself standing opposite Google in confrontation……**
+
+**This is why we are launching this series. In four articles, we will examine how the changes in every role across the advertising industry chain have come about, and how each of them is rebuilding the rules of the industry.**
+
+On July 30, American professional skydiver Luke Aikins jumped from a plane more than 7,600 meters above the ground and landed in the desert of Southern California — without a parachute and without a wingsuit. Fox broadcast the event live in the US in prime time at 8 p.m. Eastern. The bright green jumpsuit Aikins wore was hard to miss: "Stride" was printed across the back — a gum brand owned by Mondelez, the company behind Oreo. The event was staged to promote the Stride brand. Except Mondelez wasn't there as a "sponsor" — it was a "co-producer."
+
+![](http://img.qdaily.com/uploads/20160919224957yQFqmcJO0ST4be6C.gif-w600Gif)
+
+Two months earlier, Pepsi opened a creative studio in New York called Creators League. According to plan, the studio will produce marketing content — ranging from music albums to TV series, films, and reality shows — for Pepsi's various brands over the next several years. It has already signed Robbie Brenner, producer of *Dallas Buyers Club*, for a music film. The studio's staff are employed by Pepsi.
+
+Both Pepsi and Mondelez, as you know, have long been big spenders on advertising, like other FMCG companies. According to financial reports, Pepsi's annual advertising and marketing spend over the past three years has been $2.3–2.4 billion, while Mondelez's has been $1.5–1.8 billion. And the production of marketing content used to be handed almost entirely to ad creative agencies. Now the advertisers are doing it themselves — or at least that's how it looks.
+
+"I think they're placing a bet — a bet against the whole industry," Rob Norman commented. He has spent 25 years in advertising and is now global chief digital officer of GroupM, under WPP. In his view, this approach goes against the logic of the advertising business and "is a very dangerous thing," he told QDaily.
+
+"They are experts at producing and distributing food — there's no doubt about that. But I don't know why they're confident they can produce marketing content that appeals to consumers." Norman's skepticism toward brand owners isn't without basis: brand owners are not good at telling stories for brands, and behind that lies the consumer insight that agencies have always prided themselves on.
+
+But Norman immediately added, "I also understand why they're doing it. It's the predicament big companies face. Including ourselves."
+
+A more precise word for that "predicament" might be "confusion," or "bewilderment."
+
+![Pepsi's creative studio, Creators League](http://img.qdaily.com/uploads/20160919225017KnrDVi4Cb8mo1Btu.jpeg-w600)
+
+No one questions the importance of digital marketing anymore, and brand owners keep allocating more budget to digital advertising. Market research firm eMarketer's latest estimate is that digital ad spending will surpass TV advertising for the first time this year, reaching $72 billion — up 20.6% from 2015.
+
+The problem lies in another set of data, from market research firm TNS: only about a third of marketing practitioners in China feel confident about mastering consumers' media touchpoints. In other words, as consumers hop between screens and gain ever more control over media and content, marketers are at a loss.
+
+"What is the most effective form of marketing?" Both brand owners and ad creative agencies are searching for the answer.
+
+And since ad agencies may not currently be any better at it than the brand owners, the latter are trying to create breakthrough marketing content by breaking the traditional advertising industry chain.
+
+![L'Oréal designed a beauty-themed emoji keyboard — another form of content marketing](http://img.qdaily.com/uploads/20160919225043mt2rf1GwkhH0IYxZ.jpeg-w600)
+
+![Airbnb's content marketing takes the form of a magazine](http://img.qdaily.com/uploads/201609192252105jLEaMmblftcSwgD.jpg-w600)
+
+Although as recently as 2014 Forbes.com was still explaining to general readers what content marketing is, content marketing has in fact existed since Michelin published the first Michelin Guide in 1900. The reason it has become a form of marketing that no brand wants to fall behind on today — or rather, why content marketing has been placed in such an important position — is largely that social media has changed how people react to information: marketers want to see more reposts and shares. Dong Xin, head of marketing for Mondelez's e-commerce division, went so far as to use the phrase "content is product" at a digital marketing forum recently held by Carat, under Dentsu Aegis.
+
+A high-altitude jump without a parachute is inherently a curiosity-sparking topic; and the music film Creators League is about to shoot presents the life philosophy of hip-hop artist T.I. Harris, who was jailed for illegal possession of a firearm and kept creating in prison, even shooting a music video there — an unusual story that holds appeal for many as well.
+
+"I can understand clients wanting to create the things that suit them best. But the question is, what is its sustainability?" Norman believes brands can occasionally experiment with this kind of entertaining content, but history offers very few cases of a brand becoming — and remaining — a content producer. Coca-Cola [hired three creative consultants back in 1995](http://adage.com/article/news/coca-cola-loses-edge-shops-face-classic-dilemma/58770/) to guide its in-house creative team, Edge Creative, though that team [announced its dissolution in 2000.](http://adage.com/article/adage-encyclopedia/house-agency/98711/)
+
+Red Bull is one of the very few success stories. Public data shows the energy-drink company spends at least 30% of its revenue on marketing every year. In 2004, Red Bull bought (note: bought, not sponsored) an F1 team and formed an extreme skydiving team. In 2011, Red Bull also invested $2 million to produce the sports documentary "The Art of FLIGHT," later selling the rights on iTunes as a $10 pay-per-view title and converting it to 3D for a limited theatrical run at AMC cinemas.
+
+![The ski documentary "The Art of FLIGHT," produced by Red Bull](http://img.qdaily.com/uploads/20160919225230HDaZvG8I04hxjSgX.jpeg-w600)
+
+Red Bull's genius lies in creating an "extreme" experience associated with the brand. But what Red Bull does is fundamentally not the same thing as Pepsi making movies.
+
+The Creators League studio reports to Pepsi's CMO, whereas Red Bull established a media company called Red Bull Media as early as 2007, operating a business independent of beverage sales. That means Creators League likely enjoys less priority within Pepsi and has less ability to mobilize resources.
+
+On this point, Mondelez is something of an in-between role.
+
+In that live skydiving event, the producer worked for Mondelez's Stride (炫迈) gum brand. Beyond that, Mondelez also signed US media company BuzzFeed this year to collaborate on original content.
+
+According to Mondelez, it hopes to sell the rights to this kind of original content in the future and profit from it. "It's essentially adding a dimension to the return on investment. We care about product sales and brand building, and we also care about whether content marketing can generate revenue," Laura Henderson, Mondelez's newly appointed global head of content and media monetization, [said in an interview with The Drum](http://www.thedrum.com/news/2016/07/06/how-pepsico-and-mondelez-are-tackling-their-biggest-challenge-date-turning-marketing). "By producing content people want to watch, we can get a return on [the marketing] investment, offset our spending, improve ROI, and make media spending more sustainable."
+
+![The mobile game "Twist, Lick, Dunk" that Mondelez launched for its Oreo cookies](http://img.qdaily.com/uploads/20160919225358DEJ8tCnk6sjxyg7f.jpeg-w600)
+
+"Getting a commercial return from this kind of marketing content looks like a unicorn event," Jason Theodore, managing director of MediaCom Shanghai, said in an email reply to QDaily.
+
+You could read that as a position driven by competitive interests. But Norman doesn't see brands and agencies as competing on this point: "Pepsi making a feature film, Mondelez co-producing a live broadcast with a TV network — none of that falls within traditional agencies' business scope."
+
+Compared with earning commercial returns, Pepsi's purpose leans more toward saving costs. Kristin Patrick, Pepsi's global senior vice president of brand development, said in an earlier media interview, "We need to connect with consumers in a more cost-efficient way."
+
+The importance of saving on marketing spend goes without saying. In fiscal 2015, Pepsi's advertising expenses accounted for 43.6% of its net profit for the year, and with consumer goods companies' performance disappointing in recent years, marketing departments' return on investment faces ever harsher scrutiny.
+
+However, data cited by content marketing agency Fractl from a US advertising industry salary guide shows that only when content marketing operates at high scale and volume does an in-house creative team cost less than a third-party company. When content marketing is at low scale and volume, building your own team costs up to seven times as much as hiring a third party.
+
+![](http://img.qdaily.com/uploads/20160919220756QBng09AUmyR36EKF.png-w600)
+
+But Pepsi and Mondelez aren't the only ones challenging the old advertising model. Last November, L'Oréal Group also built an in-house "content factory" at its Montreal, Canada office to provide marketing content suited to local consumers for its brands, including how-to makeup videos on YouTube, produced by a three-person team inside L'Oréal. As you may know, Nike brought its social media agency work in-house in 2013.
+
+Data from MarketingWeek in 2015 shows that more than 27% of brands already describe themselves as working with no third-party company in digital marketing, instead building their own teams — a share that nearly doubled compared with 2014.
+
+"The most fundamental reason is the outcome brought by social media: a company's own content team is more sensitive to the brand and has more control. To be fast in the mobile internet era, you have to remove layers of manpower and reduce the time cost of content production," Theodore said in the email. But the biggest challenge is attracting excellent talent — a brand has to be big enough, or able to offer those talents a distinctive experience.
+
+Matt Miller, president of the Association of Independent Commercial Producers, [similarly said in an earlier interview with AdAge](http://adage.com/article/cmo-strategy/pop-star-pepsico-s-big-bet-content-includes-a-movie/304004/) that brands are capable of producing "short-term, one-off content," but he doubts the sustainability of the approach, mainly because it's very hard for brands to attract the very best marketing talent.
+
+"What really makes advertising industry practitioners competitive is that they get to see how different industries are progressing by working on multiple projects — what cars people drive, what food they eat, what shows they watch, where they spend money," Norman said. In-house creative teams can hardly match that, so they aren't necessarily attractive when it comes to recruiting top talent.
+
+But you can see that big companies are already trying to solve this problem. In 2015, [fragrance giant Coty announced the acquisition of content marketing company Beamly](http://adage.com/article/cmo-strategy/coty-acquires-content-agency-beamly/300962/) — a deal that brought Coty 61 marketing professionals. Uniqlo poached Wieden + Kennedy's global creative director and then its North American creative director in August and October of 2014, respectively. Apple said in 2013 that it would end its more-than-30-year relationship with TBWA/Media Arts Lab and planned to hire 1,000 advertising staff to build its own ad team.
+
+![The album "Beats of the Beautiful Game," for which Pepsi assembled 11 singers including Kelly Rowland, Janelle Monae, and Jolin Tsai](http://img.qdaily.com/uploads/20160919225856bgRcYdeS4U79QjMl.jpg-w600)
+
+Both Norman and Theodore are reserved about the in-house team model. "Brands ultimately still sell products, and of all marketing activities, a new product launch is often the hardest. When a brand releases a new SKU, it needs to communicate what concrete benefits the product delivers. In those scenarios, long-form content marketing usually doesn't work very well," Theodore said.
+
+More importantly, over the long run, "very few brand companies can scale at this. Without scale, doing this is meaningless."
+
+But another very real trend is big companies working directly with media outlets to produce content, leveraging the latter's resources and talent.
+
+You can read this as brand owners exploring more effective marketing in today's complex digital media environment — or as a game of bargaining between advertisers and ad agencies. And the most fundamental question is: when it comes to grasping consumers, who can run faster?
+
+"If you ask me what the most efficient form of marketing is, I'd say nothing beats shooting a 30-second ad and playing it on loop," Norman said. And that era is never coming back.
+
+In our next article, we will analyze how ad agencies are fumbling their way through the changed era.
+
+Cover image from Visual China Group
