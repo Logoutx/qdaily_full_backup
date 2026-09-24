@@ -1,0 +1,224 @@
+@@QD_TITLE@@
+A Year Ago, We Spent 18 Days Intensively Testing So-Called "On-Demand O2O" Services. Now They're All Gone
+@@QD_EXCERPT@@
+The initial frenzy owed more to the artificially low prices created by subsidies.
+@@QD_BODY@@
+The initial frenzy owed more to the artificially low prices created by subsidies.
+
+Two weeks ago, I got a call from Youyi's customer service. The company was shutting down, she said; the money left in my account could be refunded or converted into shopping vouchers. "We're so sorry. A courier will come to your door to pick up any clothes you still have."
+
+A few days later, SF Express courier Master Shen collected the Youyi clothes box from me one last time.
+
+For the previous year, he had come to my home once a week, dropping off a cardboard box containing three garments and taking away the three worn ones I had set aside.
+
+That was [Youyi's business](http://www.qdaily.com/articles/24917.html): 499 yuan a month to pick out clothes on your phone and have them delivered to your door, up to three items at a time.
+
+This time, though, Master Shen brought no new clothes—he only took the bag I had prepared. Somewhat puzzled, he asked me, "Is this company shutting down?"
+
+![Over the past year, Youyi delivered clothes in boxes like this one](http://img.qdaily.com/uploads/20160929002141G85BFc7atL1UxRKZ.jpg-w600)
+
+A year ago, riding the "one-tap" wave driven by Didi and Uber, a batch of startups like Youyi tried to cram the things you normally have to go to a store to do into an app. Some delivered clothes and flowers. Others went further, delivering massage therapists, chefs, even hairdressers.
+
+A year ago, *QDaily* [ran an experiment](http://www.qdaily.com/articles/12983.html): for 18 days, I would stay at home and use internet services to meet every need—even getting sick or losing power.
+
+Youyi was one of those internet services, and it isn't the only one that has vanished.
+
+In a WeChat group called "Internet BD Cross-Promotion" (BD: business development), someone asks every so often for the contact details of Qingnian Caijun. This startup, founded a little over two years ago, specialized in delivering pre-prepped fresh ingredients to your door, making it easy to cook at home. Having built up quite a reputation, it was frequently approached by companies seeking partnerships.
+
+But lately, whenever someone asks, the reply is usually a screenshot of a WeChat contact. Then someone hesitantly adds, "Haven't these guys folded already?"
+
+Qingnian Caijun did indeed stop operating—its funding chain snapped—but unlike Youyi, it never publicly announced the end of its service.
+
+Many companies end this way, quietly. Sometimes you can only tell whether a company is still operating by checking the last update time of its app store listing, Weibo, or WeChat.
+
+"Is XX company still alive?" In those WeChat groups used to match up resources, this sentence pattern is common. So many companies disappear without a sound that before seeking a partnership, there's always that question.
+
+### Of the 72 internet services we tried 13 months ago, most have gone silent
+
+In the summer of 2015 in Beijing, at roughly the height of the startup wave, startups large and small—Baidu, Taobao, JD.com, 58, Meituan, Dianping, 360—were each in their own way trying to contract out every service you might use at home, delivering goods and service providers of every kind to your door.
+
+To test how well they solved the various problems of daily life, 13 months earlier *QDaily* [ran an "18 days without leaving home" experiment](http://www.qdaily.com/cards/13867.html). Over 18 days, I tried 103 apps, followed 61 official accounts, and ended up using 72 different internet-to-home services. Youyi and Qingnian Caijun were two of those 72.
+
+Youyi was the last service I used during the 18-day experiment, and the most recent one to announce it was shutting down.
+
+According to *QDaily*'s tally, of those 72 services, 14 have closed down and 13 have pivoted their businesses—from hairdressing at home to pushing brick-and-mortar stores, say, or from individual meal ordering to corporate catering. In other words, at least 38% of the at-home services could not sustain their original vision.
+
+Of the rest, only 15% received new capital backing, and two listed while still losing money—on the NEEQ, where trading volume is limited.
+
+![](http://img.qdaily.com/uploads/201609290023541nAuVSsNTpdJ6ljR.png-w600)
+
+The other companies, the ones that haven't made news in a long time, remain stuck in a state of "unable to die, unable to live well."
+
+A founder of an at-home services startup who asked not to be identified told *QDaily* that in the current situation, without burning money on subsidies the business can cover its own costs but cannot scale. And with things as they are, no company wants to acquire it—it can only keep hanging on.
+
+At-home services depend on capital investment to sustain business expansion. Thirteen straight months without follow-up funding is not a good sign.
+
+Among the 72 services, some of the companies that have shut down or adjusted their businesses
+
+2015.12
+
+"Chulinlin," an on-demand premium chef service, shuts down
+
+2016.2
+
+"Randian," an on-demand personal trainer service, shifts its focus to group-buying private training courses
+
+2016.2
+
+"Dudu Nail Art," an on-demand manicure service, is acquired at a low price by 58 Daojia
+
+2016.4
+
+"Yaogeili," a one-hour medicine delivery service, stops operating
+
+2016.7
+
+Benlai Shenghuo adjusts its strategy; its community O2O project Benlai Bianli goes offline
+
+2016.7
+
+"Qingnian Caijun," a semi-prepared fresh ingredients service, closes down
+
+2016.7
+
+"Aixianfeng," a one-hour on-demand convenience store service, conducts large-scale layoffs
+
+2016.9
+
+Youyi stops operating
+
+These are only the better-known ones among the services used in the experiment. When smaller companies or WeChat official accounts ended their businesses is hard to trace.
+
+And it's not just the companies from the experiment. Over the past year and more, once-prominent names like Shaofanfan, Bopai Car Care, e Car Wash, and Dudu Nail Art have fallen one after another. The at-home services industry, so hot a year ago, has cooled.
+
+"This year, for O2O companies, a lot of investors won't even take a meeting with you. Most investors don't dare to invest. They all feel that over the past year or two, a lot of money was burned in O2O and lost, and now they see O2O as a trap," said Zhu Xiaohu, an angel investor in Didi, Ele.me, and other companies, in a speech at the 2016 China Youth Internet Entrepreneurship Competition.
+
+### It's not just startups—big companies are pulling back too
+
+In 2015, the big companies all but queued up to enter the at-home services market. JD.com, 58, Baidu, and the not-yet-merged Meituan and Dianping, even 360, all added at-home services entries to their homepages.
+
+By the start of this year, the big companies' thinking had already changed.
+
+58 Daojia is one of the few platforms still expanding its categories and cities. It now covers 32 cities nationwide, and its services have grown from the original handful—housekeeping, manicures, massages—to dozens, including recycling, errands, lock-picking, driving instruction, and fitness.
+
+Beyond that, the big companies' investment in the at-home market is nothing like last year's frenzy.
+
+![The 58 Daojia homepage (left) and Taobao's on-demand services channel (right)](http://img.qdaily.com/uploads/20160929011320Ohq0fguYnE4VRd7S.jpg-w600)
+
+Last July, at the launch event for Baidu Nuomi's "Membership Plus" O2O strategy, one line from Robin Li drew applause from the entire room: "I checked yesterday—Baidu still has more than 50 billion yuan in cash on its books. We'll take 20 billion of that to do Nuomi well."
+
+Under that plan, Baidu was going to spend those 20 billion yuan on the so-called O2O ecosystem, including Nuomi group buying and Baidu Waimai.
+
+Over the past year, Baidu did indeed spend a lot of money.
+
+In Q3 2015 alone, O2O businesses including Baidu Nuomi and Baidu Waimai dragged Baidu's operating profit down by 32%.
+
+![](http://img.qdaily.com/uploads/20160929014738CByYsMevrDK4Wif0.png-w600)
+
+Ultimately, Baidu—listed in the US—abandoned the related investment under pressure from shareholders. At Baidu's annual conference this past August, [CEO Robin Li](http://www.qdaily.com/articles/31725.html) talked about nothing but artificial intelligence, and O2O went [entirely unmentioned](http://www.qdaily.com/articles/31725.html).
+
+Recently, Baidu also disclosed that it had [caught employees of Baidu Nuomi and Baidu Waimai faking orders](http://finance.sina.com.cn/china/gncj/2016-09-19/doc-ifxvyqwa3437830.shtml).
+
+Another platform, JD.com, which had set up a standalone business unit called "JD Daojia" and actively promoted at-home services, gave up too.
+
+In April this year, [JD Daojia](http://www.qdaily.com/articles/25531.html) announced a merger with the crowdsourced logistics company Dada. One hundred and fifty days later, the integrated new company emerged under the name "New Dada." The "JD Daojia" brand still exists, but the marketing staff who handle outside media contact mostly identify themselves as being from New Dada rather than from the "JD Daojia" that emphasized [at-home services](http://www.qdaily.com/articles/7493.html).
+
+After the merger, "at-home services" no longer seemed to be JD.com's business.
+
+Meituan and Dianping, now merged into a single company, retreated from this market even faster. The at-home services entry that Dianping had originally placed on its homepage quietly went offline.
+
+Taobao was the most recent platform to launch at-home services, adding an on-demand channel to its homepage. Unlike last year's Dianping, Meituan, and Baidu, which divided at-home services into categories one by one, Taobao used a store list showing nearby merchants offering services.
+
+Based on the user's location, you can see merchants near you offering services in this channel, mainly convenience-store goods delivered within two hours, along with niche services like flowers, food delivery, housekeeping, beauty, and laundry.
+
+In the end, every platform's at-home channel looks like Taobao's—merely a list of services for sale, with the actual delivery no longer any of the big companies' concern.
+
+### The initial frenzy of at-home services was fueled entirely by burning cash
+
+The initial frenzy didn't mean users really had that much demand. Many services subsidized new users with a free first order or low prices, and many people tried services at half or a third of the regular price, or even at rock-bottom prices of 1 yuan.
+
+Startups proved one thing: yes, anything can be summoned to your home, but consumers don't need that many things. Without 1-yuan massages and 9.9-yuan manicures, users simply don't think to use these services—there's not enough motivation.
+
+To attract users, the gap between what users paid and the actual price of the service was initially covered by platform subsidies to the service providers. To scale up and generate good-looking transaction data, some companies even bought their own services.
+
+[Aishang Flowers](http://tech.sina.com.cn/i/2016-04-29/doc-ifxrtzte9792317.shtml), a flower e-commerce company that listed on the NEEQ this year, disclosed the specifics of its order-faking in its prospectus.
+
+According to the process laid out in the prospectus, Aishang Flowers' operations team first topped up multiple bank cards, then recruited "order brushers" through QQ groups. The brushers placed paid orders on various platforms and left notes, after which the operations team refunded the money based on the notes.
+
+Over the company's three years of operation, Aishang Flowers faked 30.95 million yuan in revenue—half of its orders were bought by itself.
+
+Higher sales never translated into more real purchases. In the six months after it stopped faking orders, Aishang Flowers' losses grew 1.5-fold.
+
+### Once the money's burned, there aren't many reasons for people to keep using the services
+
+Generally speaking, after using up a platform's first-order discount, the next time I wanted the same kind of service I would switch to another platform rather than pay an unsubsidized price. After going through them all, I found that without subsidies, there really aren't many services you absolutely must summon to your door.
+
+They're not irreplaceable—if anything, the home visit adds to the cost of using them.
+
+During the 18-day experiment, I used an at-home haircut service. Before it could begin, I had to clear a 2-meter-square patch of floor, and the hairdresser spread a nonwoven cloth on the ground to collect the clippings.
+
+After all that fuss, going to a shop was honestly more hassle-free. The company later switched to running a physical store, encouraging customers to come in.
+
+After a few sessions of summoning massage therapists to the office with my colleagues, we grew accustomed to looking up nearby brick-and-mortar shops on Dianping and consuming services in person—the shop environment is more professional, with more choices. Without subsidies or red-envelope discounts, the group-buying prices at physical stores are often more competitive anyway.
+
+With the spread of mobile payment, the cost for offline stores to establish contact with users has also dropped significantly.
+
+Once those physical stores learned to use online channels for promotion, and—with the help of mobile payments and third-party service providers—learned to reach and manage customers online, what remained to the companies that had entered the at-home services market in the capital frenzy was nothing more than the online channels built with subsidized cash.
+
+### Customers and service providers can easily bypass the platform
+
+At-home services all claim to have removed the middleman and the physical store. The platform becomes a giant shop, while service providers answer for their own service quality and reviews.
+
+But bypassing the platform-as-shop isn't hard.
+
+A Didi driver can't bypass the platform to take orders, because passengers can need a ride anywhere, anytime, and can't wait long. But you don't order food delivery, a massage, or a manicure while walking down the street—usually only between two points: the office and home.
+
+Over the past year and more, I've added several manicurists and makeup artists on WeChat, and every one of them told me: "Next time you need it (nails done), just contact me directly on WeChat."
+
+Nowadays, whether in an offline shop or among at-home service providers, "add me on WeChat" is the most common action after "scan the payment code to pay." With subsidies drying up, the platform's hold over service providers is no longer what it was.
+
+You may never get used to the awkwardness of having a massage therapist come to your office, but the massage shop downstairs from your company has learned to push discount offers to you via its WeChat official account. In this way, the room left for at-home services startups grows smaller and smaller.
+
+### The survivors are the practical ones
+
+At-home services still commonly seen today include Shanxiuxia, which repairs phones at your door, and Shansong, a courier service that promises delivery within 60 minutes in Beijing.
+
+Then there's food delivery. At mealtimes every day, the people waiting at red lights in the bike lanes are mostly delivery riders in red, yellow, and blue uniforms.
+
+In April, Ele.me sent an internal letter announcing a US$1.25 billion funding round from Alibaba and Ant Group. In the same letter, Alibaba's Koubei food delivery service would also be operationally supported by Ele.me. The food delivery market was left with three players: Ele.me, Meituan Waimai, and Baidu Waimai.
+
+Originally, getting food delivered to your door was something many apps and WeChat official accounts did. Now, as these startups put their services on the food delivery platforms' apps and no longer insist you download a separate app, you actually end up using them more often.
+
+Beyond the platforms' own delivery fleets, there are third-party delivery companies like Dada, Shansong, and Renren Express.
+
+No matter how the startups delivering things to your door fare—whether it's crayfish or cats and dogs being delivered—people always need to pay for the delivery leg in the middle, whether the merchant or the consumer pays. Alongside at-home services and food delivery, a crowdsourced delivery system has taken shape in big cities.
+
+After the capital pulled out, what remained were services that make money directly, require few subsidies, and that users are willing to pay for.
+
+### When the core business can't make money, pivoting isn't so easy either
+
+Unable to make money or raise funds, many companies can only seek to pivot.
+
+Nuanshi, which made semi-prepared meal kits, switched to the fitness-meal business. Taidi, a laundry platform, had its delivery staff trim flowers while picking up and dropping off clothes. Several online personal-assistant services tried every niche assistant service users might be willing to pay for... Some of these pivots gave users a few more reasons to use at-home services, but most new directions still couldn't help the startups make money.
+
+Helijia, an at-home manicure service founded three years ago that had raised three rounds of funding, announced in March this year that it was trying advertising as a form of monetization.
+
+The first advertiser was Purina Pro Plan, the dog food brand under Nestlé. According to founder Meng Xing, ad revenue is only a small part of the revenue model: "This money takes no technical skill—earning a bit of it is fine."
+
+Each month Helijia sells about one to two weeks of advertising, which Meng Xing calls "restrained selling." But note that as an app a user might open at most once or twice a month, advertising isn't that easy to sell.
+
+All apps that earn meaningful revenue from advertising—whether social networks, search engines, or news clients—occupy people's time consuming information; they are not tools you open only a few times a month.
+
+And in China, even for digital advertising, fetching a high price still requires people out there selling it.
+
+Whether it's advertising or any other new business, it needs more manpower, more management attention, more money.
+
+When the core business can't make money, pivoting to other businesses is even harder.
+
+ejiajie briefly launched a private-chef platform called "Xiao E Guanfan" earlier this year, and ended the service three months after launch.
+
+Meidaojia, an at-home makeup service, changed its name to "Meizhene" this April and rode the AI wave by launching a face-recognition feature that recommends makeup tutorials. After paid voice Q&A became hot, "Meizhene" also added a voice Q&A feature in the beauty space.
+
+With subsidies faded and users gone, the companies start telling more complex business stories. Variations of this story have repeated more than once in China's internet startup wave.
+
+Cover image from [Visualhunt](https://visualhunt.com/)

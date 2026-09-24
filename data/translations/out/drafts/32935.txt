@@ -1,0 +1,244 @@
+@@QD_TITLE@@
+Five Years After Steve Jobs' Death: Which of the Changes He Set in Motion Endured — and Which Didn't?
+@@QD_EXCERPT@@
+How long has it been since you last saw an electronic product that genuinely excited you?
+@@QD_BODY@@
+How long has it been since you last saw an electronic product that genuinely excited you?
+
+On October 5, 2011, Steve Jobs died of illness at home, and an extraordinary wave of mourning began around the world.
+
+Heads of state [delivered eulogies](http://tech.163.com/11/1006/10/7FM4QEFO000915BD.html); the media put his photograph on front pages and in special editions. Tech leaders, TV hosts, musicians, journalists, Apple employees, rivals… it seemed that everyone who had ever crossed paths with him was pouring out their emotion on social networks or in front of cameras.
+
+At the same time, tens of millions of people around the world who had never met Jobs were also infected by the grief. [Flowers, cards, candles and apples](http://www.cbsnews.com/pictures/the-world-pays-homage-to-steve-jobs/) were piled up outside Apple Stores.
+
+*Steve Jobs*, the biography that only came out in late October of that year, was the best-selling book of the entire year in both China and the United States.
+
+Once, only politicians could inspire grief this intense — and even that kind of emotion often turned into cheering in opposing countries.
+
+Five years on, Jobs' image has become somewhat complicated. Last year two films about Jobs hit theaters, and a new biography was published.
+
+Both films — [one a drama](https://movie.douban.com/subject/25850443/), [one a documentary](https://movie.douban.com/subject/26323045/) — came from Oscar-winning directors, and both were dismissed as one-sided by many people who knew Jobs well. Jobs' successor, Apple CEO Tim Cook, put it more bluntly: the films were "opportunistic."
+
+The new biography, [*Becoming Steve Jobs*](http://www.qdaily.com/cards/20066.html), came from a reporter who had been personally close to Jobs. Several current Apple executives, including Cook and Jony Ive, backed the book and accused the 2011 biography *Steve Jobs* of [distorting the founder's image](http://www.qdaily.com/articles/7729.html).
+
+None of these quarrels captured the public's interest. Both films were box-office poison.
+
+The people who left flowers at Apple Stores were simply grateful for the products Jobs had brought them — not because they were familiar with his private life, such as whether he had swindled a business partner out of a few thousand dollars, or whether he had been good enough to his illegitimate daughter.
+
+Most people who still know Henry Ford today do so because Ford remains an enormous car brand, because his assembly line transformed modern industry, because he made the automobile affordable to ordinary people — not because Ford hired thugs to violently crush unions, or because he wrote the [anti-Semitic tome praised by the Nazis](https://en.wikipedia.org/wiki/The_International_Jew#Influence_on_Nazi_Anti-Semitism).
+
+What will ultimately keep Jobs in people's memory will likewise be the company he created, the products he created, and the technological innovation he drove.
+
+Unlike Ford, Disney and the like, Jobs lived in a world that changed much faster. Several of the technological revolutions he set in motion early on — the personal computer, digital music — had already passed their prime while he was still alive.
+
+When Jobs died, his new round of revolutions was still underway: the iPhone was four years old, the iPad just one.
+
+In the single year of 2010, Apple overhauled its personal computer lineup with the new MacBook Air, launched the iPad to explore the future of the personal computer, revived its TV box, and acquired Siri to build an AI assistant.
+
+Digital publishing, digital news and digital advertising — all three were markets Apple entered that year.
+
+On this day five years ago, many of the projects he had personally been involved in were just getting started.
+
+At that very juncture, Jobs' condition deteriorated rapidly. In August 2011 he handed the CEO role to Cook, and died 42 days later — several years earlier than either he himself or Cook had expected.
+
+Five years later, of the new things Jobs set in motion before his death, which ones actually changed the world, and which ones stalled?
+
+### The iPhone still matters — five years ago that was an open question
+
+Over the past five years, the most direct change is that no one talks about the "iPhone Killer" anymore.
+
+Now the world is used to Apple holding a launch event in early September every year, unveiling a new iPhone, and drawing the attention of millions upon millions of people.
+
+Why wouldn't it be? It seems things have been this way since 2007.
+
+That is an illusion. The month Jobs died was also the moment "iPhone Killer" was at its hottest since 2008.
+
+![Search interest in the term "iPhone Killer" on Google over time.](http://img.qdaily.com/uploads/201610050307250UCHVlpbENLSA2f3.jpg-w600)
+
+Who could kill the iPhone used to be an endless discussion. BlackBerry, Palm and Nokia all released new phones that outsiders dubbed "iPhone Killers."
+
+After these veteran smartphone makers failed, Android phones became the new "iPhone Killer."
+
+Touchscreens, app stores — whatever the iPhone had, Android seemed to have too. And with Chinese manufacturers joining in, Android phone prices fell to a fraction of the iPhone's.
+
+It sounded no different from the story of the Mac losing to Windows PCs. Apple made the better personal computer, but its competitors were far too cheap.
+
+Even the theoretical basis for the iPhone's failure was written in 1997 — [“disruption by low-end competitors”](http://wiki.mbalib.com/wiki/%E5%85%8B%E9%87%8C%E6%96%AF%E5%9D%A6%E6%A3%AE%E7%9A%84%E9%A2%A0%E8%A6%86%E6%80%A7%E5%88%9B%E6%96%B0%E7%90%86%E8%AE%BA).
+
+In fact, of the more than 1 billion iPhones sold between 2007 and today, 87% were sold after Jobs' death.
+
+![Apple hardware sales over the past five years, in thousands of units.](http://img.qdaily.com/uploads/20161005030512kqOxTQKbAIupRDcy.jpg-w600)
+
+Over the past five years Apple made some failed decisions with the iPhone — the low-end iPhone 5c, the Maps fiasco, waiting until 2014 to go big-screen.
+
+But overall, Apple maintained the iPhone's quality. That is the foundation of its existence.
+
+The smartphone is the most personal piece of technology humans have ever owned. 365 days a year, 24 hours a day — it is the "personal" computer the personal computer never managed to be.
+
+For a product like that, price-to-performance matters much less. People are willing to pay a premium for a better experience, and the iPhone endured. What got disrupted by cheap Android phones were mostly expensive Android phones.
+
+### What endured along with the iPhone: the smartphone embedded itself in everyone's life
+
+In 2015, the Syrian conflict escalated. Residential areas and hospitals were repeatedly attacked, and vast numbers of refugees fled.
+
+Besides water, food and shelter, [refugees came to depend on one more thing](http://www.qdaily.com/articles/14087.html) — the smartphone.
+
+Refugees used their phones to navigate routes, to get information on refugee policies across Western European countries, and to find cheap lodging.
+
+Tens of thousands joined discussion groups on social networks, looking for routes that could genuinely get them to Europe and steering clear of human traffickers.
+
+![Refugees charging their phones at a camp in Calais, France | Image from *The New York Times*](http://img.qdaily.com/uploads/20161005025458YCOwq26BKlM34fJ0.jpg-w600)
+
+In photos of refugees, you rarely see iPhones — most are Android phones.
+
+The social network they used, Facebook, appeared three years before the iPhone, written in 2004 by Mark Zuckerberg on a Sony laptop.
+
+The mapping service they used was, eight times out of ten, Google Maps, launched in 2005.
+
+But none of them would have had access to these services without Jobs.
+
+Before 2007, the tech industry's idea of a smartphone was a small-screen office device covered in a dense grid of buttons.
+
+![The four rival smartphones Jobs held up for comparison at the iPhone launch event.](http://img.qdaily.com/uploads/20161005025642DrbXj4KVhg5pJ2Yc.jpg-w600)
+
+Earlier, Nokia, Microsoft, HTC and Motorola had all tried to popularize touchscreen smartphones, but those efforts all ended in failure. Instead, keyboard phones like the BlackBerry and Palm Treo caught on.
+
+By 2007, the future of the smartphone equaled a better tool for typing email.
+
+Even Google's Android phone, then in preparation, looked like this before the iPhone launched:
+
+![The first Android phone, codenamed Sooner. It was killed after the iPhone's January 2007 launch. The first Android phone to go on sale, the HTC Dream (G1), got a big screen.](http://img.qdaily.com/uploads/20161005025728hUQnBIELTdygaGAk.jpg-w600)
+
+According to Jobs himself, the iPhone was born when Apple had its engineers use multitouch technology to design a touch interface suited to fingers.
+
+A similar idea had already appeared in the earlier film *Minority Report*. But the iPhone was the first to make it real with a complete software-and-hardware experience.
+
+The iPhone's success solved the problem of how to let people use a computer on a screen the size of a palm. The App Store then gave software developers the possibility of letting people use internet services directly on their phones.
+
+After that, the smartphone was no longer a tool serving a handful of businesspeople. It truly became the personal computer in everyone's pocket, connected to all kinds of internet services. A giant market of billions of people drew entrepreneurs, engineers and investors into sustained investment in internet services.
+
+Internet services born long before — maps, reviews, social networks, food delivery — only truly merged into most people's lives once they reached the smartphone. The smartphone's ubiquity was, moreover, the precondition for the existence of Uber and Didi.
+
+Over the past eight years, the boom in internet services began precisely with the combination of the iPhone and the App Store.
+
+Without Jobs, it's hard to say when such a new form of computing would have been born at all.
+
+### After the iPhone, none of Apple's explorations of computing's future have produced results
+
+At the 2010 D8 conference, Jobs [talked with two journalists for an hour and a half](https://www.youtube.com/watch?v=a0AZLPqjpkg) — the last time he spoke to the media about his ideas at such length.
+
+In that interview, Jobs discussed three markets Apple had just entered: news reading, television and tablets.
+
+**News reading:**
+
+> "One of my very strong beliefs is that any democracy has a free and healthy press. And newspapers — or institutions of news gathering and editorial — are very important. I don't want to see us descend into a nation of bloggers. I think editorial is more important than ever. I will do everything in my power to help news-gathering organizations like *The New York Times*, *The Washington Post* and *The Wall Street Journal* find new ways of distribution, to help them get revenue, to help them sustain their news-gathering capabilities. We need to find a way for people to pay for this hard-earned content."
+
+Newsstand, launched that year, was Apple's vision of paid news reading: through a better reading experience and richer content forms, to get people to pay for news.
+
+Newsstand never reproduced iTunes' success at selling music. Part of it was a product problem — at the time, Newsstand magazines required downloading files of tens or even hundreds of MB, which was not a good experience. More of it was the essential problem of the news business model: when important news always has a free source, how to get people to pay for news is something no one has solved to this day.
+
+Newsstand was discontinued in 2014. Apple then followed with Apple News alongside iOS 9 — an Apple version of "Toutiao" with humans intervening in article ranking. It made little impact and didn't solve the problem of helping media make money.
+
+**Television:**
+
+> "The TV industry has a subsidized business model that gives everyone a set-top box for free. That makes it very hard to innovate, because nobody's willing to buy a set-top box. Ask TiVo, ask RePlay TV, ask Roku, ask Google in a few months. Sony tried, Panasonic tried — they all failed. So you end up with a cabinet full of boxes hooked up to the TV, a table full of remotes, each with a different user interface… This is not a technology problem. It's a go-to-market problem. So Apple TV is just a hobby right now."
+
+The redesigned Apple TV of 2010 used cheaper hardware and gradually sold over ten million units. Not a small number, but truly negligible next to the iPhone.
+
+In 2015, Apple tried to enter the TV content market by [building its own cable TV service](http://www.qdaily.com/articles/14360.html). In the end Apple failed to persuade enough TV networks to join, and merely released a new box whose system looked more like the iPhone's, hoping to draw users with functions beyond watching TV by bringing in third-party apps like games and TV shopping.
+
+**Tablets:**
+
+> "When agriculture was dominant, all trucks were… all cars were trucks, because that's what you needed on the farm. But as urbanization came, trucks became less important. I don't have the exact figures, but maybe one in twenty or thirty cars is a truck. PCs are going to be like trucks. They're not going to go away, they're still going to have value, but only one in X people will need one… Is the post-PC era the iPad? Who knows. Will it take five years, or seven? Who knows. But we're headed in that direction."
+
+The iPad is undoubtedly the most important new product Jobs brought after the iPhone. From the very beginning it was treated as an experiment in replacing the personal computer — a new touch-based personal computer.
+
+Limited by the technology of the time, the first iPad measured only 9.7 inches yet already weighed over 600 grams. Its performance wasn't good enough either — it couldn't handle complex work like video editing.
+
+Regrettably, for years afterward the iPad did not move toward replacing the personal computer. It remained a couch computer for gaming and browsing the web. Apple's response to this was to release a cheaper iPad — the small-screen iPad mini.
+
+This led to a vicious cycle for the iPad. With a smaller screen, it differed too little from phones, so app developers were even less willing to build complex apps; so it remained a couch computer, and users had even less reason to upgrade — the 2011 iPad 2 still has a considerable installed base to this day.
+
+By the time big-screen phones became ubiquitous, the tablet market looked finished.
+
+It wasn't until the iPad Pro at the end of 2015 that Apple returned to the iPad's original goal — becoming a product that replaces the personal computer. It made a 12.9-inch iPad Pro and brought in longtime adversaries like Microsoft and Adobe to release productivity apps.
+
+By this year's second quarter, iPad sales were still declining, but the users still buying iPads were mostly buying the big-screen models.
+
+As for what comes next — whether Apple can transform the iPad Pro into a replacement for the personal computer — it's hard to say right now.
+
+Over these five years, none of the new-market explorations Jobs launched after the iPhone have broken through, and the essential problems he pointed out in that interview have all gone unsolved.
+
+On the one hand, this may be because none of these new products exceeded market expectations as dramatically as the iPhone did from the start.
+
+On the other hand, they also lacked timely adjustment after hitting the market. Even the iPhone only matured after several years of hardware and software updates.
+
+But while Apple itself failed to find the next iPhone, the other companies trying to build new platforms failed too.
+
+### Over the past five years, Apple's rivals failed to find "the next iPhone" — and stopped copying Apple
+
+At the 2007 iPhone launch, Jobs quoted Alan Kay, a pioneer of the computer graphical interface: "People who are really serious about software should make their own hardware."
+
+At the time, this was not how the tech industry generally operated. America's most important software and internet companies — Google, Microsoft, Amazon — barely touched the hardware business.
+
+A few years later, things changed somewhat.
+
+Amazon launched its own-brand Android tablet at the end of 2011, and a phone a few years later. Its phone and tablet used the Fire system, customized on top of Android, with both hardware and software controlled by Amazon itself. Amazon CEO Jeff Bezos personally controlled every detail of the phone project.
+
+Microsoft transformed itself in 2012: launching the self-designed Surface tablet and opening Microsoft retail stores modeled on Apple Stores. A year later, then-Microsoft CEO Steve Ballmer bought Nokia's phone business and launched a sweeping reorganization of the entire company, shifting from business divisions to a functional structure modeled on Apple's.
+
+Google, too, became serious about hardware starting in 2012. It acquired Motorola, then made Google Glass smart glasses itself, and bought Nest, the smart-home company founded by Tony Fadell, the former head of iPhone hardware.
+
+Google co-founder Sergey Brin appeared at TED in 2013 wearing Google Glass, saying that our daily use of smartphones was just standing there bored, touching a piece of glass, and that Glass represented a new product form. At that moment you knew Google was no longer content to help other companies make cheap smartphones — it wanted to produce the next iPhone-style breakthrough.
+
+Or take the story of a small Silicon Valley company, Pebble. The small team made a smartwatch that could run apps. Repeatedly rejected by venture capitalists, it turned to a crowdfunding platform and sold $12 million worth of product. You knew hardware had become sexy again.
+
+All of this happened after Jobs passed away.
+
+But five years on, hardware didn't stick.
+
+Google Glass became a symbol of Silicon Valley arrogance and was shelved by Google.
+
+Amazon's Fire phone sold only tens of thousands of units a month; Bezos subsequently admitted defeat and killed the phone business.
+
+Ballmer retired early (was pushed out) before a successor search had even begun, and Microsoft's phone business [all but vanished](http://www.qdaily.com/articles/27390.html).
+
+Things were no better for startups: Pebble struggled for survival, Jawbone teetered on the brink of collapse. Fitbit, the smart-band company that successfully went public, and GoPro, the non-smart one, both saw their share prices fall below their IPO prices, and no company has gone public successfully on a hardware business since.
+
+Five years later, the only one among America's tech giants still serious about hardware is Google, which has just released its new Pixel phone line.
+
+### The bigger problem is the future
+
+"In the early 1990s, the computer industry got a little boring. Microsoft and Intel won the PC wars, and innovation stalled. The future of the entire industry seemed to be nothing but a cost-cutting game among Dell, Gateway, Compaq and HP." Brent Schlender, author of *Becoming Steve Jobs*, recalled this as his reason for leaving tech reporting in 1991.
+
+That feeling was widespread in the 1990s. Bill Gurley, the famous Silicon Valley venture capitalist who invested in Uber, spent four years back then as a Wall Street investment bank analyst covering the tech industry. He said he rose quickly [because all the other analysts had left the PC market](http://www.recode.net/2016/9/28/13095682/bill-gurley-benchmark-bubble-uber-recode-decode-podcast-transcript).
+
+Tools, the cheaper the better — that was the state of the personal computer in the 1990s, like the VCD players that once swept China.
+
+The internet, starting in the 1990s, was an indispensable breakthrough. But constrained by the personal computer, it never truly achieved mass adoption. The early internet companies also ran headlong into the dot-com bust of 2000.
+
+Every company knew the smartphone mattered, but it increasingly came to resemble the BlackBerry — another office tool.
+
+Not until the iPhone of 2007 was the boredom broken.
+
+To be fair, most of the technologies in the iPhone were not developed by Apple itself. Multitouch had long been used by Microsoft on desk-sized computers; internet services came from Google; processors came from Samsung; mobile networks were driven forward by the carriers.
+
+But Jobs turned these technologies into a complete product that everyone would use, and in the end put the mobile internet into everyone's pocket.
+
+Had he not existed, the evolution of technology might have looked very different. Mac, iPod, iPhone — this person influenced the development of technology three times.
+
+Five years later, internet services are generating more and more revenue, but the innovation sparked by the smartphone and the mobile internet is gradually approaching a bottleneck.
+
+Hardware efforts at big and small companies have largely failed; since Uber, no second industry has been thoroughly transformed by the internet; heavily funded internet startups [can't find a way out](http://www.qdaily.com/articles/28937.html). Even YC, Silicon Valley's largest incubator that encourages technological innovation, now mostly attracts entrepreneurs [focused on enterprise business](http://tomtunguz.com/yc_investment_trends_2015/).
+
+As for artificial intelligence, the latest hot thing in Silicon Valley, most companies' commercialization imagination for it is replacing low-level jobs — underpaid ride-hailing drivers, supermarket cashiers, phone customer service, basic secretarial work and the like.
+
+Just like the personal computer of the 1990s, technology has become boring again.
+
+How can the personal computer evolve? How can television get better? What could actually replace the smartphone?
+
+If Jobs were still alive, could he have come up with something new to break today's boredom? No one can know.
+
+"He [Jobs] died too young. Henry Ford, Thomas Edison — by the time they died, it seemed we'd squeezed everything out of them," Jon Stewart said on *The Daily Show* after Jobs' death. "But Jobs. Ah, we hadn't finished squeezing! What happens next?"
+
+Cover image from [ytimg](https://i.ytimg.com/vi/uwEGXD5PblQ/maxresdefault.jpg)

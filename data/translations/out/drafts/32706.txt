@@ -1,0 +1,120 @@
+@@QD_TITLE@@
+Google and Facebook: Which One Represents the Future of Advertising? | What Changed Advertising ④
+@@QD_EXCERPT@@
+"Facebook believes that user identity is the most important thing for ensuring ad effectiveness. That's the key to performance … They know who you are and know a great deal about you. Google believes identity is secondary to intent. What matters is what you want right now, because the products and services being advertised exist to fulfill desires or needs."
+@@QD_BODY@@
+"Facebook believes that user identity is the most important thing for ensuring ad effectiveness. That's the key to performance … They know who you are and know a great deal about you. Google believes identity is secondary to intent. What matters is what you want right now, because the products and services being advertised exist to fulfill desires or needs."
+
+**The operating model the advertising industry has always relied on — "clients" put forward the demand, "agencies" produce the creative and handle media placement, covering target consumers as broadly and effectively as possible — is now under enormous challenge.**
+
+**Practitioners have never been as confused and unconfident as they are now about consumer insight — the foundation and core of the entire industry.**
+
+**A more mobile life changed all of this. As consumers hop among screens and allocate their time and attention at will, the marketers' creed "where the consumers are, the ad money flows" has lost its bull's-eye.**
+
+**That the era of TV advertising is thoroughly over has become near-industry consensus, but amid the dizzying complexity of the digital marketing environment, what kind of marketing is most effective has, at least for now, no clear answer.**
+
+**The exploration began at least three years ago, but judging from what is happening and from our interviews, the anxiety has not gone away. Every role in the industry chain, however, has fundamentally changed.**
+
+**Brand owners, for instance, who have always outsourced the production of marketing content to ad agencies, are starting to build in-house teams and do it themselves; ad agencies may have entered an era that prizes "R&D" above all — setting up data labs, keen on incubation, building data-integration platforms; media, which used to simply sell time and space, have had to wade into creative work because advertisers demand content "consistent with the media's own tone and style"; and Facebook, the representative of social media, has suddenly found itself standing opposite Google……**
+
+**This is why we launched this series. We will use four articles to explore how the change happened for every role in the advertising industry chain, and how they are each rebuilding the rules of the industry. This is the last one.**
+
+You may have had a similar experience: for days after you search for "cast-iron skillet" in a search engine or an e-commerce search box, you see cast-iron skillet ads on many of the web pages you open — and the one that keeps popping up in front of you is very likely the exact model you already ordered and bought. And after you like a car ad on a social platform, what is likely to show up in your feed afterwards is ads for resorts, not more car ads.
+
+The latter is exactly what Facebook has been selling all along — an ad mechanism different from Google's search-based recommendation.
+
+Each has its own algorithm behind it, and this is why data has become increasingly important in advertising. Tech giants like Google, Facebook — and China's BAT — have ushered the entire ad industry into an algorithm-driven era. The algorithm determines what ad content, or products, you end up seeing, whether or not you are aware of it.
+
+Google and Facebook are especially worth discussing because, measured by revenue, both are advertising companies in the truest sense — 89% of Alphabet's revenue comes from Google advertising, and Facebook relies on ads for nearly all of its revenue, as much as 96.9%. Among [the world's top 10 companies by market capitalization](https://en.wikipedia.org/wiki/List_of_public_corporations_by_market_capitalization#2016), they rank second and fourth, respectively.
+
+And in the mobile ad market, generally considered more promising, [the two account for more than half of the market share, according to research firm eMarketer.](http://www.emarketer.com/Article/Googles-Gains-Slow-Big-Mobile-Growth-Continues/1013531)
+
+They each set the rules of the game for search and social advertising. Both have massive user bases, rich data, the ability to do precision marketing, and payment based on ad performance.
+
+But the fundamental difference — and the foundation of the two different ad mechanisms — lies in the user information they hold.
+
+![The Facebook interface, with a feed ad in the center (labeled "Sponsored") and display ads on the right](http://img.qdaily.com/uploads/20160927233702AclkCt5T9B8zVWgZ.png-w600)
+
+Google's recommendation system is based on your search behavior — your search history, map routes, the people you exchange Gmail messages with, and so on; what Facebook gets is your social information. Beyond the default personal details you fill in at registration — location, gender, occupation, single or married, and so on — every like you give on the platform and every interaction with friends is recorded.
+
+In other words, Google collects information only after you have an intent; it infers "what you want to do." Facebook may be more "proactive" in collecting information; it guesses "who you are."
+
+All of this, though, is the target-consumer "relevance" they tout when wooing advertisers.
+
+In the words of [Ben Winkler](http://m.ftchinese.com/story/001068659), chief digital officer of OMD, the media agency under Omnicom Group: "Facebook believes that user identity is the most important thing for ensuring ad effectiveness. That's the key to performance … They know who you are and know a great deal about you. Google believes identity is secondary to intent. What matters is what you want right now, because the products and services being advertised exist to fulfill desires or needs."
+
+For advertisers, the two play different roles. Rob Norman, global chief digital officer of GroupM, the media agency under WPP, explained to QDaily: "Google Search is about letting consumers with purchase intent find you; Facebook is about letting you find the consumers you want."
+
+Both seem indispensable. And in fact, Google long held the throne as king of data marketing — until it was challenged by Facebook.
+
+![](http://img.qdaily.com/uploads/20160928003600hTa0boLQtiUFXx4Z.jpeg-w600)
+
+In 2015, Google held 33.7% of the global mobile ad market and Facebook 17.4%. But in 2012, Google's share of that market was as high as 52.3%, while Facebook's was just 5.3%. For the past year and a half, Facebook's ad revenue has been growing at a clip of more than 40%.
+
+Applying the ad-industry creed "where the consumers are, the money flows," what's behind this is actually a contest for consumers' time and attention.
+
+People are spending ever more time on their smartphones. According to the [*2016 Internet Trends Report*](%%SS_URL%%) from Kleiner Perkins Caufield & Byers (KPCB), Americans spend 2.8 hours a day on their phones, 90% of that time in apps and only 10% in the browser.
+
+And among the top ten apps in the US App Store, three belong to Facebook (Facebook Messenger, Instagram, and Facebook) and two to Alphabet (YouTube and Google Maps). In research firm comScore's report, US users spend an average of 35 minutes a day on Facebook — the most time on any platform, ahead of Alphabet's YouTube (17 minutes).
+
+You can see Facebook's current edge on mobile: its shareability, interactivity, and so on are making it increasingly favored by advertisers. Facebook's surging ad revenue in recent years has come entirely from mobile. In 2015, Google's mobile ad revenue accounted for about 50% of its total ad revenue; Facebook's figure was 77%, and by the second quarter of this year it had risen to 84%.
+
+For Google, a more threatening signal is that the unit price of its ads is falling, while the average price of Facebook's ads keeps rising.
+
+![](http://img.qdaily.com/uploads/201609272235549lmKGQx2ZPHWg6LI.jpeg-w600)
+
+Part of the reason is that, compared with Google, Facebook is a newer platform. More importantly, as Peter Metcalfe, digital director at Carat UK, wrote in an email reply to QDaily: "Facebook's ad products have evolved especially fast, and new ad formats have brought it many opportunities."
+
+Facebook's moves on ad products can be called aggressive. In just the past three months, it launched a location-based service, [Shop Visits](http://www.qdaily.com/articles/28269.html), that tracks whether consumers visit a store after being exposed to a brand's ad on Facebook; added a ["buy now" button](http://www.qdaily.com/articles/32245.html) in the messaging app Messenger to serve merchants on the platform; and changed its recommendation algorithm, rolling out a product called ["App Event Optimization"](http://www.qdaily.com/articles/29822.html) in hopes of pushing mobile app ads more precisely.
+
+App-install ads are crucial to Facebook. According to [an analysis](http://www.businessinsider.com/the-average-price-of-an-app-install-from-facebook-is-340-2016-7) Citigroup published earlier this month, mobile app-install ads contributed $2.9 billion to Facebook's revenue in 2015, while the entire US mobile app-install ad market was, on an optimistic estimate, just [$4.6 billion](http://www.businessinsider.com/the-mobile-app-install-ad-is-driving-a-boom-in-mobile-ad-spend-and-not-just-among-game-makers-2015-1).
+
+"But Facebook's advertiser mix has changed a lot in recent years. At first it was mainly small companies," Peter says. "But now, from our internal data, Paid Social (paid social ads) is the fastest growing, and more and more big advertisers are joining in, with large budgets." Indeed, Facebook has done quite a few things to court big clients — for example, offering custom ads built specifically for brands, a service both Walmart and Samsung have used.
+
+Google, in fact, is also constantly rolling out new ad products and features. For example, it introduced promoted pins on its Maps product, letting merchants expose their logos on the map; and it launched a Shop the Look feature that lets consumers shop directly within search results. It also rolled out ["trial ads"](http://www.qdaily.com/articles/18559.html) that let consumers try an app in a mobile ad for 60 seconds before deciding whether to download it, and ["interactive interface ads"](http://www.qdaily.com/articles/18559.html) that turn ads into interactive web pages. Most recently, it refined Brand Lift, a product that tests YouTube ad effectiveness.
+
+Although both have made many moves that look like efforts to grab each other's market — Facebook pushing purchase conversion, YouTube trying to attract more brand advertising — Facebook is still considered better suited to brand advertising, while Google is better suited to direct-response advertising.
+
+![Note: Experian is an information company, IAC is a media company, and Bankrate is a personal-finance company](http://img.qdaily.com/uploads/20160928003652yTGaJHv3ZXt5fFsR.jpeg-w600)
+
+You can see this from their respective big clients, too: consumer-goods companies including P&G, Unilever, and Nestlé prefer to advertise on Facebook, while the online travel companies that chase order conversion, Priceline and Expedia, both put more money into Google.
+
+In Peter Metcalfe's view, "Google ads are there to drive conversion — at the final stage of the sales funnel (aimed at consumers who have already formed a preference, or are even about to make a purchase)." By contrast, "Facebook can target (and hit) consumers higher up the sales funnel — at the initial stage, when they are still forming awareness and opinions about a brand or product — in more natural, native environments, in creative ways such as video."
+
+But things are changing, and online travel company Priceline recently changed its mind. Dropping its line that "Facebook ads are a waste," it announced it would increase its ad spending on Facebook. Before that, roughly 90% of its ad budget went to Google. The company claims it made the choice because it expects the returns on search-engine advertising, dominated by Google, to decline.
+
+"Priceline was already doing a good job of capturing consumer intent; now they need to get potential consumers to consider them on Facebook." From now on, we may see more Priceline ads on Facebook portraying all kinds of adventures at travel destinations, or Booking.com telling you how cozy and charming a small hotel is — instead of the Google search message "Book through us: fast and easy, no cancellation fees, register now for a $50 voucher."
+
+On the other side, P&G's recent plan to adjust its spending on precision advertising on Facebook also drew comment. Rob Norman's take: "I don't think P&G will reduce its Facebook budget, but it will definitely develop more different versions of creative content (for different audiences). Let the algorithm tell them which version of the creative suits which potential consumers — that's different from making different ads for different audiences."
+
+Peter Metcalfe has long emphasized that "the two platforms are complementary for advertisers. Based on our previous research, it's very common for someone to be exposed to an ad on Facebook, then convert through a Google search and finally complete the purchase. To get the best ad performance, I think you need to combine the two."
+
+It sounds like neither side is favored. But in fact, ad agencies' attitude toward these tech giants is somewhat delicate. At first, the tech giants bypassed the agencies and went straight to advertisers — they didn't even need to reach out actively: any advertiser could set up campaigns in Google's or Facebook's automated ad systems according to their own budgets. That became a threat to the agencies.
+
+Previously, ad agencies claimed — somewhat self-comfortingly — that both were partners. But in reality, whether it's the dependence they now have on data or their dependence on channels, they can only follow. Of course, Google and Facebook later also realized the benefits of working with ad agencies — the giants each hold big clients in their hands.
+
+![Snapchat, the "ephemeral" messaging app, launched filters, which have been embraced by advertisers](http://img.qdaily.com/uploads/20160928005607Nut8rnDeLvbIMWEh.png-w600)
+
+Martin Sorrell, CEO of WPP, is always sharp-tongued; he once said he hoped that AOL after its acquisition of Yahoo, or Snapchat, could become a third force beyond the Google-Facebook duopoly. But even so, as we analyzed in the earlier articles, it is still very hard for ad agencies to change their passive position when it comes to technology, channels, and audience insight.
+
+And for Google and Facebook, neither wants to be the "supplementary" role in advertisers' eyes. Though both always say advertisers need the two of them, each leans — more or less — toward itself. Otherwise, where would the ebb and flow between Google and Facebook in the mobile ad market come from?
+
+The one feeling greater pressure is certainly Google. It plans to roll out, in the coming months, a cross-device marketing tool that helps brands reach the same audience across different devices, websites, and apps, and thereby set how many times a user will see a given ad. ["Say you're a retailer and want to advertise for the coming Halloween shopping season. You can reach consumers with mobile ads during the morning commute, and then in the evening, when they're at home using their tablets, pop up another push notification."](https://www.thinkwithgoogle.com/products/brand-lift.html) Brad Bender, Google's vice president of display and video ads, said in a recent interview.
+
+Matt Hill, director at a research firm called Thinkbox, is skeptical about this: "Google places too much emphasis on the last click. Advertisers need to understand that all media exposure contributes to the final click." The other most important reason for his skepticism is that this is not done through an independent third party.
+
+![](http://img.qdaily.com/uploads/20160928005147qVaNLCbGsi9HfSh7.jpg-w600)
+
+Facebook, because of this, recently got caught up in a scandal. According to The Wall Street Journal, in late August, ad agency Publicis Media sent its clients a letter: average video viewing time had earlier been overestimated by Facebook itself — by 60% to 80%. And advertisers pay for every one of those views on Facebook's platform, which has more than 1.6 billion users worldwide every day — which means they had been overpaying considerably.
+
+Tech companies do not allow third parties into the ad back end to monitor data in person. Ad agencies can only see simple numbers — impressions, conversion rates, budget spend. The same is true of Google and Facebook.
+
+"The choice between Facebook and Google is actually not a matter of preference, but a matter of which platform can fulfill which need." That is true — but the scale always ends up tipping to one side.
+
+eMarketer expects that by 2017, Facebook's share of the mobile ad market will reach 20%, while Google's could be squeezed further down to 31.7%.
+
+But who knows — maybe another disruptive innovation will show up and wipe out both of them?
+
+Illustration: Lingwei Wu
+
+Cover image from Visual China

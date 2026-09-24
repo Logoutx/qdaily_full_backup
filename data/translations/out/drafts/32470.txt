@@ -1,0 +1,254 @@
+@@QD_TITLE@@
+The iPhone 7 Plus Unlocks All Its Camera Features — Just How Good Are Those Two Cameras?
+@@QD_EXCERPT@@
+Its inner workings differ somewhat from Apple's claims.
+@@QD_BODY@@
+Its inner workings differ somewhat from Apple's claims.
+
+The camera is the most important selling point of this generation of iPhone, and it took up the longest stretch of the iPhone segment at the launch event.
+
+This week, Apple released Portrait Mode (depth of field, which blurs the background) in the iOS 10.1 beta. With that, all of the iPhone 7 Plus's camera features have been "unlocked."
+
+QDaily spent a few days with the dual-camera iPhone 7 Plus, and we tried to show you—by comparing it with other phones—what's actually different about what Apple describes as "the best smartphone camera."
+
+We chose the iPhone 6, iPhone 6s Plus, and Samsung Galaxy S7 Edge as our comparison subjects. The hardware of their main cameras is roughly as follows:
+
+![](http://img.qdaily.com/uploads/20160922080000aru5hsqScO6Pei0t.png-w600)
+
+The iPhone 7 Plus's upgrades include a larger aperture and an added optical-zoom camera. Apple also designed its own image-processing chip for the first time, using machine learning to automatically enhance image quality.
+
+It should be noted that the official sample photos you usually see come with an endless array of [assisting tricks](http://www.qdaily.com/articles/32435.html) behind them. We tried to make our test resemble everyday shooting conditions; most photos were taken handheld, without elaborate lighting setups.
+
+If you're interested in a professional review and want to know what the iPhone 7 Plus can shoot once you've honed your skills to a top level, we recommend travel photographer [Austin Mann's](http://austinmann.com/trek/iphone-7-camera-review-rwanda) field report from Rwanda, as well as the sample photos shot by an [ESPN](http://www.espn.com/espn/feature/story/_/id/17496880/first-ever-iphone-7-photos-2016-us-open) sports reporter.
+
+Finally, because the images on this page have been compressed, you can click [here](http://huaban.com/boards/31899997/) to view and download the original photos we shot.
+
+### How the dual lenses work isn't quite what Apple said on stage
+
+At the launch event, Apple said the iPhone 7 Plus's dual lenses consist of one primary and one secondary unit, and that a new "1X" button in the middle of the camera interface means the 28mm fixed-focus lens does the shooting in the default state; tapping the number changes it to "2X," activating the 58mm optical-zoom lens and zooming in. The two lenses work independently.
+
+The reality is more complicated. We ran a comparison experiment by covering the lenses and found that when shooting scenery at a moderate distance, the iPhone behaves exactly as Apple described on stage.
+
+![The iPhone 7 Plus camera interface, with a zoom dial added, operable with one hand](http://img.qdaily.com/uploads/20160922053826wIUe9XG8ScRNPYaJ.png-w600)
+
+But in low light and in macro shooting (specifically, when the lens is within 20 centimeters of the subject), the secondary camera is never activated—which means that no matter how far you zoom in at those moments, it's all digital zoom.
+
+And when the optical-zoom secondary lens is working, covering the main lens makes the whole frame become abnormally bright and uncontrollable. It seems the main lens's job may be to handle light regulation, so the two lenses do cooperate to some extent.
+
+Within the 1–2x zoom range it's still digital zoom; the iPhone 7 Plus uses the main lens, and covering the secondary lens has no effect.
+
+### With optical zoom, distant subjects come out clearer
+
+Because of the added optical zoom, the iPhone 7 Plus is in theory better suited than other iPhones for shooting things far away. In actual shooting, that holds true when the weather is good.
+
+The iPhone 6 and 6s Plus can zoom in up to 5x, the S7 Edge up to 8x, while the iPhone 7 Plus tops out at 10x. You can think of it this way: because of the second lens, the iPhone 7 Plus can add digital zoom on top of its 2x lossless optical zoom.
+
+As a result, the iPhone 7 Plus starts from a higher baseline for long-distance shooting and thus captures stronger detail—windows on distant buildings are clearly visible. On this point it's a notch above the other three phones.
+
+![From left to right: iPhone 6 at 1x, 2x, and 5x zoom](http://img.qdaily.com/uploads/20160922054448JF7cBjqEuKx93IXD.JPG-w600)
+
+![](http://img.qdaily.com/uploads/201609220544482awblIkceXNOYsLJ.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922054448MclmwPJVvSH5j3BT.JPG-w600)
+
+From left to right: iPhone 6 at 1x, 2x, and 5x zoom
+
+![From left to right: iPhone 6s Plus at 1x, 2x, and 5x zoom](http://img.qdaily.com/uploads/20160922054536WfESyevRkXUHgxwn.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922054536WwCtPA2VoELQbSvZ.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922054536wAc8Wob30LENi4s5.JPG-w600)
+
+From left to right: iPhone 6s Plus at 1x, 2x, and 5x zoom
+
+![From left to right: S7 Edge at 1x, 2x, and 8x zoom](http://img.qdaily.com/uploads/201609220546326De1V5GQkucIHPrj.jpg-w600)
+
+![](http://img.qdaily.com/uploads/20160922054632GDTqtkgASMJfp1Cn.jpg-w600)
+
+![](http://img.qdaily.com/uploads/20160922054633nmjezDGJ2YslriTB.jpg-w600)
+
+From left to right: S7 Edge at 1x, 2x, and 8x zoom
+
+![From left to right: iPhone 7 Plus at 1x, 2x, and 10x zoom](http://img.qdaily.com/uploads/20160922054803ZhnFtwvmQSdfEXOJ.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922054803ghowGTtCXe8DFskN.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922054804Iu8JBLHU5i0rWjd3.JPG-w600)
+
+From left to right: iPhone 7 Plus at 1x, 2x, and 10x zoom
+
+You may also have noticed the big color differences in this set of images. The iPhone 7 Plus's output is closest to the natural state, with somewhat more accurate white balance and exposure. By comparison, the S7 Edge's colors are somewhat distorted.
+
+This difference is less pronounced in macro shooting, except for color. That's because the iPhone 7 Plus doesn't activate the secondary camera at those moments—which is also unnecessary, since the main camera has a larger aperture and produces better close-up imaging anyway.
+
+![From left to right: 2x zoom macro shots on the iPhone 6s Plus and iPhone 7 Plus](http://img.qdaily.com/uploads/20160922062443UyRIiFtBDn0eVwK8.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922062443iasShyWm3lZdC8DM.JPG-w600)
+
+From left to right: 2x zoom macro shots on the iPhone 6s Plus and iPhone 7 Plus
+
+### With a larger aperture, the difference in night photos is obvious
+
+The iPhone 7 Plus's main lens aperture has been enlarged from f/2.2 to f/1.8, which means it can gather more light in less time, making photos clearer.
+
+The effect of the large aperture is best experienced at night. The set of images below were all shot handheld, with the exposure point on the distant CCTV Tower. Clearly, the iPhone 7 Plus's output is "brighter" and contains more detail—even though the shutter speed in this shot is shorter than those of the iPhone 6 and iPhone 6s Plus.
+
+But zooming in, the iPhone 7 Plus isn't much sharper than the 6s Plus, which may have to do with handheld shooting—even though both phones have optical image stabilization, meaning a motorized mechanism in the camera that compensates for hand shake through the camera's motion.
+
+![From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge](http://img.qdaily.com/uploads/201609220606517A3qbzoRMDn2uXFT.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922060651bB3WniQsj0C7EvXO.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922060651V9mJBCxZcTkpM3w6.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922060652TtMNWX72yRBiKYh4.jpg-w600)
+
+From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge
+
+To eliminate the effect of shake, we used a tripod as an aid to shoot two more sets of night images.
+
+![From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge](http://img.qdaily.com/uploads/20160922064337RLiyN3fwZJucaMP5.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922064336Iy2w35eRuX01LFko.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922064335ZNrmE5cxCGP31baj.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922064337Z1rEPIRYsbFLnKX8.jpg-w600)
+
+From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge
+
+![From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge](http://img.qdaily.com/uploads/201609220648241ULJkFy6slbgfi2z.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922064824GzVfaDFWMS1eK3wJ.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922064824JBYT82M3xrC0c1AP.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922064824MXgQTep0UJxwGq6s.jpg-w600)
+
+From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge
+
+The iPhone 7 Plus's advantage in light intake is amplified: it captures more clearly things the other two iPhones missed, such as the outlines of distant trees. Noise is also kept within an unobtrusive range.
+
+The iPhone 7 Plus's night images have sharper colors and lean warmer. But based on our observation, the iPhone 6s Plus's photos come closer to what the human eye sees.
+
+This is an approach that pleases the average user's eye more, giving photos an eye-catching effect. Fortunately, the iPhone 7 Plus doesn't overdo the color grading the way the S7 Edge does—the latter has been criticized by photographers for greatly reducing the room for post-processing. That said, the S7 Edge handles low-light environments somewhat better than the iPhone 7 Plus; it also has a large aperture, and a close look reveals more detail in its images.
+
+This difference becomes even more pronounced in night scenes with complex light sources. The texture of sculptures, the pebbles in a pool, walls in the distance—the iPhone 7 Plus renders all these details better than the previous two iPhone generations, on a par with the S7 Edge.
+
+![From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge](http://img.qdaily.com/uploads/20160922071110vp0Zm1f2j3tMTOyS.JPG-w600)
+
+![](http://img.qdaily.com/uploads/201609220711103lQd4CUxniZLSVfe.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922071110hBDL4RJGYOc5mKsv.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922071110KDOMkx1Xm9YhfCA6.jpg-w600)
+
+From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge
+
+![From left to right: iPhone 6, 6s Plus, 7 Plus, and S7 Edge](http://img.qdaily.com/uploads/20160922071523qzDTQtpwJ3ksoL2V.png-w600)
+
+The large aperture also brings a change in depth of field: the iPhone 7 Plus blurs backgrounds more, giving images a stronger sense of layering. The change isn't dramatically obvious, but a careful comparison does reveal some difference.
+
+![From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge](http://img.qdaily.com/uploads/201609220728266mORx07XrlTtdf3M.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922072826rmfqxHYEZOC3LbhW.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922072826Dk9QHx6PhtlA2Wyg.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922072827b0DkiQNoL6gFqdTr.jpg-w600)
+
+From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge
+
+### The new image processor automatically retouches photos, and that changes their color style
+
+The sample photos Apple showed at the launch event had very rich colors, which relates to the iPhone 7's new-generation ISP image-processing chip. Apple says this chip performs 100 billion operations per second; through machine learning plus imaging algorithms developed in-house, the iPhone 7's photos can have more accurate exposure and white balance while also correcting color.
+
+![From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge](http://img.qdaily.com/uploads/20160922073717hsLKlxtJDirVXnG6.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922073717BEPy0YI7uZL8Ac6b.JPG-w600)
+
+![](http://img.qdaily.com/uploads/201609220737188gZcTCPFQARK0Gj2.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922073719BhuFcQlD5sbg3INW.jpg-w600)
+
+From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge
+
+The algorithm increases the image's latitude (the brightness contrast of the scene). The set of photos above was shot against the light, with the exposure point near the bright area. You can see that the iPhone 7 Plus balances the exposure of light and dark areas better than the other three phones—it's the one that shot the clearest image. The S7 Edge is sharper than the iPhone 7 Plus in the details of tree trunks and the background, but its glare is somewhat severe.
+
+Without such extreme light-dark contrast, the iPhone 6s Plus actually performs quite well—almost the same as the iPhone 7 Plus, or even better. The clearest dark-area details belong to the Samsung S7 Edge, while the iPhone 7 Plus's exposure in bright areas is relatively accurate.
+
+![From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge](http://img.qdaily.com/uploads/201609220743017fz4QbdsohH9rieg.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922074301OYE5GcbtJ3zpHsIM.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922074301qOuD5BxreCkgI4f2.JPG-w600)
+
+![](http://img.qdaily.com/uploads/201609220743014ix2S9qWyEZvKRHo.jpg-w600)
+
+From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge
+
+The other change the algorithm brings is color: the iPhone 7 Plus has higher saturation and contrast, with richer, more vivid tones—it looks more post-processed compared to the other two iPhones. But the most color-drenched of all is still Samsung, which has always rendered images warm.
+
+![From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge](http://img.qdaily.com/uploads/20160922075416dPz6mWu1MnSweDKa.JPG-w600)
+
+![](http://img.qdaily.com/uploads/201609220754173oU5QtyCaSzT9FOZ.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160922075417g7GsbqPJuK9y48MA.jpg-w600)
+
+![](http://img.qdaily.com/uploads/2016092207541756kRHOIJ7NLhamZB.JPG-w600)
+
+From left to right: iPhone 6, 6s Plus, 7 Plus, Samsung S7 Edge
+
+### Portrait Mode is a lot of fun, but it doesn't work well at night
+
+Portrait Mode is another new feature exclusive to the iPhone 7 Plus. It's also an algorithm-driven imaging effect that blurs the background of a photo, as if it were shot with a large-aperture lens. Many people consider this a pleasing effect, suited to portrait photography.
+
+Some Android phones and third-party apps already offer similar features. The principle is like cutout compositing: the phone identifies the outline of the subject and then blurs the background layer. Apple says the iPhone 7 Plus performs multi-layer computation to achieve the best result.
+
+The native camera app gains a "Portrait Mode" option, alongside modes like "Square" and "Pano." Portrait Mode requires the lens to stay within 8 feet (about 2.4 meters) of the focus point; the system shows a line of small text prompting "Move farther away" or "Move closer" until it indicates you can shoot.
+
+![](http://img.qdaily.com/uploads/201609232218116RL0brIQ8t4c3smZ.PNG-w600)
+
+In this mode, the camera uses the f/2.8 zoom camera. Its light intake is smaller, which affects output quality—and our actual shooting bore this out.
+
+In bright daylight, the simulated depth-of-field effect has no major problems, but in dim settings and at night, image quality is less than ideal.
+
+![From left to right: the effect without blur processing, and after processing](http://img.qdaily.com/uploads/20160923221009FgZaOeG42o0nqWLJ.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160923221009G1YunCZaFDzgRm0e.JPG-w600)
+
+From left to right: the effect without blur processing, and after processing
+
+![From left to right: the effect without blur processing, and after processing](http://img.qdaily.com/uploads/20160923222638WjZysNGK0Q7riIBu.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160923222639pdm1a6CJXMT47zl5.JPG-w600)
+
+From left to right: the effect without blur processing, and after processing
+
+One thing is certain: the blurred background does improve a photo's aesthetics. But there's a fair amount of noise in it, the subject is visibly sharpened, and edge handling—like the rim of the cup on the right—isn't perfect either.
+
+For comparison, we brought in a Fujifilm X-T10 mirrorless camera fitted with a 35mm f/1.4 prime lens. Clearly, the shallow-depth-of-field photos produced by this lens—heavier than the iPhone 7 Plus—look more natural and don't suffer from excessive noise.
+
+So this new feature that makes photos prettier is best used in very well-lit conditions. At night, its image quality can't match the iPhone 7 Plus's normal mode or the S7 Edge.
+
+That said, Portrait Mode is still in beta, and the official release may deliver better results.
+
+![From left to right: iPhone 7 Plus, Fujifilm X-T10, Samsung S7 Edge, iPhone 6s Plus](http://img.qdaily.com/uploads/20160923223836QfGl3vjAyDLWPiFN.JPG-w600)
+
+![](http://img.qdaily.com/uploads/201609232240101eUugJGOrYytFfVm.JPG-w600)
+
+![](http://img.qdaily.com/uploads/20160923223836EFpTiyvkl51SAGtW.jpeg-w600)
+
+![](http://img.qdaily.com/uploads/20160923223835bJOTmz5eocVGiEdX.JPG-w600)
+
+From left to right: iPhone 7 Plus, Fujifilm X-T10, Samsung S7 Edge, iPhone 6s Plus
+
+### No question about it—this is the best iPhone for photography yet
+
+Hardware and software improvements lift the iPhone 7 Plus's camera well above the iPhone 6s in image quality, especially in optical zoom and night imaging. But if you want the most striking results, you may need to hold the phone steadier or use a tripod.
+
+As for the iPhone 7's overall color adjustments, that's truly a matter of personal taste.
+
+There's a reason the S7 Edge at one point this year surpassed the iPhone 6s to become the best-selling phone in the United States: its image quality is superior to the iPhone 6s Plus, and its warm tones have a loyal following of their own.
+
+By this generation, the iPhone's camera has caught up with Samsung.

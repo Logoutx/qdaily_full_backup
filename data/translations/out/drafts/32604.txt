@@ -1,0 +1,170 @@
+@@QD_TITLE@@
+Social yes, media no: after 10 years of dithering, Twitter is finally going to have to sell itself
+@@QD_EXCERPT@@
+Once cast as Facebook's rival and the largest company to go public in 2013, it now has no choice but to sell.
+@@QD_BODY@@
+Once cast as Facebook's rival and the largest company to go public in 2013, it now has no choice but to sell.
+
+On Friday of last week, the last trading day at the New York Stock Exchange, [Twitter's share price surged 22%](http://www.cnbc.com/2016/09/23/twitter-may-receive-formal-bid-shortly-suitors-said-to-include-salesforce-and-google.html), adding nearly US$3 billion to its market value out of thin air. The reason? Everyone believed the company was about to be sold.
+
+According to [CNBC's report that day](http://www.cnbc.com/2016/09/23/twitter-may-receive-formal-bid-shortly-suitors-said-to-include-salesforce-and-google.html), multiple tech and media companies, including Google, were in talks to acquire Twitter.
+
+[Recode reported](http://www.recode.net/2016/9/23/13029710/twitter-wants-big-money-sale-issue-buyers) that Twitter's board hoped to sell the company at a hefty price of US$30 billion. Its current market value is US$16 billion.
+
+Ten years into its founding, Twitter has begun seriously considering selling itself.
+
+Its investors agree this would be better than Twitter remaining independent, and bought in heavily. That day, Twitter was the most-traded stock in the United States, with volume three times that of the runner-up.
+
+Twitter, the global social giant once mentioned in the same breath as Facebook, was the largest IPO of 2013. It was also the largest Silicon Valley company to go public after Facebook.
+
+Why has this company stopped believing in going it alone? And what happens to Weibo, which learned from it?
+
+### Why does Twitter want to sell?
+
+As a public company, Twitter has to keep growing revenue and profit to reward shareholders, but it has failed to do so.
+
+![](http://img.qdaily.com/uploads/20160926000802ZhTV8Da1MoXvHwP6.png-w600)
+
+Twitter's growth began to slow from the second quarter of 2014. Over the last two quarters, its growth has all but stalled.
+
+It isn't just revenue shrinking; Twitter's user numbers have barely budged either. More than 1 billion people now use Facebook every day.
+
+And according to data Bloomberg obtained from multiple research firms, no more than 140 million people open Twitter each day — a figure below that of the upstart video social app Snapchat, two-thirds of whose users send messages daily, while most Twitter users just lurk.
+
+![](http://img.qdaily.com/uploads/20160926002216RoT4H6OxsA2fEXa5.png-w600)
+
+Clearly, Twitter has little growth potential left.
+
+That has driven its share price down continuously for the past year and a half. Even after last week's excitement, Twitter's stock still trades at only half its price at the 2013 IPO.
+
+![](http://img.qdaily.com/uploads/20160926000812OlJmAksyHRwgUBSu.png-w600)
+
+A weak share price brings a string of problems. First, Twitter executives holding large amounts of company stock began leaving in batches. In the first eight months of 2016 alone, seven members of Twitter's core management left, spanning product, engineering, business, human resources and other areas. Its short-video service Vine also lost multiple core members.
+
+It isn't only executives who hold shares: [on average, about a third of a Twitter engineer's annual income comes from stock](http://www.qdaily.com/articles/32450.html). The falling share price directly shrinks their pay, and good engineers in Silicon Valley have no shortage of suitors.
+
+To address this, Twitter has cut the share of stock in compensation packages, replacing it with cash bonuses. This temporarily eased the engineer exodus, but also raised the company's operating costs.
+
+When [LinkedIn abruptly sold itself](http://www.nytimes.com/2016/06/14/business/dealbook/linkedin-stock-based-compensation.html?_r=0) earlier, one big reason was also that the falling share price threatened the company's stability, something LinkedIn's leadership reshuffles failed to reverse. Twitter's situation is much the same.
+
+In 2010, Twitter — flush with users but short on cash — appointed former Google executive and its own former chief operating officer, Dick Costolo, as CEO to build an advertising business.
+
+In 2015, Twitter, by then selling ads, fell into a user-attrition crisis. It brought back its first CEO, Jack Dorsey, who had originally invented Twitter, to lead the company again.
+
+Since last July, Jack Dorsey has led Twitter through a series of product updates: relaxing the 140-character limit, adding aggregated information, pushing livestreaming, and more.
+
+Twitter now looks more and more like Weibo, but after a year of adjustments, the number of people using Twitter daily still hasn't grown, and ad revenue growth fell sharply in the most recent quarter.
+
+Unable to reverse the decline and unable to keep people, Twitter doesn't have many choices left.
+
+### So who could Twitter be sold to?
+
+Long ago, there were rumors that Google might acquire Twitter. CNBC's inside information this time also names Google as one of the most likely buyers.
+
+Google has plenty of reasons to buy Twitter:
+
+- Google remains interested in social networking. Google+ has still not been completely killed off;
+- Twitter is the world's most important channel for the flow of real-time information, holding vast amounts of data;
+- Google lacks a place to display ads on mobile phones, and Twitter has one.
+
+Buying Twitter would mean Google could sell ads more effectively, and keep taking a run at social networking.
+
+The catch is that Twitter [opened its data to Google](http://www.bloomberg.com/news/articles/2015-02-05/twitter-said-to-reach-deal-for-tweets-in-google-search-results) in 2015 in exchange for traffic. At the same time, Twitter's ad slots have already been plugged into Google's [ad-delivery system](http://www.recode.net/2015/4/30/11562072/twitter-ads-need-help-but-twitter-may-already-have-an-answer).
+
+These partnerships mean Google gets Twitter's data and its ad slots without having to buy the company. For Google, that removes some of the motivation to acquire Twitter.
+
+Another potential buyer is Salesforce. Salesforce is an enterprise services platform where third-party developers build all kinds of tools for businesses. Twitter, by contrast, connects with consumers, and the two have little direct overlap.
+
+The company's [chief digital evangelist, Vala Afshar, listed several](https://twitter.com/ValaAfshar/status/779325812558397440?ref_src=twsrc%5Etfw) reasons he personally thinks it should buy Twitter — a personal learning network; the best real-time news; democratized data; a marketing channel. Of these, only the marketing channel has much to do with Salesforce.
+
+Salesforce earlier tried to compete with Microsoft to buy LinkedIn, offering US$26 billion (Salesforce's market value is under US$50 billion). But that doesn't mean it would necessarily pay the same price for Twitter. LinkedIn is a real-name network focused on the workplace, which can directly help sell enterprise services. Twitter not only doesn't require real names, it is also far more deeply in the red than LinkedIn.
+
+![](http://img.qdaily.com/uploads/20160926000912uHkWJDhUZ3ybSK5p.png-w600)
+
+Among other high-market-value tech companies, Microsoft has already bought LinkedIn, and Apple has no real interest in social. Amazon likewise has little interest, and limited cash on hand. As for Facebook, it has already beaten Twitter and doesn't need to buy it at a premium.
+
+Media groups don't have a particularly good reason to buy Twitter either. Then again, Verizon's purchase of Yahoo made no great sense either, so what will happen is still hard to say.
+
+As the largest American internet company to go public since Facebook, Twitter now not only has to sell — the prospects for a sale aren't great either.
+
+### Twitter's media attributes are no longer unique, and the social part that remains can no longer provide enough growth momentum
+
+This year is Twitter's tenth.
+
+In 2006, before the iPhone was even released, Twitter created [a way of presenting information suited to phone screens](http://www.qdaily.com/articles/24181.html) — a single feed, arranged chronologically, scrolling down, with no new pages to open and no left-right swiping. Today the vast majority of apps have adopted the same logic for displaying information.
+
+![Today, whether it's Sina's news feed (right) or Ele.me, which sells food delivery (left), all use this simple, vertically scrolling way of presenting information.](http://img.qdaily.com/uploads/20160926000957RVjaAhQz71qeBTy5.jpg-w600)
+
+With Twitter and mobile internet, information began to travel faster and at a lower threshold. Filming the plane that crash-landed in the Hudson River, ordinary people published the news faster than news organizations; rapid, open group messaging also gave participants in popular movements such as the Arab Spring a way to push back against governments.
+
+For a time, the world believed Twitter would become a new kind of media — one that delivers and produces information on top of a social network. Twitter believed this too, posting an article on its official blog in 2010 declaring it would become "the pulse of the world."
+
+In the end it failed to change the news; it merely became a channel for it.
+
+According to [one study](http://www.eecs.wsu.edu/~assefaw/CptS580-06/papers/2010-www-twitter.pdf) that examined 40 million Twitter messages in 2010, most of the content that spread the furthest on the social platform came from "big accounts" with huge followings.
+
+As a pure channel, Twitter's efficiency can no longer match Facebook's.
+
+The latter was originally just a community of acquaintances, but as its algorithm blended news with things happening around you, users could see news they were likely to find more interesting — along with updates from friends and family — without having to make many choices or customizations. Facebook became an all-purpose information channel, and one with a lower barrier to use.
+
+According to an earlier Pew report, in 2013 more users read news via Twitter. But by 2015, the share of users getting news through Facebook had drawn level with Twitter.
+
+### What about Weibo?
+
+Twitter's advantage as a news channel has gradually been caught by Facebook. It also has no network of acquaintances and has become increasingly niche. The number of people opening it each day is now less than a seventh of Facebook's.
+
+When users can't grow and it can't sell more ads, its independent survival becomes a question.
+
+Weibo has not avoided similar problems.
+
+Weibo today is more a hub for entertainment information. Open the content inside "hot Weibo," and the posts with over 10,000 comments are almost all about entertainment stars. The amount of feedback received by entertainment versus non-entertainment hot content generally [differs by a factor of several hundred](http://weibo.com/feed/hot?leftnav=1&page_id=102803_ctg1_1760_-_ctg1_1760).
+
+The only event Weibo held this year was its influencer festival, which in essence amounted to inviting the platform's most entertaining bloggers to an awards ceremony.
+
+Weibo CEO Wang Gaofei has also admitted that compared with the fake news proliferation the platform was once criticized for, today's problem is that even the fake news is only entertainment-oriented.
+
+![](http://img.qdaily.com/uploads/20160926003627cXNJp78njlBUKtmg.png-w600)
+
+Weibo's recent efforts have all revolved around entertainment too. From the two products it invested in and connected to itself — Miaopai (short video) and Yizhibo (livestreaming) — to the new product it launched, Weibo Headlines, it's all the same.
+
+This seems to be a choice it can't avoid: timely news tends to be aggregated into Toutiao or the Tencent and NetEase news apps.
+
+As for the everyday trivia about friends and family — so-called user-generated content — that has long been locked down by WeChat Moments. Also grabbed by WeChat are the "self-media" inside official accounts.
+
+The types of information Weibo occupies are now narrower even than Twitter's. The latter is at least still a hub for breaking news. Constrained by its environment, Weibo can no longer provide an equivalent service.
+
+Weibo's financial numbers, to be fair, are still growing. Revenue reached US$127.2 million in this year's second quarter, up 45% year on year, while the number of people opening Weibo daily also rose 36% in Q2.
+
+The question is whether Weibo's revenue and user growth can last.
+
+Before this year, at least a third of Weibo's ad revenue came from a single company, Alibaba.
+
+![](http://img.qdaily.com/uploads/20160926073011wecaWJG2ySfFo6UQ.png-w600)
+
+Weibo is, after all, China's third-largest social network with 100 million daily users. For one company, Alibaba, to account for such a high share only shows that its ad sales used to be immature, and are finally getting on track.
+
+Twitter also maintained two years of rapid growth after building its ad business.
+
+Twitter now makes US$1.92 per active user per quarter, and it has hit a ceiling. Weibo's number has similarly barely changed over the past two years.
+
+![](http://img.qdaily.com/uploads/201609260104588Mj1rHECdhZNaw05.png-w600)
+
+With little change in the money earned per user, Weibo's revenue growth has to come from more users.
+
+Its user growth is the result of successfully migrating users to mobile. Unlike Twitter, which started out on SMS and mobile internet, Weibo lived through users migrating from the desktop to the phone.
+
+To give things a push, Weibo has, since the start of this year, been encouraging you to log in to the desktop by scanning a QR code with the mobile app. And every time you open it you have to log in again — it no longer keeps you logged in. All of this is meant to force users off the web and onto the mobile client.
+
+Moving from the computer to a phone that's never out of hand for 24 hours, users' frequency of use goes up. The question is: with a Weibo whose content focus grows ever narrower, can it keep growing once the user migration is complete?
+
+The ceiling Twitter has hit today is one Weibo hasn't yet found a way around.
+
+Luckier than Twitter, Weibo has a potential buyer in Alibaba, which, like Google, lacks social. This month Alibaba added US$300 million to its Weibo stake, [bringing its share to 31.5%](http://www.qdaily.com/articles/32063.html).
+
+And Alibaba cares more than Google about the 100 million users a social network engages every day.
+
+Holding search and Android, Google reaches more than 2 billion people daily. Alibaba, by contrast, desperately needs traffic. Much of what Alibaba has done this year relates to this: putting original series on Taobao, adding a news headline feed inside Alipay. UC, which it invested in, is likewise transforming its browser into a Toutiao-like news product.
+
+This past April, when asked whether Weibo would be sold to Alibaba, [Charles Chao, CEO of Sina, Weibo's largest shareholder, put it this way](http://www.cnbc.com/2016/04/24/charles-chao-says-sina-weibo-not-for-sale-despite-rumored-alibaba-bid-for-microblog.html).
+
+> "I don't think there's anything substantive right now. But whether the two sides spark anything — in the end, that's for Alibaba to judge."

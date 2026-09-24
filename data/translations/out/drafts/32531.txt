@@ -1,0 +1,126 @@
+@@QD_TITLE@@
+Joe Sutter Has Passed Away, and the Boeing 747's Era Really Is Coming to an End
+@@QD_EXCERPT@@
+A classic case of "the times make the hero, and the hero makes the times"
+@@QD_BODY@@
+A classic case of "the times make the hero, and the hero makes the times"
+
+Even if you're not an aviation buff, if you've ever flown on a Boeing 747, it left a deep impression on you. This giant, known as the "Queen of the Skies," was the world's first wide-body jet airliner. Beyond its sheer size, its most recognizable feature is the slightly raised "hump" at the top of the fuselage.
+
+On January 21, 1970, when it carried passengers for the first time, from New York's JFK Airport to London Heathrow, the city of London celebrated as if it were a holiday, with "Welcome 747" banners everywhere on the streets. Children lifted onto their fathers' shoulders to watch the behemoth would nearly always stretch out an index finger to point at that peculiar-looking nose.
+
+For many people of that era, the Boeing 747 fulfilled their dream of intercontinental flight. The world miraculously shrank.
+
+And the even greater miracle behind this miracle is that such an invention was completed in a mere 28 months by a chief engineer in his forties leading several thousand engineers.
+
+That young chief engineer was Joe Sutter. The success of the Boeing 747 earned him the honorary title "father of the Boeing 747." Born in 1921 in Seattle, home to Boeing's headquarters, he was only five years younger than Boeing itself. And he would go on to devote nearly half his life to the Boeing 747 family.
+
+On August 30, 2016, he passed away in the United States at the age of 95.
+
+![Joe Sutter and the Boeing 747 (Source: [CNN](http://money.cnn.com/2016/08/30/news/boeing-747-father-joe-sutter-dead/))](http://img.qdaily.com/uploads/20160923114044czZlpxmHU4R1bTQh.jpg-w600)
+
+The 1960s, when the Boeing 747 was born, are called the golden age of air travel. At the time, the existing Boeing 707 and the Douglas DC-8 had pushed jet travel forward, but the limited passenger capacity of small and mid-sized aircraft left airports crammed with travelers waiting for flights.
+
+To cope with ever-growing passenger volume, there were two solutions at the time: greatly increase flight speed, or double cabin capacity. Back then, whether it was the United States, the Soviet Union, Britain, or France, everyone saw supersonic aircraft as the future; add in the factor of political competition, and Boeing joined the U.S. government and several other American airlines in launching a supersonic aircraft R&D program, pouring in massive amounts of manpower and resources in hopes of building an advanced plane that would fly at three times the speed of sound.
+
+Although Pan Am, then the world's largest airline, was prepared to solve the market demand through the second route—having Boeing build it a large airliner more than twice the size of the Boeing 707—and in April 1966 ordered 25 Boeing 747s, demanding delivery within 28 months, the 747 program was not regarded as a priority at Boeing. Boeing's plan at the time was that once the supersonic aircraft succeeded, the subsonic Boeing 747 would be relegated to second place and demoted to cargo use.
+
+When the Boeing 747 program was approved, Sutter was working on the Boeing 737. Because the most senior engineers had all been transferred to the supersonic program, Sutter was just about the only chief-engineer candidate who was both available and qualified.
+
+And the engineers assigned to Sutter were basically all ones who had been rejected by the supersonic program for one reason or another. The team's morale was already somewhat low, and since many of these engineers were highly senior—quite a few more than ten years older than Sutter—Sutter spent considerable effort in the early days of the project establishing his authority.
+
+He had to remind them from time to time that he was the person in overall charge of the project. He once joked with them: "If you don't want to work under me, there's a sinecure open in Bangladesh, and I'll have you posted there."
+
+But the birth of the hump design and the adoption of the single-deck wide-body cabin plan changed the situation.
+
+Because the 747 also had to serve as a freighter, its nose needed to open like a cargo door so that large shipments could be loaded and unloaded. In that case, if the cockpit remained in the conventional position, should the plane crash, cargo would push forward into the cockpit and threaten the pilots' lives. This problem had also plagued Boeing, Douglas, and Lockheed in the early 1960s, when they were designing the CX-HLS heavy military transport for the U.S. Air Force.
+
+But Sutter and his engineers came up with a solution: place the cockpit on top of the fuselage, and that distinctive hump was thus born.
+
+![A Cargolux 747-400F with its nose open for loading and unloading cargo (Source: [wikipedia](https://en.wikipedia.org/wiki/Boeing_747-400))](http://img.qdaily.com/uploads/20160923114451j4PImHS3nl5MzYgk.jpg-w600)
+
+But the truly difficult part of the project was how to fit more than 300 passengers inside a single aircraft.
+
+Pan Am CEO Juan Trippe's vision was to turn the 747 into an ocean liner, with two decks and round portholes; this would not only solve the capacity problem but also make passengers think of a ship when they saw the 747. In Trippe's view, the whole project held no real difficulty either, since what he wanted was merely to keep the Boeing 747's width unchanged and add one more deck.
+
+A large contingent of Sutter's engineers went along with Trippe's romantic idea. On the one hand, people's imaginations about expanding capacity were constrained by the existing double-decker buses; on the other hand, Trippe was an overbearing, difficult client who had cancelled orders several times in past dealings with Boeing and other airlines, and if his concept were rejected, there was a good chance he would angrily tear up the contract in a fit of pique. So at the outset, the project design proceeded according to Trippe's two-deck plan.
+
+Sutter and the others quickly discovered the weaknesses of this plan. The most fatal hazard was that in an emergency, passengers would find it very hard to evacuate in time from the upper cabin, 25 feet above the ground.
+
+He and a few engineers then came up with a plan to widen the single deck and move the seats of the former upper deck down to the lower one. But as soon as this plan was proposed, it met opposition from engineers within the group; many argued that redesigning the plan would seriously delay progress and ultimately make it impossible to complete the order within 28 months. And company leadership's concern was that going against Trippe's wishes would directly cause the project to collapse.
+
+But thanks to Sutter's insistence, senior management was eventually persuaded. Afterward, Sutter and his colleagues deliberately built a physical model of the wide-body airliner and invited Trippe to come see it. Although Trippe expressed great dissatisfaction when he first heard of the new plan, after he inspected the physical model and confirmed that the new aircraft could hold enough passengers, he ultimately relented.
+
+![Joe Sutter with a miniature model of the Boeing 747 (Source: [telegraph](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&ved=0ahUKEwin3fmvwaTPAhUh6oMKHVlSAqoQjxwIAw&url=http%3A%2F%2Fwww.telegraph.co.uk%2Fobituaries%2F2016%2F08%2F31%2Fjoe-sutter--chief-jumbo-jet-engineer%2F&psig=AFQjCNH0i9yRyJmnJ4dRyPmTZKAMGA_KcA&ust=1474686479469352))](http://img.qdaily.com/uploads/201609231146393zWMyYhoxtimBQjR.jpg-w600)
+
+By this point, however, being pulled between the two giant programs—the 747 and the supersonic plane—Boeing was already in serious financial trouble, and banks began threatening to cut off its loans. To save money, Boeing's senior management considered layoffs.
+
+At the time, Sutter had 4,500 people under him, of whom 2,700 were purely technical staff. The team looked huge, but under the pressure of the 28-month delivery deadline, everyone was working overtime, and the workload had reached its limit. At one meeting with senior management, Sutter was ordered to cut 1,000 of his engineers.
+
+Cutting 1,000 people would be tantamount to paralyzing the entire project. Sutter said that was virtually impossible.
+
+Boeing's chief financial officer at the time threw a question at him and left the conference room: "Sutter, do you know your engineers cost $5 million a day?"
+
+Later, he was "mercifully" given four weeks to solve the problem. Unfortunately, when he stood before Boeing's senior management again, not only had he not cut a single person, he also asked them to assign him 800 more. On the spot, one executive stormed out on the pretext of having a plane to catch.
+
+For a while, Sutter believed that day would be his last at Boeing. But in the week that followed, he heard nothing from senior management. Only as time passed did he finally confirm that he was still chief engineer of the Boeing 747 program.
+
+After the layoff episode, he also clashed with senior management over the engines, and once again he thought he would be packing his bags. But in the end, his decision to choose the Pratt & Whitney JT-9D engine proved right once again.
+
+![The first Boeing 747 prototype made its public debut in 1968 (Source: [wikipedia](https://en.wikipedia.org/wiki/Boeing_747))](http://img.qdaily.com/uploads/20160923115257WvMyrf12ieOzC6w9.jpg-w600)
+
+![Virgin Atlantic soon bought Boeing 747s as well (Source: [skypebookings](http://skypebookings.com/blog/article/icon-of-the-skies-a-look-back-at-the-early-days-of-the-boeing-747/))](http://img.qdaily.com/uploads/201609231156388QSTkvNrgwf7cm2s.jpg-w600)
+
+![](http://img.qdaily.com/uploads/20160923115634sDjUQEgGFCKu3J5f.jpg-w600)
+
+![People cheering after the Boeing 747's successful maiden flight (Source: [skypebookings](http://skypebookings.com/blog/article/icon-of-the-skies-a-look-back-at-the-early-days-of-the-boeing-747/))](http://img.qdaily.com/uploads/20160923115618oVfCm9XIiGTlWwpy.jpg-w600)
+
+In the 1970s, because it could not overcome the technical challenges of flying at three times the speed of sound, and because of tight budgets, among other things, Boeing's supersonic program went bankrupt. After the Boeing 747's successful maiden flight, it even defeated the Concorde supersonic airliner jointly developed by France and Britain, becoming the most popular aircraft model of its time.
+
+As [a previous QDaily article explained](http://www.qdaily.com/articles/30585.html), compared with the Concorde, the 747—though it flew at less than half the Concorde's speed—was cheaper to build, had longer range, and could carry more than three times as many passengers, meeting the needs of many airlines at the time. Airlines rushed to place orders and also reaped handsome profits from the 747.
+
+And ordinary consumers were another big beneficiary of the Boeing 747 program. In the past, intercontinental flight was a luxury: tickets were expensive and economy-class seats were narrow; people preferred the slower but cheaper option of crossing the ocean by cruise ship. But the Boeing 747's increased passenger capacity saved airlines a fair amount of operating cost, and paired with the wide-body cabin layout, people could spend less money for a more spacious seat—and, of course, arrive at their destination sooner. The travel convenience brought by this technological innovation made many people marvel that the world had grown smaller.
+
+This virtuous cycle also helped Boeing escape the financial quagmire left behind by the supersonic program. In the 50 years after receiving its first order in 1966, Boeing delivered more than 1,500 aircraft of all 747 variants. It is also the only wide-body airliner whose total orders have surpassed 1,500.
+
+![Boeing president Bill Allen (left) and Pan Am CEO Juan Trippe (Source: [cdn](http://cdn.fishki.net/upload/post/2016/07/18/2016387/fb5bb96dda00ca4828a0f5a945eaaac3.jpg))](http://img.qdaily.com/uploads/20160923115946J3PechYXmRoaBlnT.jpg-w600)
+
+Sutter, it turns out, was a man fated to be bound to Boeing.
+
+He was born right in Boeing's start-up period. And his childhood home was separated from the Boeing aircraft plant by just a small hill.
+
+Like many boys of that era, whenever the roar of a Boeing plane sounded overhead, Sutter would rush out of the house, heedless of everything, and look up.
+
+But while everyone else dreamed the hero's dream of becoming a pilot, he hoped to become an aircraft designer.
+
+Before he successfully entered the aeronautics department at the University of Washington, he had carefully studied every model Boeing made, and the ceiling of his room was hung with fishing line full of aircraft models he had built himself.
+
+After graduating from the University of Washington, he enlisted in the Navy and served for a time as a junior lieutenant. Near the end of his service, Boeing and Douglas both sent him offer letters. At the time, he very nearly went to Douglas, because Douglas offered him a monthly salary of $210—$10 more than Boeing.
+
+Born into a blue-collar family, Sutter was never well off, and thinking that an extra $10 a month would add up to $120 a year, he accepted Douglas's offer. But because his wife Nancy was then pregnant—and she, also a Seattle native, was unwilling to leave her hometown—Sutter ultimately chose Boeing.
+
+In 1946, Sutter officially joined Boeing. From the very first aircraft in the Boeing 747's design through the rollout of the 747-400, he was the person in overall charge of the 747 program. In 1985, he was awarded the U.S. National Medal of Technology. And before retiring, he was invited by the White House to take part in the investigation of the Space Shuttle Challenger disaster.
+
+Sutter officially retired in 1986. But Boeing kept him on as a consultant. For more than 20 years after that, Boeing always kept his office.
+
+When Sutter was around 90, the Boeing 747—which had once dominated the intercontinental aviation market—also began to enter its decline.
+
+The giant that used to be the most eye-catching sight on the tarmac was now regarded by many airlines as a not particularly economical model. Because the 747's fuselage is more than twice as large as any other civil airliner and stands six stories tall, airports have to build larger parking aprons specifically for it, modify gates, and upgrade other airport facilities.
+
+From its successful maiden flight in 2011 to now, the newest Boeing 747-8I [has only around 50 orders](http://www.modernairliners.com/boeing-747-8/boeing-747-8i-and-8f-orders-and-deliveries/). As orders gradually dwindle, Boeing has already begun considering ending 747 passenger aircraft production.
+
+What will replace this four-engine large airliner are twin-engine mid-size wide-body aircraft such as the Boeing 777 and 787 and the Airbus A330 and A350. Except for carrying slightly fewer passengers, these new airliners burn less fuel, fly farther, and—more to the point—don't require airports to build custom facilities for them. And the Boeing 777X, which Boeing will launch in 2019 or 2020, can carry 35 more passengers than the first 747 Pan Am flew in the 1970s; quite a few experts believe this model will attract more buyers than the 747.
+
+At the end of the documentary *Boeing 747: The Plane That Changed the World*, the BBC asked multiple experts about the 747's future; as chief engineer of the 747 program, Sutter appeared in nearly every important section of the film—except this one, which had no footage of him.
+
+No one can know his answer to that question. But one small detail can serve as evidence of the pride he would never change in the 747 he had built with his own hands.
+
+When the 747-8 was unveiled, the retired Sutter was invited to tour the aircraft's interior. After chatting with a few test pilots, he said he was quite unhappy. He said: "They told me before that the 747-400 was their favorite, and now they say the 747-8 is their favorite." And his own assessment of the 747-8 was: "You can tell the original 747's design was very successful, because the 747-8's basic structure hasn't changed at all."
+
+Over the past five years, airlines such as Cathay Pacific, Japan Airlines, Air France, and Qantas have all held retirement ceremonies for the 747. And starting this past September, 747 production was cut to one aircraft every two months.
+
+No one knows what Sutter felt in his final years. But for this confident, proud, and stubborn old man, not having to face the news of the 747's formal end of production may have been the best ending of all.
+
+Note: This article draws principally on Joe Sutter's autobiography *747: Creating the World's First Jumbo Jet* and the BBC documentary *Boeing 747: The Plane That Changed the World*.
+
+Cover image: [BBC](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/17A32/production/_90981869_joe_sutter1_960.jpg), [wikipedia](https://pl.wikipedia.org/wiki/Boeing_747-400)

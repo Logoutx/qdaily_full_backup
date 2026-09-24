@@ -1,0 +1,142 @@
+@@QD_TITLE@@
+At the World's Largest Ad Conference That Just Ended, Everyone Was Talking About "Trust" | Agency Daily: Advertising Week New York
+@@QD_EXCERPT@@
+There used to be an old ad-industry saying: nobody knew where 50% of the ad budget was being wasted. Now the digital age has arrived, and WeChat official accounts tell us 90% of it is being misspent.
+@@QD_BODY@@
+There used to be an old ad-industry saying: nobody knew where 50% of the ad budget was being wasted. Now the digital age has arrived, and WeChat official accounts tell us 90% of it is being misspent.
+
+On the afternoon of September 29, New York time, as the seminar titled "It's All About the Story" came to an end, Advertising Week New York 2016 also drew to a close.
+
+This was the 13th year of Advertising Week New York. Over the past four days, a total of 1,153 American advertising professionals had come to New York — and that figure covers only those who took the stage at the nine venues to give talks; the actual number of attendees was considerably higher. Because of its sheer scale, Advertising Week New York is regarded as "the largest advertising industry conference" in the United States, if not the world.
+
+Those who took the stage this year included AOL chairman and CEO Tim Armstrong, General Motors chairman and CEO Mary Barra, Hearst chief content officer Joanna Coles, Mashable CEO Pete Cashmore, W+K partner Colleen DeCourcy, Facebook COO Sheryl Sandberg, Google president of the Americas Margo Georgiadis, among others.
+
+![The 2016 Advertising Week New York venue. Image via [The Drum](http://media-assets-04.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-56002-ad_week--2x1--862.jpg)](http://img.qdaily.com/uploads/201609302153064HhtyS596nKRxurJ.jpg-w600)
+
+Jeff Hinz, managing partner of MediaCom USA, part of WPP's GroupM, has attended Advertising Week New York for 13 consecutive years. As he told QDaily, this year everyone's "conversations were entirely about how to measure clients' return on investment in digital media" — both on and off the stage.
+
+"Everyone is talking about 'trust,'" Melissa Lea, US director of operations at the market research firm R3, told QDaily.
+
+The essence of these two observations is the same. The immeasurability of digital marketing effectiveness is affecting cooperation up and down the industry chain, the gray areas in between are growing ever larger, and the trust crisis is an open secret within the industry.
+
+Recalling the recent exposure of readership fraud on WeChat official accounts, one might find the timing a bit coincidental. But dig a little deeper, and what lies behind it is a problem that the global advertising industry — including China's and America's — should all take seriously.
+
+And "trust" isn't the only problem troubling Madison Avenue. What keeps many people up at night: what exactly should ad agencies do in the future? What kind of consolidation will the industry face? How will programmatic buying and native advertising — both seen as trends — develop further, and what role will media play in that process?...
+
+### But the most important issue is that the American advertising industry's trust crisis has erupted
+
+The trust crisis has already arrived, and American practitioners won't deny it.
+
+In June this year, the ANA (Association of National Advertisers) released a "transparency report." The investigation, conducted by K2 Intelligence on the ANA's behalf, interviewed 150 American advertising professionals, including 38 who had worked, or were working, at ad agencies. It found the US ad industry rife with "numerous non-transparent business practices, including media agencies taking kickbacks."
+
+Then, just three days before Advertising Week opened, *The Wall Street Journal* broke the Facebook video ad scandal: over the past two years, Facebook had told advertisers and agencies that average user viewing time for video ads was 60% to 80% higher than the actual figures.
+
+![Facebook marketing VP Carolyn Everson discussing the Facebook video ad "scandal" at Advertising Week. Image via [AdWeek](http://www.adweek.com/files/imagecache/node-detail/2016_Sep/Carolyn-Everson-facebook-hed-2016.png)](http://img.qdaily.com/uploads/201609302200528CA1lEWSrV07GmK3.png-w600)
+
+At almost the same time, the Dentsu Group issued a public apology, admitting it had overcharged at least 111 clients for internet advertising. Prior to that, one of Dentsu's major clients, Toyota, had complained that its internet ads were not delivering the expected results.
+
+These events set the tone for this year's Advertising Week. While setting up a session called "Trust Forum," the organizers also declared this year "The Year of Transparency."
+
+In Melissa Lea's words, throughout this year's Advertising Week, "advertisers and ad agencies alike were haunted by this thing called 'transparency.'"
+
+Whether something is "transparent" or amounts to "backroom dealing" — none of this was absent in the traditional advertising era. It's just that in the era of digital marketing, the industry has fewer established rules and constraints than before, which makes underhanded dealings harder to detect. And the lack of rules and codes largely rests on one problem: digital marketing effectiveness is hard to measure, which strips transactions and cooperation of any basis for open, fixed pricing.
+
+The divergence lies in at least two aspects: when we talk about digital marketing effectiveness, what exactly is worth measuring? And who is the right party to do the measuring?
+
+The industry has not reached consensus on the former. The most common example: a more traditional view holds that ad click-through rates matter most, while another holds that brand exposure matters more. Consider how great the combined disagreements must be when advertisers, ad agencies, tech companies, and media all hold different views.
+
+The other kind of immeasurability in digital marketing lies in the identity of the measurer.
+
+[At this year's Advertising Week, Google claimed](http://www.campaignlive.co.uk/article/youtube-tells-ad-industry-generates-nearly-double-searches-per-impression-tv/1410019) that YouTube video ads are twice as effective as TV ads at prompting consumers to run Google searches. True, as a tech company Google does possess the data-analysis technology and authority, but from a media company's standpoint, this practice of "grading one's own homework" inevitably raises doubts about its accuracy and fairness.
+
+This is also the problem Facebook faces. However, just days before Advertising Week opened, Facebook announced partnerships with data companies including Nielsen, Oracle Data Cloud, Visual IQ, and Neustar MarketShare, aiming to improve the measurement of ad effectiveness in the digital marketing environment.
+
+![Media platforms like Facebook and Google are doing the ad-effectiveness measurement work that used to belong to third-party measurement agencies — that is the crux of the controversy.](http://img.qdaily.com/uploads/20160930220235ZYfD32KOIl0VC9zX.jpg-w600)
+
+In fact, it's not just the United States. In China's digital marketing industry, verifying the authenticity of marketing effectiveness, data, and traffic is also a hotly debated issue. The exposure of traffic fraud on WeChat official accounts on September 28 quickly became the most damaging event for the advertising world. The worst and most pitiful part of this affair is that the industry wasn't unaware of traffic fraud — everyone knew, and it had become a tacitly accepted open secret.
+
+In China, some ad-tech companies have scrambled to publish "anti-fraud white papers," and the data-insight teams of ad agencies have expressed their pursuit of authentic data on multiple occasions. "In the internet era everyone increasingly pursues what is real — and what is pursuing what is real?" "We make use of massive amounts of raw data — we call this real data, and this real data doesn't come from you, our clients, telling us what your target audience looks like; we use the power of mobile internet and mobile devices to find those real people for you out in the market..." said a GroupM executive at a forum in early September this year.
+
+What can be seen is that although the industry is trying to establish norms and codes, some of the negative effects have already been done, which has made the relationship between advertisers and ad agencies subtly strained. For instance, McDonald's began requiring that agencies' revenue be directly tied to marketing effectiveness (even though how to measure that effectiveness remains an unsolved problem); General Electric has already begun auditing its agencies to put an end to "the agencies' less-than-honorable practices," such as taking kickbacks from media companies.
+
+"Advertisers usually aren't sensitive to every change in the industry... but now they're suspicious, and suspicion breeds hesitation," said Tony Pace, chairman of the ANA (Association of National Advertisers).
+
+### The whole industry is talking about consolidation — but who consolidates whom?
+
+"There are a great, great many discussions, and even speculations, about what future ad agencies should look like, what they should do, and when they will appear. I think it's clear there will be a consolidation: many things will be brought under one roof and led by the same teams, and that includes the integration of services and data."
+
+PwC strategy principal Chris Lederer made the above remarks in a session titled "The 'Agency' of the Future."
+
+In the session title, the word "Agency" was deliberately put in quotation marks. One of its implied messages: the future "ad agency" may no longer look like today's ad agencies — the word "agency" itself will be given new meaning.
+
+![The 2016 Advertising Week New York venue. Image via [wearesevenhills.com](http://www.wearesevenhills.com/wp-content/uploads/2016/04/Turning-Your-Passion-Into-a-Career_002.jpg)](http://img.qdaily.com/uploads/20160930222147G5HJrX8W6gq9Yuko.jpg-w600)
+
+At least some changes have already appeared.
+
+"We looked at McDonald's key messages and found we had data and intelligence, but we wanted to make sure our partners had human insight," [McDonald's CMO Deborah Wahl said](http://www.advertisingweek.com/360/article/-the-agency-of-the-future-with-mcdonalds-and-omnicom). "We also looked at the existing agency structures and realized we needed a new model."
+
+This new model was mentioned repeatedly throughout this year's Advertising Week, and its core is "consolidation."
+
+According to an announcement by McDonald's in late August, it had reached a $1-billion-per-year advertising partnership with Omnicom Group (owner of DDB), which will build a 200-person marketing team for McDonald's — spanning creative, media buying, and interactive marketing, all drawn from agencies under Omnicom. For advertisers, more concentrated resources mean lower communication and cost overheads; for ad agencies, it is a challenge to their traditional model of operating as independent silos.
+
+AT&T, one of America's largest telecom companies, is doing something similar, consolidating its various advertising operations under a single advertising group. "I want everyone in the same place, where everyone can pick up where the other person left off," AT&T chief brand officer Fiona Carter said at Advertising Week.
+
+Beyond the internal consolidation of resources within advertising groups, agencies are also moving into technology and data work — traditionally further downstream. In the past, they mainly bought data from third-party companies. This is also what we discussed in our "What Changed the Advertising Industry" series of reports — why agencies are all busy with "R&D": they need to reclaim their own voice in an industry chain with ever more participants.
+
+Another way agencies are consolidating is by building partnerships with tech companies on the outside. The question now is that they need to pick up the pace on this.
+
+Over the past few years, media/tech companies including Yahoo, Facebook, and Google have all been consolidating their grip on every link of the industry chain by acquiring ad-tech companies. Were it not for antitrust considerations, Facebook and Google, with market caps in the hundreds of billions, buying WPP — with a market cap in the tens of billions — would probably not be that difficult either.
+
+Moreover, what you can see is that companies combining media and tech attributes already have a tendency to move into creative work — an indirect form of vertical integration. For instance, Facebook has set up a division called Creative Group, whose main responsibility for now is working with creative companies to optimize the creative content of video ads. The division's creative director, Andrew Keller, was previously CEO of the creative agency CP&B. Given Facebook's pull on talent and its resource backing, no one should be too surprised if one day it sets up a stand-alone creative agency.
+
+![Creative Andrew Keller, who left CP&B to join Facebook. Image via [AdWeek](https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiM4sTZobfPAhUDFpQKHT37BH8QjB0IBg&url=http%3A%2F%2Fwww.adweek.com%2Fnews%2Fadvertising-branding%2Fandrew-keller-leaving-crispin-porter-bogusky-after-5-years-ceo-166465&bvm=bv.134495766,d.dGo&psig=AFQjCNGv8JD-LsRmSQCjepwXSWXNUqZuIw&ust=1475330796529600)](http://img.qdaily.com/uploads/20160930221415OzetJAixfBdqy5hK.jpg-w600)
+
+Yahoo, as a media company, is doing similar things — for example, its $640 million acquisition in 2014 of BrightRoll, a programmatic buying service provider. Besides generating extra revenue for Yahoo, such consolidation also gives Yahoo's own media resources preferential treatment in the programmatic buying process.
+
+Consolidation is also appearing in unexpected places. Since the start of 2016, *The New York Times* has acquired two ad agencies to shore up its native advertising business. Though it is a much smaller player in the advertising industry, the very fact of this role reversal by media should make Madison Avenue nervous.
+
+The question facing ad agencies — traditionally the most central participants in the advertising industry — is that if they don't move early on consolidation, the highest-quality resources will flow to institutions like tech companies and media, and what may await ad agencies is being consolidated themselves.
+
+### Media matters; the combination of native advertising and programmatic buying is seen as the trend
+
+The role media play in the advertising industry chain may be bigger than you imagine.
+
+One obvious example: "storytelling" has replaced "creativity" as the buzzword at this year's Advertising Week New York whenever people talk about "content." The former typically belongs to the media context, while the latter falls in the agency's domain. The closing discussion of this year's Advertising Week was simply titled "It's all about the story," and the four-day industry conference attracted the participation of media including Hearst, Bloomberg, *The New York Times*, Vox, and Mashable.
+
+![A native ad made by *The New York Times*' native team T Brand Studio for the Netflix series *Orange Is the New Black* — a multimedia report.](http://img.qdaily.com/uploads/20160930222522Lv6If72hsQWcqGya.jpeg-w600)
+
+"Advertising Week 2016 may be the year the disrupted become the disruptors," said Scott Wells, CEO of US out-of-home advertising company Clear Channel. "Many traditional media — print publishing, radio, outdoor, even television — media once shaken by the digital, social, and mobile revolutions, are all offering new content to rebuild their industries."
+
+Calling it a "rebuild" may be a bit of an exaggeration, since the decline of traditional media and the irreversible shift of attention toward digital and mobile are trends that can't be turned back. The so-called "disrupted becoming the disruptors" makes more sense from the vantage point of media's role as content producers. What gets disrupted is the technology and media platforms, while the true disruptors are the content producers themselves — a role in which traditional media happen to excel.
+
+The essence is that advertising formats are changing; experience and fun matter more and more, and these depend on high-quality ad content to achieve — something traditional hard-sell ads usually can't do, and something their producers, the ad agencies, aren't particularly good at either.
+
+"Like most millennials, Generation Z (people born between 1995 and 2010) know our sponsored content is basically ads disguised as video stories, but (they think) that's fine," said Brian Robbins, founder and CEO of American video company Awesomeness TV, at Advertising Week.
+
+Young people have the best "bullshit detectors" around, Vice founder Shane Smith once said. What he meant: young people know what is good content and what isn't. And as long as the content itself is good, whether it's an ad matters far less.
+
+More and more media are doing what traditional ad agencies do, moving into creative work — through "native advertising" (in the US, people tend to call it "sponsored content"), customizing ad content for advertisers in ways that fit the media outlet's own tone.
+
+Fundamentally, media are increasingly moving upstream in the advertising business because they understand readers — that is, potential consumers — better than agencies do. This is the result of media content becoming more diverse and refined: consumers are no longer categorized by demographic statistics like age, gender, and geography, but by interests, hobbies, and values.
+
+"Brands' audiences are now exactly the readers we communicate with every day," [Vice China CEO Zhou Yaohua once told QDaily.](http://www.qdaily.com/articles/32652.html)
+
+Beyond creative work, media resources are also showing growing appeal — and this doesn't mean traditional banner ads, but ads inserted into media sites' information feeds, known in the industry as "native display ads." One point worth stressing: in the US, when people say "native advertising," it actually covers both "sponsored content" customized by media for advertisers and "native display ads."
+
+![The "Holden Commodore......" above is a "native display ad."](http://img.qdaily.com/uploads/20160930220740UvlDQ9p6XYsrROHZ.png-w600)
+
+According to forecasts by Business Insider's data division, by 2021, revenue from native display ads (including websites and social media) will account for 75% of total display ad revenue; today that figure stands at 56%.
+
+In essence, this requires that the content of an ad — at minimum the basic information shown in a feed, such as the headline, summary, and image — match the website's own tone, so as not to stick out and to attract readers/consumers to click.
+
+Yahoo's vice president of advertising products, Tod Sacerdoti, believes changes in the native display ad market will become a new growth driver for the programmatic buying business. So-called programmatic buying refers to using data and technical algorithms to decide which media platform an ad should be placed on, what price is most reasonable, and which time slots offer the best media resources.
+
+[According to Digiday's report](http://digiday.com/publishers/programmatic-native-premium-publishers-leery/), programmatic buying of native display ads has been technically completed and, over the past few months, has been adopted by media groups including Condé Nast and Time Inc. Greg Williams, co-founder of digital media buying firm MediaMath, said at Advertising Week that in 2017, programmatic buying of native ads will "at least double" in scale.
+
+To sum up, all the problems facing the American advertising industry are ones the global advertising industry is experiencing, or soon will. Tech giants have rewritten the rules of this industry, and the whole industry is both infatuated with and lost in data.
+
+There used to be an old ad-industry saying: "I know half my money is wasted, but I don't know which half." Now the digital age has arrived, and WeChat official accounts tell us 90% of it is misspent.
+
+Compared with not knowing where 50% of the money went, at least now we know 90% is being misspent — from an optimistic angle, that might count as progress, even if it makes for ugly eating. But shouldn't the whole industry take a hard look at its "integrity" problem instead?
+
+Cover image from Visual China

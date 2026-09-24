@@ -1,0 +1,122 @@
+@@QD_TITLE@@
+Everyone Knows Ads Should Go to Quality Media — but Who Defines "Quality" Now? | What Changed Advertising ③
+@@QD_EXCERPT@@
+Advertisers put sales conversion front and center; ad tech companies prioritize the efficient use of data; ad agencies are rushing to lock in partnerships with as many media outlets as possible... Traffic still matters, but the value of segmented audiences and long-tail demand is becoming ever more prominent.
+@@QD_BODY@@
+Advertisers put sales conversion front and center; ad tech companies prioritize the efficient use of data; ad agencies are rushing to lock in partnerships with as many media outlets as possible... Traffic still matters, but the value of segmented audiences and long-tail demand is becoming ever more prominent.
+
+**The long-standing operating model of the advertising industry — the "client" (Party A) sets the brief, the "agency" (Party B) creates the creative and places the media, covering as many target consumers as possible, as effectively as possible — is now under enormous challenge.**
+
+**Practitioners have never been as confused and unconfident as they are now about consumer insight — the very foundation and core of the entire industry.**
+
+**An increasingly mobile life has changed all of this. As consumers jump between screens and allocate their time and attention as they please, the marketers' creed that "advertising money flows wherever consumers are" has lost its bull's-eye.**
+
+**That the era of TV advertising is completely over has nearly become industry consensus, but in the dizzyingly complex digital marketing environment, no one has a clear answer yet as to what marketing is actually most effective.**
+
+**The exploration began at least three years ago, but judging from what is happening — and from our interviews — the anxiety has not gone away. What has changed fundamentally is every role along the industry chain.**
+
+**Brand owners, who always left the production of marketing content to their agencies, are starting to build in-house teams and do it themselves; ad agencies may have entered their most "R&D"-focused era ever, setting up data labs, embracing incubation, and building data integration platforms; media outlets, which used to simply sell time and space, now have to wade into creative work because clients demand that ads "fit the media outlet's own tone and style"; and Facebook, the emblem of social media, has suddenly found itself standing opposite Google...**
+
+**This is why we launched this series. Over four articles we will examine how the transformation of every role along the advertising chain has happened, and how each of them is rebuilding the rules of the industry. This is the third installment.**
+
+In 2010, the entire internet advertising market in China was worth 32.55 billion yuan, while a single channel, Hunan TV, took in 2 billion yuan in ad revenue in 2009. Even as it was already declining, CCTV's total presale proceeds from its open ad auction in 2013 still reached 15.9 billion yuan.
+
+If you had asked, five years ago, which was the best media resource, marketing professionals would basically have given the same answer: television.
+
+And this "best" was, in a sense, equivalent to "most" — that is, where you placed ads in order to reach the largest audience. CCTV was (once) the unquestioned one, which is precisely why its annual ad auction was crowned "a barometer of the Chinese economy." The situation in the US was the same: the three major networks ABC, NBC, and CBS covered nearly the entire population.
+
+![](http://img.qdaily.com/uploads/20160926233416Q5YXd6P9zuOEwapv.jpeg-w600)
+
+"In the past, this field of ours was very simple. Many brands pursued the mass market, and everyone learned about brands by watching TV," Rob Norman, GroupM's global chief digital officer, recalled of the 1990s — the golden age of television media. "Traditionally, our understanding of advertising was that it emphasized scale, and that once you produced it, you could use it again and again."
+
+But everyone knows now that there is no longer any medium that can monopolize audience attention.
+
+500,000 iOS apps, 10,000 official accounts, 21,000 news and information websites, hundreds of video sites (figures that may be refreshed every second) — this is the highly fragmented digital media environment marketers now face.
+
+"We've reached a stage where creative must follow the medium. It's no longer possible to make one ad, place it in a single medium, and reach everyone; instead, more content reaches different consumers," Norman said. This is now the consensus among marketers.
+
+But a recent report from market research firm TNS showed that only about one-third of marketing professionals in China feel confident in their ability to manage consumers' media touchpoints. What advertisers care about remains the same — "Where are the consumers?" and "How can we hit them most effectively?"
+
+So if you look at marketers' "confidence index" about managing media from another angle, it means there is no longer any consensus on "what counts as a quality media resource."
+
+![In the era of scarce media resources, magazines and newspapers were also universally recognized as "quality resources" by advertising professionals. Now we have entered a period of excessive fragmentation — even surplus — of media and information.](http://img.qdaily.com/uploads/20160926233429F8ueg7JcOsCyIwTK.jpeg-w600)
+
+The changes happening on the consumer side are plain to see. Young consumers in particular increasingly pursue personalization, so shared interests, culture, and values have become the glue that aggregates audiences. They also use these criteria — actively — to seek out corresponding information, content, and media.
+
+It's hard to say whether the fragmentation and verticalization of media and content is the result or the cause of this demand, but what is certain is that definitions and understandings of "quality" have become far more diverse. The value of the long tail is becoming ever more prominent.
+
+This has also given rise to a new way of thinking in marketing circles. Compared with the old approach of reaching as many people as possible through every channel, every method, and every exposure opportunity, a new view holds that you should "subtract" — achieving precision in placement by filtering out the audiences that are not your target. And the core of precision, or its first step, is identifying media resources that are truly valuable and truly fit the brand or product.
+
+Xu Weichong, head of digital foresight at Carat China, told QDaily, "Quality resources can be assessed from different angles, including location/app, content/program, channel, and the time period of publication. The weight of each dimension depends on the brand and its target audience."
+
+"Programmatic buying" is considered one way to address concerns about quality resources. Put simply, it uses data and a set of technical algorithms to decide which media platform an ad should be placed on, what price is most reasonable, and which time slots offer the most quality media inventory. About half of China's digital media budgets are now placed programmatically, driven largely by performance-marketing advertisers such as e-commerce. For brand advertisers, programmatic buying accounts for roughly 20% of budgets.
+
+But Huang Xiaonan, founder and CEO of iPinYou, one of the programmatic buying service providers, sees a problem: while practitioners have all realized the importance of data, in practice they still don't fully follow the data and "let the data speak." "An agency may rely on experience and feel that Medium A is better than Medium B (and so demand to place ads on A)," she said, describing this as an agency's "legacy problem."
+
+![Image from bitmat.it](http://img.qdaily.com/uploads/20160927000057BqzUHP5XY8vIkdLo.jpeg-w600)
+
+Advertisers, who used to hand decision-making power over to media buying agencies like Carat and GroupM, increasingly find themselves at odds with their agencies. "We'll tell the agency directly that we don't think it's the best fit — for example, its price, or which official accounts to choose, whether to repost or produce original content. We have a lot of back-and-forth these days, and sometimes it's a dispute," Dong Xin, marketing head of the e-commerce department at Mondelez China, told QDaily.
+
+In the past, agencies held large amounts of third-party data, and that data governed their media buying decisions. But now data is public — advertisers can monitor ad conversion rates in real time through e-commerce platforms and obtain ample consumer data; Weibo and WeChat read and comment counts are publicly visible too. Under these circumstances, advertisers also have a more independent basis for making decisions.
+
+A case Dong Xin now gladly brings up is the custom packaging coloring campaign Oreo ran on Tmall this year: "The conversion rate was far higher than a normal promotion — nearly 10 times higher on the day." So they followed up in August with a livestream marketing campaign on Tmall featuring Da Zhangwei and Xue Zhiqian. "When we do a livestream, we usually focus on how many people watch and click. On Tmall we can see first-hand sales data — we can see the impact of a campaign on sales and see how effective it is." So in Dong Xin's view, Tmall is a quality media resource.
+
+![Oreo's Colorful Coloring Pack](http://img.qdaily.com/uploads/20160930094844l8P9ZrwgICyK1jWm.jpeg-w600)
+
+So you will also see that the definition of "media" has far outgrown its traditional scope. Anything that can aggregate people and attention counts.
+
+From this perspective, GroupM's "quality media resource platform" — a programmatic buying product released in early September — looks a little like a cover-up. According to Wu Jun, managing director of GroupM China's media buying operations, its first batch connected more than 60 media resources. As for how those resources were selected, "First, we chose the websites where GroupM clients concentrate their spending, because we want to meet the common needs of most clients, such as QQ.com; then vertical ones, including parenting, automotive, beauty, and lots of O2O; video is a must, because 99% of advertisers now demand video placements."
+
+And which media resources can actually be connected depends more on who is willing to open up their data to GroupM. Under these circumstances, "quality" is in effect defined by the media outlets themselves, the ones that own the ad inventory.
+
+Lin Jie, vice president of Huawei's Consumer Cloud Services, believes their quality resource is the phone lock screen. "Huawei shipped 240 million phones over the past two and a half years, and roughly 23% of those users bought mid-to-high-end models priced above 2,500 yuan," he said. Li Xiao, director of international channel business at Tencent's channel business unit, said they opened up the Tencent News app and Kandian, as well as pre-roll traffic for hit dramas airing in the second half of the year. Chen Xiao, iQiyi's vice president of sales, likewise put series and hit dramas within the quality frame.
+
+But this doesn't mean they have reached consensus on the question of "what is quality media." Zhang Xiaojuan, managing director of Xaxis China, feels the judgment is difficult because within a single media outlet there are good and bad resources. "A quality medium doesn't equal quality resources, because quality media also have long-tail resources. A medium that isn't that top-tier doesn't mean its resources aren't quality — they have good resources too."
+
+Take an app with more than 100 million daily visits as an example: it is generally considered a quality medium, but if an ad sits on its third or fourth screen or even further back, it cannot count as a quality resource. Conversely, a niche app may have modest overall traffic, but its splash-screen ad might be considered a good resource because it absorbs considerable traffic. Another more intuitive example: a high-traffic portal website has its own pockets of low traffic, while a relatively low-traffic official account can still produce a 100,000-plus-read post.
+
+![A still of Zhang Yixing in *The Mystic Nine*; image from [256.cc](http://v.256.cc/news/4552.html)](http://img.qdaily.com/uploads/201609262345322VHEDnkN53hpwUoy.jpg-w600)
+
+At bottom, it is still a question of quality content. When *The Mystic Nine* racked up more than 9 billion views, a new buzzword among practitioners was the "content unicorn."
+
+But "content unicorns" are, after all, few. Beyond the scarce "unicorn resources," advertisers are also looking for new territory. For example, beyond traffic, they are placing more weight on media outlets with pull over a particular kind of audience — mention the ACG subculture and people think of Bilibili (whose daily active users have now reached 22 million); mention hippie subculture and people think of Vice. In a sense, this is also why countless long-tail official accounts have won advertisers' favor.
+
+Bilibili recently launched a dedicated "Ads" section, featuring mostly creative and topical video ads. According to Chen Hanze, vice president of Bilibili, speaking at the GroupM Digital Forum, Bilibili hopes to make users and ads "more harmonious with each other — able to get along, to coexist." Judging from the current sources of uploaded videos, most are still ordinary users, but it cannot be ruled out that Bilibili will open this resource to advertisers in the future.
+
+Vice China is also experimenting with forms of cooperation beyond banner ads — for instance, letting advertisers appear as "content sponsors" in its regular video reports.
+
+"Brands' audiences now happen to be the very readers we talk to every day," Vice China CEO Zhou Yaohua told QDaily. "What we ultimately want to do is work together with brands. But our emphasis is not on content sponsorship — it's on producing content that fits the Vice voice. In that scenario, brands come to us because they suit the stories we want to tell."
+
+![The opening of the Vice documentary *My Team Played Real Madrid*, sponsored by Hupu](http://img.qdaily.com/uploads/20160926233055QTIm1ZR5234MXFJD.png-w600)
+
+![The documentary *My Team Played Real Madrid*](http://img.qdaily.com/uploads/20160926234944JQVCljqRKrO1f2Ni.png-w600)
+
+Because these media outlets' distinctive audiences give them ever higher advertising value, their bargaining power in front of advertisers has also grown. "We have complete control over content," Zhou Yaohua said — to the point that the creative team behind sponsored content and Vice China's news reporting team are the same people, because "Vice creates sponsored content the way it creates content," with its own operating standards.
+
+Gong Yingqi, founder of "Qingdan," a consumer decision-making media outlet founded in late 2014, has had the same experience. According to Gong Yingqi, just ten months after its founding, "Qingdan" began receiving native advertising requests from advertisers such as Listerine, Triumph, and Whaley TV. She found that most of the agencies that approached "Qingdan" had been "commissioned by advertisers," and in the actual production of native ad content, they gave the media outlet fairly ample creative room. For example, the native ad done for Triumph did not start from the product but from knowledge about wearing bras; the ad for Listerine mouthwash did not even actively mention the Listerine brand, because both sides had reached a consensus that "guiding the audience to recognize the importance of mouthwash (rather than a particular brand)" mattered more.
+
+In Rob Norman's words, advertisers have loosened their grip on these creative rights because "media know better what their readers like. Media people today have to think more than before and are more capable of wading into creative territory, and this helps us rethink what media can do."
+
+![Native advertising by the New York Times' native team T Brand Studio for the Netflix series *Orange Is the New Black* was a multimedia report.](http://img.qdaily.com/uploads/20160926235327e5hptqElGHrsSzua.jpeg-w600)
+
+Worth noting as well is e-commerce — originally regarded merely as a channel for online sales, it is now seen by more and more brands as a marketing battleground. The most typical case may be Juhuasuan. In its current form, its role within Alibaba is in fact entirely different from its original setup of "group buying" and "clearing inventory." You will find that what appears on Juhuasuan is not just cheap goods, but more and more gimmicky products. In the words of Liu Bo, general manager of Juhuasuan, it is now "China's biggest marketing platform."
+
+Nike, which never went near "Juhuasuan," this year gave the platform the first release of three limited-edition cherry-blossom sneakers, and P&G rolled out 17 imported products on the Juhuasuan platform in one go this April.
+
+E-commerce brings not only exposure, but also traffic and actual purchase conversion — enormously attractive to advertisers. "When a consumer enters an e-commerce site, they're already inside a shopping environment, so pushing purchase-related ads to them at that moment makes more sense," Dong Xin told QDaily.
+
+A report from market research company eMarketer predicts that Alibaba's online advertising revenue will surpass Baidu's this year to become number one in the Chinese market, reaching US$12.05 billion (about 80.36 billion yuan).
+
+To sum up: in the past, advertisers pursued big exposure on big platforms; today it is small exposure on countless small platforms. Traffic still matters a great deal — it's just that what they value more now is audience precision.
+
+Brands are also making more and more attempts in this direction: official accounts and livestreaming sites are among them. Dong Xin's feeling is that advertisers are now probing more actively at the question of what the right media is.
+
+![L'Oréal's #ZeroTimeDifferenceChasingCannes# livestream series on Meipai; image from [caijing.com.cn](http://industry.caijing.com.cn/20160531/4126709.shtml)](http://img.qdaily.com/uploads/201609262338537L1AhqtHeBDOfKaj.jpg-w600)
+
+When it comes to defining what quality media is, the various positions have grown increasingly distinct: advertisers put sales conversion front and center; ad tech companies prioritize the efficient use of data; ad agencies, having lost their voice, are rushing to rebuild the rules for judging quality media — one solution being to first "fence in" the traditionally quality media and establish partnerships with them; and media no longer play traffic as their trump card. They have more say over advertising content and want advertisers to respect that.
+
+But just as people are keen on precision marketing, a new confusion has emerged. [Procter & Gamble, the world's largest advertiser, announced in August that it would adjust the share of its ad spending on Facebook](http://www.qdaily.com/articles/30849.html) — especially the budget for precision targeting — because it felt the results were not as good as expected.
+
+In the end, of course, the market has the final say. In our next article — the final installment of this series — we will examine search advertising, represented by Google, and social advertising, represented by Facebook, and ask which one better represents the future of the advertising industry.
+
+Cover image from Visual China
