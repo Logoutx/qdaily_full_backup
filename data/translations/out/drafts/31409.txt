@@ -1,0 +1,198 @@
+@@QD_TITLE@@
+More Than 400 Million Software Users, but Meitu Sold Only 1 Million Phones in 3 Years — How Hard Can It Be to Sell Something to Your Fans?
+@@QD_EXCERPT@@
+The core business doesn't make money, so it pivots to telling a more complicated story about making money. The well-trodden path that startups are used to may no longer work.
+@@QD_BODY@@
+The core business doesn't make money, so it pivots to telling a more complicated story about making money. The well-trodden path that startups are used to may no longer work.
+
+Judging by revenue, Meitu — the maker of 23 apps — is now a phone company.
+
+On Monday night, Meitu, which is preparing for a Hong Kong IPO, [released its financial figures](http://www.hkexnews.hk/app/SEHK/2016/2016081905/SEHKCaseDetails-2016081905_c.htm). In the first half of this year, Meitu's revenue was 585 million yuan, of which 95.1% came from phone sales; internet services accounted for just 4.9%.
+
+![Meitu's revenue breakdown](http://img.qdaily.com/uploads/20160825123001seWvQRaYmf3VF1JN.png-w600)
+
+![](http://img.qdaily.com/uploads/20160825123001gz3oBJ8du9FqhHet.png-w600)
+
+Persuading women accustomed to touching up their faces with Meitu XiuXiu, SelfieCity, and BeautyCam to pay for a Meitu phone is the company's most important attempt to monetize its enormous user base.
+
+Three years and five phone generations later, Meitu has succeeded in turning phone sales into its main source of revenue. According to the financials, the company's biggest customers in 2013 were still advertisers; today its top five customers are all channel distributors that carry its phones.
+
+### The high phone share is because internet services earn too little
+
+A high share of phone revenue doesn't mean Meitu's financial performance is outstanding. Against revenue of 585 million yuan, the company lost 1.2 billion yuan in the same period after excluding the effect of preferred-share valuation losses, with total liabilities of 9 billion yuan — 3.65 times its assets.
+
+Setting aside the phone business: 446 million people worldwide open Meitu apps every month, yet over the past six months they generated only 28.6 million yuan in revenue for the company. On average, each active user contributes just one fen per month to Meitu.
+
+The low revenue isn't because Meitu's apps are bad.
+
+Since its launch, Meitu XiuXiu has been a must-have app on smartphones. Photo-editing apps like Spring and Zuji burned bright and vanished, while Meitu XiuXiu remains one of the most full-featured photo editors on a smartphone.
+
+The follow-ups each targeted users with different needs: BeautyCam focused on "one-tap beautification" for simple selfies; MakeupPlus on "one-tap makeup"; and SelfieCity sold itself on city-themed filters.
+
+From 2014 to today, at least four of Meitu's apps have stayed in the top ten free photography-and-video apps in Apple's Chinese App Store.
+
+And in the currently hot livestream market, Meipai reportedly attracts 141 million users a month, who spend an average of 31.5 minutes a day on it.
+
+But these top-of-the-store apps still haven't made money. Internet services revenue in the first six months of this year was in fact 31.5% lower than the same period last year.
+
+![For the calculation, the user bases used for Meitu, Weibo, Momo, and Facebook are their MAUs: 446 million, 282 million, 69 million, and 1.71 billion respectively. For Baidu and Tencent, China's internet population of 710 million is used; for Google, the global internet population excluding China, 2.69 billion.](http://img.qdaily.com/uploads/20160825151651T86bFavKCzi0OkBW.png-w600)
+
+Meitu targets female users, and online advertising potential for women's products is widely regarded as strong.
+
+But from selfie to sharing, the spot in the chain most suited to carrying ads is not on Meitu's turf.
+
+People use Meitu's products to shoot photos, edit them, and then share them on WeChat and Weibo. The value for advertisers lies not in the image-making process at the front, but in those social networking platforms.
+
+In other words, advertisers choose to show you ads in your Moments feed while you're looking at photos — not while you're slimming your own face in a photo.
+
+Meitu never built its advertising billboard. Open Meitu XiuXiu or any other Meitu app and you basically see no brand advertising. Most of the slots that could carry display ads instead link to downloads of Meitu's other apps — for example, a prompt inside Meitu XiuXiu directing you to the App Store to download SelfieCity, or a jump from SelfieCity to the short-video community Meipai.
+
+![Ads shown on the Meitu XiuXiu home page are mostly Meitu's own products](http://img.qdaily.com/uploads/201608242341065yxFJYtf0647AVij.jpg-w600)
+
+Whether it tried and failed, or simply believed selling phones was an easier way to make money, Meitu settled on phones as its profit direction starting in 2013 — this was the new path the company found for itself.
+
+### But selling phones to app users is not easy
+
+When the first-generation Meitu phone, MeituKiss, launched, Meitu CEO Wu Xinhong said in an interview that MeituKiss could be understood as a "selfie machine that can make calls," that the company had no intention of serving users who don't like selfies, and that it was a product aimed specifically at young women who love taking selfies.
+
+"We know what kind of beautification effects Chinese women like — we even know what women in Korea, Japan, and Southeast Asia like. Optimizing beautification effects based on their preferences is a capability our competitors don't have." Both Meitu CEO Wu Xinhong and Yi Wei, the head of Meitu's phone business, repeatedly stressed this core competitive strength — "the definition of beauty."
+
+From the first generation of outsourced-brand phones onward, Meitu gradually built a phone team of more than a hundred people. And it was precisely in order to make phones that Meitu accelerated its fundraising.
+
+Meitu's funding history
+
+2009.1
+
+Seed round of several million yuan from Xiamen Longling Investment
+
+2011.3
+
+Pre-A round of several million US dollars from IDG and Sina Weibo
+
+2013.10
+
+US$5 million Series A led by Sinovation Ventures
+
+2014.1
+
+US$55 million A+ round from Qiming Venture Partners and IDG Capital
+
+2014.5
+
+US$114.5 million Series B led by Tiger Fund
+
+2015.6
+
+US$190 million Series C led by ChinaAMC
+
+2016.4
+
+US$136 million Series D led by Jiaoxing Global, at a valuation of US$3.97 billion
+
+2016.8
+
+Meitu applies for a Hong Kong IPO
+
+Phones are an entirely different business from internet services — from R&D to components, assembly, and sales, the investment in every stage is considerable.
+
+From 2008 to 2012, the five years before it made phones, Meitu raised just two rounds totaling several million US dollars. In the four years since it entered phones in 2013, Meitu has completed five funding rounds totaling more than US$500 million.
+
+Meitu's phones through the years
+
+2013.5
+
+First-generation phone MeituKiss released, priced at 2,199 yuan
+
+2013.11
+
+Meitu phone 1S launched, from 1,599 yuan
+
+2014.1
+
+Meitu phone 1C launched, aimed specifically at students, priced at 1,399 yuan
+
+2014.4
+
+Meitu phone 2 released, from 2,199 yuan
+
+2014.11
+
+Meitu phone M2 released, priced at 2,199 yuan
+
+2015.4
+
+Meitu phone M4 released, at 2,199 yuan; the Hello Kitty and Doraemon special editions at 2,499 yuan
+
+2015.11
+
+Meitu phone V4 released: the standard version at 3,499 yuan, the premium "elegant" version as high as 6,099 yuan; also launched that day were the M4s and two cameras — Meitu SNAP1 and Meitu BF1
+
+2016.6
+
+Meitu phones M6 and V4s released; the M6 from 2,399 yuan and the V4s from 3,499 yuan
+
+According to the financials, from launch through June this year Meitu sold only 953,000 phones, of which 289,000 were sold in the first half of this year.
+
+![The fourth-year figure is a projection, assuming Meitu's phone sales in the second half of this year can match the growth rate of the first half.](http://img.qdaily.com/uploads/201608250123367SDglC6MVZ3Rautn.jpg-w600)
+
+And according to the figures in the report, Meitu phones' actual average selling price (what Meitu actually takes in per phone sold) has held steady at around 1,500–1,600 yuan — only slightly higher than Huawei, OPPO, and vivo, and nowhere near Apple's profit margins.
+
+![](http://img.qdaily.com/uploads/201608250743559cZC5Kv0Oh4UHJkL.png-w600)
+
+![](http://img.qdaily.com/uploads/20160825020034xdzJE9NmvqpbgIw1.jpg-w600)
+
+Meitu hopes to make selfies its differentiating selling point. Yi Wei, vice president of Meitu Mobile, told *QDaily* in an earlier interview that in brand marketing, Meitu phones had emphasized the selfie function from day one, hoping that whenever people thought of selfie beautification they would think of Meitu phones. Other brands, he felt, would still need time to build that kind of strong brand association.
+
+Meitu CTO Zhang Wei, meanwhile, said that because the phones are custom products, Meitu can load more and bigger photo-editing software onto them — whereas app users might not accept downloading a hundred-megabyte app onto their phones.
+
+But in the end, the vast majority of people did not pay for Meitu phones' deeply customized cameras. Over three years, 446 million people using Meitu apps each month bought a total of just 953,000 Meitu phones — a conversion rate of only 0.2%, and that without even excluding users who bought multiple generations of the phones.
+
+![The first-generation Meitu phone, MeituKiss](http://img.qdaily.com/uploads/20160825014351FghZwQaPvi8e35Cn.jpg-w600)
+
+![Meitu phone 2](http://img.qdaily.com/uploads/20160825015811lG5MN4Ab8tYreRyz.jpg-w600)
+
+![Meitu V4 (left) and Meitu M4 (right)](http://img.qdaily.com/uploads/20160825015425EnXzbRI3TquN7Pt5.jpg-w600)
+
+![Meitu M6](http://img.qdaily.com/uploads/20160825015721tqY0lkZi9sVTuWIF.jpg-w600)
+
+At the same time, China's smartphone market as a whole has passed its explosive-growth phase; overall market sales have stalled, and building a new brand will only get harder.
+
+And today every phone maker tries to sell cameras and beautification as a feature. vivo brought in Song Joong-ki to shoot ads touting the soft-light selfie function of its latest flagship, the X7, while even the thousand-yuan Meizu Blue Charm E had to single out its smart skin-beautification camera mode for mention.
+
+Meitu listed "a large share of revenue coming from smartphones" among the top three risk factors in its IPO prospectus, saying rising component costs could affect its revenue. A phone maker shipping under a million units a year cannot fight for suppliers and contract manufacturers the way leading brands can.
+
+The bigger risk for the phone business is that relying on selling phones, Meitu may not be able to support the multibillion-dollar market value it reached after many rounds of funding.
+
+### The more complicated the business logic, the more unreliable it tends to be
+
+When users drawn in by a free service don't generate enough revenue, internet companies often choose to tell a more convoluted story about making money. For Meitu, that story is selling phones to its own internet-service users.
+
+But even the most successful photo-editing app has failed to persuade enough of its users to buy its own hardware.
+
+Today, the business logic of the most valuable tech companies in China and the US is simple and direct. Apple makes money selling hardware; Google and Baidu make money from search advertising; Facebook and Tencent make money from social advertising and games.
+
+But over the past few years, the stories tech startups with large user bases that couldn't directly monetize told their investors were all rather complicated.
+
+Take Sogou's "three-stage rocket" theory, proposed in 2011: input method–browser–search engine in three stages — the more people use Sogou's input method, the more would use Sogou's browser and search engine, generating advertising revenue.
+
+For some companies, three stages weren't even enough — "ecological chemical reaction" has already been printed on roadside billboards.
+
+A closer example is Xiaomi. It sells huge volumes of phones, but with little profit margin on the phones themselves, it wants to sell internet services to its own phone users.
+
+Xiaomi founder Bin Lin recalls the company's early startup plan this way: "Start from the open-source Android operating system and do the user experience well; once the OS is accepted by users, make phones, then sell products through the e-commerce model, and ultimately make money from software and internet services."
+
+But in 2015, when Xiaomi tried to pivot to making money from software and services, things didn't go so smoothly. [The figures Reuters revealed](http://www.reuters.com/article/china-xiaomi-revenue-idUSH9N14K00T) illustrate the problem: Xiaomi's full-year 2015 revenue was US$12.5 billion, but services revenue was only US$564 million — more than 40% below its internal US$1 billion target. By comparison, phone sales, which also missed their internal target, came in less than 20% below plan.
+
+The same goes for small companies as for large ones. After failing to make money from its weather-forecasting app "MoWeather," Moji tried building a community for people to share weather and selling air-quality monitors.
+
+Now Moji has returned to the most direct way of making money, adding more ad slots to its app. Xiaomi has put forward its "new national products" strategy, aiming to sell more hardware built around young people's lifestyles.
+
+Meitu has also begun adjusting. In its fundraising documents, Meitu outlined plans to launch a social e-commerce platform in the first half of 2017, focused on fashion apparel, cosmetics, and skincare categories.
+
+Some experiments have already begun — from the nurturing-style game "Meimei Xiaodian" in April, to BeautyCam. Meitu has started partnering with cosmetics brands, moving from virtual makeup try-ons to directly selling products.
+
+Advertising is also back on Meitu's agenda — explicitly written into the fundraising documents for this Hong Kong IPO.
+
+After three years of making phones, Meitu has picked up the most direct way of making money once again.
+
+Cover image from [Meitu Phone](http://www.meitu.com/m6)

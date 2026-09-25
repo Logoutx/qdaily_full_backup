@@ -1,0 +1,235 @@
+@@QD_TITLE@@
+The Airlines All Want You to Install Their Apps to Book Flights — but Should You?
+@@QD_EXCERPT@@
+The verdict after looking at more than 4,500 fare comparisons: unless someone else is paying, installing only the airline's own app is a bad idea.
+@@QD_BODY@@
+The verdict after looking at more than 4,500 fare comparisons: unless someone else is paying, installing only the airline's own app is a bad idea.
+
+The summer travel season is in its final stretch, and it's time to start booking National Day holiday flights.
+
+Open an airline's app and you'll see China Eastern's "limited-time special on independent travel for the second half of the year," China Southern's booking special on the 28th of each month, "Super Member Day," and Air China's "Every Trip Counts" (《添次良积》) campaign, which encourages members to book flights through the app in exchange for bonus miles.
+
+The airlines have been aggressively going after business from online travel agency platforms such as Trip.com Group and Qunar. This has been going on for well over six months.
+
+On the last day of 2015, [China Southern Airlines, Hainan Airlines, and Capital Airlines](http://finance.ifeng.com/a/20151231/14144476_0.shtml) announced they were suspending cooperation with Qunar; Chongqing Airlines, China Eastern, and Air China soon joined in, issuing similar statements announcing the closure of their flagship stores on Qunar.
+
+Months before that, Air China had already circulated a notice stipulating that agents could not post fares on online platforms more than 2% below the prices on Air China's own website, on pain of steep penalty fees.
+
+Later, although the major airlines resumed cooperation with Qunar, prices on the platform changed.
+
+For a long time, airlines sold tickets through agents to reach more cities and more people. But smartphones let airlines reach mass consumers directly, the way Trip.com Group and Qunar do — and not just frequent business travelers.
+
+After several months of price adjustments, can the airlines' mobile offerings really compete with the Trip.com Groups of the world?
+
+We selected 22 routes across 9 of the busiest airports and simulated three booking scenarios: same-day, two weeks out, and National Day and Chinese New Year holiday bookings. The apps we compared were those of Air China, China Eastern, China Southern, and Hainan Airlines — the four airlines controlling more than 80% of the Chinese market — and the four travel platforms Alitrip, Tongcheng, Trip.com Group, and Qunar, backed respectively by the three internet giants Alibaba, Tencent, and Baidu.
+
+### On price — the metric that matters most — the airlines' apps have no real advantage
+
+- **Booking a flight departing the same day: airline apps often don't have enough seats**
+
+We searched same-day fares at 2 p.m. on Monday, August 15, for flights departing from 4 p.m. onward.
+
+In the charts below, light green and dark green indicate, respectively, the app with the lowest price in a given time slot and any app within 5% of it. The most striking red marks apps whose price gap exceeds 30%; in the final tallies, some gaps run as high as 100% or even 150%.
+
+![](http://img.qdaily.com/uploads/20160822064815Gem0gloMrQB3Pj8n.png-w600)
+
+![](http://img.qdaily.com/uploads/20160822064754xicnGRdFwE6qsSgk.png-w600)
+
+![](http://img.qdaily.com/uploads/20160822064833YCRNUAvfJ6sWdwFh.png-w600)
+
+![](http://img.qdaily.com/uploads/20160822064853iWXfjK32eqQg50Hu.png-w600)
+
+For urgent same-day travel, the platforms with the most available seats are Alitrip and Qunar — if you've only installed the Hainan Airlines app, you might not be able to fly at all that day. On price, too, the lowest fare in each time slot shows up most often on Qunar and Alitrip.
+
+In our tallies of how often each app had the lowest fare in a given slot — or came within 5% of it — the online travel agencies clearly have the edge.
+
+![](http://img.qdaily.com/uploads/20160822025534rpvKBQOTauk0EbSY.png-w600)
+
+At the same time, the biggest gaps above the lowest same-slot fare came from the Air China and China Eastern apps.
+
+Departing from Beijing or Shanghai, Air China and China Eastern generally have the most plentiful seats, but when you're booking same-day, each airline may have few seats left — or only high-priced first-class cabins. By comparison, the booking platforms offer far more choice.
+
+- **Planning two weeks ahead: third-party platforms are still cheaper for first-tier cities — except China Eastern out of Shanghai**
+
+On the afternoon of August 16 we searched for tickets for a Saturday two weeks out — August 27 — pulling the cheapest fare on each app for every hour from 6:00 in the morning to 22:00 at night.
+
+Most of the time, the cheapest fares between first-tier cities are on Alitrip and Qunar.
+
+The exception: China Eastern flights from Shanghai to Beijing or Guangzhou, and from Guangzhou to Shanghai. On these three routes, the cheapest tickets can only be booked in the China Eastern app.
+
+![](http://img.qdaily.com/uploads/20160822064422orymksPhH6aVTADj.png-w600)
+
+![](http://img.qdaily.com/uploads/20160822064516uGwrtOVIa3mq1LZW.png-w600)
+
+![](http://img.qdaily.com/uploads/20160822064445wcK5OF4Wm8ioBbl2.png-w600)
+
+![](http://img.qdaily.com/uploads/201608220644585ne0cUOWqoK7kt3T.png-w600)
+
+- **National Day flights are all expensive — for cheap fares, look to the low-cost carriers**
+
+During the National Day holiday, fare gaps between the apps aren't as large as usual; the common denominator is that everything is expensive. Even the cheapest fare in a given slot carries no real discount.
+
+![](http://img.qdaily.com/uploads/20160822050938TKlVqZHDRxPMt9F0.png-w600)
+
+![](http://img.qdaily.com/uploads/20160822064231WR5XqjOvZ6xCz2hD.png-w600)
+
+By comparison, Qunar came out cheapest in our results, with Alitrip close behind. Most of their low fares come from budget carriers such as China United Airlines and China Express Airlines.
+
+Tongcheng also has a fair number of budget-carrier tickets, but at higher prices.
+
+For this period, if you want to save money, the low-cost carriers are still the cheaper option.
+
+- **Chinese New Year travel: the airlines haven't released enough seats, or what's left is nearly gone**
+
+On August 17 we used the eight apps to try booking flights for the peak Chinese New Year travel rush; January 25 is two days before Chinese New Year's Eve, when people head home or set off on trips one after another.
+
+The numbers show China Eastern has the lowest fares most often among the airline apps, while Air China's currently released fares are all on the high side and Hainan Airlines still has very few flights. And looking at routes among the nine busy airports, the fare gaps between airlines and online agencies during Chinese New Year are already small.
+
+![](http://img.qdaily.com/uploads/20160822064332PHUBtL14KvngwchW.png-w600)
+
+![](http://img.qdaily.com/uploads/20160822064302OzGw8VolZ2bnhsY3.png-w600)
+
+For booking Chinese New Year flights right now, China Eastern is the cheapest airline app. On most routes it's the lowest fare; when it isn't, it's usually less than 5% above the lowest.
+
+The cheapest prices on the online travel agencies generally come from two channels: the airlines' own direct-sale flagship stores and the platforms' self-run flash-sale channels. And mileage redemption, ticket changes, and refunds work just as well through the airlines' WeChat official accounts.
+
+- **No international routes — because they're not worth using**
+
+For Beijing or Shanghai to the US West Coast, Delta often has cheap fares. But even though it's in the same alliance as China Eastern and China Southern, and points can be exchanged for free seats on each other's flights, you still can't book a Delta ticket in the China Eastern or China Southern app.
+
+The same holds for Air China and United Airlines, both members of Star Alliance.
+
+Among airlines, competition still outweighs cooperation. On international routes, that can mean a fare difference of over a thousand yuan on a single ticket.
+
+Gaps on domestic routes aren't as big, but if you need your departure time pinned down to the hour, the airline's own app alone may not be enough.
+
+![August 27: coverage by time slot across 12 popular routes — airline apps fall far short of third-party platforms on this](http://img.qdaily.com/uploads/20160822080950TosZLftUcDGx73hr.png-w600)
+
+### App experience: Air China is the best of the airline apps
+
+Both the China Eastern and Air China apps were recently updated, and the experience is a big step up from the versions of a month ago.
+
+- **Air China**
+
+After its recent updates, the Air China app is the best of the bunch in launch speed and smoothness — it has everything it should have, you could say.
+
+![Air China (left), China Eastern (center), China Southern (right)](http://img.qdaily.com/uploads/20160822070404PYN4UhdrIz2y6Doq.png-w600)
+
+For the booking experience, Air China, China Southern, and Hainan Airlines all show prices directly on the calendar; only China Eastern doesn't.
+
+Before June this year, Air China's member services were run by a third-party company in a separate app, "Phoenix Miles Hui" (《凤凰知音汇》).
+
+Recently Air China announced it was ending the cooperation with its strategic partner, and the functions of "Phoenix Miles Hui" were folded into the new version of the Air China app. There was an episode in between: the operator of "Phoenix Miles Hui" sent users text messages accusing Air China of unilaterally terminating the partnership, and urging users to download an app unrelated to Air China called "Mileage Manager" (《里程管家》).
+
+Now the Air China app has the basics — flight booking, check-in, and changes — while member benefits such as mileage credit and redemption sit in the "Phoenix Miles" section.
+
+After nearly two months of upgrades, Air China's own app is the best of the airline apps in both attention to detail and stability.
+
+![](http://img.qdaily.com/uploads/20160822021402jNez0m215cJoK7vp.png-w600)
+
+- **China Eastern**
+
+The China Eastern app is the richest of the bunch: right under the flight search box sit entrances to add-on services — hotel booking, a points mall, vacation packages, airport pickup and drop-off, insurance, overseas Wi-Fi — plus bundled hotel, attraction ticket, and flight packages, and a member services entrance where you can claim missing mileage credit.
+
+But the China Eastern app also has the worst experience of the airline apps.
+
+Over the weeks from planning this experiment to finishing it, an iPhone 6s we used as a test device was never able to open the China Eastern app successfully; in App Store reviews, crashes on search, ID-photo verification failures, and crashes at launch are all common complaints.
+
+The app has no eye for detail, either. When you search for a departure city, typing "Pudong" alone won't bring up Pudong Airport — you have to search "Shanghai," "Shanghai Pudong," or "PVG."
+
+More awkward still, China Eastern runs two password systems. Besides your login password, when you use rarely needed functions like changing personal information or adding a mileage-redemption beneficiary, you also have to set a spending password — a password so seldom used that you may have to recover it every time you need it.
+
+![](http://img.qdaily.com/uploads/201608220212302FcLylatBMbwJqEm.png-w600)
+
+- **China Southern**
+
+China Southern is the only one of the tested apps not yet adapted to the iPhone 6/6 Plus screen resolution. Such apps are a rare sight in the App Store now — after all, the iPhone 6 has been out for nearly two years.
+
+But the China Southern app's basic functions have no real problems, and it places entrances to ticket redemption, changes and refunds, and cabin upgrades in a prominent spot. Mileage credit claims are handled through China Southern's official WeChat account.
+
+![](http://img.qdaily.com/uploads/20160822020855WuL9yXFGcYPb2hoJ.png-w600)
+
+- **Hainan Airlines**
+
+The Hainan Airlines app can book Hainan Airlines flights as well as those of its codeshare partners.
+
+Beyond self-service check-in and flight-status tracking, potentially useful functions and ones you'll almost never open are all piled together under the "Travel Assistant" entrance in the bottom-right corner. The Hainan Airlines app cannot claim missing mileage credit.
+
+![](http://img.qdaily.com/uploads/201608220238143FIGKDMxnO08hdbR.png-w600)
+
+### The perks of airline elite membership aren't as useful as they were ten years ago
+
+Beyond ticket prices and the booking experience, airlines have long fought for customers with frequent-flyer programs.
+
+Air China has Phoenix Miles, China Eastern has Eastern Miles, China Southern has the Sky Pearl Club — every program offers more or less the same thing: better treatment and award tickets.
+
+Ten years ago, an airline's elite status could make a journey far more comfortable.
+
+Arriving at the airport, while everyone inched forward in the long line toward the economy-class counters, a gold member could walk up to the first-class counter to check in, skipping half an hour of queuing.
+
+After security, a gold member didn't have to agonize over [a cup of boiled water for 10 yuan or a frozen dumpling for 5 yuan](http://travel.163.com/special/0006sp/airdrome.html) — they could walk into the first/business-class lounge and have a free bowl of beef noodles at mealtime. And given that back then you could only learn whether a flight was delayed once you were at the airport, the lounge sofa made delays a lot easier to bear.
+
+Once onboard, a flight attendant would bring a greeting and a newspaper. In the days when you couldn't use phones or laptops in the air and the iPad hadn't even made it off the drawing board, a copy of *Global Times* or *Reference News* was many people's only diversion on a plane.
+
+Ten years on, all these perks still exist — they're just not as attractive anymore.
+
+**Check-in:** Arriving at the airport with just a carry-on, you can check in on your phone or at a kiosk — faster than the first/business-class counters.
+
+**Security:** To win frequent travelers, banks such as ICBC, China Merchants Bank, CITIC, and China Guangfa have attached CIP fast-track service to their annual-fee-waivable platinum cards — access to dedicated lanes or the first/business-class security channel — while an airline elite member flying economy still queues at the economy security line. Without a bank's service, Yidao's airport rides and UnionPay Wallet offer low-cost CIP options too.
+
+**Waiting:** Apps like Flight Manager and VariFlight can tell you before you leave whether your plane is still 1,000 kilometers away and won't depart on time. Instead of waiting around at the gate, you can head to the airport later. If you do hit a delay or need a rest during a connection, the Priority Pass and Dragon Pass that come with premium bank cards get you into airline lounges. Their thresholds are no higher than Air China's gold status, which requires 80 flight segments or 80,000 kilometers a year.
+
+**Dining:** Big airports now host chain restaurants with prices comparable to downtown. The airline lounges still serve the same monotonous fast food as ten years ago — if you miss mealtime, it's biscuits and instant noodles.
+
+The only advantages left for airline members are miles and upgrades.
+
+Take Air China from Beijing to Shanghai Hongqiao: a full-fare one-way ticket earns 1,195 kilometers of mileage. Booking a December 2 flight today, 12,000 kilometers gets you a free one — fly ten times, get one free. But if you book a discounted fare, the same distance earns only 75%, 50%, or even 25% of the mileage.
+
+That's an attractive deal, but the airlines don't require you to book through their own apps — tickets booked via Trip.com Group, Alitrip, and other channels earn the same mileage.
+
+So the airlines have started running promotions to draw users in. Air China's recent campaign, for instance, gives miles for every booking made in the app: 16 bookings in a quarter (for the member's own travel) earns 15,000 kilometers.
+
+The value of miles varies by airline and by the route you redeem on, but unless you're willing to let the airline choose your destination, you often can't redeem for the route that gives the best value.
+
+According to estimates by the frequent-flyer site BoardingArea, overseas airline miles are generally worth between 1.3 and 1.5 US cents per mile. Converted to kilometers and RMB, that's roughly 0.14–0.16 yuan per kilometer. China's four big airlines usually can't match that value.
+
+For business travelers this isn't a problem. Many companies' only rule on airfare is economy class — they don't require the cheapest airline. For someone who doesn't care about the fare, sticking with one airline and letting the company pay, then spending the accumulated miles on vacation, is a very good deal.
+
+But if you're paying out of your own pocket, the value of the miles often doesn't cover the extra fare you'd pay by committing to a particular airline.
+
+### Besides shuttling people from one airport to another, what business do the airlines want to get into?
+
+The vast majority of people booking flights are traveling for leisure or business, and beyond the ticket itself, hotels, attraction tickets, airport transfers — even insurance and visas — are natural add-on purchases.
+
+Open any online travel agency's app and the message on the home page is the same: one app solves all your travel problems.
+
+![Trip.com Group (left) and the China Eastern app (right), the richest in add-on features](http://img.qdaily.com/uploads/20160822021639Vz2Rw9qh5marp1XI.png-w600)
+
+It's not just the Chinese airlines that want to pull the booking channel back to their own websites — foreign airlines are doing the same: Delta pulled its flight information from online travel agency sites entirely, and Lufthansa explicitly requires an extra booking fee of ten-plus US dollars for tickets bought through any channel other than its official website.
+
+The more passengers buy tickets on the airline's website, the more chances the airline gets to interact with them.
+
+The industry calls this "upselling." A large share of Delta's profit comes from ancillary services passengers buy after the base fare.
+
+China Eastern and China Southern both offer destination-related travel services. China Southern's "China Southern Holidays" provides vacation packages covering flights, hotels, and attraction tickets; China Eastern partnered with Booking on hotel booking; both airlines also offer overseas Wi-Fi purchases, all provided by Youbanban. After investing in Uber, Hainan Airlines integrated Uber airport pickup into its own app — though the entrance is buried: you tap the suitcase icon in the bottom-right corner, then hunt for it among dozens of icons.
+
+Compared with the online travel agency platforms, whose home pages list dozens of service categories, the airlines' limited selection isn't competitive yet.
+
+In other words, the airlines also want consumers to complete all their travel-related spending in one place on their own apps — but compared with the platforms that burned huge subsidies and built stable supply channels, the airlines' efforts still fall far short.
+
+### So how should you actually buy tickets?
+
+- If you want the least hassle, Alitrip and Qunar can basically guarantee you the cheapest fare, or something very close to it.
+- Among the third-party platforms, Tongcheng is the most expensive, but it has some subsidies too, such as a 20-yuan red-envelope rebate.
+- Although Trip.com Group and Qunar have already merged, the prices they show are not the same; if you chase the lowest fare, you need both apps.
+- In fact, since airlines occasionally offer genuinely lowest fares too, if you don't mind the trouble, installing every app is the only way to guarantee the lowest price.
+- The cheapest tickets on the platforms often come from the airlines' direct-sale flagship stores. If you insist on flying Air China, China Eastern, or China Southern, third-party platforms won't be more than a few yuan cheaper. That said, many of the big three's flights are codeshared with smaller carriers such as Shandong Airlines, Joy Air, and XiamenAir, and those fares are a bit lower — the hardware and service are identical, though you may earn slightly fewer miles.
+- If you've only installed the Hainan Airlines app, when you urgently need to fly you may genuinely be unable to buy a ticket.
+- On popular routes, low-cost carriers aren't always low-cost. Outside of early morning and late evening, they're often not the cheapest.
+- If you want a bit of comfort at the airport but aren't a road warrior, a premium bank card is easier to obtain than an airline elite status that requires 40,000 kilometers or 40 flight segments a year.
+- Although airline apps also offer self-service check-in and flight-status lookups, when it comes to changes like gate switches or delays, Flight Manager is faster than the airlines.
+- For longer flights, check the flight on [SeatGuru](https://www.seatguru.com/) before picking a seat so you can avoid the bad ones.
+- Your miles don't have to be credited to the airline you fly; [Where to Credit](http://www.wheretocredit.com/%E4%B8%AD%E6%96%87-%E7%AE%80%E4%BD%93) shows what your fare class would earn with different airlines.
+- For now, the airlines' focus remains on frequent business travelers who aren't very price-sensitive. If you're not one of them, there's little reason to install only one app.
+
+Cover image from [Visual hunt](https://visualhunt.com/photos/sky/)
