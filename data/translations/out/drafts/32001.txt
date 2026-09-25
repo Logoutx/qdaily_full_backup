@@ -1,0 +1,146 @@
+@@QD_TITLE@@
+What Does Success or Failure Mean for a European Startup Without a High Valuation? | Maybe Europe Has the Answer ⑦
+@@QD_EXCERPT@@
+For a long time, European startups have grown used to going their own way, following a different model of survival and development.
+@@QD_BODY@@
+For a long time, European startups have grown used to going their own way, following a different model of survival and development.
+
+It is a gathering place for entrepreneurs, yet the street where the Amsterdam startup accelerator Rockstart is located is nothing like the bustling "Startup Street" you would see in Beijing's Zhongguancun.
+
+Apart from a black wooden plaque nailed to the door bearing the name Rockstart, and the young people who now and then stand at the entrance chatting, this is an ordinary old building on an Amsterdam canal. It may be one of the buildings most densely packed with entrepreneurs in Amsterdam's old town, but passing tourists barely notice it — the surrounding streets are lined with select shops and boutiques, one of the must-visit spots for tourists in the city center.
+
+This inconspicuous building reflects the unglamorous reality of Europe's startup market.
+
+[According to a CB Insights report](https://www.cbinsights.com/reports), in the first quarter of this year, 338 startups across Europe raised a combined $3.5 billion — less than a third of North America's count in number, and only a fifth of North America's total funding.
+
+"Actually, entrepreneurship is not a Dutch tradition." Five years ago, when Don Ritzen was setting up the accelerator Rockstart in Amsterdam, the Netherlands' startup environment was loose and scattered. "At that time some people had begun investing in friends and supporting their ventures, but no one had organized any of it."
+
+### 1
+
+Another fact is that European startups are growing in their own way, following their own rules.
+
+Rockstart's building houses many small companies. Some have already closed Series B rounds of several million dollars and rent their own office, while the vast majority are startup teams that have graduated from the accelerator program or are still in it, sharing an office of a few hundred square meters with several other teams.
+
+One day in late May, 30 investors came to Rockstart's banquet hall for an investors' dinner. It is the most lavishly decorated room in the entire building, and the only one that retains the building's original appearance; all the other rooms have been converted into startup offices and shared workstations.
+
+Most of the guests knew the place well. Several times a year they would come here — pushing open a black wooden door on Herengracht street, walking past the people working and discussing on their laptops in the ground-floor hall, climbing the spiral staircase to the second floor, and arriving at this centuries-old banquet hall — now a well-known venue for startup events in the city.
+
+![Rockstart's banquet hall](http://img.qdaily.com/uploads/20160909105035wU4iFmxVzaoO0ZTv.jpg-w600)
+
+Most of these investors accumulated their wealth in the 1990s or at the turn of the century. Yet five years ago in the Netherlands, entrepreneurs had no idea where to find these people — experienced, well-capitalized, and willing to devote their own time and money to helping the next generation of startups. Now Rockstart has built a database of 400 investors, mostly locals; some come from large investment institutions, but more invest as individuals.
+
+Like investors everywhere in the world, these old-school businessmen quickly learned to keep on their lips the existing operating data, the detailed plans for expanding into international markets, and the calculation models for order volume and profitability. Together with governments and big companies, they helped drive the change in Europe's startup climate over the past five years.
+
+![Changes in European startup funding over the past five years (2011–2016); figures for 2016 show only the first quarter. Data source: [KPCB & CB Insights](https://www.cbinsights.com/reports)](http://img.qdaily.com/uploads/20160909112237k9LiagOj0nFEVhHs.png-w600)
+
+### 2
+
+Even so, some traditions have been carried on. For instance, small European companies still find it hard to obtain high valuations — and this directly shapes how European startups view success and failure.
+
+Data analytics software company Spoke Intelligence once collaborated with the business site VentureBeat on [a report on "unicorn" companies](http://venturebeat.com/2016/01/18/there-are-now-229-unicorn-startups-with-175b-in-funding-and-1-3b-valuation/), surveying 229 startups worldwide valued at over $1 billion. By the time these startups reached a $1 billion valuation, they had on average already raised $95 million. It takes an average of six years from founding to becoming a "unicorn." Nearly half of these 200-plus unicorns are located in California, while Europe has only 13.
+
+Relatively modest funding, to some extent, means startups do not grow as explosively. Earlier this year, [a report from the Belgian nonprofit Siris showed](http://venturebeat.com/2016/09/04/10-things-you-didnt-know-about-europes-tech-scene/) that in 2016, more than 1,100 European startups raised over $1 million.
+
+From founding to a Series A round, these companies spend an average of four years. And the startups that raised Series B rounds this year were founded even earlier — essentially in 2010 or before.
+
+This is mainly the result of a conservative atmosphere. Compared with Silicon Valley in particular, European entrepreneurs and investors are afraid of failure, which may cause them to miss opportunities amid the globalized startup boom.
+
+"Why is Germany not a dreamland for startups? Because in the United States, people are more willing to take risks. For them, failure is no big deal — you can just start your next venture," Ralph Wiegmann, CEO of the iF Design Award, told QDaily in an interview. "Here, if your startup fails, that's it — no one will ever believe in you again."
+
+Starting a business requires taking risks, yet European society and the investment environment have a low tolerance for risk. In Europe, the stigma attached to failure is much stronger than in the United States. Vaclav Muchna, founder of the Czech enterprise software company Y Soft, [wrote in an article](https://www.ysoft.com/YSoftWeb/media/YSoft-articles/full-bio_vaclav_muchna_CEO_ysoft.pdf) exploring why Europe has no Silicon Valley: "In many European countries, failure is still a disgrace. If your company goes under, you can't even serve as a corporate legal representative for many years."
+
+Europe's bankruptcy laws are also far more punitive than those of the United States, where bankruptcy is merely a stage many successful entrepreneurs pass through on the road to success.
+
+Unless you happen to have accumulated some capital before starting out in Europe, things tend to go more smoothly afterward. Daan Weddepohl, founder of the borrowing-and-lending community Peerby, had already successfully sold two software companies before starting Peerby, and relied on that seed money to think about his next venture. Honeypot, the programmer recruitment platform we previously profiled, was almost incubated from the previous company, AppLift, founded by its founder Kaye Taner.
+
+This also makes their growth paths different: from day one, European startups have to think about how to save costs and turn a profit, so the company can break even. 3D-printing platform company 3D Hubs graduated from Rockstart's accelerator program three years ago and recently completed a $7 million Series B round — two years after its Series A. Founder Brian Garret said: "After every round of funding, I tell the team to treat it as the company's last."
+
+### 3
+
+When young entrepreneurs met these self-made, older investors at the dinner that began at 7 p.m., they kept these traditions firmly in mind.
+
+Even without carefully reading the name badges on people's chests, it is quite easy to tell entrepreneurs and investors apart. The investors generally wear suits and are somewhat older, while the entrepreneurs mostly wear T-shirts or shirts, taking the initiative to strike up conversations with investors and introduce their projects. And many of the entrepreneurs come from Brazil and India, while most of the guests are native Dutch.
+
+Before this, ten startup teams had each spent five or six minutes introducing their products or business models.
+
+"There are 42 days until Demo Day, and these teams are in the user-acquisition practice stage," said Don Ritzen, Rockstart's co-founder, in his brief opening remarks, describing the current progress. These teams all come from Rockstart's "mobile internet" program; selected from more than 300 applicant teams, they came to Amsterdam for a 150-day "acceleration."
+
+Similar to well-known accelerator programs, every team that successfully enters the program receives complete training, including polishing the business model, planning international expansion, and a grant of 20,000 euros; in return, Rockstart takes an 8% equity stake. During their five months at Rockstart, these startup teams attend several such investor dinners, the main purpose being to build connections with potential customers or investors.
+
+This is the one thing European startups most need to strengthen, especially given that available capital on the market is scarce and cautious in the first place.
+
+![An entrepreneur giving a presentation](http://img.qdaily.com/uploads/20160908214655YK0uMXvZWLAg7Po2.jpg-w600)
+
+"Entrepreneurs have to go through this process. It's hard to say an investor will decide to back you after one meeting — before that, building a connection matters more." One of the purposes of Rockstart's accelerator program is to help startup teams build a more direct mentor relationship with investors, rather than merely showing up with a PowerPoint deck to introduce themselves when they need funding. Don Ritzen believes accelerators like Rockstart are especially important in Europe.
+
+Beyond the banquet hall, half of this five-story building serves as the venue for three accelerator programs, while the other half operates as a co-working space, rented to startups that have graduated from the programs. A day at Rockstart begins with breakfast. Some people casually find a spot in the ground-floor dining area and chat about their projects' progress; others grab a sandwich in one hand and a coffee in the other and hurry to a computer to start working. The buzz of the common area lasts until well past 8 p.m., and even on weekends, when most Europeans are off work, some people put in overtime in the offices here.
+
+![The common hall on Rockstart's ground floor](http://img.qdaily.com/uploads/20160909105404ehwtkXWU0iVsplPy.jpg-w600)
+
+The walls of the hall display photos of Rockstart's past events. Many of the teams in those photos have left Rockstart's building and rented offices in Amsterdam's new districts, entering a new stage of development. Founder Oscar Kneppers initially expected that as long as 20% of these projects succeeded, the goal would be met. According to Ritzen, the survival rate of Rockstart's programs is 85%.
+
+After graduating from the accelerator program last year, Zazzy, a 3D jewelry design platform, rented a small room on Rockstart's third floor, with three workstations crammed into the tiny space and 3D printers and printed products stacked tightly on the desk against the wall.
+
+After 6 p.m., founder Gret Jan Spriensma prepared to mail a batch of precious-metal printing materials to suppliers on the platform, wrapping up the day's work. This is also when the ground-floor hall at Rockstart is at its liveliest: formally dressed guests arrive one after another, passing through the hall on their way to the banquet hall; around the round tables, some teams hold what must be their umpteenth meeting of the day, while people working alone sit to one side with headphones on, facing their screens.
+
+Like Spriensma, entrepreneurs working in the building often schedule their last meetings of the day in the hall: less formal, less tense. They are ready to present their confident side — and perhaps things really are moving in a good direction. At the end of the interview, he pointed to the photos on the wall and said: "Look, these people went through the same situation as us. They succeeded — and so can we."
+
+![Jewelry samples printed on the Zazzy platform](http://img.qdaily.com/uploads/20160909105450ukH56MPigbOX1B4A.jpg-w600)
+
+### 4
+
+"Success" is not defined uniformly among European startups.
+
+As with all startups, scale is one criterion. More precisely, for most startups starting out from the European market, going international is a must. They usually consider how to do business in international markets from the very beginning.
+
+Peerby, the borrowing-and-lending community, graduated from Rockstart's program four years ago and received considerable media coverage in the Netherlands right after launch, even though at the time they merely found a community of about 3,000 people in a city near Amsterdam to test the model of "borrowing things from neighbors."
+
+Belgium was the first international market Peerby entered, owing to the shared border and a partly Dutch-speaking population. But in Weddepohl's view, the most important market is still the United States. Like most European founders, he believes Europe's market is relatively fragmented, while the U.S. market is one large unified market — the fact that people speak the same language alone is a great convenience for expansion. "Everything in the U.S. is 5–10 times bigger than ours, and it's easier to tell a success story there," as Ritzen put it.
+
+Peerby's most important goal this year is to land in its first U.S. city. A fine example ahead of them is the music streaming platform Spotify. Jonathan Forster, one of Spotify's early employees, said in an [interview with the Financial Times](http://big5.ftchinese.com/story/001059563?full=y): "Sweden is a small country; the industry here is small-scale, and things can often get done faster." But today, the company's subscribers come from 60 countries worldwide. By the end of 2015, Spotify had 89 million total active users and a valuation of $8.5 billion — and its most important market was the United States, not Europe.
+
+When selecting projects to take in, Rockstart favors companies that can internationalize, because the Netherlands has only a few million people — clearly too small a market for a successful internet company.
+
+![Rockstart rented an entire building in the center of Amsterdam's old town](http://img.qdaily.com/uploads/20160909133255w40AyQ1nSaBdbrpm.jpg-w600)
+
+"One or two years in, they start doing international business," Ritzen emphasized. Their goal is to find the next Booking.com. Founded in 1996, [Booking.com](http://booking.com/) is one of the Netherlands' most successful startups and one of the world's most popular online booking sites, offering services in 41 languages worldwide.
+
+Another way to participate in the global industry chain is to provide enterprise services to the most globalized large companies. Enterprise services — that's right, this is Europe's new opportunity in tech startups.
+
+Siris' report shows that, unlike Silicon Valley's predominantly consumer-facing ventures, more than half of European startups — 55% — are engaged in enterprise services. One example is Adyen, a payments company providing payment solutions to companies such as Booking.com, Netflix, and KLM Royal Dutch Airlines.
+
+In late May, Amsterdam hosted [Startup Fest Europe](https://www.startupfesteurope.com/site/). CEOs of tech giants such as Apple and Google, LinkedIn, famous Silicon Valley investment institutions, and tech media all came to Amsterdam, holding more than 70 events over the course of a week.
+
+Apart from the various roadshows and sharing sessions, perhaps the most significant events for startups were the [53 Launchpad events](https://www.iamsterdam.com/en/business/startupamsterdam/launchpad) held during the week. Organized by StartupAmsterdam for startups and large Dutch companies, these events let startups connect with big corporations — "and also let big companies understand that these startups don't necessarily have to be their competitors; big companies are their customers, not competitors." This Launchpad was the third edition and the largest one yet.
+
+By growing through serving big companies, these startups may ultimately even be able to sell themselves for a good price.
+
+In 2014, Google spent $400 million to acquire the artificial intelligence company DeepMind, which has since become Google's largest research and development center in Europe. Two months ago, Amazon's cloud computing service platform announced the acquisition of the Dutch startup Cloud9, which provides integrated development environments to users on cloud computing platforms; Salesforce and Soundcloud are both Cloud9 customers.
+
+### 5
+
+People no longer believe that going public is the best proof of a startup's success. An IPO is not a once-and-for-all event. Quite a few startups rode venture capital to market capitalizations of tens of billions of dollars, yet all of them [failed to build substantial and stable revenue streams](http://www.qdaily.com/articles/28937.html). And among the U.S. tech companies that went public in the past few years, nearly all have fallen below their issue prices.
+
+![Tech companies that went public in recent years are now mostly worth only a fraction of their value at listing](http://img.qdaily.com/uploads/20160909133405qXwYnUD1mjTZruSF.jpg-w600)
+
+In Europe, this view is even stronger.
+
+Over the past five years, there have not been many cases of European tech startups going public. Those listed in the United States include KING, Criteo, and Zendesk; those listed in Europe itself include JustEat, Scout24, Zalando, Rocket Internet, Zoopla, and so on.
+
+Hi-Tec, a Dutch outdoor brand founded in 1974, went public in London in 1988; 12 years later, founder Frank van Wezel took the entire company private again. Regarding going public, Hi-Tec's current CEO Ed van Wezel told QDaily that the choice not to list was made to preserve the possibility of making long-term investments in the company.
+
+Meanwhile, more startups choose to sell themselves.
+
+![Number of European startups acquired by U.S. tech companies — first quarter of 2016. Data source: Tech.EU](http://img.qdaily.com/uploads/20160909113033NYlw4I3beD6qyLmc.png-w600)
+
+Beyond avoiding the risk of market-value swings after going public, the proceeds from an acquisition can also be considerable — such as Skype, acquired by Microsoft for $8.5 billion, Mojang, acquired for $2.5 billion, and the mobile game company Supercell, acquired by Tencent for $8.6 billion.
+
+After their companies are acquired, some entrepreneurs join the new team, while others choose to start new ventures — such as Peerby founder Daan Weddepohl and Zazzy founder Gret Jan Spriensma, both of whom used the proceeds from selling their previous companies as seed funding for their current projects.
+
+![Peerby's office is on Rockstart's top floor](http://img.qdaily.com/uploads/20160908215223sPgH0qnZeb9Xwj5F.jpg-w600)
+
+In the four years since the borrowing-and-lending community Peerby was founded, Daan Weddepohl has led the team through more than ten office moves, getting through the turbulent early startup phase. Now Peerby is about to enter the more startup-friendly U.S. market, with its larger user base and more abundant capital — though it also demands faster scaling, and you must keep user growth going amid numerous competitors.
+
+Daan Weddepohl knows well what a challenge this poses to a European startup accustomed to steady, slow growth. Speaking of the U.S. market they are about to enter, Daan Weddepohl said: "This is really about founding a brand-new startup. Between two different markets, we need to create an intermediate zone, connecting the two startups and the two markets."
+
+Cover image from [VisualHunt](https://visualhunt.com/)

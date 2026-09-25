@@ -1,0 +1,175 @@
+@@QD_TITLE@@
+iPhone 7 Hands-On: It's a Better iPhone, but the Once-in-Two-Years Leap Is Gone
+@@QD_EXCERPT@@
+The iPhone has become a business like the Mac: a routine upgrade every year, but don't expect a big change every two years anymore.
+@@QD_BODY@@
+The iPhone has become a business like the Mac: a routine upgrade every year, but don't expect a big change every two years anymore.
+
+Since 2008, Apple has kept a rhythm of major updates every two years. The iPhone 4 brought a new design, the 4s boosted internal performance.
+
+Over those eight years, users have grown accustomed to this rhythm. Even though word had long been out that the iPhone 7 wouldn't change much, it still drew far more attention before launch than the iPhone 6s did.
+
+![Google worldwide search trends before the launches of the iPhone 6, 6s, and 7 — interest in the 7 (yellow) is more than double that in the 6s (red)](http://img.qdaily.com/uploads/20160908161158DMk0ENsH9JzCB8uy.png-w600)
+
+But at the early-morning launch event today, Apple did not continue the once-in-two-years leap.
+
+Getting an iPhone 7 is like switching MacBook Pros these past two years: you know it's better than the last generation, but you can barely tell at a glance.
+
+Whatever the color, the front of the iPhone 7 differs only minutely from the 6 and 6s.
+
+A 4.7- or 5.5-inch screen takes up most of the front, framed by a jet-black or pure-white body.
+
+A thin slit above the screen hides the speaker, and below sits the familiar circular Home button. If you don't look closely, you simply can't tell which one is the iPhone 7.
+
+![iPhone 7 Plus in Jet Black vs. iPhone 6s Plus in Space Gray, front view](http://img.qdaily.com/uploads/20160908161334klgh3ZPapymb0SRF.JPG-w600)
+
+They don't feel different in hand either. Once you're used to the 6/6s, you probably won't feel this is a new phone.
+
+### The visible changes are all on the back
+
+The obvious changes are on the back — the side outsiders see when you use the phone.
+
+In the demo area after the keynote, Apple placed the version with the biggest visual change, "Jet Black," at the entrance. Under the lights, its back is nearly mirror-like.
+
+![](http://img.qdaily.com/uploads/20160908161801YXDzc1Gilfdq4jkO.JPG-w600)
+
+It's also the model shown on the iPhone 7 promo page you see when you open Apple's website.
+
+The iPhone 7 fixes the rear antenna design that drew complaints on the 6 and 6s: the white antenna lines now hug the edges of the body. But the two new black finishes use antenna lines that blend closer to the black body. On the Jet Black iPhone 7, you can hardly see the antennas at all — the whole back cover looks like a single piece.
+
+![iPhone 7 Plus in Jet Black vs. iPhone 6s Plus in Space Gray, rear view. Space Gray has been replaced by two black finishes on the iPhone 7](http://img.qdaily.com/uploads/20160908161306akEqcBCQAl6mdVRK.JPG-w600)
+
+Jet Black also drew the most attention. In the demo area, it had the longest queue.
+
+Its downside is that it picks up fingerprints far too easily — a touch leaves a mark. Apple's staff wiped it down with a cloth every two photos.
+
+The other matte black iPhone 7 uses the same finish as the other colors and doesn't show fingerprints easily.
+
+![](http://img.qdaily.com/uploads/20160908162340fT2ovVIzelGaqmyk.JPG-w600)
+
+Beyond these two new colors, the other immediately visible change is the ever-larger camera on the back.
+
+In the iPhone portion of the keynote, Apple devoted most of its time to the camera. Judged by the specs, it really has improved a great deal. The 4.7-inch iPhone 7 also gets optical image stabilization, and the lens has been switched to f/1.8 (a large aperture for a phone). The 5.5-inch iPhone 7 Plus goes straight to two cameras to achieve optical zoom, letting you magnify distant scenes without loss.
+
+Apple's staff wouldn't allow photos taken with the iPhone 7 to be exported. Judging just from the photos stored internally, the effect of the new technology is quite noticeable.
+
+![](http://img.qdaily.com/uploads/20160908161948OHh07Qm8eAYX4cbz.JPG-w600)
+
+![Depth-of-field adjustment, before and after](http://img.qdaily.com/uploads/20160908161922xZRWBtoJCfApOvM8.JPG-w600)
+
+Just like the "Shot on iPhone" ads you see on the street, the sample images Apple prepared are close to the best the hardware can achieve; they don't mean everyday shots will reach that level. The real results will have to wait until the iPhone 7 ships next week.
+
+While improving photo quality, the dual camera also becomes more of an eyesore on the iPhone's back. If you already disliked the protruding camera on the iPhone 6/6s, the 7 Plus will probably make you dislike it more.
+
+### That's not to say the new iPhone has no other changes — you just may not care
+
+Hidden in this unchanged-looking front are several of the iPhone's new features.
+
+For instance, the Home button is no longer a real button — just a concave piece of glass. Pressing it simulates the click through vibration.
+
+![The Home button on the iPhone 7 Plus barely looks different](http://img.qdaily.com/uploads/20160908162814d8P2JK4nV5Gk0ZiL.JPG-w600)
+
+Apple also added a speaker at the top, enabling stereo sound for video or gaming.
+
+Both features show the engineering effort Apple put into the iPhone 7.
+
+Specifically, pressing the virtual buttons on a Samsung Galaxy S7 Edge feels like the phone is vibrating; but pressing the iPhone 7's Home button makes you feel the key bounce back.
+
+Same with the speakers. Other phones with dual speakers, like the Sony Z5 or the Moto Nexus 6, have two openings on the front, which affects the look.
+
+On the iPhone 7, the new speaker hides in the earpiece at the top of the screen. Only when sound plays do you notice it's there.
+
+Stereo requires both sides to sound identical. With the two speakers using openings of different shapes, Apple had to tune the internal drivers and the software. Compared with the design of the vast majority of Android phones, Apple chose the harder but better-looking approach.
+
+The problem is that none of these detail changes may help persuade users to buy a new phone. The iPhone 6s launched at this time last year also changed quite a bit: a sturdier body material, 3D Touch force feedback on the screen, a big jump in processor performance.
+
+But the iPhone 6s sold far less than the previous-generation iPhone 6.
+
+### As for dropping the headphone jack: it will affect the accessories business, but it won't become a selling point for the iPhone
+
+The iPhone 7's most controversial move is probably dropping the headphone jack. Phil Schiller, Apple's VP of marketing, likened it to a courageous move: removing the redundant 3.5mm jack to leave more room for other internal components.
+
+![The iPhone 7 no longer has a headphone jack](http://img.qdaily.com/uploads/201609081654166PV84EHGT0Zls7bF.JPG-w600)
+
+Apple has led the way in killing off old technologies on computers before: the iMac killed the floppy drive, the MacBook Air killed the optical drive and the Ethernet port.
+
+But every past upgrade came with an obvious benefit. When the 2010 MacBook Air dropped Ethernet and the 2012 MacBook Pro dropped the optical drive, both got a lot thinner. That was the selling point.
+
+This iPhone 7 upgrade brings no obvious benefit — it's not a millimeter thinner. All users see is subtraction, nothing added.
+
+![](http://img.qdaily.com/uploads/20160908163147oVlUBMIiA03gwvPT.JPG-w600)
+
+To solve the problem of listening to music while charging, Apple prepared AirPods wireless earbuds for the new iPhone. It's a good design: the case charges the earbuds, opening the case instantly pops up a pairing prompt on the iPhone, and putting them in your ears automatically switches audio from the speaker to the earbuds.
+
+Every detail makes you feel this is how Bluetooth earbuds should be.
+
+Perhaps with the iPhone 7's launch, Bluetooth audio makers will jump in to develop more new products and features — but those all conflict with the 3.5mm jack.
+
+Users may feel the presence or absence of a 3.5mm jack doesn't matter much, but they won't switch phones because of it.
+
+### The iPhone has finally entered the laptop's upgrade rhythm
+
+Starting with the iPhone 3G in 2008, users could look forward to a big redesign every two years:
+
+- iPhone 3G: a polycarbonate shell and 3G connectivity, so you could use internet services away from WiFi;
+- iPhone 4: a double-sided glass design, the world's first Retina-display screen;
+- iPhone 5: a unibody metal body, much thinner and lighter than the iPhone 4s;
+- iPhone 6: a big screen.
+
+The iPhone 7 brings no comparable change in form. This may be because Apple no longer insists on the once-in-two-years update, or because the supply chain wasn't ready.
+
+Supposedly Apple will use a curved OLED display on the next iPhone, like the one Samsung used on the S7 Edge.
+
+The iPhone needs 200 million screens a year, and right now only two companies — LG and Samsung — have the capacity for mass production.
+
+Samsung Display already supplies OLED displays for the Apple Watch. But judging by Edge production capacity, it will be hard pressed to supply Apple with enough displays this year.
+
+![A Samsung Galaxy S7 Edge at Apple's event venue — the most common phone at the venue other than the iPhone](http://img.qdaily.com/uploads/20160908163305WazXIT85HeQtGi7p.JPG-w600)
+
+Even if Apple changes the iPhone's form with a curved screen in 2017, there's no expecting such a change every two years.
+
+Most new technologies that could land in smartphones show signs well in advance. Apple acquired a fingerprint-sensor chip company more than a year before launching the 5s.
+
+And Samsung's curved display took more than two years to reach widespread adoption. It first appeared on the Edge, a niche 2014 product; the following year's S6 Edge scaled up production, yet Samsung couldn't even guarantee that different S6 Edge units had screens with the same curvature.
+
+For now, there's no new technology in sight that could change the smartphone within two years.
+
+Apple has already abandoned the once-in-two-years redesign rhythm, and it's unlikely to pick it back up.
+
+The iPhone has entered the Mac's upgrade rhythm: hardware updated on schedule every year — a faster, more power-efficient processor, a brighter screen, a better camera. They will make the iPhone better, but they can't stir the urge to switch phones.
+
+Just like Mac updates, you may have to wait three years or longer for a new technology to mature.
+
+The smartphone's technology bottleneck has arrived just as the market hits its own. From this year on, the smartphone market as a whole is no longer growing.
+
+The iPhone's last big growth spurt came in 2014, when, alongside the big-screen iPhone 6, Apple also rode China Mobile's push into 4G networks.
+
+There's no other about-to-explode new market now. Most people who can use a smartphone already are. What remains is either poaching Android users, or waiting for poor and war-torn regions to prosper, or waiting for iPhone users to replace their phones.
+
+Judging from the sales decline of the past three quarters, none of these three groups of users can help Apple keep selling more iPhones year after year.
+
+At an earnings call earlier, someone asked what would become of the Apple car. Cook's answer: "Do you remember when you were a kid? Christmas was exciting because you didn't know what was waiting for you downstairs. Well, Christmas is going to keep going for a while."
+
+We don't know what will become of the car, but as smartphones enter the laptop's update rhythm, new iPhones can no longer deliver the Christmas-gift kind of expectation. Gradually, more people will wait until their phone gets too slow or breaks before replacing it.
+
+According to market research firm CIRP, [nearly half of users](https://si.wsj.net/public/resources/images/OJ-AO745_APPLEU_16U_20160905154806.jpg) currently hold onto an iPhone for more than two years, and the replacement cycle has been slowing since 2015.
+
+The iPhone faces no imminent threat. Besides routinely building the iPhone 7's CPU itself, Apple also designed its image signal processor (to boost photography), the connection chip in the earbuds' case (opening the case pairs with the iPhone — something ordinary Bluetooth devices can't do), and the Apple Watch's processor.
+
+When a manufacturer needs to make its own chips to add new features, it's not so easy for new companies, or those without years of investment in semiconductor design, to catch up. The world's top three phone makers by sales — Samsung, Apple, and Huawei — each have their own semiconductor design capability.
+
+In 1997, after Steve Jobs returned to Apple, he said the war for the personal computer was over and Microsoft had won. Apple then shifted its focus away from the Mac, used the Mac's profits to make the iPod, and then the iPhone, bringing mobile internet to everyone's pocket.
+
+Now the smartphone war is over too, and Google and Apple both won: [Google has 2 billion Android users (including China), Apple over 600 million](http://ben-evans.com/benedictevans/2016/7/25/platform-wars-final-score). One company preinstalls its internet services on the phones of more than a billion users; the other takes 90% of the entire phone industry's profits by selling hardware.
+
+But this market has stopped growing too, and has entered an upgrade pattern much like the laptop's.
+
+Apple's future depends on whether the money the iPhone earns can turn into the kind of Christmas gift Cook talked about in some new market.
+
+*For progress on Cook's new "Christmas gifts," see our series:*
+
+*[*Apple can build the iPhone, so why can't it get internet services right?*](http://www.qdaily.com/articles/28229.html)*
+
+*[*How serious is Apple about cars? We visited its mysterious campus*](http://www.qdaily.com/articles/28311.html)*
+
+*[*The Apple Watch's new OS: Apple tears the watch down and starts over, no longer talking fashion*](http://www.qdaily.com/articles/28781.html)*

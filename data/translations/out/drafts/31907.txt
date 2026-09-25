@@ -1,0 +1,180 @@
+@@QD_TITLE@@
+Mobike Is a Hit in Beijing Too. It Wants to Popularize Public Bike-Sharing Across China — Can It Pull It Off?
+@@QD_EXCERPT@@
+A bicycle has become Beijing's latest internet sensation.
+@@QD_BODY@@
+A bicycle has become Beijing's latest internet sensation.
+
+Every night from 11 p.m. to 6 a.m., large freight trucks bearing license plates from all over the country haul the goods this city needs into its every corner.
+
+Beginning in the early hours of August 15, the vehicles streaming into Beijing late at night included some trucks that had driven in from Jiangsu, each carrying rows of orange-and-black bicycles. They would pull over at certain intersections. Then several workers would carry the brand-new bikes to the roadside — usually near subway entrances or office buildings.
+
+Once a bike was off the truck, a worker would use a phone to scan the QR code on its frame to "activate" it, then line the bikes up neatly along the curb. Each bike weighs a full 24 kilograms, making it genuinely exhausting to carry. The wheels, with their five-spoke hubs, are fitted with glow-in-the-dark strips, so even at night they stand out easily from their surroundings.
+
+![](http://img.qdaily.com/uploads/20160907143044TIocVUW1G0MSrRYb.jpg-w600)
+
+A Mobike marketing staffer involved in the bike deployments told QDaily that this process repeats every few days. By the time a deployment wraps up it may already be two or three in the morning, after which the whole group goes out for barbecue — "just like team building," in her words.
+
+The next morning, passers-by drawn by the eye-catching orange wheels and silver frame would find "Rides from 1 yuan" written on the saddle, with QR codes printed both on the handlebars and beneath the seat. Anyone who happened to need a ride might pull out WeChat, scan the code, and download the app. One by one, the bikes were ridden from their original drop-off spots to every corner of the surrounding area.
+
+### Mobike Is a Hit in Beijing, Where Cycling Conditions Are Far From Ideal
+
+Although Beijing is Mobike's home base, the first city where Mobike went live was Shanghai. Since April 22, Mobike had been operating in Shanghai for a full four months. As the title of the August 16 post on Mobike's WeChat official account put it, the company, deciding to "come home for a visit," was bringing its smart shared bicycles from Shanghai to Beijing.
+
+Compared with Shanghai, getting around by bike on Beijing's roads is considerably more troublesome.
+
+Shanghai has an urban fabric far friendlier to bicycles — a dense mesh of small streets. Beijing's downtown streets, by contrast, are wider, with roads often exceeding four lanes, designed from the outset to move traffic via big ring roads and arterial thoroughfares — better suited to cars than to bikes. Bike lanes do exist, but what you see at intersections every day are mostly delivery couriers in red, yellow, and blue uniforms, perched on electric scooters waiting for the light.
+
+When traffic jams up, motor vehicles often swing into the bike lanes to cut corners. And on narrower, out-of-the-way streets, bike lanes frequently become curbside parking lots that no one bothers about. In Beijing, enthusiasts who don helmets and ride specialized bikes arrange group rides late at night, when there are few enough cars on the road for cycling to be viable.
+
+Yet Mobike caught on quickly in Beijing all the same.
+
+Since entering Beijing on August 15, its popularity and download numbers have both surged. On its 14th day in Beijing, a brief service outage occurred when peak-time user numbers exceeded server capacity.
+
+But even that didn't dampen people's enthusiasm. Mobike, with virtually no marketing budget, surpassed well-known apps like Dianping and Baidu Nuomi — which were spending heavily on promotion at the start of the school term — in Apple App Store downloads, cracking the overall top 100.
+
+![Mobike's download numbers used to be fairly modest, but they surged after it entered Beijing. [Data from App Annie](https://www.appannie.com/apps/ios/app/mo-bai-dan-che/rank-history/#vtype=day&countries=CN&start_date=2016-08-08&end_date=2016-09-06&device=iphone&view=rank&lm=3)](http://img.qdaily.com/uploads/20160907094518aULzAHS0lDnFdBcC.jpg-w600)
+
+Every Mobike bicycle has built-in GPS, and data seen from Mobike's backend shows the bikes spreading outward from Zhongguancun, the area of the city most densely packed with entrepreneurs and tech companies.
+
+![At the September 1 launch event announcing Mobike's official entry into Beijing, [a video](https://mp.weixin.qq.com/s?__biz=MzI5NjQwNzQ3NQ==&mid=2247483701&idx=1&sn=1fb0fb38e741064ae96c2116cf8c2ae9&scene=1&srcid=0907RGYH56fS4x1Ksks2r7Pc&key=7b81aac53bd2393d06380be0be5b499d6ef09431a0a3e8ee18af48c44fdb152cf0459d5d5066093f557820811ea5be38&ascene=0&uin=MTg5MjAxOTYwMQ%3D%3D&devicetype=iMac+MacBook9%2C1+OSX+OSX+10.11.5+build(15F34)&version=11020201&pass_ticket=4FHApL31DYZleN3rqZ3oOgAAWz%2B2Kf%2FCeDwPwV6k5e9BGi%2BRLam0IiEPiNU%2BYVfG) showed how Beijing users' Mobike riding patterns changed](http://img.qdaily.com/uploads/201609070953419ARBOiuQsTI7gN2a.jpg-w600)
+
+The likely reason is congestion. Beijing's traffic is far worse than Shanghai's. For the last mile, the bicycle is probably the best solution — even if a carpool ride costs only 5 or 6 yuan, what people really can't afford is the time lost stuck in traffic.
+
+On top of that, August and September are among the best cycling months of the year in Beijing. The summer heat has passed, and fine weather has persisted for so long that people temporarily forget that in two months both air quality and temperatures may no longer suit outdoor activity. Many people who never used to ride have recently been posting about their Mobike experiences on social media.
+
+"When it comes to deployment, we simply put bikes where we think a certain ecosystem might exist," Mobike founder Hu Weiwei told QDaily. Mobike initially placed some bikes near its office in Zhongguancun, later choosing a few locations it considered important, such as the East Third Ring Road.
+
+After accumulating a certain volume of data, the operations team's late-night sorties became data-driven. The key metric: how many people open the Mobike app near a given location to look for a nearby bike.
+
+This recalls the operating method of the ride-hailing app Uber, one of whose criteria for deciding whether to enter a city was how many people in that city opened the Uber app to check whether they could hail a car. Coincidentally, Mobike's CEO and co-founder Wang Xiaofeng was previously Uber Shanghai's general manager.
+
+### Public Bicycle-Sharing Is Nothing New, but Mobike Has Used Technology to Solve Many Problems
+
+On Mobike's 15th day in Beijing, a QDaily reporter, riding a Mobike and waiting at a red light, was stopped by a man in his fifties called Master Li.
+
+This man, retired for several years and volunteering to keep order at a public bus stop, had lately kept seeing people ride past his station on these orange bikes, and finally couldn't help asking what they were.
+
+After learning about Mobike's pricing, Master Li suggested the reporter inquire at the Jinsong public bike station two kilometers away about Beijing's municipal public bicycles. "The first hour of each ride is free; after that it's just one yuan an hour."
+
+But when it came to the specifics of getting a card, he couldn't quite explain, and merely suggested we go ask while it was still early and the service point hadn't closed for the day.
+
+Free-first-hour public bicycles had been around in Beijing for a while. Urban public bicycle systems are hardly a new thing — city bike systems appeared in Europe as early as the 1960s.
+
+Across cities worldwide, the operating models are all more or less the same: residents and tourists can rent a bicycle at fixed stations using a transit card or bank card, return it to a station when done, and pay by usage time.
+
+Beijing, Shanghai, Hangzhou, Taiyuan, Guangzhou, Shenzhen — quite a few Chinese cities have municipal public bicycle systems. Beijing alone has 50,000 bicycles rentable by swiping a subway card. But Mobike is the first bike-sharing project to become this popular.
+
+![Scan the QR code to unlock](http://img.qdaily.com/uploads/20160907112755pIMw3UmyH54udnAb.jpg-w600)
+
+Traditional public bicycles are generally parked at dedicated docking stations, whereas Mobike's bikes don't appear at fixed points around the city. Every Mobike has a built-in IoT SIM card and GPS positioning system; through the app you can view the distribution of Mobikes across the entire city. A registered user simply finds the nearest bike on the map, scans the QR code to unlock it, and rides off.
+
+A new user who spots a Mobike on the street and wants to try it downloads the mobile app, completes real-name verification with their ID number, and pays a 299-yuan deposit to start using it. After the account is opened, the system automatically gifts 1 yuan in ride credit — enough for half an hour free. All payment happens online, with support for the most commonly used WeChat and Alipay.
+
+Beijing's municipal public bicycles, by contrast, require people to go to a fixed service station with their ID, pay a deposit, and activate the service. Because each district has a different operator, the bicycles can be borrowed and returned anywhere in the city, but if something goes wrong with your card account, you have to go back to the station where you activated the service to deal with it. Service points are generally located at subway stations, but not every subway station can issue cards, and they aren't necessarily open on weekends.
+
+The biggest difference between Mobike and traditional public bicycles actually lies in returning the bike. You just find the white line on the roadside where bicycles can be parked for free, manually close the lock, and other users can then see the bike on the map, scan the code, and ride it away.
+
+![[Beijing's public bicycles](http://jtj.bjfsh.gov.cn/article.aspx?aid=2411)](http://img.qdaily.com/uploads/20160907143318CWxn9Ev5klet6Lrh.jpg-w600)
+
+Although Beijing's public bicycle WeChat official account and official website both have maps of bike stations, if you actually ride one, you will likely have to work at finding a docking point when returning the bike unless you know the station locations well.
+
+Before starting her company, Hu Weiwei had also bought a bicycle, and gave it up after a few months of riding. Reaching a destination often meant riding dozens of kilometers, and if halfway there you wanted to switch to another mode of transport, the question of what to do with the bicycle could easily put you off cycling anywhere at all.
+
+### Beyond Software, Mobike's Hardware Has Also Changed a Great Deal Over the Past Half-Year
+
+Since beginning preparations to start a company in January 2015, Hu Weiwei wanted to use product and design to solve the problems that public bicycle projects had all failed to solve: the need for manual service activation, the need to find a docking station to borrow or return a bike, the need for frequent maintenance, and so on.
+
+Initially, Hu Weiwei had no intention of building her own factory; she wanted to outsource all bicycle production — just as those municipal projects procure bikes from manufacturers like Flying Pigeon, Forever, and Giant.
+
+But to achieve the goal of "maintenance-free for four years," every qualifying bike had to be designed from scratch. The parts that required new molds made finding a factory extremely difficult. After surveying factories around Tianjin, Shenzhen, and Shanghai, Mobike ended up building its own factory to produce bicycles suited to outdoor shared use.
+
+From March 17, when the first mass-production prototype was assembled, to now, Mobike's bike has gone through countless iterations. Some of the earliest users in Shanghai still remember a model with wheels much bigger than the current bike; that batch, nicknamed "Bumblebee," was lemon yellow, produced only to test Mobike's operating model, and was retired long ago because its lifecycle wasn't long enough.
+
+What people see on the streets now is the second-generation bike.
+
+![](http://img.qdaily.com/uploads/20160907112938fJMohdpXjeB3QkxI.jpg-w600)
+
+Because these bikes sit outdoors 365 days a year, 24 hours a day, and are not treated gently, the design team prioritized durability first.
+
+- Bearing drive instead of a chain drive, to prevent the chain from falling off;
+- Orange hubs and a silver all-aluminum frame for recognizability — the first prototype was pure black;
+- Solid puncture-proof tires that wear only slightly within 20,000 kilometers of riding and never need inflating;
+- A built-in IoT chip and GPS, with the smart lock charged by pedaling;
+- To minimize the misery of component damage, Mobike fitted no basket, and the seat height cannot be adjusted
+
+Together these design choices made Mobike's bike what it is today: the orange five-spoke hubs are highly recognizable — in Hu Weiwei's words, "from far away it looks like two bicycle wheels floating there, very distinctive, like part of the city."
+
+But the seat height that can't be freely adjusted means anyone taller than 1.75 meters can barely pedal with their legs extended, and the bike weighs nearly twice as much as an ordinary bicycle. Riding comfort is the biggest complaint people still have about Mobike.
+
+Unless you want to ride something like a spin bike from the gym every day, Mobike is not suited to longer trips.
+
+Another startup that did campus bike-sharing earlier than Mobike, ofo, adopted a lower-cost operating model — ordinary bicycles uniformly painted yellow, fitted with an electronic lock, and ready to go. At first they even encouraged users to put their own bicycles onto the platform to become shared bikes.
+
+![ofo bikes parked on the Peking University campus, distinguished from ordinary bicycles by their yellow paint](http://img.qdaily.com/uploads/201609071438023aciBvErI9l0QFnC.jpg-w600)
+
+But ordinary bicycles suffer a higher attrition rate, and the operating cost of a bike ridden off campus is several times that of one circulating on campus. To reduce such expenses, at Peking University's gates ofo operations staff specifically check bicycles being ridden off campus — only users who pay an extra deposit can rent the double-numbered bikes that may be taken off campus.
+
+Mobike keeps experimenting with new manufacturing processes. A recent batch shipped to Beijing may ride a bit heavier — those several hundred bikes use a new type of tire — while the latest batch deployed in Shanghai has been fitted with baskets. In the future, Mobike is also considering building bikes from nanomaterials, making them "useless to steal" and reducing the risk of theft.
+
+For now, with the product still iterating and educating users, Mobike remains some distance from its "zero operations in four years" goal. "At this stage, if one bike has a problem, we'll go deal with that one bike," Hu Weiwei said at the launch event, adding that they are still exploring and setting the best rules.
+
+### Using Technology to Popularize Public Bicycle-Sharing: The Challenges Have Only Just Begun
+
+To minimize operating investment, Mobike designed a credit-score system that encourages users to help with maintenance. Every new user starts with a credit score of 100; each use adds points, but violations deduct them.
+
+To make it easier for the next rider to find a bike, users need to park within the white lines on the roadside; parking in hutongs, residential compounds, or office buildings all count as violations, with different point deductions for each type of violation.
+
+Users who spot a wrongly parked bike can report it in the app, uploading the relevant information and photos to help operations staff locate the bike. Reporting users receive credit-score rewards, while the violator's score is docked. Once the credit score falls below 80, the ride fee jumps from 1 yuan per half hour to a punitive 100 yuan per half hour.
+
+Also to help users find bikes, Mobike encourages users to photograph the surroundings after parking and upload the photos; if other users rate a photo as helpful, the uploader is rewarded with credit points. On a map prone to GPS drift, finding a bike by photo really is much easier.
+
+Open the Mobike app now and users will often see pop-up reminders about the penalties for illegal parking and for riding outside the Fifth Ring Road. "If you enforce those rules very strictly, it fosters goodwill," Hu Weiwei said.
+
+![The Mobike app often uses pop-up cards to remind users not to misuse the service](http://img.qdaily.com/uploads/20160907115815vD4YBJZEtK8seyNz.jpg-w600)
+
+But for now, whether it's the traffic hazards created by road design or the high attrition rate caused by the general level of public civility, these are not problems a commercial company alone can solve.
+
+Once, after a user pushed a bike back into their own home and staff could not reach the user, they had no choice but to call the police; when officers showed up at the door, the user simply threw the bike off the balcony. Beyond that, fishing bikes out of the water, tracking bikes through the grass by following the "find-my-bike ringtone," and climbing to the 19th floor to find a bike in a stairwell are all things vehicle operations staff have encountered. A user holding their phone, spinning around for half an hour at the spot shown on the map without finding the bike, or finally finding it only to discover the QR code has been deliberately defaced — none of this is unusual.
+
+Five months since launch, Mobike has yet to face its period of fastest attrition.
+
+Winter and spring will bring the worst smog of the year in the North, when even raindrops in the smoggy months turn to mud spots on your clothes. After half a year sitting idle outdoors, even with an all-aluminum body chosen to prevent rust, how many people will still be willing to ride? No one can guarantee it.
+
+But the biggest problem is still cost. Shanghai now has over 10,000 bikes deployed, and Beijing's urban area is 2.5 times the size of Shanghai's, requiring even more. Production cost per bike is already several thousand yuan, and even if each bike gets four hours of use per day, recovering the cost will take more than a year — and that doesn't even factor in damage.
+
+There is no profitable template for urban public bicycle systems anywhere in the world yet.
+
+Systems like Beijing's and Shanghai's existing public bicycles are all government-led: the government provides start-up funding, companies participate in operations, and the operators bear the costs of staff, repairs, parts, and so on.
+
+![YouBike on the streets of Taipei](http://img.qdaily.com/uploads/20160907144040ewNUjkztRpMHlWYO.jpg-w600)
+
+YouBike was built and operated by the Taiwanese bicycle brand Giant under commission from the Taipei city government, but constructing the entire public bicycle system also took considerable government investment. Retrofitting the supporting bike lanes, for instance, cost the Taipei city government considerable effort. The city once wavered between "carving a bike lane out of existing roads" and "widening sidewalks to section off a bike lane"; the latter now predominates.
+
+After seven years of operation, Taiwan's YouBike may be one of the most successful urban public bicycle systems in the world.
+
+As early as four years ago, YouBike launched a companion mobile app. Statistics show YouBike's total rides have surpassed 100 million, and total membership has exceeded 6 million people.
+
+After a 48-hour system outage in August, one local taxi company even claimed its business grew 5–10%.
+
+But even in a city like Taipei, where public bicycle operations are relatively successful, it faces the same difficulty making money, surviving only on support from the government and Giant.
+
+Some companies have tried to solve the profitability problem with high prices.
+
+Take the most widespread local public bicycle in San Francisco, "Bay Area Bike Share," a service covering downtown San Francisco and the Silicon Valley cities to its southeast.
+
+Behind the service is a commercial company called [Motivate](http://www.motivateco.com/) that has already run public bicycle systems in ten cities including Boston, Portland, and Washington. Users must pay a deposit of US$101 by credit card when registering, and the right to use the bikes costs 9 dollars per day; any single ride over 30 minutes incurs extra charges. By comparison, Uber caps carpool rides at 6 dollars within downtown San Francisco, so this price is not competitive.
+
+![A bike rental station in front of San Francisco City Hall](http://img.qdaily.com/uploads/20160907144117izE0ocdBY9RK3T8S.jpg-w600)
+
+Perhaps because the price was too high and return locations too limited, at noon on September 5, US Labor Day, a QDaily reporter waited for an hour and a half at the Bay Area Bike Share station in front of San Francisco City Hall. During that time people trickled over to take a look, but in the end not a single bike was ridden away.
+
+For now, Mobike hasn't figured out how to make money. Both Hu Weiwei and Mobike CEO Wang Xiaofeng have said in interviews that they are not thinking about profitability yet, and are focused on user growth.
+
+As a startup with an emerging model, Mobike has already received considerable government support. Recently its Shanghai office moved into the Knowledge and Innovation Community (KIC) in Yangpu District, as part of a strategic cooperation agreement with the Yangpu district government. To support Mobike, Yangpu provided preferential policies — it even ran Mobike's promotional video for several consecutive days on a large advertising screen in Wujiaochang, a core shopping district.
+
+"What Mobike is doing has a more public-welfare character; this undertaking is, to some degree, a public good." This is the sentence Hu Weiwei has been repeating most often lately.
+
+Using technology to popularize public bicycle-sharing, Mobike has already solved quite a few problems. But to truly build a public bicycle system in general use across China, a commercial company alone is probably not enough.
+
+Cover image and in-article images from Mobike; screenshots from actual use

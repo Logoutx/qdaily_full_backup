@@ -1,0 +1,232 @@
+@@QD_TITLE@@
+Here Are the Full Details on the iPhone 7 and the Second-Generation Apple Watch — Do You Want to Upgrade?
+@@QD_EXCERPT@@
+The most unexpectedly impressive hardware product may be the AirPods.
+@@QD_BODY@@
+The most unexpectedly impressive hardware product may be the AirPods.
+
+At 1 a.m. today, Apple held its iPhone 7 launch event at the Bill Graham Civic Auditorium in downtown San Francisco. Over two hours, Apple unveiled two new hardware products — the iPhone 7 and the Apple Watch Series 2 — along with a number of accessories.
+
+As the star of the day, the iPhone 7 took up most of the event. Although Apple listed 10 new selling points, by its own two-year major-update cadence this is the smallest external redesign an iPhone has ever received.
+
+### The iPhone 7 is a continuation of the 6 and 6s, with the focus on the camera, new colors, and the port that got killed
+
+**The "new design" and new colors**
+
+The iPhone 7 still comes in two sizes, 4.7 and 5.5 inches, and the exterior carries on the basic look of the previous generation. The fronts are virtually indistinguishable from the 6s.
+
+The changes show on the back. Below are the black iPhone 7 and iPhone 7 Plus.
+
+![](http://img.qdaily.com/uploads/20160908064354ghqIHA2k68KE3yJv.JPG-w600)
+
+![iPhone 7 Plus](http://img.qdaily.com/uploads/20160908062846FEMIiDJ28wnOqrX0.jpg-w600)
+
+But some details have been changed, mostly on the back. The two white antenna bands have been removed, leaving only the portion at the top. And with the camera upgrade, the circular cutout in the upper-left corner is bigger. The bad news: the cameras on the iPhone 7 and 7 Plus still inevitably protrude.
+
+![](http://img.qdaily.com/uploads/201609080625539SDwcOLgUxFVeBMP.jpg-w600)
+
+The new iPhone comes in 5 colors. It adds "Jet Black" (亮黑色) and plain black, drops space gray, and keeps silver, gold, and rose gold.
+
+Jet Black is probably the most eye-catching new color. Its surface is a glossy, piano-like paint, and the Apple logo on the back has gone black too. One especially appealing point: you can barely see the phone's antenna bands.
+
+![](http://img.qdaily.com/uploads/20160908062914Zt4O3paXJrnQfIj9.jpeg-w600)
+
+The other, traditional black is more understated, using the same matte finish as other iPhones and resisting fingerprints.
+
+**The iPhone 7 is now water-resistant**
+
+The new design makes the iPhone 7's casing tighter, and it now carries IP67-rated water resistance. That standard means protection for everyday life — at the very least, a rain shower or an accidental dunk in water should no longer be a big deal.
+
+**Photography will be the main selling point of the iPhone 7 line**
+
+The camera was the biggest selling point of today's iPhone and took up the most time in the iPhone segment. Unlike previous years, when the only difference was size, the two iPhone 7 models have completely different camera setups. The iPhone 7's camera is still 12 megapixels, but this time it gains optical image stabilization.
+
+It's a miniature electric motor that intelligently adjusts the lens to produce steadily focused photos even when your hand shakes. It was introduced two years ago and has been used in two generations of Plus models.
+
+![](http://img.qdaily.com/uploads/20160908062832J6rwpyXdlPANgFbk.jpg-w600)
+
+The new camera also gets a new image sensor that Apple says is 60% faster; a larger lens that lets in 50% more light; and a flash that goes from 2 LEDs to 4.
+
+Apple also designed its own image signal processor for the first time — and in this part of the presentation, "artificial intelligence" made another appearance. Apple says the chip uses machine learning to enhance images automatically. You can think of it as automatic retouching.
+
+The long-rumored dual camera shows up on the iPhone 7 Plus: one wide-angle lens and one telephoto lens.
+
+![](http://img.qdaily.com/uploads/20160908062954jXMOliDpW4fadGEc.jpeg-w600)
+
+The new Camera app has a new "zoom" button. At 1x, it shoots with the wide-angle lens; once you zoom in, it switches to the second lens, with lossless zoom up to 2x.
+
+Beyond 2x, Apple brings in software interpolation: up to 10x in photo mode and 6x in video. One imagines 10x won't look as good as shooting with a DSLR, but judging from the on-stage demo, it's still a lot better than the 6s.
+
+When the two cameras work together, the iPhone can produce a light-field-camera-like effect — stacking photos taken at multiple focal points to achieve better background blur.
+
+![](http://img.qdaily.com/uploads/20160908063017SUQByIgDuFx0Az4q.jpeg-w600)
+
+![Depth-of-field adjustment on the iPhone 7 Plus](http://img.qdaily.com/uploads/20160908063044EbptmcgRKs94njxX.jpeg-w600)
+
+Other camera details: the front-facing selfie camera has been upgraded from 5 megapixels to 7, and can now stabilize images automatically. The iPhone can also now export RAW-format photos like a DSLR — meaning all the image detail is preserved, which makes post-processing easier.
+
+**The Home button no longer needs to be "pressed"**
+
+Another thing Apple called a "revolution" is the Home button. It's no longer a physical button in the strict sense — you can no longer actually press it down.
+
+![](http://img.qdaily.com/uploads/20160908063143q9zuUeayn1OZch26.jpg-w600)
+
+But that doesn't mean the Home button gives no tactile feedback. Like the trackpad on the 12-inch MacBook, it's fused with the body of the device yet still provides a haptic response that creates a new experience.
+
+The change also pairs with an update to how iOS handles unlocking: the new system drops the "swipe right to enter passcode" gesture in favor of a press-and-hold that reads your fingerprint.
+
+**Two speakers**
+
+With the headphone jack gone, more space went to new speakers. The two speakers sit at the top and bottom, doubling volume and adding stereo sound.
+
+**A faster processor and longer battery life**
+
+The hardware updates also include the core processor. With this generation, the A10 goes from dual-core to quad-core — two high-performance cores and two low-power ones. To prove this is "the most powerful smartphone chip," Apple invited a game developer to demo a flashy mobile game on stage.
+
+Cook also said the iPhone 7 is "the longest-lasting iPhone ever," offering 1–2 more hours of use than the iPhone 6s.
+
+**iOS 10 rolls out next week**
+
+On the software side, iOS 10 — previewed in June — was described by Cook as "the biggest change to iOS ever." It officially ships to every iPhone user on September 13. The GM (near-final) build is already available, so if you're on the public beta, you can check directly in Settings.
+
+**32GB base storage, and the China price is 100 yuan higher**
+
+As rumored, the 16GB version has finally been killed. The new iPhones start at 32GB, with the same three storage tiers: 32, 128, and 256GB.
+
+![](http://img.qdaily.com/uploads/201609080632124digQytbXZJS90lY.jpeg-w600)
+
+The rest of the product line was adjusted at the same time: the iPhone 6 was discontinued and pulled from sale. Now, aside from the iPhone SE, every model starts at 32GB.
+
+![](http://img.qdaily.com/uploads/20160908063244xQ0E7fhIr1KndVqc.png-w600)
+
+In the US, the iPhone 7 starts at the same $649 as before, but in China — one of the launch markets — the price has gone up by 100 yuan, starting at 5,388 yuan. For now we don't know why.
+
+### The iPhone loses its headphone jack forever, and Apple wants you to go wireless
+
+The controversial Lightning headphones from the rumors did arrive in the end. To save internal space, the iPhone 7 drops the 3.5 mm headphone jack. The way you've plugged in headphones all these years — the one you know by heart — has been changed.
+
+![The headphone jack is gone](http://img.qdaily.com/uploads/201609080632575wAPxOYHRKEILb7t.jpg-w600)
+
+The earphones bundled with the iPhone use a Lightning connector, and there's also an adapter in the box.
+
+![](http://img.qdaily.com/uploads/20160908063347IBe2dYEWRvTjfFHi.jpg-w600)
+
+![The bundled Lightning earphones and the adapter](http://img.qdaily.com/uploads/20160908063402TcQGgoYwbDXfL5At.jpg-w600)
+
+Explaining the move, Apple called it a "courageous" innovation — meaning Apple dares to push innovation at the level of standards.
+
+Pushing new standards in pursuit of the ultimate hardware is a natural thing for Apple. In the PC era, Apple dropped the floppy drive, the optical drive, and the Ethernet port. The iPhone itself drove the widespread adoption of the Nano SIM and the Lightning connector — think of the shift from standard SIM to Nano SIM, from the 30-pin connector to Lightning...
+
+With the headphone jack gone, Lightning isn't your only option: Apple also unveiled a new headphone product, the AirPods, described as "a magical experience."
+
+![](http://img.qdaily.com/uploads/20160908063442vPWYl5gBG7f4Lmqz.jpg-w600)
+
+The AirPods basically look like EarPods with the wires cut off — but crammed inside are a battery and Apple's own wireless chip, called the W1.
+
+The new earphones have no buttons at all and need to be used with their case. Besides acting as a charger, the case also handles pairing with the phone. In the on-stage demo, you open the lid, hold it near the phone, and the earphones pair instantly.
+
+![](http://img.qdaily.com/uploads/20160908063520dvKu3JrwD0aWjpSE.jpg-w600)
+
+The earphones themselves have microphone noise reduction, and a double-tap summons Siri — in short, a functional upgrade over the EarPods.
+
+But they're not exactly cheap: in China they cost 1,288 yuan — about the price of an iPod Touch.
+
+Meanwhile, the removal of the headphone jack drew criticism early on. Environmentalists argue it will obsolete a huge number of older headphones and waste resources. And for users, it may be a change that's hard to get used to quickly.
+
+Either way, Apple is determined to push a new headphone standard. The Apple online store listed two third-party Lightning headphones even before the event, and longtime partner Beats also unveiled three wireless headphones at today's launch.
+
+### The Apple Watch gets an update, but it's still just an accessory to the iPhone
+
+After two years, Apple has finally updated the Apple Watch line, launching the Apple Watch Series 2.
+
+Apple COO Jeff Williams took the stage and noted that in 2015, Apple Watch sales ranked second among all watch brands, behind only Rolex. Among smartwatch brands, Apple Watch ranked first.
+
+![2015 watch sales rankings: Apple Watch came in second.](http://img.qdaily.com/uploads/20160908043742siVGWXOPkzq8r7RQ.jpg-w600)
+
+What he didn't mention: in the second quarter of this year, Apple Watch shipments fell to 1.6 million units, down 55% year over year.
+
+Jeff Williams went on to review the [new watchOS 3 features announced at WWDC in June](http://www.qdaily.com/articles/28781.html), including the new Dock interface and full-screen handwriting. Soon, Pokemon Go will come to watchOS.
+
+John Hanke, CEO of Pokemon Go developer Niantic Labs, then took the stage, noting that Pokemon Go has racked up more than 500 million cumulative downloads since launch.
+
+The distance players have walked together exceeds 4.6 billion kilometers. The average distance between the Earth and the Moon is about 384,000 kilometers — so the distance Pokemon Go players have walked adds up to 12,000 round trips between the Earth and the Moon.
+
+The on-stage demo of Pokemon Go for Apple Watch says a lot about the Apple Watch's place in the world.
+
+![Pokemon Go for Apple Watch.](http://img.qdaily.com/uploads/20160908043828uc3TjYZUOHbJgq9e.jpg-w600)
+
+Pokemon Go for Apple Watch just tells you how far away a Pokemon is and what's nearby; to actually catch one, you still need to pull out your iPhone. That pretty much sums up the Apple Watch's position: it's still basically just an accessory to the iPhone.
+
+The second-generation Apple Watch keeps the same exterior design — still the rounded square — and adds a ceramic body, which is four times harder than stainless steel.
+
+The main upgrades this time are on the inside.
+
+![](http://img.qdaily.com/uploads/20160908043940u4UCTk9KBi1we26V.png-w600)
+
+The Apple Watch Series 2's processor is upgraded to dual-core, 50% faster than the previous generation. Introducing the new Apple Watch, Apple COO Jeff Williams also made a point of the all-new GPU, which he said is 2 times faster than the previous generation.
+
+The new screen reaches 1,000 nits of brightness — twice as bright as before — so users can read the watch face even in glaring outdoor sunlight.
+
+The built-in GPS chip arrived on the Apple Watch Series 2 as expected. Apple used the ViewRanger hiking app to demonstrate the Apple Watch's independence: it has offline navigation built in and uses GPS to determine your current location.
+
+But the only question is: when do you ever go out without your phone?
+
+The Apple Watch Series 2 upgrades its water resistance to 50 meters. Apple designed a speaker that can eject water automatically, so you can now wear it swimming.
+
+[QDaily previously toured Apple's health lab](http://www.qdaily.com/articles/30040.html); over the past two-plus years, the lab has completed 16,000 tests and accumulated 17,000 hours of data. All that manpower and resources were spent so Apple could compute accurate motion algorithms of its own — swimming is one of them.
+
+The heart-rate sensor from the first-generation Apple Watch also carries over to the Apple Watch Series 2.
+
+After running through the regular upgrades to the Apple Watch Series 2, Jeff Williams brought out Nike president Trevor Edwards to introduce the Apple Watch Nike+, a special edition co-designed by the two companies — a special edition that will make users with trypophobia shudder.
+
+![](http://img.qdaily.com/uploads/20160908044433jRPnvoEIYukSKFr0.png-w600)
+
+The Apple Watch Nike+ has the same core functions as the Apple Watch Series 2, with built-in GPS, so you can track your running pace, distance, and route even without an iPhone with you.
+
+The band is made of the same Fluoroelastomer material as the original Apple Watch Sport band, with rows of compression-molded vent holes.
+
+The Apple Watch Nike+ has an exclusive watch face design that lets users launch the running app at any time — or you can just say "start running" to Siri.
+
+Beyond the Nike collaboration, Apple also teamed up with Hermès to launch the Apple Watch Hermès, with a Hermès leather band and several exclusive Apple-designed watch faces.
+
+![](http://img.qdaily.com/uploads/20160908044618SnLyYAEGvaUugC2Z.png-w600)
+
+The first-generation Apple Watch also got a minor update today: a new dual-core processor and a price cut. The 38 mm model now starts at 2,188 yuan, and the 42 mm at 2,488 yuan.
+
+Apple announced that the Apple Watch Series 2 opens for pre-order on September 9 and goes on sale September 16. Prices vary by case material and size: the 38 mm starts at 2,888 yuan and the 42 mm at 3,188 yuan.
+
+The ceramic-case Apple Watch Edition starts at 9,588 yuan; the Apple Watch Series 2 with a Hermès band starts at 9,388 yuan.
+
+The Apple Watch Nike+ comes in only one configuration — aluminum case with a sport band — priced at 2,888 yuan for the 38 mm and 3,188 yuan for the 42 mm.
+
+### Apple is finding more ways to sell you a phone
+
+The rhythm of Apple's product updates is changing — that's the signal this year's iPhone 7 sends.
+
+As you know, the iPhone gets a major overhaul every two years. The iPhone 6, for example, changed a lot compared with the iPhone 5, while the in-between iPhone 5s only got internal upgrades with virtually no exterior changes.
+
+But the iPhone 7 is upending that pattern. By the usual logic, it should have matched the previous generation in performance and made big changes to the exterior — yet exactly the opposite happened.
+
+Combined with earlier supply-chain reports, Apple's update cycle may be [stretched to three years](http://9to5mac.com/2016/05/31/iphone-three-year-cycle-claim/).
+
+Apple has little choice. Lengthening the cycle has to do with the growth bottleneck the iPhone has hit. The iPhone posted its first-ever decline in the first quarter of this year, and the slide didn't stop in the second quarter.
+
+At this point, getting more existing users to upgrade is the best option. But after the first big-screen iPhone, the iPhone 6, gave Apple a good year, users no longer felt enough motivation to swap phones.
+
+According to Apple's earlier earnings reports, in the first two quarters of this year Apple — working from the assumption that users replace their phones every two years — overestimated iPhone 6s sales and ended up having to cut supplier orders and clear out inventory.
+
+Apple's goal now is to win over users who are still on small-screen 4- and 5-series iPhones.
+
+Cook said earlier this year that 60% of iPhone users are still on models older than the 6. Those are precisely the users Apple now needs to win over.
+
+The iPhone 7 brings new earphones and an updated camera, with limited exterior changes — but that won't do much to hurt its appeal to users still on an iPhone 5.
+
+Beyond the just-launched iPhone 7, Apple is also trying to lure users into upgrading with a discounted iPhone 6s.
+
+[The iPhone 6s price has been cut to 4,588 yuan](http://www.apple.com/cn/shop/buy-iphone/iphone6s) — 800 yuan cheaper than the iPhone 7. Unlike previous price cuts on old models, the iPhone 6s gets its built-in storage bumped to 32GB and 128GB.
+
+Apple is also bringing the iPhone Upgrade Program it previously launched in the US to China and several other countries.
+
+In China it's called "Annual Upgrade." If you buy AppleCare+ along with an iPhone 7 or 7 Plus, you're enrolled by default. Every year after that, you can trade up to the latest iPhone at 50% off. The catch: AppleCare+ costs 988 yuan per year, renewed annually, and buying a new phone at half price on top of that isn't actually a better deal than simply selling your old iPhone.
+
+In the end, the problem Apple needs to solve hasn't changed: how to get people to upgrade the iPhone in their hands. Will this new iPhone make you pull out your wallet?
