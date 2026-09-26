@@ -25,5 +25,8 @@
   ],
   "50436": [
     "20 Chinese chars remain outside 《》 titles"
+  ],
+  "27680": [
+    "grok fidelity review HIGH: polarity flip on marketing-spend sentence (\"不仅是...专长\" rendered as \"not a Chinese specialty\") — fixed directly in en/27680.json"
   ]
 }
