@@ -28,5 +28,17 @@
   ],
   "27680": [
     "grok fidelity review HIGH: polarity flip on marketing-spend sentence (\"不仅是...专长\" rendered as \"not a Chinese specialty\") — fixed directly in en/27680.json"
+  ],
+  "27053": [
+    "grok fidelity review LOW (not fixed, for human): 票房失利 (box-office failure) rendered as \"lost money\", a stronger/different claim, in en/27053.json"
+  ],
+  "27146": [
+    "grok fidelity review HIGH: NetEase's own game series 大话西游 rendered as *A Chinese Odyssey* (the 1995 film's English title), causing entity confusion — retitled to *Dahua Xiyou* (3 occurrences) in en/27146.json — fixed",
+    "grok fidelity review HIGH: future App Store release (将在 5 月 26 日发行) reported as already \"shipped\" — fixed to \"is due on the App Store on May 26\" in en/27146.json — fixed",
+    "grok fidelity review HIGH: loyalty-program platform list added \"console\" not present in source (PC、移动和游戏各大平台) — fixed to \"major PC, mobile and gaming platforms\" in en/27146.json — fixed",
+    "grok fidelity review LOW (not fixed, for human): 《倩女幽魂》mobile events described with 会有 (future) rendered as \"ran\" (past) in en/27146.json"
+  ],
+  "27198": [
+    "grok fidelity review HIGH: 好莱坞林荫大道 (Hollywood Boulevard) mistranslated as \"Hollywood Way\" (a different Burbank street) — fixed directly in en/27198.json — fixed"
   ]
 }
