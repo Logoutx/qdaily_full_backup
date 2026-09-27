@@ -65,5 +65,14 @@
   ],
   "26827": [
     "grok fidelity review LOW (not fixed, for human): source says the crew used Nantong because they filmed there; English makes that a viewer inference, in en/26827.json"
+  ],
+  "25450": [
+    "grok fidelity review HIGH: 今年夏天 (this summer) rendered as \"that summer\" (same year as last year's BMW lease), collapsing two different years into one — fixed in en/25450.json"
+  ],
+  "25446": [
+    "grok fidelity review HIGH: subject/object reversed — source has West Bund Art Center adding Ontimeshow as a MODE satellite venue; draft made Ontimeshow the name the center was given — fixed in en/25446.json"
+  ],
+  "25549": [
+    "grok fidelity review HIGH: source says 澳洲 (Australian); prior polish \"corrected\" this to Austrian, violating preserve-source-errors rule — reverted to Australian in en/25549.json"
   ]
 }
