@@ -40,5 +40,30 @@
   ],
   "27198": [
     "grok fidelity review HIGH: 好莱坞林荫大道 (Hollywood Boulevard) mistranslated as \"Hollywood Way\" (a different Burbank street) — fixed directly in en/27198.json — fixed"
+  ],
+  "26543": [
+    "grok fidelity review HIGH: source says his conclusions were merely similar to the reasons Kawakubo/Yamamoto got the Japan shock label; draft made the conclusions explain that label — fixed in en/26543.json"
+  ],
+  "26562": [
+    "grok fidelity review HIGH: 有生之年系列 (a joke about a sequel so delayed you may not live to see it) rendered as once-in-a-lifetime (a rare masterpiece) — fixed to will-I-live-to-see-it in en/26562.json",
+    "grok fidelity review LOW: 空格 (marking a literal space in a Weibo handle) rendered as the word Space, turning @John Knight into @John Space Knight — fixed in en/26562.json"
+  ],
+  "24492": [
+    "grok fidelity review HIGH (verified false positive via WebSearch): flagged 《勾引陌生人》 as the 2007 film Perfect Stranger, but Paul Chitlik's real documented credits (Wikipedia) include the sitcom Perfect Strangers, matching the source's own 电视剧 listing — left unchanged, no fix needed"
+  ],
+  "26490": [
+    "grok fidelity review HIGH: Shenzhen club 逗伴 is a homophone of, but different company from, the review site Douban named elsewhere in the same article — disambiguated with a parenthetical gloss in en/26490.json"
+  ],
+  "26472": [
+    "grok fidelity review LOW (not fixed, for human): 抵得上 (equals/matches) rendered as worth more than, overstating Ele.me's Series D vs. the other companies' combined raises, in en/26472.json"
+  ],
+  "26727": [
+    "grok fidelity review LOW (not fixed, for human): source states the actress's suicide as fact; English adds apparent, in en/26727.json"
+  ],
+  "26779": [
+    "grok fidelity review LOW (not fixed, for human): unattributed 2015 Instagram ad-revenue figure (6亿美元) is worded as Instagram itself reporting it, in en/26779.json"
+  ],
+  "26827": [
+    "grok fidelity review LOW (not fixed, for human): source says the crew used Nantong because they filmed there; English makes that a viewer inference, in en/26827.json"
   ]
 }
