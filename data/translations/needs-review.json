@@ -74,5 +74,8 @@
   ],
   "25549": [
     "grok fidelity review HIGH: source says 澳洲 (Australian); prior polish \"corrected\" this to Austrian, violating preserve-source-errors rule — reverted to Australian in en/25549.json"
+  ],
+  "25068": [
+    "grok fidelity review HIGH: source lists 携程旅行 (Trip.com Group per glossary) among Baidu's new businesses; draft substituted Qunar (a different company) — fixed directly in en/25068.json"
   ]
 }

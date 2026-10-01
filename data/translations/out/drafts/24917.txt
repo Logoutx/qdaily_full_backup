@@ -1,0 +1,124 @@
+@@QD_TITLE@@
+Can Renting Your Clothes for 6,000 Yuan a Year Actually Be a Business?
+@@QD_EXCERPT@@
+Everyday clothing, not gowns—that's what China's clothing-rental startups are doing right now.
+@@QD_BODY@@
+Everyday clothing, not gowns—that's what China's clothing-rental startups are doing right now.
+
+Over the past six months, I've spent 3,000 yuan on clothes. Brands that have cycled through my wardrobe include the likes of Kate Spade and BCBG—"affordable luxury"—as well as fast-fashion names like Massimo Dutti and Zara. But in the end, none of them stayed.
+
+Every week, an SF Express courier delivers a box like this one, with three neatly folded garments wrapped in tissue paper—sometimes a coat paired with a cardigan and a dress, sometimes three jackets.
+
+After opening the box and taking out the clothes, I fold the ones from the previous delivery, put them back in the box, and hand it to the courier to send back—the return shipping label is already attached to every box that arrives.
+
+![Depending on the type of clothing, the size of the box varies slightly](http://img.qdaily.com/uploads/20160702145949D79zQiPNocYVJxhZ.jpg-w600)
+
+There are a few hundred users like me on the clothing-rental service "Youyi," swapping clothes every week, just as founder Zhang Qixuan envisioned.
+
+Zhang Qixuan, who spent two years as an engineer at Facebook, returned to Beijing more than a year ago and founded Youyi with several partners from the apparel and e-commerce industries. Before that, she had worked on a series of small startup projects, such as Starry, a tool for investors and entrepreneurs to look up information, and Vocapp, a vocabulary-learning tool.
+
+"At the time I felt that young women were really constrained and burdened when it came to clothing. Shopping at Taikoo Li Sanlitun, the tag prices were twice what they are in the US, but salaries were only a quarter." Zhang Qixuan felt that growth in e-commerce overall had already slowed, and that simply doing an apparel e-commerce business wasn't easy. "We figured that for Chinese women, clothes are expensive and wages are low (compared to the US), so sharing was actually a pretty good approach."
+
+![The first time I received clothes from Youyi, they didn't come in a box](http://img.qdaily.com/uploads/201607021459505qDydEGvU9AZ4nlb.jpg-w600)
+
+My first encounter with Youyi was during last summer's ["18 Days Without Leaving Home" home-services experiment](http://www.qdaily.com/articles/13782.html). Youyi was one of the many internet services I tested.
+
+On Qixi Festival, Youyi was running a promotion, so I registered for an account overnight. The next afternoon, a "stylist" named "Honey" showed up at my door carrying several enormous shopping bags, looking as if she had just walked out of one of those brands' flagship stores. Only later did I learn that she was Zhang Qixuan herself.
+
+At the time, Youyi's process was still fairly rudimentary: for both pickup and delivery you dealt directly with company staff, rather than SF Express handling everything. She said that once I got tired of the clothes, I could keep picking new ones on the website and simultaneously notify customer service to come pick up the old ones for cleaning and ironing. The three garments I had ordered all came in dust bags, with their tags still attached.
+
+After trying them on, I picked one of the dresses, cut off the tag, and put it on right away. Zhang Qixuan picked up the remaining clothes and headed off to her next customer's home.
+
+A few months later, in an interview, Zhang Qixuan said that at the start she had bought a batch of clothes herself from brands like Zara, Pull&Bear, Kate Spade, and Michael Kors. "I just looked at the official websites—whatever other people put online, we bought," she said. "Later we gradually replaced those, buying clothes from the US and Korea, and also partnering with other e-commerce sites and brands. We kept experimenting to see which channel worked better."
+
+That experiment covered 103 services in total, and Youyi was one of the few—food delivery aside—that I kept paying to use.
+
+But when people ask where the new clothes I've been wearing came from, I usually don't say they're rented. Because you always run into questions like: "Isn't it awkward wearing rented clothes? Aren't you worried about the cleaning?" Or: "You spent all that money, and in the end not a single piece is yours?"
+
+These concerns aren't just one or two people's. Besides Youyi, there are several other online clothing-rental services, but you'd be hard pressed to see their ads. In an era when so-called "O2O" offline-service startups can raise tens of millions or even hundreds of millions of yuan without blinking, the clothing-rental companies mostly started with only a few million yuan in seed funding.
+
+"I don't see why consumers would have any motivation to rent clothes. China is still at the stage of just being exposed to these good brands, where people really want to buy and to own them—and there are plenty of people who can afford 1,000- or 2,000-yuan clothes. Those without the spending power can just buy stuff off Taobao," an investor who had looked at multiple such projects but declined to be named told QDaily. In the end, he didn't invest.
+
+Since launch, the number of paying members using Youyi's service has remained in the three digits. Rather than rapidly expanding its user base, the Youyi team has spent the past eight months focused on exploring a workable operating model. In the interview, Zhang Qixuan repeatedly mentioned the difficulty of the "supply chain."
+
+Still, after six months, some much-hyped startup projects have already failed, while Youyi is still operating—and its delivery area has expanded from Chaoyang District to all of Beijing.
+
+In December 2015, Youyi received angel-round investment from Lighthouse Capital. The round was not large—only a few million yuan.
+
+![In Youyi's office, clothes waiting to be packed](http://img.qdaily.com/uploads/201607021459512Y3kyHMncGsRNJza.jpg-w600)
+
+After the funding closed, Youyi, its team now doubled in size, moved into a loft near Beijing's 798 Art Zone. One room inside was converted into a photo studio. During the more-than-an-hour visit for my interview, Youyi's other co-founder, Zhi Jie, was constantly changing outfits and posing for photos. She had previously been a buyer and stylist at Barneys New York, and now handles purchasing for Youyi while doubling as the in-house model for the platform's product photos.
+
+Now, open Youyi's [website](http://www.youyiii.com/) or [mobile app](https://appsto.re/cn/1SGcbb.i), and you can easily tell the newly listed styles apart from the old ones: if the model in the product photo has a Chinese face, it's a style the Youyi team bought and shot themselves; scroll further down the page and you'll see more images taken from brands' official websites. Sometimes, a user books a particular garment on the platform, and only then do operations staff go buy it from an offline store before packing and delivering it to the user.
+
+![*[Youyi](https://appsto.re/cn/1SGcbb.i)'s booking interface*](http://img.qdaily.com/uploads/201607021459517j8kdLutFxE0BeOm.jpg-w600)
+
+The larger part of the office is reserved for the supply-chain and development teams. Once a garment is booked, it is taken off the website, and after quality inspection, scanning, and packing, it goes out for unified delivery.
+
+A room of twenty or thirty square meters next to the photo studio serves as Youyi's warehouse. Clothes returned by customers—after being cleaned and ironed at a third-party facility—are all hung here. Zhang Qixuan explained: "It's still enough for now, because most of the clothes are in customers' hands."
+
+Youyi currently has a website and a WeChat account, and its [iPhone app](https://appsto.re/cn/1SGcbb.i) has just launched. "Once the app is live, we'll go promote it at startups and universities to grab a batch of users," Zhang Qixuan told QDaily. "The initial target users are women who work at startups. They're willing to try new things, and they're too busy to go shopping."
+
+## The clothing-rental business has been around for a while—you just rarely use it
+
+Some companies that started the clothing-rental business earlier have already begun promoting themselves. When MsParis launched in April 2015, it went to companies hosting large events and to universities, handing out trial vouchers.
+
+A few months later, MsParis opened an offline experience store near Xintiandi in Shanghai. "Many users can't be converted through online promotion alone, so we use the experience store to educate them," founder Xu Baizi told QDaily. She said most of the relatively high-end users first encountered MsParis's service through the offline store.
+
+MsParis took its cue from Rent the Runway, the pioneer of clothing-rental websites, starting with the most traditional rental demand: gowns.
+
+Founded six years ago, Rent the Runway initially offered online rental of high-end gowns. Thanks to its successful promotion, 85% of the women attending Barack Obama's second presidential inauguration rented their gowns from Rent the Runway. After its latest funding round in 2015, Rent the Runway's [valuation exceeded $800 million](http://www.cnbc.com/2015/07/25/rent-the-runways-designer-closet-tops-800-million.html).
+
+On MsParis, users can spend 200 to 300 yuan per rental to borrow gowns from brands like Vera Wang and Ralph Lauren. Generally, a gown's rental period is three days. After the user picks a size and style, MsParis ships the gown by courier to arrive the day before the booked rental date; once the user is done with it, she ships it back to MsParis the same way.
+
+![MsParis started with one-off gown rentals](http://img.qdaily.com/uploads/201607021459525rzahtpPOlvSnID9.jpg-w600)
+
+MsParis's gown rentals often bring users back for repeat purchases: users who would consider renting a gown in the first place tend to have this need again and again, and MsParis draws those users from brick-and-mortar shops with limited selection to the online world. But the gown business is really just the hook that gets users in the water.
+
+"At first, if you tell her that for 600 yuan a month she doesn't have to buy clothes anymore, she may not readily accept it. But when it comes to a wedding or an annual party—occasions that call for a really nice outfit—she converts into our user very easily," Xu Baizi told QDaily. To get users more comfortable with the idea of renting everyday clothes, they chose to start with gowns: lower in frequency of need, but stronger in willingness.
+
+This March, they formally launched a membership service of 588 yuan per month for unlimited clothing swaps. Within 24 hours of launch, the number of monthly members passed three digits.
+
+Another company that started with gown rentals, YCloset, likewise introduced everyday-clothing rentals about a year after launch.
+
+Starting a few months ago, MsParis selected members who had already rented everyday outfits more than five times on the platform to beta-test the monthly service. Because its delivery area covers the whole country, the operations team only begins the next shipment after receiving the clothes a user has sent back. YCloset, meanwhile, currently covers only Beijing; like Youyi, its couriers pick up the previous delivery while dropping off new clothes.
+
+![](http://img.qdaily.com/uploads/20160702145953C0ywBnQSZhHeXoFx.jpg-w600)
+
+Despite slightly different operating models and somewhat different pricing, all of these clothing-rental services today make everyday wear their main offering.
+
+## Every woman is always one outfit short, but meeting that need isn't easy
+
+Users pay a monthly membership fee of 500 to 600 yuan or so for unlimited rentals from the platform—wear one batch, then swap it for the next—so there's something new to wear every day. These startups now care less about "what to wear to a big occasion" and more about a woman's ultimate question before heading out the door in the morning: "What should I wear today?"
+
+In March, a piece of news cheered these startups. Rent the Runway, the American startup [that began with gown rentals](https://www.renttherunway.com/unlimited), launched RTR Unlimited, a monthly membership service for everyday wear.
+
+The Unlimited service works no differently from what the Chinese startups are doing: it charges members $139 a month, and users can hold up to three everyday garments at a time.
+
+But concerns persist. Beyond whether consumers are willing to rent clothes, investors also worry about how, under the rental model, to balance a garment's lifespan against the pace of circulation.
+
+Beyond whether the public will accept it, the investor who declined to be named also worried about operations: "The circulation efficiency of each garment is very hard to control. If you only stock ten styles, six months in the process will run very smoothly—but this model demands exponential growth in the number of styles."
+
+Indeed, unlike selling clothes, the rental business doesn't just stock according to demand and be done with it once items sell. Clothes don't hold their value—especially fast-fashion brands focused on everyday wear; Zara clears its stock at end-of-season sales every quarter. A garment that sold for 799 or 499 yuan at launch might go for 199 or 99 yuan apiece in the clearance two months later, or even less.
+
+Renting clothes means thinking about how many times a garment can be rented out within its short life cycle.
+
+For a startup, whether this business can make money comes down to a math formula, ultimately depending on the number of paying users and how much a garment gets rented out before it goes out of style.
+
+"We're going through our first large-scale seasonal change of clothes, and that's a huge challenge for us," YCloset founder Liu Mengyuan told QDaily. "Each garment's life cycle is one hundred days, half a year at most."
+
+On YCloset's platform, the most-rented garments have been borrowed more than a dozen times, the least-rented only once or twice. After being phased out, these clothes may be sent to charitable channels or sold off on second-hand e-commerce platforms. Youyi, for its part, ran a low-price sale promotion for members during its first seasonal change.
+
+The business is, after all, gradually getting off the ground. China Growth Capital led MsParis's $3 million Pre-A round, and investor Yu Yue's reason for betting on the rental model is the showcase space that social networks give women—bigger, faster, and richer. "Bring women good-brand clothing at relatively low cost, and they absolutely won't refuse it. It's like Meitu Xiuxiu—it's a rigid demand," he said.
+
+On social networks, even people who aren't fashion bloggers post their outfits of the day. When people attend an event, they tend to post the group photos and selfies to social media.
+
+"Women care more about their image now, and care more about which dress they're wearing," Yu Yue said. "Maybe she cares more about whether she looks good in this outfit and whether the photos come out well—whether she actually owns the dress really isn't the top concern."
+
+As people increasingly share photos on social networks, an extra problem arises: some people start to feel that they should wear a different outfit to every different event, since last look has already been posted to Moments and the photos of that same outfit are still hanging there.
+
+As funding arrives and the clothing-rental business uses advertising and subsidies to attract more users, spreading from Beijing and Shanghai to more cities, their operational efficiency will, for the first time, face a real test as scale grows. This won't be an easy process, and clothing rental probably won't become the next Tencent or Didi either.
+
+But then again, who says doing business has to mean standing on a "trend," leaning on an "ecosystem," and "disrupting" tradition?
+
+Cover image from [Homedit](http://www.homedit.com/baby-closet-organizer/), [delightfullydoable](http://delightfullydoable.com/wardrobe-in-style/#sthash.uUixh30d.dpbs)

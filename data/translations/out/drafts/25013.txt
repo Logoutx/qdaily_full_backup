@@ -1,0 +1,124 @@
+@@QD_TITLE@@
+How the Moves of Capital Changed the Games You and I Play
+@@QD_EXCERPT@@
+Creative small studios and profit-driven big companies are often locked in irreconcilable conflict.
+@@QD_BODY@@
+Creative small studios and profit-driven big companies are often locked in irreconcilable conflict.
+
+Since late last year, the French media giant Vivendi has been steadily raising its stake in Ubisoft and its subsidiary Gameloft. It currently holds 15.7% of the former and roughly 30% of the latter.
+
+Even now, though, Ubisoft keeps resisting the giant's grip in all sorts of ways. [The latest method is a threat to quit:](http://www.bloomberg.com/news/articles/2016-03-24/ubisoft-wields-threat-of-talent-exodus-to-thwart-hostile-vivendi) a whole crowd of creative directors say they will resign if Vivendi buys Ubisoft. If Vivendi doesn't want to end up with an empty shell, it may think twice about the takeover.
+
+Even if you've just hit level 30 in Ubisoft's new blockbuster *Tom Clancy's The Division*, you may not care much about this news. After all, the French game company famous for its potato servers, bugs, and mishaps (what happened to that promised Simplified Chinese version of *Far Cry*?!) doesn't enjoy a great reputation among most players. As long as it keeps shipping games, whether or not it gets bought seems beside the point.
+
+![If only the servers were better, The Division would be near perfect.](http://img.qdaily.com/uploads/20160702130738heG4ICOSEok2DuMv.jpg-w600)
+
+The flow of capital among game companies is nothing new. Last year alone, China saw more than 20 acquisitions involving game companies, large and small. For instance, SNK Playmore, the Japanese company behind *The King of Fighters*, was jointly acquired by Shanghai-based Shunrong Sanqi and Dongfang Xinghui.
+
+And yet, shifts in capital ultimately affect every player's gaming experience.
+
+## Starting with that "industry tumor," EA
+
+Just as filmmakers hunt for distributors at all those film festivals, game studios need someone to handle everything beyond development itself.
+
+Like commercial cinema, game production today requires enormous amounts of money. The costs are often more than a small studio can bear. So developers bring a plan, or a half-finished build, to a publisher in search of funding, and the publisher puts up development money for the projects it likes. Once the partnership begins, the publisher becomes a crucial source of capital.
+
+[We mentioned Factor 5 before](http://www.qdaily.com/articles/24228.html) — the studio behind *Star Wars: Rogue Squadron* — which met its ruin because it picked the wrong publisher: Brash Entertainment collapsed amid various problems, cutting off Factor 5's funding so that it couldn't pay its staff, and in the end it shut its doors holding nothing but an unfinished *Superman* game.
+
+![](http://img.qdaily.com/uploads/20160702130739Xxz0pyaTDUGC39vc.jpg-w600)
+
+The people providing the money often get a say in the game itself. They forecast where the market is heading and offer the developers their opinions. Shigeru Miyamoto, for example, proposed that *Pokémon* launch with Red and Green versions, boosting the trading feature by varying how often Pokémon appeared — and as a man at Nintendo, the publisher, he had the power to change fundamental aspects of the game.
+
+Without him, even if *Pokémon* had later become a hit, there would have been a Gold but no Silver, a Sun but no Moon.
+
+Of course, very few people on the capital side have made something like the Mario series the way Miyamoto has. Take EA. This holder of the title "Worst Company in America" is the world's second-largest game publisher, and it has shown players, in the most concrete terms, what the power of capital feels like.
+
+EA is in the habit of buying studios outright, and it has a long acquisition list. Since 1987, the veteran video game publisher has been snapping up one development studio after another. It has also tried to acquire Ubisoft, and even set its sights on Take-Two Interactive, the studio behind *Grand Theft Auto*.
+
+Fortunately, those deals fell through — because its acquisition list is essentially a death list:
+
+**Bullfrog:** the famous Bullfrog Productions, behind *Theme Hospital* ("patients are asked not to die in the corridors") and *Dungeon Keeper*. This wonderfully creative studio was bought in 1995 and shut down by EA in 2001.
+
+**Maxis:** the studio that produced *Spore*, *The Sims*, and the *SimCity* series. Acquired by EA in 1997, then closed by EA in 2015 — although later *Sim* games still carry the Maxis name, the studio originally founded by Will Wright is gone.
+
+**Westwood:** the legendary Westwood Studios. Creator of *Dune* and the *Command & Conquer: Red Alert* series — a pioneer of the real-time strategy genre. Bought in 1992, closed by EA in 2003.
+
+Other EA-acquired casualties include DreamWorks Interactive (the *Medal of Honor* series), Black Box Games (the *Need for Speed* series), and Origin (*Ultima Online*)… With a death list this long, players have no choice but to call EA an industry tumor — there's even a saying that "EA's plan is to buy up game studios and destroy them."
+
+![](http://img.qdaily.com/uploads/20160702130739Aa1bXV6EjWL8CZ5h.jpg-w600)
+
+A recent example is *Plants vs. Zombies*. After EA bought the world-conquering little game in 2011, it completely changed: *Plants vs. Zombies 2* no longer let you happily play for dozens of hours — it made you grind level by level, for the sole reason of pushing paid in-app purchases. That clearly wasn't the plan of PopCap Games founder John Vechey, who left the company he had built in 2014.
+
+![There's nothing wrong with making money, but the sequel's shift in style was too abrupt for players to accept.](http://img.qdaily.com/uploads/20160702130740cYB2ONnMCkEimosr.jpg-w600)
+
+Cases like this aren't limited to EA. Plenty of big companies have the same pattern — Microsoft, for example.
+
+Ensemble Studios, developer of the *Age of Empires* series, was acquired in 2001 and folded into Microsoft Game Studios, only to be shut down by the studio in 2008. The reason? Microsoft wanted to focus more on Xbox-platform games, and *Age of Empires* wasn't a fit for the Xbox 360. The *Fallout* series was also halted for a time because publisher Interplay had little faith in RPGs.
+
+## But joining a big company is a choice made with no other option
+
+Of course, when game studios sell themselves to big capitalists, they're not doing it to die.
+
+The biggest reason is money. After all, making games is something that costs money — a lot of money.
+
+Some game franchises exist today only because of strong publisher backing. Take *Call of Duty*. Every one of the 22 members of its studio Infinity Ward came from the development team of the famous WWII game *Medal of Honor: Allied Assault*.
+
+After Infinity Ward was founded, it got its seed funding from Activision: $1.5 million, in exchange for a 30% stake. At the time, that was enough to support the team in making a small PC game — and so *Call of Duty 1* was born.
+
+![“EA, we're telling you — we're done working for you!”](http://img.qdaily.com/uploads/20160702130741EJ5No97FDaZdpIs8.jpg-w600)
+
+*Call of Duty* was a huge hit, and Activision went on to buy out the rest of Infinity Ward for $3.5 million, acquiring the rights to the *Call of Duty* game in the process (quite a bargain). From then on, *Call of Duty* became a series with a new release every year — before the buyout, an annual AAA blockbuster from a small studio would have been flatly impossible.
+
+Today the *Call of Duty* series is one of the most expensive in gaming. The sixth entry, *Call of Duty: Modern Warfare 2*, cost more than $40 million to develop; with marketing, distribution, and everything else, total spending came to $200 million.
+
+Costs like that are a gamble a small company never even gets to try.
+
+## The conflict between creativity and money
+
+Still, the entry of capital inevitably shapes a game: an independent studio is fundamentally different from one owned by a big publisher.
+
+First, an acquisition means staff attrition. Core members who cash out their stock have every reason to walk away. After Microsoft bought Mojang, the developer of Minecraft, for $2.5 billion, all of the Swedish company's founders left to live comfortable lives.
+
+Often, for a game studio that started with only a handful of people, this is fatal. Those core people represent everything: the ideas, the quality, the passion.
+
+The classic example is Peter Molyneux, founder of Bullfrog Productions. After Bullfrog was bought by EA in 1996, Molyneux left Bullfrog and founded Lionhead Studios, releasing *Black & White*, *Fable*, and other titles.
+
+After the studio was acquired by Microsoft in 2006, he became creative director of Microsoft Game Studios for a time. But in 2012 he left Microsoft — and just yesterday, word came that Microsoft would close Lionhead and halt development of the next *Fable*.
+
+![Gaming's mad genius, Peter Molyneux.](http://img.qdaily.com/uploads/20160702130741uHrfnmgRAVFkTi0a.jpg-w600)
+
+What did Peter Molyneux go on to do?
+
+Like many master game designers, they need to chase their dreams: to design more, and better, more creative games.
+
+Just like Hideo Kojima leaving Konami, they're not content with the old works — they pursue innovation. There's nothing wrong with that in itself; but for companies chasing money, innovation means risk. Who knows whether a new work will sell?
+
+It's like Hollywood today, keen to roll out superhero sequel after superhero sequel — and you can find the same plot beats and rhythms in every one of them. As it turns out, audiences are willing to pay for that stuff.
+
+When a single failed film can lose hundreds of millions, not many companies want to innovate.
+
+Games are the same. Sega spent $70 million in the 2000s to make *Shenmue* — an unimaginable number at the time. But *Shenmue* sold poorly in the end, a result that indirectly led Sega to abandon the console business.
+
+![For players, Shenmue is an absolute classic; for a company that invested heavily and got little back, it was a nightmare.](http://img.qdaily.com/uploads/20160702130742SwyEerpGHWFUn6aB.jpg-w600)
+
+A publisher like EA buying up one studio after another isn't doing it to have people make creative games — the point is to make money off sequels.
+
+FIFA is a typical EA product: can you name a single new idea in an annual FIFA release? Yet through its steady sales and user base, it became one of EA's key sources of funding.
+
+The big-company atmosphere is also a creativity killer. Peter Molyneux has said Bullfrog died of EA partly because EA gave them so many resources to make them better. "Bullfrog moved into new offices, and people no longer shot BB guns at each other in the corridors like before. They got an HR department, which looks like a very professional thing — but it changed the character of the company."
+
+"When a company gets acquired, it is bound to change," Molyneux concluded. "In some cases for the better; in most cases for the worse."
+
+![In fact, Peter Molyneux's team's latest game, Godus, was also heavily criticized. Creativity is hard to sustain — compared with sequels that bring in steady, reliable revenue.](http://img.qdaily.com/uploads/20160702130742PescUVwyD8hpmrTE.jpg-w600)
+
+Finally, back to Ubisoft — a company whose reputation was never all that great to begin with. If Vivendi really does acquire it, things could get worse.
+
+Vivendi itself is a group with little feel for games: it showed as much when it dumped most of its Activision Blizzard stake in 2013, making clear it doesn't really understand the game industry. The reason for that sale at the time was to concentrate more energy and money on its own TV and video business.
+
+Today, Activision Blizzard's share price has tripled, and it has become the world's largest third-party game publisher.
+
+Vivendi may want to buy Ubisoft to make up for the mistake it made three years ago. Perhaps it has its eye on Ubisoft's *Assassin's Creed* movie, or wants to use Ubisoft's various franchises for film-game tie-ins, to develop all kinds of products — or, more directly, to make money.
+
+Ubisoft CEO Yves Guillemot has [made it clear](http://wccftech.com/ubisofts-yves-guillemot-were-going-to-fight-to-preserve-our-independence/) that he won't hand Ubisoft over to a bunch of amateurs. Facing Vivendi's hostile takeover, beyond management's considerations, Ubisoft recently began thinking about lowering the pace of its releases — you definitely won't see the once-a-year *Assassin's Creed* in 2016. They say they want to take some time and try something new with the old franchise.
+
+The eventual new release will surely come with more bugs — but as players, we're presumably happy to see that kind of effort.

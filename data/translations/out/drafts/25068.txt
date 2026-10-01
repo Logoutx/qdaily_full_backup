@@ -1,0 +1,178 @@
+@@QD_TITLE@@
+Twenty years of letter-writing, no profit worries — have other companies gotten Bezos's skill?
+@@QD_EXCERPT@@
+Telling the same story, unchanged, for 20 years is a skill in itself.
+@@QD_BODY@@
+Telling the same story, unchanged, for 20 years is a skill in itself.
+
+Amazon CEO Jeff Bezos's annual [letter to shareholders is here again](http://www.forbes.com/sites/ryanmac/2016/04/05/jeff-bezos-calls-amazon-best-place-in-the-world-to-fail-in-shareholder-letter/#36e5365162f4).
+
+This time, his message is that years of bets have finally paid off: in 2015 Amazon became a company with annual revenue exceeding US$100 billion, its market capitalization leaving Walmart in the dust. And all of it thanks to the rapid growth of businesses like cloud computing and Prime membership — ventures that were once looked down on as reckless.
+
+In the letter, Bezos reminds investors:
+
+> “Nine out of ten ventures may well end in failure, but if there’s a one-in-ten chance of a hundredfold return, you have to go all in every single time.”
+
+This is not much different from [the first shareholder letter he wrote, in 1997](http://media.corporate-ir.net/media_files/irol/97/97664/reports/Shareholderletter97.pdf). Since then, Bezos has emphasized bold investment and not rushing toward short-term profitability, declaring, “At this stage, we are choosing to focus on growth.”
+
+Few realized that the “stage” he spoke of would last 20 years:
+
+![Amazon's revenue and profit, 2005–2015. Note that profit — or rather, the absence of profit — continues to this day. In Amazon's presence, every “principle” about P/E ratios becomes a joke](http://img.qdaily.com/uploads/20160702171915snq6HtSA3BD9uwec.jpg-w600)
+
+Despite never turning a profit, Amazon's share price rose more than a thousandfold — evidence that the market has bought Bezos's pitch.
+
+![Amazon's share price, 2005–2016](http://img.qdaily.com/uploads/20160702171915NhLkS3VsGouv4TQ6.jpg-w600)
+
+Not using profits to please the market means Amazon can spend its money on the core business and on building future businesses. No second company has managed to do that for 20 straight years.
+
+“Amazon has secured the cheapest capital in human history by telling stories,” comments Scott Galloway, a professor at NYU's Stern School of Business. Profit, he says, is like heroin: once investors get used to a company making money, it's hard for them to accept a story about losing money to grab market share.
+
+Walmart is a good example. Under pressure from e-commerce, it spent the past two years trying to learn from Amazon — squeezing profit margins and pouring money into competition — and its stock promptly tumbled.
+
+Two decades of zero profit, even losses, helped Amazon's core business (e-commerce) leave its competitors in Europe and the US far behind. Meanwhile, it poured revenue into one new business after another: Kindle, cloud computing, video services, and more.
+
+![](http://img.qdaily.com/uploads/2016070217191650hvkbaQDrdoPlTx.jpg-w600)
+
+Bezos really does know how to tell a story. This week's letter repeated the case for risk-taking with a vivid, cinematic analogy:
+
+> “On the baseball field, swinging for the fences makes you more likely to strike out, but it also gives you a shot at a home run. The difference between baseball and business is that one swing is worth at most four runs. In business, your payoff can be 1,000x.”
+
+But it's not enough to just write letters to persuade investors to accept zero profits, forgo dividends, and wait for long-term returns.
+
+After Amazon's Fire Phone flopped in 2014, the doubters piled up and the stock fell for an entire year. But in early 2015, Amazon disclosed the numbers for its cloud computing business in its financial reports, proving it was a big business bringing in billions of dollars in net profit every quarter — and the market was once again persuaded by Bezos's logic that in gambling there are wins and losses, but the wins can be hugely lucrative.
+
+Earnings reports use a few key numbers to show how a company's main businesses are progressing. When the key numbers match management's beautiful story, the story gains persuasiveness. Better still if the story can keep going. And the story in Bezos's letter has kept going for 20 years.
+
+Today Amazon is not the only company hoping to win more capital support by telling stories. The biggest tech companies in both China and the US all want the market to accept their own business logic. But look at how each of them has fared, and you can see this is no easy task.
+
+## Apple: the story of going from selling devices to selling services hasn't quite hung together
+
+The outside world's impression of Apple is that of a device company — one that sells ever more high-margin devices.
+
+In the past this was no problem. The iPod, iPhone, and iPad arrived in quick succession, and Apple could keep shareholders on board without paying dividends. The iPhone in particular: never has a second product in the world brought in more than US$10 billion in profit in a single quarter.
+
+The problem now is that the iPhone story is nearly told out: it can no longer guarantee selling more every quarter.
+
+![iPhone's year-over-year growth rate fell below 1% for the first time in Q4 2015](http://img.qdaily.com/uploads/20160702171916Plo062m54zrI8kjq.jpg-w600)
+
+At January's earnings call, Tim Cook tried to dodge the question. Rather than say how much better the 6s sold than the 6, he said the latest quarter's sales were 1.5 times those of “two years ago.”
+
+Why compare against two years ago? Because measured against the previous year, iPhone sales were up just 0.4%. This kind of game can't fool investors or the press.
+
+The new story Cook found for Apple is selling services.
+
+In [a set of slides](http://images.apple.com/pr/pdf/q1fy16supplementalmaterial.pdf) released alongside Apple's final-quarter 2015 earnings, Apple devoted an entire page to the big bold figure “1 billion active devices.”
+
+![A page from Apple's latest quarterly earnings supplement. Those 1 billion active devices include the iPhone, iPad, Mac, iPod touch, Apple TV, and Apple Watch](http://img.qdaily.com/uploads/201607021719172LqlsdVJfCYIgDNU.jpg-w600)
+
+[Cook said](http://seekingalpha.com/article/3836826-apples-aapl-ceo-tim-cook-q1-2016-results-earnings-call-transcript?page=3) the 1 billion devices are the foundation for Apple selling services, and that selling services will be Apple's future.
+
+But the timing of Cook's storytelling wasn't right. As financial analyst Neil Cybart commented: Apple's management shouldn't have waited until growth stalled to change Wall Street's mind — they could see this trend earlier and should have been discussing growth beyond hardware well in advance.
+
+Meanwhile, just as Cook talked up the importance of services, the reports Apple released didn't clearly say which services were performing well — ad revenue? Changes in paid subscription numbers? App Store revenue? Not one item was clear enough. The only clear numbers were those for devices like the iPhone and iPad.
+
+And a recent string of events — from Apple News [being unable to figure out article readership](http://www.wsj.com/articles/apple-news-app-is-off-to-a-rocky-start-1452474159), to its paid video service [being exposed by partners as going poorly](http://www.qdaily.com/articles/14360.html), to iAd being repeatedly relaunched — all leave the impression that Apple is better at hardware than services.
+
+For the moment, no one can shake Apple's enviable hardware business. But to get people to treat it as a services company, Cook's story isn't good enough yet.
+
+## Alibaba: in the end, it was still mostly about e-commerce
+
+Alibaba went public in the summer of 2014, and for the year that followed, its stock more or less fell for a year straight.
+
+The reason for the pessimism about Alibaba was simple: it was seen as one big e-commerce company, and inside it the business was mainly Taobao and Tmall.
+
+And both businesses were seen as having problems. Taobao's counterfeit-goods controversy never let up. Tmall, which carries higher margins, consistently grew more slowly than JD.com:
+
+![](http://img.qdaily.com/uploads/20160702171917El0jzADUrv7B36oY.jpg-w600)
+
+Add to that outside worries about a slowing Chinese economy and, with it, slowing consumption, and Alibaba's share price remains below its IPO price to this day.
+
+In October 2015, Alibaba began trying to change the market's view. Around the first anniversary of its listing, Jack Ma wrote [an open letter of more than four thousand characters](http://ar.alibabagroup.com/2015/letter-cn.html) to tell this story: Alibaba is not just an e-commerce company.
+
+> “Today, Cainiao, the logistics system Alibaba has invested in, already helps process roughly 10 billion express packages a year; our internet finance already serves nearly 400 million active users; our cloud computing business ranks among the world's leaders and maintains annual growth of over 100%; and our mobile internet infrastructure products, including search, maps, and browsers, provide Chinese users with indispensable foundational services.”
+
+> “What we are building is the infrastructure of future commerce; we are empowering the merchants who buy and sell, not competing with them. In that sense, the so-called ‘competitors’ in today's market are in fact the very parties we will empower and help in the future — in other words, simply treating the e-commerce companies operating in today's market as Alibaba's rivals is like comparing apples to apple trees, and suits neither side.”
+
+The apple tree metaphor was lovely. The only problem: the apples on that apple tree — whether the financial business Ant Group, valued at US$50 billion, or Cainiao, reportedly worth 50 billion yuan — were all spun off before Alibaba's IPO. Alibaba holds only a partial stake in Ant Group and Cainiao Network.
+
+In other words, these are other companies' businesses. They can generate more wealth for Jack Ma, but they won't bring Alibaba's shareholders much direct gain.
+
+By 2016, the focus of the story had swung back to e-commerce — e-commerce sales numbers of higher quality.
+
+Last month Alibaba announced that its transaction volume for fiscal year 2016 surpassed 3 trillion yuan. Alibaba vice chairman Joe Tsai said, “As a result, we have shifted our focus to quality growth and broadening domestic consumption. That means our measure of success is no longer a simple view of GMV growth.”
+
+## Alphabet: accepting Wall Street's rules
+
+Google has always been seen as an advertising company — more precisely, a PC advertising company.
+
+That was never really a problem. On the steady revenue of its search ad business, Google could pour massive investment into those imaginative long-term projects, even when those projects had yet to bring in any revenue.
+
+So we got those futuristic new businesses: Google Glass, smart-home company Nest, artificial intelligence, life sciences, self-driving cars, and on and on.
+
+Wall Street often grumbled that Google was opaque and didn't disclose revenue for its new businesses. But year after year of ever-rising ad revenue pushed Google's stock ever higher.
+
+The rise of the smartphone and Facebook changed how the outside world saw Google.
+
+As the internet shifted from PCs to mobile, search became less important, and social networks were seen as the future of mobile advertising. In the global digital ad market, Google and Facebook's shares rose and fell in opposition to each other:
+
+![](http://img.qdaily.com/uploads/20160702171918LyxHhlJ7gGQqjWK6.jpg-w600)
+
+This is the first time since Google got into advertising that any company has taken market share from it. If you look only at the US market, and only at mobile ads, Facebook's impact is even greater.
+
+Bear in mind that Facebook currently still makes money only from its own community and hasn't properly mined the ad potential of Instagram and WhatsApp, two services each with hundreds of millions of users:
+
+![Facebook's revenue breakdown, 2015. Chart by [L2](https://www.l2inc.com/speakers/scott-galloway)](http://img.qdaily.com/uploads/20160702171918eByM2XlszPvDHmwY.jpg-w600)
+
+Starting in 2015, Google changed under pressure. It first swapped CFOs and began cutting day-to-day spending. Then, overnight, Google announced it was reorganizing into Alphabet.
+
+After the Alphabet reorganization, the ad-supported core businesses — Google Search, Chrome, Android, YouTube, and the like — remained under Google. The other small companies with uncertain prospects, kept alive by the ad business, were spun out to fend for themselves.
+
+Google's financials are now reported separately from the other subsidiaries', and for the first time investors can see exactly where the money Google earns is being spent.
+
+And if those future businesses use Google's resources, [they have to pay for them separately](http://www.wsj.com/articles/google-parent-to-ask-subsidiaries-to-pay-for-corporate-services-1448325619).
+
+Google — or rather, Alphabet — has accepted Wall Street's rules.
+
+## Baidu: the attempt to threaten Wall Street failed
+
+Baidu's past glory and its present problems both resemble Google's.
+
+Baidu once dictated which websites and services Chinese internet users went to, and its desktop advertising had a confidence that needed no explaining.
+
+Then, in the same shift from PCs to smartphones, Baidu suddenly fell behind, its status as the internet's super-gateway taken over by WeChat.
+
+![Tencent's advertising business has grown more than 100% year-over-year for three straight quarters](http://img.qdaily.com/uploads/20160702171919KDbWuESUoyPxf1hM.jpg-w600)
+
+With WeChat and Qzone, Tencent's advertising caught up fast. For the past three quarters, Tencent's online ad revenue has doubled year-over-year each quarter.
+
+Unlike Google, Baidu arrived late to every market turn after search — whether mobile, app stores, or local services.
+
+Robin Li tried to expand into new businesses — iQiyi video, Baidu Waimai food delivery, Nuomi group buying, Qunar travel — all of it exploration of revenue beyond search advertising.
+
+But the problem is obvious: all of these businesses burn cash, and nothing guarantees Baidu can win out in any single one of them. The result: over the past two years, Baidu's ad revenue has grown and grown while its margins have thinned and thinned, and its stock has fallen accordingly.
+
+In an interview with Bloomberg last September, [Robin Li said](http://www.bloomberg.com/news/articles/2015-09-13/baidu-s-li-says-investors-don-t-get-china-s-coming-internet-boom) that US investors don't understand O2O and that he would consider delisting and returning to China: “If one day I find that the US market has completely lost hope of sharing our values, while the domestic market truly understands our business, I might do that. But first we should be patient and give US investors some time. I hope they will come to understand us better.”
+
+Over the two months that followed, investors did not change their view in the face of Baidu's delisting threat, and the stock kept falling.
+
+In the end it was Baidu that compromised. At the end of last year, Qunar, in which it had invested, ended its competition with Trip.com Group through a share swap. Then, early this year, video site iQiyi delisted via privatization. Both cash-burning businesses were spun off from Baidu and no longer weigh on its financial reports.
+
+The day after the iQiyi privatization was announced, Baidu's stock jumped more than 8%. And Baidu Waimai, which Baidu spent heavily on subsidies to win market share, recently got news of independent fundraising.
+
+But shedding cash-burning businesses can only produce pretty financial reports for a while. If Baidu can't find a way to stop the growth of Tencent's ads, or find a promising new business, in the end it will just be another Yahoo.
+
+## Facebook and Tencent: the challengers don't need to worry about storytelling yet
+
+Apple, Alphabet, Amazon, Facebook; Baidu, Alibaba, Tencent — these are regarded as the most important tech giants in the US and China, respectively.
+
+For now, only Tencent and Facebook have barely bothered to communicate with investors.
+
+In the shift from PC to mobile, social networks shook the once-solid positions of Google and Baidu, and Facebook and Tencent are the winners of that migration.
+
+Neither are they as aggressive as Amazon in fighting to pour all revenue into competition.
+
+These two still have plenty of room to grow. Before that runs out, they don't need to worry about how to tell their story — the numbers on the financial reports are persuasive enough.
+
+Monopolizing a market with a future — that is always the best story.
+
+Charts by Changcun Zhao / cover image from [CNBC](http://www.cnbc.com/2015/01/12/happy-birthday-jeff-bezos-heres-another-15-million.html)
