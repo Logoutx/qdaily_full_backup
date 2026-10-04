@@ -77,5 +77,38 @@
   ],
   "25068": [
     "grok fidelity review HIGH: source lists 携程旅行 (Trip.com Group per glossary) among Baidu's new businesses; draft substituted Qunar (a different company) — fixed directly in en/25068.json"
+  ],
+  "24212": [
+    "Grok HIGH: source 远山商社 rendered as Haruyama Shoji — verified deliberate source-typo fix (president 治山正史 = Masafumi Haruyama, HALSUIT is Haruyama's brand); kept as is"
+  ],
+  "22915": [
+    "grok fidelity review HIGH: 收购 SDS 造成 8440 万损失 rendered as the purchase price (\"cost Xerox US$84.4 million\") — fixed to \"saddled Xerox with a loss of US$84.4 million\" in en/22915.json — fixed"
+  ],
+  "23014": [
+    "grok fidelity review HIGH: source's 2015 US top-five list says 《侏罗纪公园》 (a source error for Jurassic World); polish silently corrected it — reverted to *Jurassic Park* per preserve-source-errors rule in en/23014.json — fixed"
+  ],
+  "22256": [
+    "grok fidelity review HIGH: source titles the song 《美丽的坏东西》 (The Best Damn Thing); polish retitled it \"Girlfriend\" — reverted to *The Best Damn Thing* per source in en/22256.json — fixed"
+  ],
+  "21079": [
+    "grok fidelity review HIGH: 贝纳颂 (Uni-President's canned coffee Bernachon) rendered as \"Barista\", attaching the K11 vs neighborhood-store facing comparison to the wrong brand — fixed to Bernachon (2 occurrences) in en/21079.json — fixed"
+  ],
+  "21112": [
+    "grok fidelity review LOW (not fixed, for human): 日本歌曲《夕烧》和《竹林》 (Japanese songs) rendered as \"Japanese-style songs\", which also recasts the source's own examples, in en/21112.json"
+  ],
+  "18423": [
+    "grok fidelity review HIGH: EN silently changed source's 'Airbnb CEO Jonathan Mildenhall' to 'CMO' — restored source wording 'CEO' directly in en/18423.json"
+  ],
+  "16274": [
+    "grok HIGH: 《心迷宫》 was rendered as *Cry Me a Sad River* (wrong film); fixed to *The Coffin in the Mountain* 2026-10-04, please verify the renaming passage reads sensibly"
+  ],
+  "15599": [
+    "Grok HIGH (fixed in place): 候车室 no-waiting-rooms claim + 接送机 airport-only; verify phrasing"
+  ],
+  "14646": [
+    "Grok HIGH (fixed in place): screenwriter/novelist complaint attribution reversed; verify quote"
+  ],
+  "14907": [
+    "Grok HIGH (fixed in place): Beats bundle was a hope, not an offer; also 2 LOW attribution notes in Yu Yayun quote"
   ]
 }

@@ -1,0 +1,174 @@
+@@QD_TITLE@@
+We Spent a Day Working With WeCom — You May Not Be Able to Do Your Job Without It
+@@QD_EXCERPT@@
+Put simply, it's a WeChat stripped of all its entertainment features.
+@@QD_BODY@@
+Put simply, it's a WeChat stripped of all its entertainment features.
+
+How many times a day do you check WeChat? And how many of those times are for work?
+
+WeChat is the office tool of virtually every Chinese person today. From small and mid-sized companies to large state-owned enterprises, and even foreign firms already equipped with tools like Skype and SharePoint, more and more everyday communication, announcements, and even file transfers are being handled on WeChat.
+
+The problem now is that WeChat has everything, and you have to check it all the time — and you never know whether it's work or an irrelevant push notification. That fragments our already limited time even further.
+
+WeCom, which recently surfaced, is a WeChat-derived tool that tries to separate your work from your life. QDaily got into the beta, and we spent a day working with it.
+
+Here's what working on WeChat might look like in the future.
+
+## What's it like to work with WeCom?
+
+**Download and login: no need to re-add colleagues as friends.**
+
+For now, WeCom is still in beta, so it can't be downloaded from the iPhone or Android app stores.
+
+If your company already uses Tencent Enterprise Email or WeChat Enterprise Accounts, it can apply to the WeChat team for free beta access.
+
+Although WeCom hasn't been officially released, it already runs on iOS, Android, Windows, and Mac. That's a marked contrast with WeChat, which took nearly three years to ship a Windows client. And the Mac version of WeCom can even read message history — a world of difference from regular WeChat for Mac.
+
+![](http://img.qdaily.com/uploads/20160702123700fXu1A5IP3jBNrkYL.jpg-w600)
+
+Admin users who receive an SMS invitation can open an account via the link and then import the existing employee directory and org structure from Enterprise Email or WeChat Enterprise Accounts. That means new hires no longer have to add colleagues' contact details one by one.
+
+Employees who aren't in the existing directory need to be added separately in the admin backend, by entering their phone numbers to invite them.
+
+![](http://img.qdaily.com/uploads/20160702123700BOPT917gfrpRj2y3.jpg-w600)
+
+Invited employees receive an SMS with a WeCom download link. Once the app is downloaded and installed, they can log in with their WeChat account by entering their phone number — though this process can also be completed via a WeChat share. After registering, employees simply need an admin's approval.
+
+**Communication and chat: a castrated WeChat — no stickers, no video calls.**
+
+If you normally use WeChat for work communication, you've probably noticed how easily features like Moments and push notifications from official accounts distract people and hurt productivity.
+
+![WeCom on the left, regular WeChat on the right: Moments is gone, replaced by a colleagues directory.](http://img.qdaily.com/uploads/20160702123700FAHNnMwriVk1qbx5.jpg-w600)
+
+In WeCom, every feature unrelated to work has simply been removed.
+
+![WeCom on the left, regular WeChat on the right: the components available in the chat window differ — voice chat, red envelopes, and the like are all gone.](http://img.qdaily.com/uploads/20160702123701rvbX1mgakK6WnVZs.jpg-w600)
+
+The chat interface in WeCom is a slimmed-down WeChat: short-video recording, business-card sharing, coupon sharing, sending red envelopes, money transfers, and voice input are all absent from the chat components.
+
+The sticker panel has only QQ's default set, and custom stickers can't be added or sent. Perhaps the WeChat team decided these are useless at work.
+
+The walkie-talkie feature and video/voice calls have been cut too. In WeCom, you can only send messages via the most common formats: text and voice.
+
+**Company-paid calls: voice calls to multiple colleagues**
+
+Like Alibaba's DingTalk, WeCom also offers free calls. It supports one-on-one calls as well as multi-party conference calls. For now, every team — regardless of size — shares a pool of 1,000 minutes. If you exceed that, you can top up at 0.06 yuan per minute.
+
+![The company-paid call dialing screen](http://img.qdaily.com/uploads/20160702123701n72V0IDmoRJxZ1Xc.jpg-w600)
+
+Having a "company-paid call" feature doesn't mean employees can make personal calls at will. The admin backend can pull up all call records and durations.
+
+**Read receipts: you'll see whether someone has read your message**
+
+WeCom isn't just about cutting features from WeChat. For example, its newly added "read receipt" feature marks a message as read once each person has seen it. If some people still haven't read it after a while, the sender can easily find the non-readers and resend it. But the feature isn't on by default — you have to enable it manually from the plug-in box before sending each message.
+
+![Read receipts: you can see exactly who has read the message.](http://img.qdaily.com/uploads/20160702123702FlS7ODI1r6zLcfHo.jpg-w600)
+
+Interestingly, back in 2012 Zhang Xiaolong, the father of WeChat, said at an event: "If your boss messages you on WeChat, you read it and don't reply, that's awkward. We want to give people the chance to lie. What is human nature? Give people the chance to lie." Who knows whether today's read receipts are a compromise made for the enterprise market.
+
+**Reminders and break features: like to-do reminders for your colleagues**
+
+WeCom also adds a reminder feature to its chat plug-ins. Users can set a reminder time directly in a conversation or group chat, and everyone gets notified when the time comes.
+
+![The reminder feature in a chat window: you can set a reminder time for a given conversation, so the other party receives the reminder at the moment you choose.](http://img.qdaily.com/uploads/20160702123702d0Vpr2RQ9aFXiTE5.jpg-w600)
+
+In a conversation, if plans are made, you can also long-press a message and turn it directly into a reminder. In that way, the app can double as a task-collaboration tool.
+
+![The break feature: you can choose to rest for an hour or longer — no push notifications, but messages keep coming in.](http://img.qdaily.com/uploads/20160702123703UGdMEjZDF7RkfVXa.jpg-w600)
+
+Unlike WeChat's 24-hour-online logic, WeCom's home menu includes a feature called "Take a Break." Employees can choose "Short Break" or "Off Work." During the break, they will receive no WeCom notifications for one hour or until 9 a.m. the next morning, respectively.
+
+The catch: if the other person decides to call you, you'll still get it. So if you want to fend off last-minute overtime, this feature clearly doesn't work.
+
+**Plus attendance, expense-claim, and check-in features tailored to Chinese companies**
+
+For administrative work, WeCom adds some dedicated features. Announcements, attendance, leave requests, and expense claims can all be handled inside the app.
+
+![](http://img.qdaily.com/uploads/20160702123703Ppo6WCFqyjJERfQB.jpg-w600)
+
+How practical these are, though, remains a question. Expense claims, for instance, can't connect directly to a financial system — an admin has to manually export an Excel form in the backend and forward it to HR.
+
+There's also a rather scary check-in feature: it grabs the employee's geographic location directly for check-in, and it can be part of attendance. Employees can't manually fudge a location that's too far away to check in.
+
+![](http://img.qdaily.com/uploads/20160702123704sZB1eptyX2LRNagI.jpg-w600)
+
+For now, WeCom is still positioned as an internal company communication platform. But if you need to deal with people outside your company, you'll probably still have to use WeChat.
+
+## How is it different from other collaboration products?
+
+**The domestic competitor: DingTalk**
+
+DingTalk, launched by Alibaba in January 2015, is the main competitor to WeChat Enterprise Accounts. A product that looked crude at launch, it improved over a year with heavy marketing and won more than one million companies, including Uber, Smartisan, and Toutiao.
+
+DingTalk emphasizes features custom-built for enterprises, such as:
+
+- Every sent message shows whether the other party has read it;
+- Important messages are automatically converted to voice and played to the recipient's phone as a call;
+- "Bathhouse Mode," in which all company employees communicate anonymously.
+
+As a communication tool, DingTalk leans toward management. For example, when the boss sends a message, it can become an automatically dialed phone call to employees, with the boss's name as the caller ID.
+
+![WeCom on the left, DingTalk on the right](http://img.qdaily.com/uploads/20160702123704TKhUFa65rNfzMueX.jpg-w600)
+
+The enterprise version of WeChat, by comparison, is more balanced and grants managers no such special powers.
+
+Where DingTalk currently leads is its enterprise service platform. After upgrading to version 2.0 last August, it brought in third-party services such as MikeForm and Tower, letting enterprise users collect forms, manage tasks, and even run simple ERP right inside DingTalk.
+
+A major service provider on DingTalk told QDaily that they are also interested in building similar features for WeCom, but WeChat hasn't opened up yet.
+
+In a post on its official account, the WeChat team called WeCom merely "a small fish splashing in a puddle" of the enterprise app market, since "there are at least millions of established enterprises in China" doing the same kind of business. But clearly, in China only Alibaba is of the same scale. Alibaba appointed Wang Hao, founder of Xiami, as DingTalk's vice president of business development this January.
+
+**The overseas standout: Slack**
+
+The most closely watched enterprise social tool worldwide is surely Slack, a startup founded only in 2012 that is already valued at $4 billion.
+
+The biggest difference from WeCom and DingTalk is that Slack's channels work like discussion groups: members can browse all public channels, freely choose which to join, and even see the history of past discussions.
+
+![The Slack interface](http://img.qdaily.com/uploads/201607021237067UHN24jTMefdgFJ3.jpg-w600)
+
+Simply put, Slack is a far more open product. Its openness also shows in integrations: most mainstream overseas services have already plugged into Slack, and it's very easy for companies to develop new features themselves. That openness lets a Slack channel become almost any tool: booking hotels, hailing rides, reading news, filtering information...
+
+By comparison, WeCom is just a WeChat better suited to enterprises. But for most Chinese companies, it may also be the more suitable tool.
+
+## Tencent has actually been doing enterprise services for over a decade — what were its earlier products?
+
+Yesterday, the WeChat team officially responded that "WeCom was built and optimized on the foundation of RTX."
+
+On September 9, 2003, Tencent released its enterprise instant-messaging tool RTX (Real Time eXchange) at the Kerry Centre in Beijing. That year, besides launching QQ.com and QQ Games, Tencent also created the enterprise business brand BQQ (Business QQ). RTX was the first product to take shape.
+
+![An early RTX product screenshot](http://img.qdaily.com/uploads/20160702123706nwOzuRmxXI3KJQeq.jpg-w600)
+
+To keep it adequately separate from everyday socializing, RTX started out as a LAN-based QQ — employees could greet each other and send files within a company without an internet connection. But besides having employees install the client, the IT department also had to set up a server — extremely unfriendly to small and mid-sized companies.
+
+Tencent carried its tradition of internal product competition into enterprise services. Three months after RTX launched, Tencent released another instant-messaging software focused on office settings — Tencent Messenger (TM).
+
+![The Tencent TM interface in 2009](http://img.qdaily.com/uploads/20160702123707SLsg53m72yCIxEHr.jpg-w600)
+
+It could connect with QQ accounts, but the product cut nearly all entertainment features, leaving only chat, video, voice, and file transfer. In June 2014, this Windows-only PC software stopped being updated.
+
+RTX has survived to this day, but mainly as a service Tencent uses internally. That may be the fate of failed IM products launched by Chinese internet giants — Baidu Hi and NetEase Popo likewise became internal company communication tools.
+
+Tencent's second round of enterprise services was Enterprise QQ in 2008. The difference from RTX was that it could import customers' QQ numbers, so communication wasn't confined to a single company. Enterprise QQ didn't become a widely adopted enterprise service; it became a marketing/customer-service product. Open the website of a small study-abroad agency, and the first thing that pops up is QQ customer service.
+
+![The Enterprise QQ interface](http://img.qdaily.com/uploads/20160702123707CgU3mZtnPNhFzM0A.jpg-w600)
+
+It's fair to say that to this day, Tencent still hasn't really made an enterprise collaboration and office product. Unless you count using WeChat to talk about work.
+
+There are reports that as early as the beginning of 2014, Tencent's WeChat Business Group was seriously considering making enterprise office software. In August 2014, WeChat Enterprise Accounts entered beta. A month later, it opened its APIs for testing.
+
+But Enterprise Accounts were just a kind of official account for internal company operations. Although they offered mobile-office features like online check-in, online travel requests, and expense claims, everyday communication still happened on WeChat — private messages, business matters, consumer promotions, and official-account articles all mixed into a single feed. The fundamental problem was never solved.
+
+## What else does an enterprise WeChat mean?
+
+Chinese people have never had a tradition of using digital collaboration tools. Most companies don't even use email regularly; the digital tools used at work basically stop at Microsoft Office and software tied directly to business workflows — like the property-management backend of a rental-housing company.
+
+But work intensity keeps rising, and real-time communication is needed whether or not you're in the office. WeChat, which already covers more than 500 million Chinese users, is now being used for work — and for most companies this is the first large-scale adoption of "mobile office," whether or not a professional version has been released.
+
+WeChat, however, is not an ideal collaboration tool. It mixes people's public and private affairs, and it comes with a reader, shopping, and wallet functions — which means work can grab you at any hour (think of those weekends when a WeChat notification makes you worry it's a work task). Not to mention that while working, we're also interrupted by all kinds of irrelevant things.
+
+DingTalk, the enterprise collaboration software under Alibaba, seized on exactly this need, and even though Alibaba itself has no social-relationship data to speak of, DingTalk is now doing well.
+
+Now WeChat has made a product of the same kind, to be released within two months. Late as it is, WeChat's advantage lies precisely in its social graph: those 500 million users were already using WeChat for work communication and collaboration.
+
+And for the DingTalks to shake off a competitor like WeCom, they'll probably have to be far better than they are now to stand a chance.

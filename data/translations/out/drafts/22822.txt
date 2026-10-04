@@ -1,0 +1,102 @@
+@@QD_TITLE@@
+If All Customer Service That Can't Solve Your Problem Is a Paper Tiger, How Do You Do "New-Era Customer Service" Well?
+@@QD_EXCERPT@@
+It's all about communicating more efficiently — and once robots get involved, the human side of the job becomes more complicated.
+@@QD_BODY@@
+It's all about communicating more efficiently — and once robots get involved, the human side of the job becomes more complicated.
+
+"For Mandarin, press 1; for English, press 2…" You listen patiently through the whole spiel, waiting for the line "to speak to a human agent, press 0" — and when it finally comes, you press 0 without hesitation.
+
+This is a scene everyone probably knows well, and it makes you think about what consumers are really after when they seek customer service. Most of the time, people aren't actually trying to reach a customer service agent — they want their problem solved. Whether it's an inquiry, a complaint, or some other need, wrangling with a machine can be painfully inefficient, while getting a real person to explain things in plain language is often far more convenient. But the fact is, when a consumer is immersed in an internet product (whether an app or a website), the odds that they'll pick up the phone to communicate are probably not that high. In other words, unless the robot service built into the product fails to satisfy, no one wants to queue up listening to *Für Elise* and then press a "0."
+
+![China Post Express & Logistics call center on Double 11, 2014](http://img.qdaily.com/uploads/20160607103208ojHa7vIRLiW8eBCh.jpg-w600)
+
+As services have become more granular (many needs are created, like tracking a package's progress — can you imagine that before this service existed, you would have actively wanted to know where the goods you bought had gotten to, and why they were sitting in one place for so long?), the customer service trade can no longer be neatly divided with labels like "pre-sales" and "after-sales." The more accurate way to put it: whatever form of customer service best satisfies a user's information needs at the very first moment is the form there should be.
+
+We put this question to Wang Hai, director of Alibaba's customer service division, who sketched out the entire evolution of customer service — probably the evolution of the industry as a whole: "We launched PC (customer service) systems and help centers; then the wireless era arrived, and users tended to shift toward mobile channels. As soon as you open the Taobao app, it's very easy to find the customer service entry." "Alibaba realized that service is a component of traffic, and that over the next ten years, experience would be a critical factor for e-commerce as a whole."
+
+When Trip.com Group expanded its Nantong call center in 2011, it probably didn't expect the customer service industry to change so fast. Just four years later — an 80,000-square-meter complex with 12,000 service seats, the grandest, largest tourism call center in the world — it has now also added WeChat groups, each staffed with a "micro tour leader."
+
+For example, a batch of travelers bought a Maldives product, and the micro tour leader texted them inviting them to join a group. In that group you can ask about anything — both Trip.com Group's products and recommendations for things to do at the destination. Tong Lin, a frontline employee who works as one of these question-answering micro tour leaders, told QDaily that he runs about 20 groups; in peak season (Chinese New Year) each group has over a hundred people, while off-peak it's 30 or 40.
+
+At Trip.com Group, the total number of these micro tour leaders is under 100. Yu Xiaojiang, COO of the company's travel division, says phone seats currently account for 70%, with the remaining 20–30% in other forms — though the line is blurring: "(We are) trying to cultivate all-round customer service agents. The market and the agents themselves both need to be educated."
+
+![](http://img.qdaily.com/uploads/20160725026790Msgaji5TilWhj7z4.jpg-w600)
+
+![A micro tour leader](http://img.qdaily.com/uploads/20160607103208H71hRvD9GlV65MIq.jpg-w600)
+
+In the customer service industry, what companies invest, the forms products take, and the ways they communicate with consumers are all changing. Although efficiency remains the goal of it all, customer service today carries more brand meaning — which is also the point of "making robot customer service more like a flesh-and-blood person." In other words, whether using machines or real people, companies strive to let consumers feel their distinctive character in the course of getting a problem solved. If "the details determine success or failure," this may be the most representative point of all.
+
+We broke down several characteristics of "new-era customer service" and the reasons behind them. You'll see that the changes described above are happening faster and faster.
+
+## In Most Cases, Robots Can Solve the Efficiency Problem
+
+The reason intelligent robot customer service exists is much like the reason phone customer service has voice menus. It usually takes the form of an interactive help center, so that netizens who can't find the FAQ don't waste agents' time. Big companies with their own development teams tend to build their own intelligent robots: Taobao has AliMe, while JD.com calls its system the JIMI intelligent service system. According to Zhao Pengyi, this JIMI system took JD.com three years of iteration to build, with an 80-person R&D team, and at peak times JIMI's service capacity equals that of all of JD.com's human customer service agents.
+
+Zhao Pengyi joined JD.com in 2011. Starting as a frontline customer service agent, he worked his way up over eight years and is now director of JD.com's national customer service center in Chengdu. "In 2010 our phone connection rate was in real trouble — we doubled headcount every month, but user demand grew tenfold every month." In that wild early era of online customer service, big companies desperately needed new ways to fix the supply-demand imbalance in service, and the combination of a customer service robot plus a help center — designed to let users "fend for themselves" — became one of the main ways to divert volume.
+
+![The JIMI customer service robot](http://img.qdaily.com/uploads/20160607103209aAMlXvf97tPZCp6y.jpg-w600)
+
+Take the extreme customer service peak of Double 11: a merchant's own service capacity is nowhere near enough to handle customers at a 1-to-30 ratio. The value of the intelligent robot is that a merchant only has to fill the shop's information into a standard template to have its own dedicated customer service robot.
+
+The deeper meaning of "robots" has to do with the "Internet Plus" we're all familiar with. Suppose a passenger hails a car with Uber, something goes wrong, and after canceling the order the app still charges them. Unable to find a customer service phone number, the correct way to appeal is to go to "Help" in the app, select "incorrect charge," and submit — before long you receive a refund email. Uber's official explanation for this: "Passengers can complete most appeal and inquiry operations in the app; only the final step (the refund) requires our staff."
+
+Companies break down every service scenario into fine categories — a further simulation of problem-solving. In Dianping, there's one button for locating a restaurant and another for pressing an order; many e-commerce sites put special effort into optimizing their review systems, so you can even quickly ask a stranger who already has a purchase record a question, without going through the "add as friend" process all over again.
+
+## Meanwhile, the Human Side of the Job Is Becoming More Complicated
+
+Wang Lijie is a customer service supervisor at Momo. She told QDaily: "Only by constantly learning can you keep up — take one long vacation and I simply can't keep pace with two version updates a month." And Tong Lin, the "micro tour leader," puts it this way: "Answering travelers' tricky questions about what to do at a destination is definitely worth a bit more than an online agent who issues invoices." He's in charge of Trip.com Group's Singapore destination; for questions guests could simply look up online, he no longer needs to answer them — in other words, what he needs to know is more obscure, and there's more of it.
+
+There are currently more than 10 million people working in customer service in China, and both society and companies are rethinking the trade. "Typing speed of 60+/min" may be just the most basic requirement, says JD.com's Zhao Pengyi: "The customer service agent's role has shifted from helping you press an order, issue a refund, or check the reason for a delay, toward becoming a service expert and a product expert."
+
+As the simple stuff gets taken over by machines year after year, the problems left behind are all more complicated. "What size should I wear?", "Is this Aksu apple from Xinjiang really sweet?" — questions like these now land on online customer service. These service processes also come with the conversion of business opportunities: what they actually provide is a kind of pre-sales shopping-guide service — introducing products, guiding purchases, dispelling the distrust people feel about shopping online.
+
+Employees at Apple's Genius Bar likewise spend some time answering phones at the call center, keeping the technical level of the front and back ends in sync. The reason people feel AppleCare's customer service experience is good is that they really know the product. Frontline customer service agents understand user needs better and quickly get exposed to the entire production system, so when external hiring can't meet a company's talent needs, customer service agents can supply it with grassroots management talent. JD.com, for instance, hires several hundred "service stars" every year, and after a little over a year they can grow into the management layer of the operations system.
+
+![](http://img.qdaily.com/uploads/20160607103209S2jpE7LtheiOgZvT.jpg-w600)
+
+Beyond agents handling more complex problems when facing consumers, the customer service department itself is also starting to play a role, because it sits closer to product development. In a media interview last September, Alibaba's chief customer service officer Dai Shan revealed a new feature in the group's internal app called "Nine O'Clock Radio" — essentially a way to flatten the giant organization. When a group-level customer service agent spots a behavior with a common pattern, they can press a button called "ring the bell" and share the case to Nine O'Clock Radio, where colleagues across the business departments can all see it. If the suggestions are important enough, they may eventually become an optimization point. "Our thousands of service agents don't just solve problems — they can also feed content to every department," says Wang Hai.
+
+![Entry to Nine O'Clock Radio in Alibaba's internal app](http://img.qdaily.com/uploads/20160607103210kE6h8DzFMHtWyjaY.jpg-w600)
+
+## Socialized Customer Service: The Most Important Feature May Be Language
+
+"JD.com Mutual Help" is a typical socialization case; its essence is using the power of some users to meet the needs of others. This product, still in testing, currently focuses on the mother-and-baby category. JD.com sets up public discussion topics (say, about a particular milk powder formula) and cultivates shopping experts. According to figures revealed by Zhao Yipeng, phone customer service is one-on-one, an online agent can handle 6–8 users at most simultaneously, but a single topic can influence an average of 3,000+ users. "Some actively speak up in there, others silently browse. From a pure service standpoint, it's very effective."
+
+![Purchase inquiries under a product listing](http://img.qdaily.com/uploads/20160607103210NoXREIA6mFjPrMky.jpg-w600)
+
+As for the language customer service uses (often the language a robot is programmed with), its biggest purpose is to close the distance with customers. A Weibo big-V named "Zhou Xiaoshuai's Private Kitchen" has 1 million followers, and his signature dish is crayfish. His Weibo verification is, surprisingly, "well-known humor and comedy personality" rather than "crayfish seller." Scroll through his Weibo and most of it is chat records with his customers — mostly funny dialogues and jokes — and every reply comes with an "annoyed" emoji attached. That's how he markets himself.
+
+![](http://img.qdaily.com/uploads/20160607103211W5k293N6zSYEUQws.jpg-w600)
+
+In late January 2016, a flagship store of a bathroom-fixtures brand went viral for fielding questions from 438 overseas students. A problem from the American Collegiate Mathematical Modeling Contest about draining a bathtub was thrown at the bathroom-fixtures customer service agent, and after more and more netizens came to tease the shop, its auto-reply had become: "Dear, common bathtub sizes run from 1.5 to 1.8 meters, thickness is 2 centimeters, the heat transfer coefficient is about 0.19 according to the students' answers, and temperature drops about 5 degrees per hour… too many students asking, so replies may be a bit slow."
+
+Personalized customer service language still appears mainly on social networks; once the user base grows large, companies tend to respond conservatively. As for why these gimmicks can become selling points — at the root of it, people certainly love the convenience of online shopping, but they also miss the human warmth of face-to-face interaction, and human warmth is forever scarce on the internet.
+
+## Big Data Should Be a Supporter That Helps Form Solutions
+
+If you've ever called SF Express or McDonald's, you already know they pretend to know you — recording things like your address and order preferences.
+
+In fact, the best use of big data is to record users' complex behavior. JD.com's user-profiling system, for example, can assign priority based on a user's operation history. Say you've already clicked "press the order"; if the system then receives a call from the registered number, it first judges that it's probably an order-pressing issue, then checks the order time to see whether it's delayed. If everything is normal, it's handed to an online service robot or an ordinary agent; if it's already overdue, a senior agent who specializes in thorny cases gets ready to take the call.
+
+Then there are the user credit records a platform accumulates over time. At the customer service level, a trading platform's accumulated credit can reduce the risk of online shopping. Alibaba customer service division director Wang Hai walked us through this mechanism, which has been running for nearly two years: "When your credit level is high enough, as soon as you initiate a return, the money lands in your account right away." In scenarios where instant refund applies, credit level has the power to simplify the customer service process: compensate first, handle the rest later. The same goes for merchants — when a merchant with good credit faces a malicious complaint, the platform will ask the consumer to provide more evidence.
+
+![Instant refund: credit limits granted based on user registration](http://img.qdaily.com/uploads/20160607103211G6RO2CtQNye3xj1U.jpg-w600)
+
+## Customer Service Doesn't Always Want to Help You Solve Your Problem
+
+We'll close this article with a classic story.
+
+Joe Serrano, a former *New York Times* reporter, said in 2006: "Customer support is an orphan in the consumer electronics industry." And indeed, for a time companies wanted you to leave them alone after you'd bought their product, so they solved problems in the cheapest way possible. No American consumer would have been surprised to hear an after-sales operator with an Indian accent greet them with "Hello, sir."
+
+But Serrano had another insight.
+
+His music player, an iPod, was broken — and he was determined to get it fixed.
+
+So he went to great lengths to find the customer service number, and received the sincere advice to "just buy another one." He persisted, and finally discovered he could fill out a form and mail the machine back for repair — for which Apple charged US$250, plus tax.
+
+![](http://img.qdaily.com/uploads/20160607103211OulSDnEj13ewbsqM.jpg-w600)
+
+In other words, Apple had no intention of repairing it at all. Serrano quoted the investor Andy Kessler (Andrew Kessler) by way of explanation: "A phone call costs the company 75 cents a minute — an hour costs US$45," and then he wrote: "On the one hand, because music players cost far less than computers, Apple has a much stronger motive not to let people call in; a music player that was profitable to begin with ends up with hardly any profit because of one long-distance call. Repairing a music player — even one still under warranty — makes no economic sense. Apple would simply send you a new one."
+
+This story appears in a book called *Gentlemen and Knaves* (《绅士与无赖》), which explores the secret of companies' customer service costs.

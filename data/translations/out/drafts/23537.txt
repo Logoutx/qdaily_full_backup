@@ -1,0 +1,204 @@
+@@QD_TITLE@@
+The Spring Festival travel rush is over — how did Didi get involved and carry 1.9 million people home?
+@@QD_EXCERPT@@
+Regular article
+@@QD_BODY@@
+## This ride-hailing company really is turning into a mobility platform
+
+Regular article
+
+From January 24 to March 3, 2016 — the period defined by China's Ministry of Transport as the Spring Festival travel rush — 326 million trips were made to another city by train, and 51.4 million people flew.
+
+Unlike previous years, this year another 1.9 million people rode Didi's intercity Hitch service to another city.
+
+Zhuo Yue was one of those 1.9 million.
+
+"Didi's intercity Hitch makes the road home no longer hard. A trip originally planned for tomorrow moved up to the early morning. Grateful." Zhuo Yue, who does corporate legal work in Jiangyin, borrowed Didi's advertising slogan to write this Weibo post. It was 12 minutes to midnight; after several rounds of back-and-forth, she had finally made it through her parents' door before Chinese New Year's Eve.
+
+Zhuo Yue's hometown is Yancheng in Jiangsu, and she works in Jiangyin, also in Jiangsu — about a three-hour drive apart. She usually takes the coach bus back and forth, but because work commitments kept pushing her trip back before the holiday, she only confirmed her travel date on the 27th of the twelfth lunar month (two days before New Year's Eve), and tried Didi's intercity Hitch for the first time.
+
+This year, it was hard to miss the promotion of Hitch rides home. For days on end, opening the Didi Chuxing mobile app would bring up a Hitch promo pop-up; before the travel rush began, there was even a subsidy promotion offering 500 yuan...
+
+Zhuo Yue learned about it from a push notification on Didi's WeChat official account. After Hitch opened up intercity routes, she set her trip for after work on the 28th of the lunar month. But two hours before departure, the car owner told her the trip was cancelled.
+
+"He needed to take two relatives home, so he couldn't take me. I just had to keep looking," Zhuo Yue told QDaily. "Car owners kept contacting me, suggesting I leave in the middle of the night or go the next morning."
+
+After chatting with several car owners in Didi's app, Zhuo Yue finally found one who could leave at her original time. Out of safety concerns, she sent all the owner information Didi displayed to her family WeChat group. "My parents called me several times along the way, worried about safety," she said.
+
+The in-app private messaging, the posting of intercity routes, the safety verification — all of these that Zhuo Yue used were things Didi's Hitch team had gradually improved over the more than six months since launch.
+
+Before the formal launch in June, Hitch had already begun recruiting car owners.
+
+![Showing a feature in the app before it was finished was a first for Didi (Image source: GeekCar)](/uploads/image/201603/ad749946d5af.jpg)
+
+"We made a very bold decision then: we put the Hitch tab in before the design was even finished," Shan Yi, Didi Hitch's product director, told QDaily. When users first saw the Hitch tab in the Didi app, the feature was in fact not fully developed. "Passengers were curious, so they'd tap over and take a look, and that's how they'd learn about Hitch."
+
+The team then rolled out a WeChat marketing campaign called "save the metro 'dogs' for one fen," to warm up the target audience.
+
+By the time Hitch formally launched, it had already recruited 1 million registered car owners.
+
+At that time, Shan Yi had just been poached to Didi by her old colleague Huang Jieli, right in time for the first version of Hitch to go live — and the Didi app as a whole was undergoing a transformation.
+
+![Didi Taxi on the left, the updated Didi Chuxing on the right](/uploads/image/201603/e7bcd6ce3ee7.jpg)
+
+Before that, switching between Didi's various services within the app happened at the bottom of the screen. Soon after Hitch launched, the whole page became what it looks like today, with service tabs — Premier, Express, Hitch and the rest — moved to the top of the screen. "Out of scalability considerations," Shan Yi told us.
+
+Hitch's launch also coincided with a new round of the subsidy war between Didi and [Uber](http://www.qdaily.com/articles/10625.html). Starting in May, Uber began offering high guaranteed bonuses: a driver in Beijing who completed just 70 rides in a week would receive a 7,000-yuan reward. A few weeks later, Didi announced it would spend 1 billion yuan on subsidizing its own program, through passenger discounts and driver rewards.
+
+But Hitch was, in every respect, a business rather different from the words "Didi Taxi," and rather different from the market where Uber and Didi fought for share with subsidies.
+
+Didi started with taxi-hailing, then moved to the more expensive Premier and the cheaper Express. Whether or not the car that came to pick you up had a taxi-company roof light, it was mostly a professional, full-time driver providing a dedicated service. Hitch, from the very start, was positioned to only take passengers heading the same way: car owners had to set their commute routes and then take passenger orders along the way.
+
+And that's how Hitch got started.
+
+Mr. Zhang registered as a Hitch car owner about two months after the service launched. Every day he commutes 60 kilometers round trip between Jinsong, on Beijing's East Third Ring Road, and the Shangdi tech park outside the North Fifth Ring Road. "It's just about having someone to talk to on the road and offsetting some fuel costs," he told us.
+
+Most Hitch car owners are in the same situation as Mr. Zhang.
+
+"Typically they're office workers — one order on the way to work, one on the way home. From the data we've observed, it averages two orders a day," Shan Yi told QDaily.
+
+Hitch's promotion did not rely on ground teams the way Didi's other early businesses did. Didi itself won the 2013 "taxi war" through strong offline promotion. But apart from ground promotion at launch — in subway stations, office buildings and residential compounds — the Hitch team relied almost entirely on in-app conversion afterward.
+
+"Hitch could build on the existing base of taxi and Express users. Many passengers using taxis and Premier would tap over to Hitch, and that made them Hitch users too; car-owner recruitment also had that foundation," Shan Yi said.
+
+After that, the product managers also discovered demand beyond the daily commute. Every month, some of Didi Hitch's product engineers would leave Didi's headquarters outside the North Fifth Ring Road and go to the customer-service center in another office building, spending a day personally handling customer complaints and feedback.
+
+Unlike Uber — where all car-owner incentives were tied to passenger ratings on the phone, with no customer-service hotline open — Didi's internal assessment was more extensive. Didi ran an internal competition called "Sunflower" across departments such as Express, Premier and Hitch to assess user experience, based on passengers' willingness to recommend the service and complaint rates. (There was also "Don't Waste Money," which assessed subsidy efficiency, and "Blue Lotus," which looked at marketing-communication efficiency.)
+
+In user research, the product team found more demand beyond commuting — for example, the "set a temporary route" feature, which was added quickly.
+
+Many car owners go shopping, out to dinner, or on weekend trips, and also have a need to take one passenger along the way. Shan Yi explained: "These are one-off routes. If we didn't offer temporary routes, using it would be very cumbersome."
+
+Also, because Hitch rides are usually arranged in advance, the waiting time is generally longer than for Premier or Express. To increase passengers' willingness to wait between posting a route and a car owner accepting it, the product team built a wall of car-owner avatars.
+
+"It lets the passenger know there are people to share the road with, and it adds a social feel — you can tap an avatar and see what car they drive and what industry they're from," Shan Yi explained. According to Didi's back-end data, each time they wait, passengers tap an average of three avatars.
+
+![Car-owner avatars on the avatar wall rotate and refresh](/uploads/image/201603/ad5a92d96a67.jpg)
+
+Beyond temporary routes and the avatar wall, Hitch's biggest change also came from user research. The product team found that within Beijing, many illegal cabs ran between the city and its satellite towns.
+
+Under the Guomao Bridge in the heart of Beijing's CBD, dozens of illegal cabs ply the route between Guomao and Yanjiao in Hebei every day, touting for passengers. From eight or nine in the morning until two in the morning, every passerby hears the drivers shouting: "Yanjiao, Yanjiao, ten yuan, ten yuan, one seat left!"
+
+These illegal cabs all operate as carpools, which inspired the Hitch product team. At the end of September, they launched the intercity Hitch feature.
+
+Its launch happened to coincide with the National Day Golden Week, and this still-experimental feature quickly reached an average of 10,000 orders per day.
+
+But for intercity Hitch, the biggest opportunity — and the biggest challenge — was the Spring Festival travel rush three months later.
+
+Didi Hitch version updates
+
+2015.5
+
+Hitch recruitment appeared in the Didi app, and car-owner recruitment began
+
+2015.6.1
+
+The Hitch service launched
+
+2015.9.25
+
+Intercity Hitch launched
+
+2015.11.16
+
+Didi's intercity Hitch announced its participation in the Spring Festival travel rush
+
+2016.1.11
+
+The advance-booking window for intercity Hitch was extended to 30 days
+
+2016.1.20
+
+Passengers could view intercity car-owner routes
+
+2016.2.8
+
+During the pre-holiday rush, Didi's intercity Hitch completed 810,000 rides
+
+2016.3.3
+
+The travel rush ended, with intercity Hitch having completed 1.9 million orders
+
+All of Didi began preparing for the travel rush in December, doing extensive advance coordination in late December and early January. That was also shortly after the [Ministry of Transport](http://www.qdaily.com/articles/15916.html) issued rules restricting Premier services; had those rules been strictly enforced, we might have had to say goodbye to cheap Premier rides.
+
+"Every business unit had to think about it: whatever could ease the pressure of the travel rush had to be done," Shan Yi told QDaily.
+
+For the rush, Premier offered a Spring Festival flat-fare deal of 49 yuan for airport and train-station pickups, and Express announced coverage of 400 cities. But no business fit the timing of the travel rush the way Hitch did: only Hitch had supply and demand that were in sync.
+
+The closer it got to the New Year, the harder it became to hail an Express or Premier, and prices surged — while intercity Hitch had its most drivers at exactly that time, and passengers' desire to get home was at its peak.
+
+To prepare for the rush, Hitch made further product adjustments.
+
+At the end of December, the Hitch home page was redesigned: the map that used to sit on the main page was removed and it took on its current form, with the intercity entry placed at the center of the page.
+
+![The redesigned Hitch page (left); before the redesign it opened straight to a map, like Express (right)](/uploads/image/201603/fd13732b0d61.jpg)
+
+The seat-sharing feature was also added then. If you choose to share a seat, the price of the trip drops further, with discounts going as low as 40% of the normal fare.
+
+Because of the uncertainty of intercity trips, before the rush formally began, Didi extended Hitch's advance-booking window from seven days to 30 days, keeping it consistent with the railways.
+
+A version update shortly before the New Year let passengers view intercity routes: even when the system failed to match a compatible on-the-way order, passengers could manually browse routes, communicate with car owners, and get in touch.
+
+Before the rush, to gather user feedback, Didi's product team tried intercity Hitch themselves, setting out separately from Beijing, Hangzhou and Guangzhou.
+
+"One thing that left the deepest impression was the scenarios intercity car owners care about — for instance, a passenger having oversized luggage that can't fit, or only finding out after picking someone up that they'd brought a child or a pet," Shan Yi told QDaily.
+
+For this, Hitch launched a "trip preferences" feature. When posting a route, passengers can select in advance whether they have oversized luggage, are bringing a child or a pet, or want an owner who doesn't smoke, and can also leave basic information such as industry and hometown to give the two riders more to talk about. Car owners use this information to decide whether to take a passenger along.
+
+Ms. Liang, who lives in Shenzhen and sells pet supplies, chose Didi's intercity Hitch mainly in order to bring her pet along. "I have a dog; I take her everywhere I go," Ms. Liang told us. "Maybe I've just been lucky — every owner I've met liked pets — but I also promise the owner in advance that the dog won't bark, won't make trouble, and won't smell."
+
+Passengers like Ms. Liang who take a Hitch ride in order to bring a pet are hardly rare. According to Didi's statistics, during the travel rush, the 1.9 million Hitch passengers brought 32,000 pets along on their trips.
+
+And Mr. Zheng, a car owner in Tianjin, represented another kind of demand: in an interview he told QDaily that beyond safety, punctuality and smoking, he also had to consider pets. "I don't accept passengers with pets," he said.
+
+The trip preferences added earlier were designed for exactly this kind of need. Passengers and owners can see each other's expectations before departure, and then communicate through the private-messaging system.
+
+Although the private-messaging system is a common feature across all of Didi's in-app businesses, on intercity Hitch the communication between passengers and owners is clearly more frequent and more intense.
+
+After all, the timing of an intercity trip is hard to pin down, so more advance communication is needed. Intercity passengers and owners spend longer together than those on intra-city trips — generally more than two hours — so their need for shared information is greater.
+
+Shan Yi explained: "The best ride-sharing experience is probably two people who are half-familiar. If they know each other too well there's no surprise; if they're total strangers it's just awkward." Features like private messaging (IM), trip preferences and personal profiles all exist to get two strangers about to share a ride into that "half-familiar" state quickly.
+
+In the Hitch product team's view, socializing is a natural attribute of Hitch. Shan Yi told QDaily, "Offline socializing through ride-sharing is rather ingenious — even without social skills, in a one-on-one, semi-public setting, people will relax and engage in social behavior."
+
+Huang Jieli, head of Didi's Hitch business unit, emphasized Hitch's social nature in interviews many times. It is the only C2C platform among Didi's business lines, which include Premier, Express, Hitch, Bus and designated driving. Although the vaguely defined word "social" is rarely used inside Didi, everything from private messaging and trip preferences to the free-ride and tip settings nudges the user experience in a social direction.
+
+Whether using Hitch for socializing makes any sense or not, one thing is certain: Didi is definitely fast enough.
+
+When Didi and Kuaidi merged on February 14, 2015, there were only taxis and the expensive Premier service; at the time, Uber, with its ultra-cheap People's Uber, had already captured market share in first- and second-tier cities.
+
+But within a year, Didi was turning from a taxi-hailing tool into a genuine mobility platform.
+
+Didi's business expansion in 2015
+
+2015.2
+
+Didi Dache and Kuaidi Dache merged
+
+2015.4
+
+Didi's low-cost Premier service, Express, launched
+
+2015.6
+
+Didi Hitch launched
+
+2015.7
+
+Didi's designated-driving service launched
+
+2015.8
+
+Didi Bus launched
+
+2015.9
+
+The Didi Taxi app was officially renamed "Didi Chuxing"
+
+2015.9
+
+Intercity Hitch launched
+
+2015.10
+
+Didi launched its test-drive business

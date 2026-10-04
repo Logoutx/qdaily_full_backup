@@ -1,0 +1,118 @@
+@@QD_TITLE@@
+Miaopai founder Han Kun: “User-generated content has no value? How ridiculous”
+@@QD_EXCERPT@@
+“We want the people who produce great content to produce more of it — the 1% who create content serving the 99% who watch it.”
+@@QD_BODY@@
+“We want the people who produce great content to produce more of it — the 1% who create content serving the 99% who watch it.”
+
+Han Kun founded a company called Yixia Technology in 2011, and in 2015 it raised 200 million yuan in a Series D round. Han Kun announced the figure at the funding ceremony, adding that the company’s valuation had already surpassed US$1 billion.
+
+The company has two main products: Miaopai and Xiaokaxiu. According to the company’s official website, Miaopai has been installed on more than 50 million devices, with over 1 million videos uploaded daily and 510 million daily plays. Xiaokaxiu has more than 5 million daily active users and over 15 million registered users, and on one day last July it topped the App Store’s free-apps chart.
+
+![](http://img.qdaily.com/uploads/201607021353305rZJgDUaL2kdVRoQ.jpg-w600)
+
+In the short-video field, that’s a decent record. The social short-video products that grew up alongside Miaopai — Blink, Miaoshi, Biu, Youyue and the like — have long since fallen past 500th place in the social-apps category and vanished from public view. Weishi, created by internet giant Tencent, has also announced it is disbanding.
+
+Miaopai survived, and judging by the latest funding round and valuation, it’s surviving quite well. Chen Taifeng, the company’s vice president, believes one important reason is that “Han Kun makes things that feel grounded. He reminds the team that when designing a product, they need to take into account users’ taste for celebrity and comedy content.”
+
+Han Kun has recently become a bit obsessed with a livestreaming app called Periscope (the company was acquired by Twitter in March 2015 for nearly US$100 million). On Periscope, he found an American working as a teacher in China who films his life in China every day and shares it with others. “That’s more interesting than just telling stories with your voice. Besides learning, people have another need: fun,” Han Kun said.
+
+You’ll likely find a similar idea on Miaopai before long. Han Kun’s talent lies in spotting whatever is hottest abroad, tweaking it slightly, and bringing it to China, where it instantly becomes more approachable. In his office sit a one-wheeled hand-held bicycle, an automatic surveillance camera, and a mini speaker. A colleague said: “Every time Apple releases a new MacBook, he buys one the moment it comes out. He loves fiddling with new gadgets like that.”
+
+The birth of Miaopai is connected to this too. In the earliest days, the company’s product was a video player called Yixia Video, but it failed to attract enough users. At the time Han Kun was also troubled by the licensing fees and bandwidth costs of long-form video, and the straitened circumstances made him deeply uncomfortable.
+
+Liu Xinzheng, Han Kun’s partner and now a senior executive on the team, says Han Kun is a distinctly grassroots entrepreneur. He doesn’t sign off on things with a grand sweep of the pen. He takes the budget sheet and checks the price of every item, one by one, on Taobao. For Han Kun, things that have already been proven to work are probably the safer bet.
+
+In 2013, short-video apps took off abroad. Vine, the short-video app under Twitter, had just passed its six-month mark when its registered users broke 40 million, and Vine videos were shared more than 2.5 million times on the Twitter platform.
+
+That year, the company called Yixia Technology shifted its focus to Miaopai. It looked like a good business, but ahead of the Series B round scheduled for that September, a major investment institution pulled out at the last moment, triggering a cash-flow crisis. In an interview with QDaily, Han Kun explained: “Their misperception was that UGC — user-generated content — has no value. How ridiculous!”
+
+Fortunately, that wasn’t the only voice in the investment world at the time. The size of Blink’s funding round at the time, and the fanfare around it, refuted that claim.
+
+Han Kun accepted an investment from Sina, which became an episode he would bring up often in later years. In an interview with Caijing magazine, Han Kun said: “We got initial users and promotional resources from Sina, and we helped Sina keep those users engaged. It was a win-win.”
+
+The partnership with Sina Weibo really did matter a great deal to Miaopai. In August 2013, Miaopai was built into the Sina Weibo client. This happened just six months after Twitter launched Vine, and from then on the value of social platforms to short-video apps was proven beyond doubt — there is almost no example of a short-video app surviving and thriving independently.
+
+Even Miaopai’s decision to set its video length at 10 seconds, Han Kun credits to the partnership with Sina Weibo: “When people post photos on Weibo, they usually post four; if they post five, it’s one too many. So we compared them using compression technology — roughly speaking, 10 seconds of video is about the size of 10 photos. That way users don’t have to worry too much about data usage, and uploads are very fast.”
+
+With Sina’s traffic support, Han Kun’s team’s Miaopai, Tencent’s Weishi, and Meipai, owned by Meitu, became the leaders in short video. According to the app-analytics platform AppAnnie, Miaopai’s download ranking in the App Store’s “Photo & Video” category climbed from around 1,000th place to the top five after August.
+
+![](http://img.qdaily.com/uploads/20160702135331jTB2qnxukHKr7sdp.jpg-w600)
+
+Much of that is owed to the celebrities Weibo brought in. Walk into Han Kun’s team’s office and the first thing you see is a wall covered with photos of stars. Prominently placed in the middle are Ren Quan, Li Bingbing, Huang Xiaoming, and Huang Bo — all members of the investment firm StarVC, which has invested in the company. And in the Series D round just completed, YG, one of South Korea’s three largest entertainment companies, also participated.
+
+The celebrities brought users and traffic, and Weibo offered splash ads and Weibo top posts in exchange. The partnership therefore didn’t cost a single yuan, something Han Kun is quite proud of. But that money was implicit in the mutual commitments between Miaopai and Sina Weibo: a top post for a major influencer with 20 to 30 million followers costs at least 200,000 to 300,000 yuan per placement, and a Weibo splash ad runs 900,000 yuan a day.
+
+Now Han Kun seems to have reached an understanding with the entertainment industry: promotion for film and TV productions in general finds its way to Miaopai and Xiaokaxiu. Last year, Da Peng, director of the hit film *Jian Bing Man*; Xu Zheng, director of *Lost in Hong Kong*; and actress Yuan Shanshan all made videos with Miaopai and Xiaokaxiu. Han Kun said that this year, Xiaokaxiu and Miaopai will begin charging for film and TV promotional partnerships.
+
+The stars also took part in an important marketing event in Miaopai’s history: the “Ice Bucket Challenge.” In August 2014, Miaopai’s team came across videos of the “Ice Bucket Challenge” popular abroad — participants posted videos of themselves being doused in ice water and called on friends to take up the challenge; invitees either accepted within 24 hours or donated US$100 to fight amyotrophic lateral sclerosis (ALS).
+
+Inspired once again, the team recruited a number of major influencers on Weibo to take part and invited them to record and post their videos with Miaopai. Miaopai even tweaked the rules to make it look more like a charity cause celebrities would happily join: for every person who took the Ice Bucket Challenge and posted the video with Miaopai, Miaopai would donate 300 yuan.
+
+![](http://img.qdaily.com/uploads/20160702135331KISOs3H7gCwF91VR.jpg-w600)
+
+In the end, this celebrity-driven campaign racked up 20 million users and 5.1 billion video plays. Miaopai’s download ranking in the App Store’s “Photo & Video” category shot to number one. Before that, its rival Meipai had enjoyed greater popularity. With top-tier filters, special effects, and music, Meipai made users more willing to share. At the same time, Meipai had the highest video quality of any short-video app and was optimized for different network conditions.
+
+Han Kun believes another lesson of the Ice Bucket Challenge was that domestic users don’t like things that are too complicated to operate — “watching” is the primary need. “If something has enough distinctive appeal, users will use it. But once they’re bored of using it, they stop,” Han Kun said. They began launching themed campaigns on Miaopai — for example, “shoot on the go,” “red envelopes flying,” and “take Weibo traveling with you.”
+
+These themed campaigns worked well, but probably none as well as a product that became a viral hit when it launched in May 2015: Xiaokaxiu. Xiaokaxiu’s model was the German app Dubsmash. Users simply pick an audio clip from a sound library and, following the subtitles on screen, record a fun video by lip-syncing in an exaggerated performance.
+
+On July 27, 2015, Han Kun celebrated on Weibo: “Today is a historic day — Xiaokaxiu has topped the Apple App Store!” He also revealed on Weibo that in two months Xiaokaxiu had reached 8 million downloads. App Store data showed that in the roughly 70 days since launch, Xiaokaxiu had accumulated over 12,000 reviews and more than 1 million daily active users.
+
+![](http://img.qdaily.com/uploads/20160702135332cAz84hdrEeTx9RNG.jpg-w600)
+
+Although Xiaokaxiu is still quite popular, AppAnnie data shows that after last September, the app’s download ranking went into a volatile decline. The problem Han Kun used to worry about had surfaced once again: if something has enough distinctive appeal, users will use it — but once they’re bored of using it, they stop.
+
+“Innovation is a huge piece for us,” Han Kun said. Solving these problems may rest on hope placed in a new product: livestreaming. Han Kun plans to spend the money from the Series D round on developing this new product. After all, real-time interaction is the way young people are keen on; besides Twitter, even Google is quietly building an app called YouTube Connect, preparing to combine it with a video service and add livestreaming features.
+
+Han Kun could hardly be unaware that Meerkat, the pioneer of mobile livestreaming, has already declared failure. This is not a market with a proven success story — likely because livestreaming demands more of content producers, while what most readily comes to mind when people open these apps is “showroom-style livestreaming: many people open them just to look at pretty girls.”
+
+He felt that fell far short. “I need livestreaming of life. I want everyone to be able to find things that interest them on it, and form a kind of interaction and exchange.” Like Periscope, which Han Kun has been enamored with lately. But regrettably, Periscope’s performance has been lukewarm too.
+
+Investors’ recent advice to Han Kun was to incentivize users. “If a lot of people become famous through the Xiaokaxiu platform and get signed by talent agencies, they’ll work hard at making videos,” Han Kun relayed. For that reason, he would also put this money into managing and marketing “influencers.”
+
+![](http://img.qdaily.com/uploads/20160702135332SEcW2KHmkwqN3iCD.jpg-w600)
+
+Sina remains one of the investors in Yixia Technology’s new round. The big company has also provided Han Kun’s team with backup server bandwidth; when the team can’t handle the big data, Weibo’s engineers come over overnight to help.
+
+For now, Han Kun still spends most of his energy on the product. Inside Yixia Technology there is an internal ranking of employees’ product usage. “I often see it near the top,” Liu Xinzheng said. But in Liu Xinzheng’s view, at this stage Han Kun should be paying more attention to external partnerships.
+
+**Below, Q = QDaily, H = Han Kun**
+
+**Q: Now that the company has moved to its new office in Wangjing, what changes will there be?**
+
+H: Two aspects. On one hand, we’re now at roughly 200-plus people and we’re going to add staff — headcount will grow by 30 percent, mainly in technology and marketing. We want to make innovative products. Right now we have Miaopai and Xiaokaxiu, and going forward we want to invest more heavily in livestreaming. Our past revenue has been no problem for covering the company’s own expenses. But now we want the people inside Miaopai and Xiaokaxiu to grow faster, one by one, and to develop the whole influencer economy.
+
+**Q: Why do livestreaming?**
+
+H: When we were doing short video, everyone was saying it didn’t mean much. Then in 2014–15 the short-video industry had a huge explosion. That was a judgment we made about the industry trend. As for livestreaming, we feel it’s also a form of content presentation.
+
+**Q: What do you think of the livestreaming products on the market right now?**
+
+H: Right now there are some showroom-style livestreams — a lot of people open them just to see whether the pretty girls are good-looking. That’s not what we want. What we want to do is: say there’s a bicycle, other people can’t ride it, so I film a video teaching everyone how to ride. How can I show the fun things I come across to others, and tell them about it.
+
+**Q: How do you view the profit model for video companies?**
+
+H: In our long-video days we could never turn a profit. That’s because half the cost was licensing, 30 percent was servers and bandwidth, and technology investment was also substantial. But we’ve also seen the very high revenue of Youku and iQiyi — over US$1 billion a year. With short video, our licensing costs dropped to zero. We don’t really need to say much more to investors about this. When meeting investors, what we need to tell them is how big this market is; as long as there are good prospects and a future market, everything is negotiable. Video, especially short video, has a natural advertising advantage, but it will also be different from traditional video sites. Overall, the business model for video, especially short video, is exceptionally diverse.
+
+**Q: What stages has Miaopai’s user growth gone through?**
+
+H: At the end of 2012, media outlets were using Miaopai. Media people have opinions and influence; they can attract others’ attention. Media people were willing to use it because of a functional need — whatever they shot went straight to Sina’s homepage. In 2012, major media outlets started building their new-media sites, and we helped them publish and review content. Lots of media outlets still use Miaopai today.
+
+In December 2013 came the explosion among ordinary users. Before that, there was no time limit. At that point we set the length at 10 seconds. In May 2014, the Ice Bucket Challenge event marketing locked in a base of users.
+
+**Q: In that process, how did you cultivate user habits?**
+
+H: We emphasized that users could shoot things that look great. Lots of people really did use it, but we found the frequency of use wasn’t high. To raise usage frequency, you first need demand. After studying it, we found users’ needs generally boil down to shooting and watching — and watching is the primary need. So we found lots of power users to shoot beautiful content, so users could see something different every day. Our transition from making a tool at the start to making media later was exactly that process. If we had insisted on staying a tool, I might not even exist anymore — we’d have died long ago.
+
+**Q: How do you view the fact that short-video apps never really took off in China?**
+
+H: Our platform is China’s largest short-video platform. Saying short video never took off in China — does that mean saying we never took off?
+
+We’re still in the phase of growing users, and as a platform we’ll uncover more people. Take, for example, people who became famous through the Xiaokaxiu platform and got signed by talent agencies. Everyone will work hard in that direction and feel more motivated to create. Beyond product operations, we also have power-user operations. We want to cultivate a roster of influencer power users. We want the people who produce great content to produce more of it — the 1% who create content serving the 99% who watch it.
+
+**Q: You got into the internet very early. How did your experiences at Sohu and Ku6 influence your founding of this company?**
+
+H: The early internet was very different from today. Back then everyone wanted to build a portal — it was addition. Now, with mobile internet, most users are post-90s, and everyone is trying to do subtraction. That’s something you need to adapt to.
+
+Cover image and in-article image sources: Papi Jiang’s Weibo, [Fast Company](http://www.fastcompany.com/3044990/fast-feed/report-twitter-is-pressuring-celebs-to-use-periscope-over-meerkat), [Yixia](http://www.yixia.com/), [Miaopai’s Weibo](http://photo.weibo.com/3044746573/wbphotos/large/mid/3956518136909167/pid/b57b254djw1f27sxeuycpj20ku112wi0)

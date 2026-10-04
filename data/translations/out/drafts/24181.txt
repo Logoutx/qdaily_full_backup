@@ -1,0 +1,230 @@
+@@QD_TITLE@@
+It's Twitter's Tenth Anniversary Today: What Has It Changed, and What Hasn't?
+@@QD_EXCERPT@@
+Its impact goes far beyond news
+@@QD_BODY@@
+Its impact goes far beyond news
+
+March 21, 2006:
+
+11:50 @jack: just setting up my twttr
+
+11:51 @biz: just setting up my twttr
+
+……five identical messages……
+
+12:01 @ev: just setting up my twttr
+
+12:01 @jack: inviting coworkers
+
+Ten years ago today, several employees of a company called Odeo wrote these lines on a new website called twttr. The Twitter story set out from amid this mundane, trivial chatter.
+
+Over the next 10 years, the Twitter story would rise and fall like a roller coaster.
+
+It was dismissed as a meaningless tool for wasting time, and also hailed as an information-distribution tool that captured the pulse of the planet; for at least two years, whether it was "media" or "medium" was a hot research topic; at the height of its hype Twitter was once seen as a rival on par with Facebook, and today it is struggling for survival.
+
+What is Twitter now? Under Jack Dorsey's leadership, the company has just purged its management team and is rethinking what this product really is.
+
+Looking back at Twitter is not just a matter of Sina Weibo, its domestic imitator. The Moments timeline we use today, the information overload and fragmentation we navigate with ease every day, even the influencer economy... all of these owe something, more or less, to that trivial conversation of ten years ago today.
+
+In the tenth year since that first Twitter message, let's look back at what Twitter changed — and what it didn't.
+
+## Twitter created the original template for mobile apps
+
+The internet of today in 2006 was a completely different world.
+
+MySpace — the homepage-blog site you may never have used — was still alive, Apple's first iPhone had yet to appear, and the few smartphone apps of that era, such as Palm and BlackBerry BBM, were scattered across individual handset makers the way PC software was.
+
+At the time, Odeo's planned podcasting business had fallen through, because Apple got there first and turned their startup direction into iTunes. So founder Ev Williams had no choice but to stage a hackathon inside the company: employees paired up to build a new product in two weeks.
+
+Engineer Jack Dorsey and brand marketer Biz Stone teamed up, wanting to build a little something for socializing with friends on a phone.
+
+Jack Dorsey went further and worked out the product form: a service for updating your "status" — not only could you update your own, you could also see status updates from friends. This was their first product design sketch:
+
+![Twitter's original 2006 design sketch](http://img.qdaily.com/uploads/201607021253261gx2pyi9nX0khtAS.jpg-w600)
+
+Now look at the homepage when their website first launched in 2006: "Use Twttr to always stay connected with friends. If you have a mobile phone and can send text messages, you'll never be bored again!"
+
+Back then, as long as you linked your Twitter account to your phone number, you could update Twitter by sending short messages of no more than 140 characters each.
+
+Twitter looked very different then, but some fundamentals never changed: the "timeline," and updating information from a phone.
+
+![](http://img.qdaily.com/uploads/20160702125326j0ylvRL4tbePoqJH.jpg-w600)
+
+This was Twitter's timeline in 2006, arranged in reverse chronological order of friends' messages. It looked a bit like an RSS reader subscribed to updates from many friends — except that because every text message was limited to 140 characters, the full text could be displayed.
+
+And this was the foundation of Twitter's success.
+
+Because there was no need to scroll a mouse up, down, left, and right to browse information — you just kept going down — it was especially well suited to arranging information on small screens.
+
+This way of presenting information was also unusually simple for its time; just look at what websites looked like back then:
+
+![Tencent's QQ mobile web page in 2006](http://img.qdaily.com/uploads/20160702125326qbwZhurBvgEnyxai.jpg-w600)
+
+Before Twitter, mobile sites still used the big color blocks of the PC version, or listed piles of hyperlinked news — that was the approach news websites used.
+
+Now, almost everyone has uniformly switched to the clean, clear timeline design that Twitter pioneered — including Facebook's own timeline, News Feed.
+
+![Today, both Sina's news site (right) and Ele.me, which sells food delivery (left), use this kind of simple, vertically scrolling information layout.](http://img.qdaily.com/uploads/20160702125327nT5CNHfyzFsrhIjD.jpg-w600)
+
+## It was also Twitter that gave people a reason to sleep clutching their phones
+
+Although the Twitter team found the site addictive after launch, they were never sure whether this boredom-killing little tool could really become a new business direction — until the 2007 South by Southwest festival.
+
+That conference was already a crowded, chaotic gathering with several hundred talks and concerts, so quite a few people used Twitter to discuss which sessions were better. At one point, Biz Stone was listening to a talk when he suddenly realized the room had emptied by more than half. It turned out someone was live-tweeting and recommending another session; the same thing happened at a bar — someone posted a message recommending a quiet bar, and ten minutes later the place was packed to the rafters.
+
+Before Twitter, the most popular information tools on phones went no further than Palm and BlackBerry — and none of them were things you'd become addicted to in daily life; mostly they were company-issued devices for handling email on the go.
+
+But now? On the bus you can watch a friend head into the delivery room, learn that an earthquake struck the other side of the planet a minute ago, see your favorite team's score falling behind...
+
+> "Whatever you're doing, whatever you're about to do, whatever you've just finished doing, whatever your cat is doing — Twitter spreads these 'atoms' equally across the Internet. It has created a class of content that is smaller, more trivial, and has a lower barrier to entry than personal blogs. So expect this kind of interaction to explode."
+
+This is from a 2010 article Lev Grossman wrote for [*Time*](http://content.time.com/time/magazine/article/0,9171,1607260,00.html), reflecting on people's addiction to data.
+
+And it also illustrates, from another angle, just how popular Twitter was at the time: beyond gaming, it became the first service to which the general public grew addicted — a habit.
+
+What Twitter told the world was that text messages could also be a valid form of content consumed on phones, helping you fill every idle three-minute gap.
+
+Today, that role is filled by different services in different regions: Facebook in the US, and WeChat Moments, Weibo, and Toutiao in China.
+
+## Twitter is no startup model, but openness saved it
+
+In its early growth, Twitter also happened to ride the explosion of the smartphone industry and the demand for content beyond games. So its user base grew very quickly:
+
+![Twitter's official chart of tweet growth, published in early 2010](http://img.qdaily.com/uploads/20160702125327lJ29D4Fgja3wfxtc.jpg-w600)
+
+But by any measure, early Twitter was nothing like an era-defining tech giant such as Facebook or Microsoft.
+
+Gates [was among the first to realize](http://www.qdaily.com/articles/23804.html) and say that the arrival of the PC would turn software into an industry. Microsoft later rode the Windows system from being an IBM supplier to becoming the giant that unified the PC industry. After Windows spread, Microsoft pushed Office into every office, where it stayed for twenty years. That is what Gates did in his more than 20 years running Microsoft. Twitter never had that kind of foresight and execution.
+
+One of Twitter's main tasks in its early years was replacing management. Until 2011, Twitter hadn't even made an official mobile app, yet it had already cycled through three CEOs.
+
+A history of Twitter CEO changes
+
+2007
+
+Jack Dorsey becomes Twitter's first CEO
+
+2008
+
+Founder Ev Williams pushes out Jack Dorsey and becomes Twitter's second CEO
+
+2010
+
+The board, unhappy with how slowly Williams was making money and pursuing commercialization, makes Dick Costolo Twitter's third CEO
+
+2015
+
+With the stock price in continued decline, Dick Costolo resigns
+
+2015
+
+Jack Dorsey returns as Twitter CEO
+
+But Twitter never lacked mobile apps, because it chose openness.
+
+As early as 2006 it opened Twitter's API: developers only had to embed Twitter's code in their own apps to build services that could update Twitter directly.
+
+And it wasn't just apps. Nearly every functional innovation on Twitter that social media everywhere now imitates was completed by users, not led by the Twitter team — whether it was the "@" reply symbol, the "RT" retweet, or the "#" hashtag that marks a topic.
+
+The Twitter team simply watched quietly how people used the service, then folded the symbols more people were using into its basic features.
+
+In 2011, a Wall Street Journal reporter asked Jack Dorsey a question: what exactly is Twitter?
+
+> "It's a different thing to different people at different times. We don't have an answer, and that's OK."
+
+He said this in a positive tone. Meaning: Twitter is whatever you want to use it as.
+
+This open, inclusive product form made Twitter an oddball, and one has to admit it was remarkably forward-looking.
+
+Today, every American tech company of any size offers at least some degree of openness. Even Facebook, long criticized for being closed, has partially opened its social graph.
+
+## Because of Twitter, celebrity or ordinary person, it became much easier to go around the media and become an influencer
+
+Another interesting Twitter innovation was the "Follow" mechanism. Following someone doesn't mean you have a two-way communication relationship with them. But it means you have subscribed to what that person says — and you can even converse with them.
+
+This one-way following greatly lowered the cost of assembling a crowd. And it led many people to try building popularity on Twitter through the content and tone of what they said; whatever they originally did, they could easily bypass traditional media and speak independently.
+
+Tesla CEO Elon Musk is undoubtedly one of the people who understands this rule best.
+
+In February 2013, New York Times reporter John Broder wrote about his disappointing experience driving a Tesla electric car from Washington to New York. The article, *Stalled Out on Tesla's Electric Highway*, made Elon Musk furious.
+
+But he didn't go to other media to ask for a corrective story; instead he made Twitter the battleground for a public spat, posting large amounts of electronic trip-meter data from test drives to prove Broder wrong.
+
+Musk wasn't alone — when US President Obama ran in the 2008 election, he too used Twitter to appeal to the public for votes.
+
+And you don't necessarily have to be a CEO or a political figure to do this.
+
+Columnist Ben Thompson is one example. He was originally just someone who had worked at several tech companies and liked writing business commentary on Twitter and his blog.
+
+Today Thompson has a blog updated once a week and a paid website (US$100 per person per year) that publishes one article a day. His subscribers number in the thousands and are spread around the world. His communication with readers [happens mainly on Twitter](https://twitter.com/benthompson).
+
+Before Twitter, only individuals famous enough to attract at least a few hundred thousand people could turn themselves into a business. Thompson has fewer than 40,000 Twitter followers.
+
+Ever since Twitter simplified following, the concept of assembling a crowd has changed forever.
+
+## Twitter became a news channel, but in the end it did not change news
+
+From 2010 to 2011, while Facebook was still struggling to funnel its PC users onto mobile apps, Twitter was already being talked about as "the pulse of the planet."
+
+The hottest debate about Twitter back then was whether it would replace traditional news organizations.
+
+It began with the 2009 "Miracle on the Hudson" plane landing. When the flight went down, Twitter user @manolantern took a photo on a phone, uploaded it to Twitter, and wrote just two sentences: "A plane just went down in the Hudson River. I'm on a ferry heading to rescue people."
+
+![](http://img.qdaily.com/uploads/20160702125328VIUSkPpmB6nCwTXo.jpg-w600)
+
+Fifteen minutes later, The New York Times updated its brief news item — but within minutes of the crash, Twitter had already spread the news around the world.
+
+News release, dissemination, and discussion all happened in an instant. Unprecedented speed and a huge population of discussants became Twitter's advantage, and the popular movements of Iran's Green Revolution and the 2011 "Arab Spring" also made the news textbooks.
+
+But Twitter did not replace news organizations as hoped.
+
+According to a 2010 [study](http://www.eecs.wsu.edu/~assefaw/CptS580-06/papers/2010-www-twitter.pdf) that examined 40 million Twitter messages, the content that spread the most on the social platform mostly came from big accounts with huge followings — which is not much different from traditional media's one-to-many model of distribution.
+
+And the most retweeted content on Twitter was nothing more than news reports and hyperlinks to articles from news organizations — in the end, Twitter became a distribution channel for news content.
+
+## Twitter also briefly changed how brands advertise, but it didn't last
+
+On Twitter, "time" is the only dimension along which information is arranged, so cleverly timed content can go viral. Take this Oreo ad:
+
+![](http://img.qdaily.com/uploads/20160702125328wnJXZ2L0gAP4Qobx.jpg-w600)
+
+It was during the 2011 US Super Bowl, when the stadium suddenly lost power and went pitch dark. While everyone was complaining on Twitter, Oreo posted this ad: "You can still dunk in the dark" (dunk is a pun — it can mean a slam dunk and dipping in milk).
+
+The ad was cheap to make — a simple photo of an Oreo and a single line of copy — but because people happened to be gathered on Twitter at that moment, the ad came off as wonderfully clever and spread virally in no time.
+
+It became the best-case example of brand marketing on Twitter, and viral marketing became the advertising style brands pursued.
+
+On Sina Weibo, the agency behind the [@Durex](http://weibo.com/durexinchina) account — Huanshi Interactive — is where Mitian works hard doing exactly this kind of thing. Every time there's a news event or a holiday, @Durex's Weibo posts a few clever lines of copy and images to attract attention.
+
+![A recent Weibo post from Durex's official account](http://img.qdaily.com/uploads/201607021253293PY0nVLKmO9u5lTU.jpg-w600)
+
+Unfortunately, the good times didn't last. Companies like Facebook no longer use "time" as the sole dimension for displaying information, which has made the business of timing clever marketing moments harder; and WeChat, a more closed social product, strictly filters advertising content in order to push its own ad platform.
+
+To go viral these days, brands still have to spend big money placing ads on platforms like Sina Weibo and WeChat.
+
+## Twitter once made us believe the internet could be a completely open place
+
+Perhaps more importantly, Twitter once gave us this hope: that the internet is a completely open world.
+
+Beyond live-tweeting breakfast, job hunting, showing off cats, and even organizing offline events, some people wanted to use Twitter's data on a larger scale.
+
+Starting in 2009, institutions tried aggregating discussion data about brands and companies on Twitter into [analysis predicting those companies' stock movements](http://www.sciencedirect.com/science/article/pii/S187775031100007X).
+
+Dell, meanwhile, had been on Twitter since 2007; besides doing customer service, it served to monitor brand sentiment and gauge feedback on its recent marketing efforts.
+
+Even in China, it became routine for headhunters to look for suitable candidates on Weibo, or for HR staff to size up applicants via Weibo while screening résumés.
+
+Remember Maimai, the app accused in the past couple of years of scraping Weibo information? They wanted to scrape users' following relationships at scale and identify which [workplace gossip](http://open.weibo.com/blog/shengming1) was relevant to you.
+
+For a while, analyzing content on social networks was itself a startup direction.
+
+But today, the most successful companies no longer publish their data fully. Facebook's feed is algorithmically adjusted, and its relationship graph isn't open to companies that could threaten it. WeChat doesn't open any data at all.
+
+And in China, Twitter's imitator Sina Weibo hasn't come up with a better solution either. Timely news has been taken over by news-aggregation services like Toutiao, while the everyday trivia about your friends and family has all been captured by WeChat Moments.
+
+![](http://img.qdaily.com/uploads/20160702125329mpTuIVi6KdQo82D5.jpg-w600)
+
+The services that later left Twitter behind in business terms each had a clearer goal than it, more execution, and sold more ads.
+
+But you'll never find another company as open as Twitter — one that truly encourages hundreds of millions of users to generate their own ideas and gives them room to experiment freely.

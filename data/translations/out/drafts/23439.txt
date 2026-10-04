@@ -1,0 +1,180 @@
+@@QD_TITLE@@
+He's the Father of Android, But Robots Are What He's Loved All His Life | A Curious Person
+@@QD_EXCERPT@@
+Without him, there would be no Android today.
+@@QD_BODY@@
+Without him, there would be no Android today.
+
+## Who is this: Andy Rubin (1963–), creator of the Android operating system and of the early smartphone Sidekick.
+
+## The curiosity: Whenever Andy Rubin has an intuition about the future, he starts wondering why nobody is acting on it yet. After turning Android into the world's largest operating system, he now wants to connect every electronic device.
+
+Last month, Andy Rubin's mysterious company PlayGround revealed its new plans in a company [blog post](http://www.wired.com/2016/02/android-inventor-andy-rubin-playground-artificial-intelligence/): it would help startups build hardware devices, and also build the infrastructure to connect all electronic devices together.
+
+This was the first time, three years after the Father of Android left Google to found PlayGround, that he laid out his plans in detail.
+
+Those who know him weren't the least bit surprised where the idea came from — Andy Rubin has loved robots and automation ever since he was a kid.
+
+At fifteen, the Star Wars–obsessed Rubin built an R2D2 robot with his own hands, and even programmed it to roll into his younger brother's room.
+
+"Kids who love computer programming live inside their own world," Andy Rubin said. "But if you build an R2D2 robot, it pulls you out of your own world and into real life."
+
+Later, this boy who was both a recluse and a man of the world went on to found two companies named after robots: one called Danger, after the alarm robot in the sci-fi TV series *Lost in Space*; the other simply called "Robot" — Android.
+
+The first company made a smartphone four years before Steve Jobs did, but failed because it was too far ahead of its time. The second was acquired by Google and became the world's largest smartphone operating system.
+
+After the smartphone, Andy Rubin — 53 this year — went back to doing what he loves most. Three years ago he left Google and set up a new company called "[Playground](http://www.theverge.com/2016/2/9/10948920/andy-rubin-playground)" (literally "playground"), hired a big team of experts in chips, supply chains, and industrial design, and invested in numerous startups in data, healthcare, and drones, helping them build products — hardware products in particular.
+
+He wants to build a framework, just as he once built Android for the phone makers. Except this time it's not phones, but all kinds of gadgets: smart ovens, refrigerators, even your electric toothbrush... Simply put, smart robots everywhere.
+
+If you ask Andy Rubin why he's doing this, the answer is most likely just that he thinks it's cool.
+
+"He does things because they're cool, with a childlike purity," Zarko Draganic, a colleague from his long years at Apple, once said of him.
+
+Long before the iPhone, Rubin brought the internet and the app store into phones
+
+Andy Rubin's best-known achievement is developing the Android operating system.
+
+But that didn't happen overnight. Long before Android, Rubin had already worked in the tech industry for many years. In 1989 he was a software engineer at Apple, and later moved to General Magic — a company spun out of Apple that developed handheld personal computers. In 1998 he went to WebTV, a company making interactive internet television, which was soon acquired by Microsoft; Rubin left Microsoft a year later.
+
+That was 1999. Freshly resigned, Andy Rubin rented a storefront in Palo Alto, California, named it "the Lab," and sold robots he had brought back from Japan. The shop never amounted to much as a business, but it became a hangout for Andy Rubin and his engineer friends, who would often stay up all night brainstorming what new and interesting products they could make.
+
+What they finally landed on was this idea: an electronic device that cost under $10, was no bigger than an individually wrapped candy, yet could let people browse the internet.
+
+But nobody wanted to invest in such a device.
+
+So Andy Rubin and his friends revised the idea. The new device was the size of a bar of soap, fitted with a radio receiver and converter, with a screen that could swivel upright, a keyboard, and the ability to make calls, install apps, and go online. They named this device SideKick.
+
+![](http://img.qdaily.com/uploads/20160607192433Ija63ATS2JCYbVsR.jpg-w600)
+
+To run this venture properly, Andy Rubin even set up a company called Danger. Although the American internet bubble had just burst and the investment climate was terrible, Danger still secured funding from Greg Galanos, an investor who loved frontier technology, and partnered with carrier T-Mobile to bring Sidekick to market.
+
+Danger's technology was so far ahead — it could download games, browse the web, and even pair with a headset... — yet at the time it could never realize its commercial value. Because phone sales never picked up, it became a niche product beloved by geeks and teenagers, and a year later Rubin was ultimately pushed out by his investors.
+
+> "Probably only one in ten engineers has heard of Danger today, yet so much of what modern smartphones are about was first implemented on the Sidekick. Clearly we were five years early — and we knew that if we had launched this product in 2005, we would have owned the world."
+
+So said Chris Desalvo, an engineer who worked at Danger at the time and later followed Rubin to Google.
+
+The Sidekick didn't own the world, but it did catch the attention of Google founder Larry Page.
+
+## From a team nobody at Google cared for to the world's largest mobile operating system: Android took six years
+
+Kicked out of Danger, Andy Rubin founded a new company in 2002, Android, planning to keep making phones. But the company didn't run smoothly. By 2005, Android was on its last legs — even the $100,000 emergency loan Andy Rubin had begged from his old friend Steve Perlman was about to run out.
+
+So he laid out the entire company plan to Samsung, hoping for an acquisition or an injection of capital — and instead hit rock bottom.
+
+"Which army are you going to build this future with? You've got six people. Are you drunk or something?"
+
+That's what Samsung's CEO said to them after Andy Rubin presented his vision for Android at Samsung headquarters in Korea. Andy Rubin [recalled](http://www.amazon.com/Dogfight-Apple-Google-Started-Revolution-ebook/dp/B00BIV1R98) that they walked out of the meeting room practically to the sound of laughter.
+
+The plot turned quickly. Just two weeks after being rejected by Samsung, Andy Rubin had a meeting with Larry Page.
+
+"How about Google buys Android?" Before the meeting even started, Larry Page had already made up his mind: $50 million plus equity incentives to buy Android — or rather, to buy Andy Rubin.
+
+![The Sidekick on the left; the first Android phone, the G1, on the right](http://img.qdaily.com/uploads/20160726151129yNEq4xhUZGs3rSc6.jpg-w600)
+
+Even inside Google, Android wasn't exactly welcomed at first. At the time, Android was a secret project of Larry Page's — despite huge investment, it had to be kept hidden away. This ran counter to the openness and sharing Google had always championed. At Google, to avoid operating behind closed doors, any engineer could look at the code of any product — but Android was the exception.
+
+That alone stirred considerable controversy inside Google. On top of that, the Android team's first smartphone, the Sooner, was declared dead before it was ever formally launched.
+
+The reason: in June 2007, Steve Jobs unveiled the first iPhone — an all-touchscreen phone with a virtual keyboard and a strikingly innovative way of interacting.
+
+When Apple announced the phone, Andy Rubin was on his way to a meeting. After seeing the iPhone, he was so stunned he had the driver pull over to the side of the road so he could watch the entire livestream online.
+
+![This was the Sooner, in 2007](http://img.qdaily.com/uploads/20160607192433oZr6TP9zAdcxJHvN.jpg-w600)
+
+The Sooner did have things the iPhone couldn't do yet — running multiple apps at once, an app store, no need to sync with iTunes regularly like the iPhone. But by comparison the Sooner was simply too ugly: a small screen, a full keyboard, looking downright primitive, with nothing to make anyone want to buy it.
+
+Andy Rubin said to a colleague right there in the car, "Man, maybe we shouldn't release that phone."
+
+At that point, only four months remained until Android's first launch event in November 2007.
+
+More frightening than time was the pressure inside the company. Google had previously had a good relationship with Apple, and when the iPhone launched, Google's team working on Apple apps was still rapidly expanding. If Google also entered the phone battlefield, it would mean their collaboration with Apple would be severely affected.
+
+"If we wanted Android to succeed, we had to stop giving our best stuff to Apple." Over this, Andy Rubin came into serious conflict with Vic Gundotra, the executive at the time who advocated increasing investment in the Apple software development team.
+
+And at the 2007 launch event, Google had no hardware either — just the Android operating system, plus a global alliance.
+
+This alliance was made up of 34 handset makers, software developers, telecom carriers, and chipmakers, which together with 84 hardware makers, software developers, and telecom operators formed the Open Handset Alliance to jointly develop and improve the Android system.
+
+More simply put, Google had paid these companies to join the camp — and that included 2008's first officially released Android phone, the HTC G1, a partnership Google also reached by spending several million dollars.
+
+But in order to ship in time for Christmas 2008, the G1 running Android 1.0 had all kinds of problems — for instance, you couldn't type text in portrait orientation. To encourage the team, Andy Rubin came up with the idea of paying Android employees' year-end bonuses out of his own pocket; one engineer's bonus doubled that year because of it.
+
+And although G1 sales were disappointing, because Android was more open, many smartphone makers were willing to join the camp — including Samsung, which had once rejected Andy Rubin.
+
+![![Image](http://img.qdaily.com/uploads/20160726151130Shpu6OrPJod3cvB4.jpg-w600)[Market share shifts across major operating systems](http://www.statista.com/statistics/263453/global-market-share-held-by-smartphone-operating-systems/)](http://img.qdaily.com/uploads/20160726151130Shpu6OrPJod3cvB4.jpg-w600)
+
+Android then became the fastest-spreading operating system in the world. In 2009, Nokia's Symbian still held most of the market, and Android had just 3.9% market share; a year later, its share reached 22%, instantly surpassing Apple and BlackBerry's RIM at the time.
+
+Today, 80% of smartphones run Android, while its competitors' operating systems — Microsoft's, Nokia's, and BlackBerry's — have become software systems more niche than niche.
+
+## Andy Rubin, who never gave up on robots
+
+Although the Android story is better known, Andy Rubin never gave up on robots. Ever since building the R2D2 robot as a kid, he's been obsessed with making fun things with his own hands.
+
+Even in 2004, when he was busy with Android company affairs and couldn't build robots himself, he slipped his longtime friend Sebastian Thrun $100,000 to support his driverless car research.
+
+Sebastian Thrun only found out later that because the Android company was still losing money, Rubin was nearly broke at the time.
+
+"I've always been confident I can make money — I'd rather spend it on things I'm interested in, or on people I think would be great to work with," Rubin said, shrugging, as he recalled that episode.
+
+He was also the direct instigator of Google's driverless car project. In 2008, Rubin had Larry Page bring Sebastian Thrun on board — and Thrun became the lead of Google's driverless car project.
+
+In a 2007 long-form piece uncovering Android's and Andy Rubin's story, [New York Times](http://www.nytimes.com/2007/11/04/technology/04google.html?_r=0) reporter John Markoff also wrote about the trove of fun gadgets in Andy Rubin's home — drones, robots, an automated security system, most of them built or modified by himself.
+
+![Andy Rubin in 2007, with his robots and drones.](http://img.qdaily.com/uploads/20160607192434R0i1qYDQThVo9uGj.jpg-w600)
+
+![Andy Rubin in 2007, showing off his home iris-scan door lock](http://img.qdaily.com/uploads/201606071924348XY3rviVcUwt5IsO.jpg-w600)
+
+His front door was also fitted with an iris-scan lock that opened only after confirming the owner. "This system works great against ex-girlfriends," Rubin joked.
+
+Besides the door lock, this is how the doorbell in Rubin's house announces a visitor to the owner: inside the house, a mechanical arm grips a hammer, which then strikes a large gong.
+
+A few years ago, he also helped his wife open a bakery called "Time Traveler" in California; he hand-coded the POS machine so it could accept customer payments and record transactions without human operation. He even built a private meeting room in the backyard, fitted with a homemade magnetic lock system.
+
+![The European-style bakery "Time Traveler" at Andy Rubin's home.](http://img.qdaily.com/uploads/2016060719243538OY2fASKj01exGi.jpg-w600)
+
+So it's not hard to understand why, after stepping down as head of Android in 2013, he was appointed head of Google's robotics division — because that's just so Andy Rubin.
+
+After the robotics division was set up, Google spent $50 million to $90 million acquiring various robotics companies, including Schaft — which had posted the top score in the DARPA Robotics Challenge — and Boston Dynamics, which had earlier released the dog-like robot Atlas.
+
+![Er, this is the dog-shaped robot, which recently annoyed a real dog](http://img.qdaily.com/uploads/20160607192435h3bLGFVBnwjQNlmy.jpg-w600)
+
+Most of them were persuaded to come by Rubin, yet Rubin himself left in a hurry in 2014 — because he couldn't stand a job that amounted to "sitting among a bunch of robotics experts and endlessly asking whether things were done."
+
+He's an impatient man who always wants to make something with his own hands.
+
+Former Apple engineer Steve Perlman put it this way about Rubin:
+
+> "Today's Silicon Valley entrepreneurs worship network effects, but Andy represents a generation of founders who held a soldering iron in one hand, coded with the other, and explored the business at the same time."
+
+## Now, Andy Rubin says robots are sowing seeds
+
+Rubin believes the next computing platform will be artificial intelligence, and that over the next 10 years AI will grow powerful enough to carry out complex tasks still hard to imagine today. Moreover, AI will soon develop into a cloud service that powers tens of thousands of devices and machines.
+
+Just as the Android system could be installed on all kinds of devices, in the future it will be hard to buy a device that doesn't come preloaded with AI technology.
+
+And this is exactly what his new company, PlayGround Global, is doing.
+
+On the surface, he's investing in hardware startups. PlayGround provides not only funding and advice — Rubin also gives them an all-star engineering team made up of former engineers from Google, General Magic, and Apple.
+
+PlayGround Global isn't limited to any single product or any single startup; Rubin wants to build an open platform of foundational software and hardware modules.
+
+If you're a hardware entrepreneur, Rubin wants you to stop worrying about which chip or processor to use, which one to pick for the next product update, or what to watch out for in the supply chain. He has experts to solve all of that for you — you just focus on what world-changing product you want to make.
+
+![](http://img.qdaily.com/uploads/20160607192436NoeVRkawLtjdlygI.jpg-w600)
+
+This differs from the approach Samsung, Apple, and Google take today of first building a set of Internet of Things standards; PlayGround first provides startups with technology development equipment, and then builds the ecosystem.
+
+The future world Rubin dreams of is one of artificial intelligence — but that may still take decades, he says. Waiting for that moment to arrive feels, for an impatient man like him, like being stuck in traffic.
+
+> "When I have an intuition about the future world, I try to figure out why it hasn't been realized today."
+
+And everything he's doing now — all the modules, all the hardware company investments — in Andy Rubin's own words, is "sowing seeds for the next ecosystem."
+
+Just like the teenager who built the R2D2 robot at fifteen, these investments come not only from a big-picture play for the future, but also from Andy Rubin's own hobby: he simply loves all kinds of hardware devices.
+
+"I'll make you pancakes! The kind you make by pressing a button!" Not long ago, that was how he welcomed visitors touring and interviewing PlayGround.
+
+Cover image from [forbes](http://www.forbes.com/sites/ellenhuet/2014/10/30/andy-rubin-former-android-leader-leaving-google/), illustrations from [wired](http://www.wired.com/2016/02/android-inventor-andy-rubin-playground-artificial-intelligence/)

@@ -1,0 +1,106 @@
+@@QD_TITLE@@
+Andy Grove, the Paranoid Who Shaped Intel and Today's Silicon Valley
+@@QD_EXCERPT@@
+The management guru has died. Here's how he turned Intel into the world's most valuable tech company.
+@@QD_BODY@@
+The management guru has died. Here's how he turned Intel into the world's most valuable tech company.
+
+## Andy Grove (September 2, 1936 – March 21, 2016), Intel's fourth employee and third CEO. Under his leadership, Intel became the most successful tech company, with a market capitalization that at one point exceeded $500 billion.
+
+## He laid down the operating rules of Silicon Valley, folding the culture of engineers into the workings of the business world.
+
+Andy Grove — Silicon Valley's most famous paranoid, Intel's fourth employee and third CEO — has died.
+
+In his lifetime, Andy Grove built Intel into the world's largest tech company — its market capitalization at one point topped $500 billion, a figure Apple would not surpass for another decade — and that reputation for paranoia made Andy Grove one of the most feared names in Silicon Valley.
+
+"In any conversation with Andy Grove, you knew it was going to become a debate, and that he was going to win. He was going to win because he was smarter than you, quicker than you, and worked harder than you... And if none of that worked, he would drop the mask and beat you down emotionally, roaring until you gave in. Either way, he was going to win, because that was what it meant to be Andy Grove. He would do whatever it took to win, because he believed he was right, and took that rightness for granted," Michael Malone wrote in *The Intel Trinity*, Intel's official biography.
+
+![Andy Grove](http://img.qdaily.com/uploads/20160702121448eKdL2vuxpgVUncEi.jpg-w600)
+
+But today, Grove's name is rarely linked with Silicon Valley anymore. Silicon Valley has simply changed too fast. Now people talk about Steve Jobs, Tim Cook, Elon Musk, Larry Page. Grove, who stepped down as Intel's CEO in 1998 and as chairman in 2005, looks like one of Silicon Valley's "ancients."
+
+In January 2013, PBS's documentary *Silicon Valley* held its premiere. Most of those invited had some connection to Intel, and Grove made a rare appearance. People crowded to shake his hand, because everyone knew this might be the last chance to shake Grove's hand — he was 77 and had long suffered from Parkinson's disease; his health was in steady decline.
+
+Grove deserved that respect, because his work at Intel shaped the face of Silicon Valley — first and foremost the engineers' round-the-clock work culture. In today's Silicon Valley, a 60-hour week can pass for normal working hours, and that is Grove's doing. The influence even crossed the ocean to China. Grove's *High Output Management* and *Only the Paranoid Survive* were among the earliest management books introduced to China; Liu Chuanzhi, founder of Lenovo, said publicly that he had learned management by reading the books of Grove and Gates.
+
+Before Grove arrived at Intel, none of this was the case. Intel's co-founder Bob Noyce was known as the saint, forever trying to preserve his spotless personal image, while the other, Gordon Moore, was a technologist who kept an attitude of lofty detachment toward management. Before founding Intel, the two had worked at the semiconductor company Fairchild. There, the two of them — unable to project toughness — had little control over how the company ran. Every meeting could stretch on interminably; everyone meandered, and the subject of the meeting was forgotten.
+
+![A group photo of Andy Grove, Bob Noyce, and Gordon Moore](http://img.qdaily.com/uploads/20160702121448nS58VPBoFqh2i4du.jpg-w600)
+
+Intel was "made new" because of Grove. Grove injected "results orientation" into Intel's corporate culture. No one was allowed to make excuses for missing targets; anyone who wasted time in a meeting would be summoned to Grove's office, where a frenzy of roaring awaited. Grove's office eventually became the single place in the entire universe that Intel people least wanted to go.
+
+But they hadn't counted on worse things lying ahead. In the early 1980s, Intel hit hard times. Unlike other companies, Grove didn't simply cut costs; he launched what he called the "125% Solution." All employees were required to work two extra hours a day for the following six months — without any corresponding pay. In November 1982, Intel announced an across-the-board pay cut, and in 1983 it froze wages.
+
+This was not a scene Noyce and Moore enjoyed watching, but the interesting thing is that both tolerated Grove's toughness. They probably understood that only under Grove's driving could Intel truly go on to win.
+
+Grove had proven this before. In 1970, Intel — barely two years old — faced a major choice. At the time, Intel's core business, memory chips, was in big trouble: the products it released had yield rates that were too low, and on top of that the entire Silicon Valley memory-chip industry was slumping. Intel was on the verge of bankruptcy. Meanwhile, a new technology that might prove revolutionary lay before Intel: the microprocessor.
+
+Should they conservatively reject the new technology and pour all resources into saving the memory-chip business? Or bet everything on microprocessor R&D? Co-founder Noyce walked into Grove's office and calmly informed him: "We're starting a new project."
+
+Grove instantly exploded: "Get out, get out — we don't have time for this! What kind of company starts new projects when it's facing an existential crisis?"
+
+Noyce didn't tell Grove what to do — in fact, he didn't know what to do either. All the tasks landed on Grove's head. Grove began coordinating Intel's internal resources, ensuring both the improvement and production of memory chips and carving out resources to support the microprocessor's development and launch. More importantly, making sure Intel didn't go bankrupt in the meantime.
+
+Fortunately, in November 1971 and April 1972, Intel's two microprocessors, the 4004 and the 8008, were successfully developed. Intel's marketing team also swung into action, starting to educate its corporate customers about what microprocessors could be used for. Noyce, Moore, and Grove personally went on educational roadshows. They drew up a list packed with possible microprocessor applications — including even automatic toilet flushers, cow milking machines, electronic game consoles, and blood analyzers.
+
+In *The Intel Trinity*, those involved recalled: "Intel's effort worked; almost overnight, the engineers they had visited suddenly seemed to grasp what the microprocessor meant." Intel became the earliest and most important player in the microprocessor market.
+
+![This is the Intel 4004](http://img.qdaily.com/uploads/20160702121449xHOvb6KJSIyZ4TBQ.jpg-w600)
+
+When the crisis of the 1980s hit, Intel's revenue fell from US$1.63 billion in 1984 to US$1.26 billion in 1986. No one dared treat Grove as a mere executor anymore — he was a decision-maker.
+
+He asked Moore: "If we brought in a new CEO today, what would he do?"
+
+Moore answered without hesitation: "He would shut down our memory-chip division."
+
+Grove stared at Moore and said: "If that's the case, why don't you and I walk out that door, come back in, and do it ourselves?"
+
+Intel exited the chip business, cutting 7,200 jobs — close to a third of Intel's total workforce — and closing seven factories. Intel officially became a microprocessor company.
+
+Now their rival was Motorola, a master of microprocessors. To take it on, Intel launched a marketing program called Operation Crush. It was another lesson Grove taught Intel — and all of Silicon Valley: engineers absorbed in technology development must understand that for a tech company to win, technology alone is not enough.
+
+On December 4, 1979, all of Intel's marketing experts gathered in a conference room at Intel headquarters. For a solid week, Grove and his marketing experts nearly never left the room, and in the end produced an ambitious plan: Operation Crush.
+
+The crux of Operation Crush was to package Intel's microprocessor product as a total solution. They would tell their customers: when you buy a microprocessor, you're buying the entire Intel brand — the semiconductor experience of the two founders Noyce and Moore and more than a decade of technological leadership, plus the other add-on products Intel offered, including a math coprocessor, design tools to help customers build their own products around the microprocessor, and long-term failure-handling service.
+
+At the same time, Intel set itself a sales target of 2,000 design wins (meaning securing, while a product was still in the design stage, that it would use Intel's microprocessor).
+
+It was brilliant marketing. By the end of 1980, Intel had racked up 2,500 design wins — and when Intel had first announced Operation Crush, even the most optimistic market analysts had reckoned Intel could only hit a third of its target.
+
+But for Intel, the truly important impact of this campaign was the order it won from IBM as part of Operation Crush. IBM usually did not accept outside suppliers. What happened next took everyone by surprise. The IBM-Intel partnership, plus Microsoft, changed how the computer industry operated — they created the horizontal computer industry, in which hardware makers, the software maker Microsoft, and assemblers joined forces, to counter Apple's vertical model, in which everything — processor, software, exterior design — was produced by Apple itself.
+
+![ ](http://img.qdaily.com/uploads/20160702121449pqab0NVufT987Fxh.jpg-w600)
+
+John Sculley, Apple's CEO at the time, later recalled that not making Apple's software compatible with Intel's microprocessors was one of the biggest mistakes of his management career.
+
+Grove liked this model. He called it industrial democracy: the products offered by various manufacturers had to work together. All the products combined to make up the whole. An Intel processor could team up powerfully with a Sharp monitor, a Conner hard drive, Toshiba memory, a USRobotics modem, Microsoft's operating system, and so on.
+
+Intel and Microsoft formed the de facto "Wintel" alliance, creating a duopoly in the personal computer industry. This state of affairs became known as "Andy and Bill's law." It means that every time Intel under Grove's leadership released a new microprocessor, Gates's Microsoft would upgrade the Windows system to match Intel's new product. The Wintel alliance held firm until the PC era came to an end.
+
+![ ](http://img.qdaily.com/uploads/20160702121450siNVd9r5bJ4R8tFe.jpg-w600)
+
+In 1989 and 1991 that followed, Grove launched two more marketing campaigns that would become classics. The first was known as the Red X campaign. The ad page was extremely simple: a giant red X painted over a plain number, 286. The other was Intel Inside, which put a little blue sticker reading "Intel Inside" on personal computers.
+
+When these two marketing campaigns were first launched, both caused enormous controversy inside Intel. The engineers remained deeply wary of the use of marketing.
+
+Grove ignored the objections of his lieutenants. It turned out the Red X campaign got consumers to replace their 286 computers with 386 machines, forced PC makers to buy newer products, and cultivated in consumers the habit of rapidly upgrading their electronic goods. Intel Inside, meanwhile, turned Intel from a brand aimed at equipment manufacturers into a brand aimed at consumers; together with the later "bong, bong-bong-bong" jingle, it became Intel's signature.
+
+![The famous Red X marketing campaign](http://img.qdaily.com/uploads/20160702121450m3iMx5JbEGUL0gIZ.jpg-w600)
+
+Grove stepped down as Intel's CEO in 1998 and left the board in 2005. Nearly his entire career was devoted to Intel. In 2000, the year after his retirement, Intel's market capitalization surpassed $500 billion — even allowing for the dot-com bubble, it still demonstrated Intel's worth.
+
+In a sense, Intel's entire glory was brought about by Grove. Noyce, one of the founders, left Intel early, and Moore was a man who never touched management. Without Grove, Intel would not have made it to today. The things he injected into Intel — a results-oriented work culture, the meaning of marketing for technology, the horizontal model of corporate management, and the decisions made during Intel's several strategic transitions — shaped not just the company but laid down how Silicon Valley operates.
+
+Calling him the world's greatest entrepreneur would not be an overstatement. Richard Tedlow, a Harvard Business School professor and management guru, even wrote a biography of Grove — the only biography of a person Tedlow ever wrote.
+
+In 1997, Grove was named *Time* magazine's Person of the Year and appeared on its cover.
+
+![ ](http://img.qdaily.com/uploads/20160702121451OGiRCrlI2wWoYH71.jpg-w600)
+
+This magazine was probably one of the two issues of *Time* Grove treasured most. In January 1957, the 21-year-old Grove had just left his homeland of Hungary and arrived in the United States. The cover of that issue of *Time* featured a Hungarian — a tribute to the Hungarians' tragic and heroic struggle for freedom against Soviet totalitarian rule.
+
+In 1956, riots and demonstrations broke out in Hungary, and Grove joined the marchers. Soon Soviet troops rolled in, and Grove was forced to flee. After passing through three cities — Vienna in Austria, and Passau and Bremen in Germany — Grove crossed the Atlantic and arrived in New York in 1957. "I stopped and went cold. Skyscrapers were all around, and I looked up at them, speechless. Those skyscrapers looked just like the America in the pictures. All of a sudden, it hit me in astonishment: I really am in America," Grove wrote in his memoir many years later.
+
+Back then, though, he probably never imagined that 41 years later he would truly appear on the cover of that magazine — as the world's greatest entrepreneur.
+
+Cover image from: richestcelebrities.org, Intel, Bloomberg

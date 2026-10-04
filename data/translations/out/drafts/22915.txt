@@ -1,0 +1,159 @@
+@@QD_TITLE@@
+This Copier Company Once Had a Chance to Be Bigger Than Apple and Microsoft Combined
+@@QD_EXCERPT@@
+"If Xerox had really known what it had back then and found opportunities to put its advantages to work, it could have become 'IBM+Microsoft+Xerox.'" —Steve Jobs
+@@QD_BODY@@
+"If Xerox had really known what it had back then and found opportunities to put its advantages to work, it could have become 'IBM+Microsoft+Xerox.'" —Steve Jobs
+
+What's your first impression of the name "Xerox"?
+
+Is it a printer brand you vaguely remember, or the episode in Apple's origin story where Steve Jobs and Bill Gates lifted Xerox's technology to build the personal computer?
+
+Just two weeks ago, after years of poor management, Xerox — pressed by its shareholders — split itself into two companies, one selling printers and copiers, the other selling enterprise services. For now, besides starting layoffs, the company won't rule out a sale. "The board is responsible to shareholders and will consider all offers," Xerox CEO Ursula Burns replied when asked whether the company was for sale.
+
+It is a sad story.
+
+Bear in mind that the computers, laptops, and cell phones we use today — even the internet itself — were all originally developed by Xerox:
+
+- It built a personal computer in 1973, three years before Apple;
+- It developed Ethernet, the foundational hardware of broadband, first;
+- It developed the graphical user interface before Windows and Mac OS; before that, computers were nothing but lines of text;
+- Xerox was also the first company in Silicon Valley to embark on AI research;
+- Thanks to Xerox's labs, we got the laser printer;
+
+But today, Xerox's market cap is just US$9.84 billion. Apple, by comparison, stands at US$544.5 billion, and Microsoft at US$413.5 billion.
+
+Looking back, Xerox had the chance in the history of the personal computer to match or even surpass Apple and Microsoft. Yet to this day it remains nothing more than a copier company.
+
+What adds irony to this story is that Xerox was once regarded as a model of success — a company that would pursue technological innovation at any cost.
+
+## Xerox's Success Was the Triumph of a Technological Gamble
+
+Before the copier existed, what schools, churches, and offices used on a massive scale was something called carbon paper. Even today we still occasionally see this kind of self-copying blue paper, like this:
+
+![Carbon paper — you can still come across this product at small businesses, banks, or on courier slips today.](http://img.qdaily.com/uploads/20160702134820mhRKdJj5EIWtDPlM.jpg-w600)
+
+In the 1930s, Chester Carlson, then a clerk writing documents at the patent office, used this carbon paper constantly; because it was so error-prone, he wanted to build a new machine to do the job.
+
+In 1938, Carlson developed electrophotography — an electronic image-copying technique that used electricity to make copies on carbon paper. His attempt to commercialize it went nowhere, and after five years of supporting it on his own, he finally obtained funding from the nonprofit Battelle Memorial Institute to continue the research.
+
+Because "carbon paper" was already standard equipment in offices, many companies believed that as long as carbon paper existed, there was no need for a copier. IBM, General Electric, and RCA (Radio Corporation of America) were all on the list of companies that turned Carlson down.
+
+![Chester Carlson](http://img.qdaily.com/uploads/20160702134821vy8YZs3bEjIAgl7u.jpg-w600)
+
+In 1946, a company called Haloid took an interest in Carlson's technology. Haloid was a family-run business whose main line was electrical products, founded in 1906 in Rochester, New York. At the time, the company's second-generation heir, Joseph Wilson, believed electrophotography would be the trend of the future, so he bought Carlson's technology — the man included.
+
+After the acquisition, Wilson renamed the electronic image-copying technology "xerography"; the root "xero" means "copy" in ancient Greek.
+
+Even after eight years of research, Carlson's technology was still quite immature. Between 1947 and 1960, Haloid spent nearly US$75 million on electrophotography research — roughly twice its regular business revenue over the same period — forcing the company into debt. Executives even dipped into their own savings or took out mortgages on their homes to fund the research.
+
+But the massive investment, sustained over 13 years, paid off within a single year. In 1960, Haloid released the first automatic plain-paper copier, the Xerox 914.
+
+![The Xerox 914 — at the time still a very large copier](http://img.qdaily.com/uploads/201607021348211f4HxaGckjIz3swN.jpg-w600)
+
+Electrophotographic copying was far more efficient: carbon paper required a master copy and produced only 10 to 20 copies at a time, whereas the new copier was bound by neither masters nor batch size. The Xerox 914 had no competitor in the market, a situation that lasted nearly eight years.
+
+On top of that, Xerox's sales strategy worked beautifully. The Xerox 914 sold for US$27,000, but users could also lease a machine for just US$25 a month, plus 4 cents per copy. This leasing model let many offices try Xerox's service at a very low price and become dependent on it, and it helped Xerox sell more than 20,000 copiers in one fell swoop.
+
+![The earliest advertising poster for the Xerox 914](http://img.qdaily.com/uploads/20160702134822r7Sc2YpWIOAliwU4.jpg-w600)
+
+The Xerox 914 was so popular that Wilson simply renamed the company Xerox as well.
+
+Over the decade from 1960 to 1970, Xerox earned more than US$1 billion, becoming the first company ever to earn over US$1 billion in ten years from a single technology (the second was Apple — but that's a story for later). Those who bought Xerox stock early became millionaires because of it.
+
+Perhaps more importantly, the copier — or rather, the ability to mass-copy any text or image with ease — became the new trend of the post-print era. Copying drastically lowered the cost of distributing books and other text products.
+
+And "Xerox," like "Baidu" or "Didi" today, became a verb; "go Xerox it" turned into common office parlance in 1960s America.
+
+## Xerox PARC Became a Base for the Development of the Personal Computer
+
+1968 was a turning point for Xerox. First, Carlson, the inventor of electrophotography, passed away; then Wilson, who had grand visions for Xerox's future, handed the CEO position to Peter McCollough.
+
+Unlike Wilson, McCollough was a salesman through and through. After graduating from Harvard, he joined Xerox, starting on the front lines of sales and eventually taking charge of the company's sales operations.
+
+Before handing over the company, Wilson also gave McCollough a piece of advice. The gist: what Xerox did now was merely move information via copiers, but the company should do more with technology — in the coming computer age, if they still wanted to be a great company, they should process information digitally.
+
+And McCollough did follow Wilson's guidance.
+
+![A high-speed typewriter IBM was pushing in 1973](http://img.qdaily.com/uploads/20160702134822CEWpgj4cY6vqPyAe.jpg-w600)
+
+In 1970, acting on the advice of Xerox's chief scientist at the time, Jacob Goldman, he established a research center in Palo Alto, California — 4,500 kilometers from company headquarters — the Palo Alto Research Center, or PARC for short. To find the next Carlson for Xerox, or the next Xerox 914, they recruited the finest researchers and engineers in all of America and set their sights on technology ten years ahead of existing products.
+
+"Of America's 100 best computer scientists, 76 were at PARC." That was how PARC's head, Bob Taylor, sized up his engineers. As long as your technology was good, PARC was indulgent about everything else — some people came to work carrying sleeping bags, some didn't like wearing shoes, and programmers with long hair and long beards were a common sight.
+
+![PARC's beanbag meeting room](http://img.qdaily.com/uploads/20160702134823Xpq4039EcCPvTY1h.jpg-w600)
+
+PARC was also the prototype of today's Silicon Valley tech offices: no fixed desks, a loose and free atmosphere, blackboards hanging on every wall of the offices and meeting rooms, and beanbag chairs scattered across the floor for seating.
+
+PARC's style was very avant-garde for its time. Mainstream tech companies like IBM were still dutifully making typewriters and punch-card machines, and their engineers had to wear suits to work. And it wasn't just IBM — even Xerox's own headquarters on the East Coast was stuck in the old ways.
+
+The world's first personal computer was born in this environment. It was called the Alto — about the size of a large cabinet, with a screen, built for a single user; whatever you typed on the keyboard appeared on the screen within milliseconds.
+
+![A prototype of the Alto computer](http://img.qdaily.com/uploads/20160702134823ZbhuyTWsiMeD92HV.jpg-w600)
+
+In 1973, a personal computer like the Alto was highly unusual. While Xerox PARC was working on a computer ten years ahead of its time, Bill Gates was still a college freshman, and Steve Jobs was off studying Buddhism in India.
+
+Computers of the day were generally still the size of two or three refrigerators, strung together with cables and hardware for specialized purposes, built for many users at once.
+
+Because computing power was scarce, computers back then operated like airplanes: one flight carried 300 passengers to spread the cost — dedicating a machine to a single person was simply too extravagant. Just the memory required by one user would cost US$1 million, like chartering an entire plane for a single passenger. And interacting with a computer was nothing like today's screen-based experience; people communicated via punch cards or typewriters, and a simple question-and-answer exchange could take days.
+
+"The overall architecture of computing back then was like the main battlefield of a religious war," John Ellenby recalled, "and Xerox pushed that war to its climax."
+
+Beyond building the Alto's hardware, PARC's engineers also figured out what should go inside the machine — they began developing word-processing and image-processing software, and they built a graphical user interface (GUI) instead of controlling the computer the geeky way, through command lines. The personal computer became what we see today because of mouse-driven systems like Windows.
+
+![On the left, the command-line DOS interface; on the right, the graphical Windows 3.2 interface. Which would you rather use?](http://img.qdaily.com/uploads/20160702134823DSkYZvyR2KIxPbh4.gif-w600Gif)
+
+On the hardware side, there was the keyboard for easy input and the mouse, which could be slid, pointed, and clicked. And — right — there was also a local network that could connect to other computers, called Ethernet.
+
+On top of all this, PARC engineer Alan Kay began working on an even smaller portable computer, the Notetaker — in fact, the prototype of the laptop we use today.
+
+With all this in place, Xerox's copiers and laser printers could come into play in this one-person office environment. Receive mail over Ethernet, process text and image files on the computer screen, then print them out — that was the sweet plan PARC's engineers had in mind.
+
+Looking at it now, PARC's computer scientists sketched the blueprint of mass digital life 20 years early.
+
+The pity is that what Xerox cared about back then was still the printer itself.
+
+## Why Did Xerox End Up Still Being a Copier Company, While Our Lives Were Transformed by Apple, Microsoft, and the Internet?
+
+Although Steve Jobs's 1979 visit added dramatic color to the Xerox story, he was merely the trigger of Xerox's failure to make the personal computer.
+
+Even before Jobs's visit, Xerox could no longer hold onto its core copier business.
+
+![PARC's working environment](http://img.qdaily.com/uploads/20160702134824dlu09Bjpo2yrnt7O.jpg-w600)
+
+With no competitors for so long, Xerox did most of the damage to itself: in the 1970s, Xerox's wealth and corporate arrogance both peaked. Because the Xerox 914 was so popular and protected by patents, profits kept climbing; managers could maintain good performance without exercising any skill, salespeople could move copiers without much persuasion, and for employees the environment was a comfortable one indeed.
+
+And with no direct competitors, Xerox stuck with its complicated copier-leasing model. The per-copy pricing system was so convoluted that the first three copies might cost one price while the 200th copy cost another. By the early 1970s, leasing a Xerox copier was a vexing affair, with thousands of different pricing schemes awaiting you up front.
+
+At the same time, lower-priced, decent-quality Japanese products conquered America in the 1970s — in cars, steel, and chip manufacturing alike, and even in copiers. Complacent Xerox was the number-one target for Japanese companies to study and improve upon, while at home IBM and Kodak joined the fray. Between 1971 and 1978, only 77 copier models were on sale in the American market; in just the two-plus years from 1978 to 1980, 70 new copier products were launched in the US.
+
+![A group photo of PARC engineers — at the center of the top row and second from the right in the second row are Adobe's two founders, Charles Geschke and John Warnock.](http://img.qdaily.com/uploads/20160702134824d5NIGyT1uZUo8M0g.jpg-w600)
+
+And beyond Xerox PARC, CEO McCollough also poured considerable money into acquiring computer companies and developing technology — but several of his decisions went wrong.
+
+The acquisition of computer maker SDS cost the company US$84.4 million, while the "Moses" printer program, on which US$90 million had been spent, was canceled on the verge of mass production when it turned out that Kodak's competing product was better and cheaper than Xerox's own.
+
+This also intensified the factional infighting inside Xerox. The East Coast headquarters, which handled copier production and sales, was seen by PARC's West Coast engineers as a bunch of shortsighted old fogeys, while PARC's cutting-edge new technologies — too advanced to be applied to Xerox products right away — were incomprehensible to the people at headquarters in the East.
+
+By 1977, the second- and third-generation successors to the Alto had also reached the production stage. But Xerox, fixated on short-term gains, chose instead to pour money into developing a new "high-speed printer" and cut the Alto III's production funding. The Alto computer project ultimately died.
+
+"Whether in sales, design, manufacturing, or decision-making, we were on the decline. We were unprepared for it, and what we urgently needed was corporate reform," said Peter Crouch, then a Xerox executive, in 1977.
+
+Xerox's reform ultimately turned into investing in computer companies. And Apple, which had shot to fame with the Apple II, became the preferred choice of Xerox's executives. Hearing that Jobs wanted to visit PARC — and that he could offer Xerox the right to acquire some Apple stock at a slightly discounted price — Xerox's top brass agreed to let him in.
+
+![Steve Jobs at the launch event of the Apple II](http://img.qdaily.com/uploads/20160702134825wpeNov7nrYVQ5M2K.jpg-w600)
+
+As Xerox saw it, since it wasn't going to make personal computers anyway, letting Jobs take a look did no harm.
+
+In 1979, Xerox actually opened up a tour of its most highly classified products to the Apple team, and the Apple engineers — who had looked up to PARC's researchers for their technical prowess and ideas — took home the whole package of the graphical user interface (GUI) plus keyboard-and-mouse input. Later, Bill Gates also released Windows, a graphical-interface personal computer operating system, based on Xerox's technology.
+
+Years later, as Steve [recalled](http://www.newyorker.com/magazine/2011/05/16/creation-myth) this visit, he also felt sorrow for Xerox.
+
+"If Xerox had really known what it had back then and found opportunities to put its advantages to work, it could have become 'IBM+Microsoft+Xerox' — arguably the world's biggest tech company."
+
+But in the story that followed, the protagonist was never again "Xerox."
+
+- In 1983, Apple released the Lisa personal computer, with a graphical interface;
+- In 1985, Microsoft released the first Windows operating system, also with a graphical interface. Windows went on to dominate 90% of the world's personal computers;
+- In 2007, Apple released the first-generation smartphone, the iPhone; in 2011, Apple became the world's most valuable company;
+- In 2015, the world's total population connected to the internet reached 3.3 billion.

@@ -1,0 +1,156 @@
+@@QD_TITLE@@
+How Do 1,000-Plus People Organize the Efficiency of 1.7 Million, and What Should Alibaba's Cainiao Network Be Worth?
+@@QD_EXCERPT@@
+For Alibaba, getting into logistics was only a matter of time — it helps build a competitive moat that is harder to cross.
+@@QD_BODY@@
+For Alibaba, getting into logistics was only a matter of time — it helps build a competitive moat that is harder to cross.
+
+Alibaba's third behemoth of a company is taking shape.
+
+Eighteen days after Jack Ma delivered his speech stepping down as CEO of Alibaba Group three years ago, he thrust Cainiao Network Technology Co., Ltd. (known as Cainiao Network) into the spotlight. Although to this day many people probably still haven't figured out exactly what it is, Cainiao Network's valuation has already reached 50 billion yuan (about US$7.7 billion).
+
+The now-listed Alibaba Group, whose core business is the e-commerce operations Taobao and Tmall, currently has a market capitalization of about US$191.6 billion. Ant Group, which was spun off before the IPO, is valued at more than US$50 billion thanks to its more imaginative internet-finance services such as Alipay and Yu'ebao.
+
+Cainiao Network, Ant Group, and Taobao-Tmall together form the three strategic businesses of the Alibaba family (built on e-commerce). Their combined valuations currently total US$249.3 billion, close to the US$259.9 billion market capitalization that Amazon — a company born of e-commerce — commands today.
+
+![](http://img.qdaily.com/uploads/20160702141616RhDw3ZpQuqP1Tfyd.jpg-w600)
+
+Last week, Cainiao Network — nearly three years after its founding — announced it had completed its first round of financing. The company did not disclose the amount of this round; the widespread outside estimate was "over 10 billion yuan," with a valuation of 50 billion yuan.
+
+Niu Zhijing, director of Cainiao Network's brand and public communications department, told QDaily that Cainiao Network had no plans to announce the specific size of this round. As for the valuation, he said, that is a matter of individual judgment for each investment institution. "Some have valued it at one or two hundred billion yuan — we can't really comment on whether that's right or not."
+
+For Alibaba, getting into logistics was something it simply had to do. In Jack Ma's own words: "We found that all the complaints come from logistics. That doesn't work — we have to be involved together."
+
+But the Cainiao Network Jack Ma set out to build is not a logistics or express-delivery company in the traditional sense — it is a logistics data platform.
+
+Put simply, Cainiao Network is a data company that stays out of the actual courier business yet holds the information on 70% of China's express parcels. According to Cainiao's official figures, 70% of the express parcels shipped in China every day currently move through Cainiao's logistics system, which covers the delivery routes of 1.7 million couriers across more than a thousand express companies.
+
+And the data in their hands is managed by a team of just 1,100 people at Cainiao Network. How do 1,000-plus people organize the efficiency of 1.7 million, and what should Alibaba's Cainiao be worth?
+
+## The resources of 1.7 million people are Cainiao Network's biggest support
+
+In Cainiao Network's current system, it has already captured at least this much data: information on 180,000 logistics and express-delivery outlets, 6.09 million shipping routes, thousands upon thousands of logistics warehouses across the country, and — most important of all — the delivery routes of 1.7 million couriers.
+
+![](http://img.qdaily.com/uploads/20160702141616CXbmplVJY8rDd3u9.jpg-w600)
+
+Internet companies run on the enormous cost of human labor, and Cainiao is no exception. Just look at Meituan-Dianping in the chart below; likewise, Didi has just over 3,000 employees, but it also has 1 million premium-car drivers and 7.45 million ride-hailing drivers — all of them, in effect, its indirect employees.
+
+![](http://img.qdaily.com/uploads/20160702141617VmljCaB9qUe6Du0w.jpg-w600)
+
+Of course, those 1.7 million people don't actually belong to Cainiao Network; they work for the "Tongda couriers" (ZTO, STO, YTO and Yunda) and the other thousand-plus express companies that have plugged into Cainiao Network. But they are, without question, Cainiao Network's biggest support.
+
+The growth of the courier workforce has been driven by the rapid expansion of China's express-delivery market over the past nine years. Between 2011 and 2014, the volume of express shipments in China grew by more than 50% for four consecutive years. According to the State Post Bureau, private express companies' share of shipment volume in China's express market rose from 67.6% in 2011 to 85% in 2014.
+
+![](http://img.qdaily.com/uploads/20160702141617vwZuqaVhnpKjCiW5.jpg-w600)
+
+![](http://img.qdaily.com/uploads/20160702141618d489ZvpkRlSbYuaK.jpg-w600)
+
+## Why do courier companies like the "Tongda couriers" plug into Cainiao Network?
+
+The express industry's shipment growth of over 50% for nearly four years has all been thanks to the development of e-commerce. And in China's e-commerce market, Alibaba holds the overwhelming majority of market share. According to the China E-commerce Research Center, in the first half of 2015 Tmall held 57.7% of the B2C online retail market. On the C2C side, data from Qianzhan's e-commerce industry report shows Taobao accounted for 96.5% of that market.
+
+[A 2013 report in *Southern Weekly*](http://hb.sina.com.cn/news/d/2013-11-18/1535121667_2.html?from=wap) noted that business from Taobao made up 60% to 80% of the revenue of the "Tongda couriers."
+
+![](http://img.qdaily.com/uploads/20160702141618JVne0G3tvyldTghc.jpg-w600)
+
+Jack Ma said back in 2011: "I want Taobao to hit 1 trillion yuan next year. We don't see any great catastrophe that would bring Taobao down — but the biggest obstacle from 1 trillion to 3 trillion yuan is logistics."
+
+So logistics and e-commerce, the "Tongda couriers" and Alibaba — they are virtually interdependent, like lips and teeth. And the main source of future business growth will be cross-border and rural e-commerce.
+
+According to the National Bureau of Statistics, the transaction volume of China's cross-border e-commerce has grown by more than 25% every year since 2010, and is expected to reach 6.5 trillion yuan this year. By 2017, the share of cross-border e-commerce in import and export trade is projected to grow from 6.3% in 2010 to 20.5%, reaching a scale of 8 trillion yuan.
+
+Alibaba is accelerating its moves in this business. At present, its cross-border operations are divided into an export business centered on AliExpress (a B2C trading platform for overseas individual consumers) and an import business centered on Taobao Global and Tmall Global.
+
+![](http://img.qdaily.com/uploads/20160702141619LkRpYnqbZ8Wf2cja.jpg-w600)
+
+![Image from [hhczy.com](http://info.hhczy.com/article/20141029/23767.shtml)](http://img.qdaily.com/uploads/20160702141619T4hRyCMPOuBkZ70U.jpg-w600)
+
+Typically, when a parcel is shipped from overseas into China, the logistics solution most often used today is a "stitched-together" one: an overseas logistics company handles the overseas leg, and once the parcel enters China, a local Chinese logistics company handles the domestic leg. For ordinary courier companies, the most direct way to win cross-border e-commerce orders is to partner with Alibaba's Cainiao Network.
+
+There are exceptions. SF Express, for instance, has 20 warehouse networks around the world and has set up bonded warehouses in Hangzhou, Guangzhou and Ningbo. What it wants to do is break past Cainiao Network and Alibaba, connecting directly with overseas logistics partners to keep cross-border parcels flowing smoothly along their logistics routes. The cross-border e-commerce platform Fengqu Haitao (formerly SF Haitao) is betting on exactly the room for growth this market has in store.
+
+The active players in the cross-border e-commerce market also include JD.com Worldwide, Amazon Overseas Store, Matao, Yangmatou, Xiaohongshu and others — and last year's much-hyped Black Friday benefited from this very market.
+
+![Amazon Overseas Store currently offers about 10 million products; image from [china.com.cn](http://life.china.com.cn/2016-03/02/content_37918941.htm)](http://img.qdaily.com/uploads/20160702141620Ov3gR2tAMD7LPxza.jpg-w600)
+
+For the "Tongda couriers," establishing a partnership with Cainiao Network as early as possible — before fiercer competition arrives in the cross-border e-commerce market — can secure a share of that business's future growth.
+
+Rural e-commerce and rural logistics are the same story.
+
+[In 2014, the total volume of China's rural online-shopping market reached 180 billion yuan](https://cunzhaomu.taobao.com/?spm=a3127.7757881.a21517h.3.RoP5Ku); by 2016, that market is expected to surpass 460 billion yuan — more than the total GDP of Hainan Province in 2015.
+
+In 2014, Alibaba launched its Rural Taobao service, building a second-level domain called "Rural Taobao" under the Taobao website. The platform's goods are dedicated to rural consumers, and every village has one or two "Rural Taobao partners," who help rural consumers place orders, complete payment, and send and receive parcels.
+
+![An Alibaba Rural Taobao service station; image from [raoping.gov.cn](http://www.raoping.gov.cn/Item/23444.aspx)](http://img.qdaily.com/uploads/20160702141620fBl2XcxwN8SY4qLv.jpg-w600)
+
+In the view of Shen Jianfeng, the Cainiao Network executive in charge of rural logistics operations, the only player with a resource advantage in rural areas is China Post. But because rural consumers' orders are not so "standardized" — they frequently buy bulky items like mahjong tables and shower cabins — China Post has yet to find an efficient logistics solution.
+
+That has become the opportunity Cainiao Network wants to seize. Shen Jianfeng told QDaily that Alibaba's rural logistics process is also a "stitched-together" one: parcels are delivered by national courier companies to the county level, and Cainiao Network then organizes the county-to-village logistics resources to complete the final delivery.
+
+For now, courier companies like the "Tongda couriers" stay out of the rural leg of delivery. But as the rural e-commerce market rises, there's no guarantee they won't be tempted. Moreover, before parcels even reach the countryside, they must pass through the courier companies' logistics centers above the county level — and more orders mean more revenue.
+
+![](http://img.qdaily.com/uploads/20160702141621ehFKyU8t9EWPo7jL.jpg-w600)
+
+Alibaba is not the only company laying out rural logistics. In 2015, JD.com announced it would recruit 10,000 rural promoters and planned to build 500 service centers at the county level. SF Express started laying out its rural network even earlier, in 2014 — though its problem may lie in the difficulties facing its own e-commerce operation, and as Cainiao Network expands, the headroom SF once had in rural logistics will also shrink.
+
+You see, in the end, this is still a question of occupying resources and grabbing first-mover advantage in the market. And what ultimately gets compared is efficiency.
+
+## So, can Cainiao Network actually improve logistics efficiency?
+
+Cainiao Network has always stressed to the outside world that it is a "data company." So once it holds the data, what exactly can it do?
+
+"Improving courier companies' service quality and efficiency" is Cainiao Network's official answer.
+
+According to Niu Zhijing, in 2015 Cainiao Network launched a feature called "Eagle Eye." By plugging into the operating networks of courier companies, it screens out parcels that have gone undelivered for a long time and pushes each outlet's "undelivered parcels" information to the courier companies' headquarters, helping headquarters identify the operating efficiency and service quality of each outlet.
+
+Previously, private courier companies like the "Tongda couriers" had no efficient information-management systems; they cared more about how much revenue each outlet could contribute each month than about operating efficiency and service quality. Of course, for Alibaba, better last-mile delivery quality also means a better consumer experience on Taobao and Tmall — which is the original intent behind doing all this.
+
+There is also a platform called the "electronic waybill," which lets sellers enter all parcel information online, from their computers, into the systems of courier companies (which share it with Cainiao Network), replacing the manual writing and manual data entry of traditional express delivery. In the past, the first step for a merchant (seller) shipping goods was to phone a courier company to schedule a pickup; only after the courier arrived would they learn the shipment's size, scale and packing requirements. At the same time, the traditional workflow required sellers to fill out waybills by hand, and parcels had to be collected into a business outlet and manually logged before entering the transit process.
+
+![Electronic waybills are printed on thermal paper, eliminating the need to hand-write shipping information; image from [siilu.com](http://www.siilu.com/20140513/98922.shtml)](http://img.qdaily.com/uploads/20160702141622TLBA4UNlVOwpRJoG.jpg-w600)
+
+Once the electronic waybill is in use, couriers know the number and scale of parcels to be collected before arriving at the pickup location. Because parcel information is known at the moment of entry, couriers can make advance judgments about transport vehicles and packing materials, and in extreme cases (such as an unusually large pickup) can skip the business outlet altogether (since manual entry is no longer needed) and send goods directly to the transit warehouse, saving transshipment costs and improving transport efficiency. For courier companies, this means lower labor, management and transport costs.
+
+Earlier still, Cainiao Network had released a service that forecasts order flows for courier companies; by predicting parcel volumes, it helps them allocate logistics resources and avoid "warehouse blowouts." On this point, you can tell from the past year or two of "Double 11" that it has been somewhat effective.
+
+That said, Tmall's reputation on logistics still doesn't measure up to JD.com, which built its own logistics network.
+
+## Cainiao Network is Alibaba's push to integrate e-commerce and logistics — it will make Alibaba more like Amazon
+
+At the end of the day, everything Cainiao Network does is still about helping Alibaba transform into a platform that integrates e-commerce and logistics.
+
+Amazon, founded in 1995, was the first to prove the efficiency of e-commerce-logistics integration, which allowed it to surpass Walmart in 2015 and become America's most valuable retailer by market capitalization. Even now, Amazon spends tens of billions of dollars a year on logistics.
+
+Beyond that, in 2007 Amazon formally began offering outsourced logistics services to third-party sellers, providing a full chain of services from warehousing to picking, packing, shipping and delivery, and charging third-party sellers warehousing and fulfillment fees in return — turning logistics costs into a source of profit. Today, goods sold by third parties account for 40% of Amazon's annual sales.
+
+![An Amazon logistics center; image from [independent.ie](http://www.independent.ie/incoming/article29843637.ece/ALTERNATES/h342/Amazon%20Germany%20Strike%20App.jpg)](http://img.qdaily.com/uploads/20160702141622xDORoTAfMiHEgVrk.jpg-w600)
+
+JD.com is following exactly the Amazon model, and building its own logistics has earned it a solid reputation. JD.com currently has seven logistics centers nationwide and operates 196 large warehouses across 46 cities. According to its official website, it offers next-day delivery in 151 cities, and in another 23 cities offers "211 timed delivery" (in-stock orders placed before 11 a.m. — 10 a.m. in some cities — are delivered the same day; in-stock orders placed before 11 p.m. are delivered by 3 p.m. the next day).
+
+Now, Cainiao Network can also bring Tmall closer to that model.
+
+In 2015, Cainiao Network acquired Amazon's warehouses in East China. Beyond getting Cainiao Network into the Shanghai–East China market, where land is hard to acquire, the greater significance of this acquisition was giving Cainiao Network access to Amazon's most advanced technology and operating capabilities.
+
+Within Tmall, the self-operated Tmall Supermarket is the first vehicle for this e-commerce-logistics integration. Tmall Supermarket has already built supermarket logistics distribution centers in seven cities, including Shanghai, Tianjin and Guangzhou, offering same-day delivery in those seven cities and next-day delivery in 90 cities.
+
+![](http://img.qdaily.com/uploads/20160702141623hNkn9TMeJRcLz5dG.jpg-w600)
+
+Filling in the logistics shortfall helps Alibaba build its competitiveness.
+
+For example, as electronic waybills spread, Cainiao Network will collect parcel data at three nodes — sellers, courier companies and consumers — and from that calculate demand for goods in core cities, forecasting sales for sellers. Last "Double 11," Cainiao Network used its massive data to predict in advance which products would sell hot in which regions, and on that basis allocated inventory to warehouses at every level and replenished stock in time, shortening the time from a consumer placing an order to signing for the goods.
+
+According to Cainiao Network's plans, it will prioritize providing warehousing and fulfillment services to large merchants in six categories: major appliances, small appliances, fresh groceries, apparel, beauty and personal care, and fast-moving consumer goods. After reaching a strategic partnership with Suning, Cainiao Network expects to offer two-hour delivery of electronics and home-appliance products in 150 cities in the future.
+
+## What should Cainiao be worth?
+
+Logistics, as a traditional business, has never been an easy job — and that holds true even when Alibaba does it. Cainiao Network, for instance, spent a full year building its electronic waybill system after its founding, which is proof enough of how time-consuming it is to develop a logistics information-management system. So let's return to the original question: the big data Cainiao Network wants to run cannot work without the support of 1.7 million couriers.
+
+Cainiao Network's future valuation has room to fluctuate. Compared with its relatively predictable traditional e-commerce business, things may not be as rosy as imagined. From Alibaba's US listing on September 19, 2014 to the publication of this article, its share price has fallen from US$92.7 to US$76.25, at one point dipping below US$60. Investors see the slowdown of China's economic growth as the biggest factor.
+
+As for the other two future growth areas: according to Alibaba's fiscal 2015 annual report, e-commerce revenue from within China accounted for 82.59% of the group's total revenue, while cross-border e-commerce was under 9%. On rural e-commerce, Rural Taobao's transaction volume last "Double 11" was 200 million yuan — about 1/450 of Tmall's — so its contribution to Alibaba's e-commerce business is still limited. At the same time, it does have competitors in both cross-border and rural e-commerce.
+
+How much Cainiao should be worth will perhaps only become clearer when more people figure out its commercial value and significance.
+
+Charts: Yuyao Lin
+
+Cover image from [hubspot.net](http://cdn2.hubspot.net/hubfs/435785/ThinkstockPhotos-471429800_cargo_truck_on_highway.jpg) and [ahlsell.com](http://www.ahlsell.com/upload/images/pressimages/Ahlsell_logistik_2.jpg)

@@ -1,0 +1,130 @@
+@@QD_TITLE@@
+Why Is Hanyu Pinyin Always So Awkward? | Elephant Guild
+@@QD_EXCERPT@@
+The Hanyu Pinyin that Chinese people use every day keeps causing embarrassment with its peculiar spelling rules. Why, for example, does Beijing have two English spellings, Peking/Beijing, while Shanghai has only one?
+@@QD_BODY@@
+The Hanyu Pinyin that Chinese people use every day keeps causing embarrassment with its peculiar spelling rules. Why, for example, does Beijing have two English spellings, Peking/Beijing, while Shanghai has only one?
+
+Hanyu Pinyin is an indispensable auxiliary tool for Chinese people. It is needed for learning Chinese, for processing documents and certificates, and for living abroad.
+
+But it causes no end of frustration — foreigners never seem to get used to its pronunciation. Few foreigners can read Mr. Xing ("criminal") correctly; Miss Quan may well be turned into Miss Guan; and Beijing's "Fuxingmen" has it worst of all — the spelling Fuxing easily invites unflattering associations.
+
+Even famous universities seem to resist Hanyu Pinyin. Peking University refuses to be Beijing University; Tsinghua University goes by Tsinghua; and Xiamen University takes the cake, calling itself the baffling Amoy University.
+
+![Yenching University](http://img.qdaily.com/uploads/20160702131329AOxXe9GkK7HQZvwm.jpg-w600)
+
+Why did Hanyu Pinyin turn out this way? And where did those university names come from?
+
+## Who Uses Pinyin
+
+To explain why pinyin is the way it is, you first need to know what pinyin is for.
+
+Different countries have different writing systems. Whenever you come into contact with people who use a different script, it becomes essential — for trade, cultural exchange, or even learning the other side's language — to transcribe your own writing into the form of another script.
+
+For most major alphabetic scripts, the letters map onto one another fairly clearly, so designing a transcription scheme is relatively easy. In ancient Rome, where Romans and Greeks interacted constantly, a standardized method of writing Greek words in the Latin alphabet emerged; conversion between the two scripts was almost fully automatic — the Greek letters Γ, Δ, Η, Θ, Ξ, Ψ became G, D, E, TH, X, PS in Latin.
+
+But Chinese characters are not a purely phonetic script, so mapping them one-to-one onto an alphabet is unrealistic.
+
+Before modern times, Chinese people themselves rarely had any need for pinyin — representing Chinese with an alphabetic script was uncommon in history. It generally happened only among communities that, for one reason or another, were cut off from the mainstream of Han culture. For instance, during the period when Dunhuang was under Tibetan occupation, local Han people for a time wrote Chinese with Tibetan letters; and some Hui people in the northwest used Chinese written in the Arabic alphabet for internal correspondence — the so-called Xiao'erjing.
+
+![The Tang dynasty folk song 《Youjiangle, Fanlongzhou》 ("Joyful River Cruise, Sailing the Dragon Boats"), with Chinese written in Tibetan letters](http://img.qdaily.com/uploads/201607021313291NXcYalikgrUFO3e.jpg-w600)
+
+As a result, the early designers and users of Hanyu Pinyin were mostly foreigners.
+
+As early as the Han dynasty, China was in contact with ethnic peoples who used different scripts. These peoples recorded Chinese pronunciations in their own writing, producing the embryonic forms of pinyin. Sogdian merchants traveling in China, for example, spelled "shop" as tym, while Arab merchants coming to Canton wrote Guangzhou as khanfu (the Cantonese pronunciation).
+
+![Ancient Sogdian letters](http://img.qdaily.com/uploads/20160702131330reT9YRn0imCVLopv.jpg-w600)
+
+But these early transcriptions were scattered and unsystematic — they merely rendered individual personal names, place names, or loanwords as needed; no one romanized Chinese as a whole.
+
+The real romanization of Chinese got on track thanks to the Western missionaries who came to China in succession starting in the Ming dynasty.
+
+To proselytize among the Chinese, Western missionaries eagerly studied Chinese. Spoken Chinese might have been manageable, but the characters had an extremely high barrier to entry. So the missionaries hit on the idea of spelling Chinese with the Latin alphabet and compiling dictionaries to aid learning.
+
+The first missionaries to romanize Chinese systematically were Matteo Ricci and Michele Ruggieri. Between 1583 and 1588 they compiled a Chinese-Portuguese dictionary using a romanization scheme of their own design. The scheme laid the foundation for later missionary romanization, but itself never spread widely and was soon forgotten.
+
+![Matteo Ricci not only devised a romanization but also improved the accuracy of the lunar calendar](http://img.qdaily.com/uploads/20160702131330cCFTkejWZN9lyYIU.jpg-w600)
+
+Far more influential was 《Xiru Ermu Zi》 (*An Aid to the Eyes and Ears of Western Scholars*), published in 1626 by the missionary Nicolas Trigault and reflecting the pronunciation of late-Ming Mandarin. Because it was created to make Chinese easier for Westerners to learn, its romanization hewed close to French and Latin orthography: the initial of "ran" was written with j, and velar nasal codas were written with -m ("shuang" was spelled xoam).
+
+![《Xiru Ermu Zi》 is an important source for the pronunciation of southern Mandarin in the mid-to-late Ming dynasty](http://img.qdaily.com/uploads/20160702131331rT8QnLoJkC6MyF2w.jpg-w600)
+
+After Trigault, missionaries designed their own romanizations one after another. Like Trigault's, these were chiefly meant to make things convenient for Western learners, so the spellings varied with the missionary's own origins and where in China he was based. The very same character "zhuang" was written chuang by the English, tchouang by the French, and — the Dutch topping them all — tschoeang.
+
+![Zhuangzi's works translated into French; note the author's name in the byline column, the French "Tchouang Tseu" for Zhuangzi](http://img.qdaily.com/uploads/201607021313314EvsLXdckDTfCwHJ.jpg-w600)
+
+Still, these schemes shared common features. Unaspirated and aspirated voiceless consonants in Chinese were distinguished by diacritics: the initials of "bo"/"po," "duo"/"tuo," and "ge"/"ke" were written p/p', t/t', and k/k'. And letters such as b and d, which in Western languages generally represent voiced sounds, were often abandoned because Mandarin had no strictly corresponding sounds.
+
+Large numbers of missionaries in non-Mandarin regions also devised various dialect romanizations. In Min-speaking areas in particular, the Foochow Romanized script for the Fuzhou dialect and Pe̍h-ōe-jī for Southern Min became widespread and were used as teaching tools in local schools. Min differs considerably from other Chinese varieties; many words cannot be written in characters, and writing the colloquial language in characters is difficult, so many local people even adopted these romanizations as their main medium of written communication. As late as the 1950s, Dr. Lin Qiaozhi was still drafting her scripts for radio broadcasts to Taiwan in missionary-created Pe̍h-ōe-jī.
+
+![A Hainanese edition of *Genesis*, reflecting the early accent of Haikou/Fucheng](http://img.qdaily.com/uploads/20160702131332OLfHPNlS9Xd4znZM.jpg-w600)
+
+But the spread of all these systems was highly limited — they usually survived only for a time and in a place, and were not up to serious use. A romanization scheme with truly nationwide influence did not arrive until the late 19th century.
+
+In 1892, the Englishman Herbert Giles revised and perfected the romanization that Thomas Wade had devised in 1859, producing "Wade-Giles." Wade-Giles already resembles modern Hanyu Pinyin in many respects — for example, it uses ao for "ao" and ch' for the initial of "chan." Compared with the many earlier schemes, Wade-Giles was concise and systematic, convenient and accurate in representing sounds, and quickly became the first widely used romanization of Chinese.
+
+![Thomas Wade's 《Yuyan Zi'er Ji》 recounts his experience of learning Chinese](http://img.qdaily.com/uploads/20160702131332JbWIxsu3MC4TadzU.jpg-w600)
+
+Although Wade-Giles was the most common romanization before the current Hanyu Pinyin, spelled strictly by its rules Beijing would be Peiching, Xiamen Hsiamên, and Tsinghua Ch'inghua — none of which are the names these institutions actually use.
+
+So where did the spellings Peking, Tsinghua, and Amoy come from?
+
+In 1906, the Imperial Postal Joint Conference held in Shanghai called for the unification and standardization of the Latin-alphabet spelling of Chinese place names to facilitate communications. Even before that, Robert Hart, the British Inspector General of Customs, had instructed local postal directors to fix the romanized spellings of place names. Hart hoped each locality would be spelled according to its own pronunciation, but the local postmasters generally fobbed him off with the already established Wade-Giles spellings.
+
+![Sir Robert Hart, Inspector General of Customs in the late Qing, who once remarked that he felt more like a Chinese. This portrait of Sir Robert Hart was published in *Vanity Fair*; the "Jianghai Customs" seal in the upper left is printed in the wrong orientation](http://img.qdaily.com/uploads/20160702131332sBCY6tNHJLkj2Ua0.jpg-w600)
+
+The upper ranks of the Chinese postal service were controlled by the French at the time. Wade-Giles was thoroughly English in flavor, which the French were none too happy about, so at the 1906 conference a hybrid romanization scheme was ultimately settled on. This scheme preserved a large number of phonetic distinctions that had already disappeared from Beijing speech but still survived in old Mandarin: it distinguished the sharp and rounded (jian-tuan) initials — Tsingtao for Qingdao, Chungking for Chongqing — and retained the entering tone — Wusih for Wuxi, Kwangsi for Guangxi. For place names in the Min and Cantonese regions, following Hart's instructions, local pronunciations were generally used: Fatshan for Foshan, Shiuhing for Zhaoqing, Amoy for Xiamen (in today's Xiamen dialect "gate" is read mng, but early Xiamen speech leaned more toward Zhangzhou, where it is read mui — hence "moy"). This scheme is the so-called Postal romanization.
+
+![Yuen Ren Chao, the father of Chinese linguistics, complained that in Postal romanization his hometown Changzhou and Zhangzhou in Fujian were both spelled Changchow, with no way to tell them apart](http://img.qdaily.com/uploads/20160702131333yIFKWlLw5Hmduv1b.jpg-w600)
+
+Why are the English names of Peking University, Tsinghua University, and Xiamen University so peculiar? Precisely because they all adopted Postal spellings. Tsinghua is "Qinghua" in old Mandarin spelling, and Amoy is "Xiamen" in the Southern Min language.
+
+## Exonyms
+
+Peking is the most special case of all. It is neither the old-Mandarin pronunciation of Beijing nor a dialect reading — it is Beijing's exonym. Under the rules of Postal romanization, cities that already had exonyms kept their existing ones.
+
+What is an exonym?
+
+An exonym is a name in a foreign language that differs from the name in the source language. The phenomenon is hardly rare: in English, China is not called Zhongguo; Egypt is not called Miṣr; and Germany is called Germany, not Deutschland, its own German name.
+
+Exonyms usually arise because a place is so important that, over long use, speakers of the foreign language stop following the local name and use another instead.
+
+![In English, the vast majority of foreign place names follow the spelling of the source language, but the capitals of Europe are often exceptions. France and Germany are close to Britain, and their famous cities are well known to the English and often have exonyms; Italy, long Europe's cultural center and a hub of trade, has no shortage of them either; and India, for centuries a British colony with close ties to Britain, has exonyms for many of its large cities in English](http://img.qdaily.com/uploads/20160702131333thTx9SX20lyKpBoN.jpg-w600)
+
+By the same token, London, Britain's most famous city, has its own exonyms in many European languages — Londres in French and Spanish, Londra in Italian.
+
+Exonyms are a universal phenomenon, and China's great cities often have their own special names in foreign languages.
+
+Around 311 CE, during the upheaval of the Five Hu, all of China fell into chaos. A group of Sogdian merchants doing business in China wrote letters home to Samarkand. These letters, written in Sogdian, were intercepted west of the Yumen Pass and never reached their destination.
+
+One letter, sent by a Sogdian merchant living in Jincheng (modern Lanzhou) and addressed to his boss, reported roughly that a great upheaval had broken out in China... the people in Jiuquan and Guzang were safe... a great famine had struck Luoyang... the last emperor had also fled Luoyang... the palaces and city walls of Luoyang had all been burned down and were gone. Luoyang is no more! Ye is no more! The Xiongnu have even occupied Chang'an... they were the emperor's subjects only yesterday! We do not know whether the remaining Chinese can drive them out of Chang'an and out of China... four years ago our caravan was in Luoyang, where all the Indians and Sogdians starved to death...
+
+![Inside the red box: "Luoyang is no more! Ye is no more!"](http://img.qdaily.com/uploads/20160702131334rUF2WHJQASlRc8PO.jpg-w600)
+
+The way the letter handles Chinese place names is fascinating: Luoyang is written srγ, Chang'an 'xwmt'n, Ye 'nkp', Guzang kc'n, and Jincheng kmzyn.
+
+It is plain that the Sogdian names for Ye, Guzang, and Jincheng are all transcriptions of the Old Chinese pronunciations of those place names — only Chang'an and Luoyang, the two most important cities in China at the time, are referred to by exonyms.
+
+This Sogdian letter is no isolated case. The Sogdian text of the epitaph from the Northern Zhou tomb of Shi Jun in Xi'an still uses the spelling 'xwmt'n for Chang'an; seventh-century Byzantine sources call Chang'an Χουβδάν (Khubdan); later Persian and Arabic books call it Khumdan; the eighth-century 《Stele on the Spread of the Luminous Religion of Daqin in China》 (the *Nestorian Stele*) has Khoumdan for Chang'an and Sarag for Luoyang; and the Tang monk Li Yan's 《Fanyu Zaming》 (*Miscellaneous Sanskrit Names*) shows that Sanskrit at the time called Chang'an "Kumudana" (transcribed ju-mu-na-nang) and Luoyang "Saraga" (transcribed suo-luo-e).
+
+![Syriac script on the 《Stele on the Spread of the Luminous Religion of Daqin in China》](http://img.qdaily.com/uploads/20160702131334rTESZiXftHORL1lJ.jpg-w600)
+
+How the exonyms for Chang'an and Luoyang arose is still not settled; some research holds that Khumdan comes from the Old Chinese pronunciation of Xianyang, while Sarag may be connected to Seres, the ancient Western name for China. Either way, the very existence of such exonyms for the two cities attests to their importance in medieval China.
+
+From the late imperial period onward, Beijing, as the capital, naturally accumulated the most exonyms of any Chinese city: Peking in English, Pékin in French, Pechino in Italian, Pequín/Pekín in Spanish. The other Chinese city with many exonyms is Guangzhou: Canton in English, French, and Italian, Cantón in Spanish, and Cantão in Portuguese (all derived from "Guangdong") — no doubt connected to Guangzhou's history as a great trading port.
+
+![The Canton Tower's official English name was finally confirmed as Canton Tower](http://img.qdaily.com/uploads/201607021313354PnDSwFXC8qtcT7J.jpg-w600)
+
+By contrast, although Shanghai rapidly developed into China's largest city after the nineteenth century, its relatively short history gave it no chance to develop an exonym. Shanghai University therefore could not give itself a distinctive foreign name the way Peking University did.
+
+![Shanghai has always been just Shanghai](http://img.qdaily.com/uploads/20160702131335PsHBmVdIqRNJl2xT.jpg-w600)
+
+But Shanghainese soon no longer had to worry about this historical shortcoming.
+
+In 1957, the new Hanyu Pinyin scheme was unveiled, and the purpose of pinyin changed fundamentally. Its goal had been nothing less than eventually replacing Chinese characters; when that proved unrealistic, the mission shifted to helping with literacy and promoting Mandarin. Hanyu Pinyin therefore served primarily the country's own people. Whether its spelling suited foreign habits hardly mattered; the simplicity and efficiency of the system became the greater consideration. The new pinyin used all 26 letters, and how foreigners might read Fuxing, Xing, or Quan was never part of the equation.
+
+Although Hanyu Pinyin was primarily for domestic use, it was also entrusted with the glorious mission of monopolizing the Latin transcription of Chinese — starting in 1978, foreign-language publications published in China had to use Hanyu Pinyin for the transcription of Chinese proper nouns, and in 1982 the International Organization for Standardization recognized Hanyu Pinyin as the standard for the romanization of Chinese. At China's insistence, all Latin transcription of Chinese proper names was to follow Hanyu Pinyin, and exonyms such as Peking and Canton were gradually replaced by Beijing and Guangzhou.
+
+And so — at least in their foreign names — the millennia-old imperial capital and the hundred-year-old Magic City were finally on equal footing.
+
+*** This article comes from the WeChat official account "Elephant Guild" (http://www.idaxiang.org/). Knowledge, insight, and experience — it is neither traditional media nor the currently fashionable new media; it is a product that enriches our knowledge, insight, and experience with original content.**
