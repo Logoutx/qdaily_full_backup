@@ -110,5 +110,24 @@
   ],
   "14907": [
     "Grok HIGH (fixed in place): Beats bundle was a hope, not an offer; also 2 LOW attribution notes in Yu Yayun quote"
+  ],
+  "13823": [
+    "grok fidelity review LOW (not fixed, for human): 天津滨海新区港务集团瑞海物流 — EN drops 港务集团 (Tianjin Port Group), leaving only Ruihai Logistics, in en/13823.json"
+  ],
+  "13820": [
+    "grok fidelity review HIGH x2: polish silently corrected two source geography slips (source calls Sarawak 西马, and puts Sabah 同属西马半岛) — reverted both to the source wording per preserve-source-errors rule in en/13820.json — fixed 2026-10-04",
+    "grok fidelity review LOW (not fixed, for human): 伊班族传统的天葬器物 (sky-burial objects) rendered as generic \"funerary objects\" in en/13820.json"
+  ],
+  "13018": [
+    "Grok review: taxi-war backers reversed vs source (Tencent/Kuaidi, Alibaba/Didi) — fixed in place, verify"
+  ],
+  "13092": [
+    "Grok review: 灌装 rendered as bottled in 40-city rollout sentence — fixed to draft, verify"
+  ],
+  "13146": [
+    "Grok review: 悠悠小秘 rendered as 'Youyou Xiaomi' (collides with Xiaomi) — renamed Youyou Little Secretary, verify"
+  ],
+  "13144": [
+    "Grok review: source's South America 'corrected' to Latin America — restored South America per fidelity rule, verify"
   ]
 }
