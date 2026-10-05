@@ -1,33 +1,98 @@
 {
-  "48367": [
-    "20 Chinese chars remain outside 《》 titles"
+  "10576": [
+    "Grok HIGH: source says 'OS X 和 Mac 两个系统并没有合一' (evident source slip); EN renders 'OS X and iOS' as intended meaning — human call"
   ],
-  "48651": [
-    "9 Chinese chars remain outside 《》 titles"
+  "10924": [
+    "Grok HIGH: killer-move attribution reversed ('their rivals'); fixed in this batch to 'these competitors', verify"
   ],
-  "50831": [
-    "no en/50831.json (did not translate)"
+  "13018": [
+    "Grok review: taxi-war backers reversed vs source (Tencent/Kuaidi, Alibaba/Didi) — fixed in place, verify"
   ],
-  "63565": [
-    "no en/63565.json (did not translate)"
+  "13092": [
+    "Grok review: 灌装 rendered as bottled in 40-city rollout sentence — fixed to draft, verify"
   ],
-  "63539": [
-    "no en/63539.json (did not translate)"
+  "13144": [
+    "Grok review: source's South America 'corrected' to Latin America — restored South America per fidelity rule, verify"
   ],
-  "63538": [
-    "no en/63538.json (did not translate)"
+  "13146": [
+    "Grok review: 悠悠小秘 rendered as 'Youyou Xiaomi' (collides with Xiaomi) — renamed Youyou Little Secretary, verify"
   ],
-  "63509": [
-    "no en/63509.json (did not translate)"
+  "13820": [
+    "grok fidelity review HIGH x2: polish silently corrected two source geography slips (source calls Sarawak 西马, and puts Sabah 同属西马半岛) — reverted both to the source wording per preserve-source-errors rule in en/13820.json — fixed 2026-10-04",
+    "grok fidelity review LOW (not fixed, for human): 伊班族传统的天葬器物 (sky-burial objects) rendered as generic \"funerary objects\" in en/13820.json"
   ],
-  "63386": [
-    "no en/63386.json (did not translate)"
+  "13823": [
+    "grok fidelity review LOW (not fixed, for human): 天津滨海新区港务集团瑞海物流 — EN drops 港务集团 (Tianjin Port Group), leaving only Ruihai Logistics, in en/13823.json"
   ],
-  "50436": [
-    "20 Chinese chars remain outside 《》 titles"
+  "14646": [
+    "Grok HIGH (fixed in place): screenwriter/novelist complaint attribution reversed; verify quote"
   ],
-  "27680": [
-    "grok fidelity review HIGH: polarity flip on marketing-spend sentence (\"不仅是...专长\" rendered as \"not a Chinese specialty\") — fixed directly in en/27680.json"
+  "14907": [
+    "Grok HIGH (fixed in place): Beats bundle was a hope, not an offer; also 2 LOW attribution notes in Yu Yayun quote"
+  ],
+  "15599": [
+    "Grok HIGH (fixed in place): 候车室 no-waiting-rooms claim + 接送机 airport-only; verify phrasing"
+  ],
+  "16274": [
+    "grok HIGH: 《心迷宫》 was rendered as *Cry Me a Sad River* (wrong film); fixed to *The Coffin in the Mountain* 2026-10-04, please verify the renaming passage reads sensibly"
+  ],
+  "18423": [
+    "grok fidelity review HIGH: EN silently changed source's 'Airbnb CEO Jonathan Mildenhall' to 'CMO' — restored source wording 'CEO' directly in en/18423.json"
+  ],
+  "21079": [
+    "grok fidelity review HIGH: 贝纳颂 (Uni-President's canned coffee Bernachon) rendered as \"Barista\", attaching the K11 vs neighborhood-store facing comparison to the wrong brand — fixed to Bernachon (2 occurrences) in en/21079.json — fixed"
+  ],
+  "21112": [
+    "grok fidelity review LOW (not fixed, for human): 日本歌曲《夕烧》和《竹林》 (Japanese songs) rendered as \"Japanese-style songs\", which also recasts the source's own examples, in en/21112.json"
+  ],
+  "22256": [
+    "grok fidelity review HIGH: source titles the song 《美丽的坏东西》 (The Best Damn Thing); polish retitled it \"Girlfriend\" — reverted to *The Best Damn Thing* per source in en/22256.json — fixed"
+  ],
+  "22915": [
+    "grok fidelity review HIGH: 收购 SDS 造成 8440 万损失 rendered as the purchase price (\"cost Xerox US$84.4 million\") — fixed to \"saddled Xerox with a loss of US$84.4 million\" in en/22915.json — fixed"
+  ],
+  "23014": [
+    "grok fidelity review HIGH: source's 2015 US top-five list says 《侏罗纪公园》 (a source error for Jurassic World); polish silently corrected it — reverted to *Jurassic Park* per preserve-source-errors rule in en/23014.json — fixed"
+  ],
+  "24212": [
+    "Grok HIGH: source 远山商社 rendered as Haruyama Shoji — verified deliberate source-typo fix (president 治山正史 = Masafumi Haruyama, HALSUIT is Haruyama's brand); kept as is"
+  ],
+  "24492": [
+    "grok fidelity review HIGH (verified false positive via WebSearch): flagged 《勾引陌生人》 as the 2007 film Perfect Stranger, but Paul Chitlik's real documented credits (Wikipedia) include the sitcom Perfect Strangers, matching the source's own 电视剧 listing — left unchanged, no fix needed"
+  ],
+  "25068": [
+    "grok fidelity review HIGH: source lists 携程旅行 (Trip.com Group per glossary) among Baidu's new businesses; draft substituted Qunar (a different company) — fixed directly in en/25068.json"
+  ],
+  "25446": [
+    "grok fidelity review HIGH: subject/object reversed — source has West Bund Art Center adding Ontimeshow as a MODE satellite venue; draft made Ontimeshow the name the center was given — fixed in en/25446.json"
+  ],
+  "25450": [
+    "grok fidelity review HIGH: 今年夏天 (this summer) rendered as \"that summer\" (same year as last year's BMW lease), collapsing two different years into one — fixed in en/25450.json"
+  ],
+  "25549": [
+    "grok fidelity review HIGH: source says 澳洲 (Australian); prior polish \"corrected\" this to Austrian, violating preserve-source-errors rule — reverted to Australian in en/25549.json"
+  ],
+  "26472": [
+    "grok fidelity review LOW (not fixed, for human): 抵得上 (equals/matches) rendered as worth more than, overstating Ele.me's Series D vs. the other companies' combined raises, in en/26472.json"
+  ],
+  "26490": [
+    "grok fidelity review HIGH: Shenzhen club 逗伴 is a homophone of, but different company from, the review site Douban named elsewhere in the same article — disambiguated with a parenthetical gloss in en/26490.json"
+  ],
+  "26543": [
+    "grok fidelity review HIGH: source says his conclusions were merely similar to the reasons Kawakubo/Yamamoto got the Japan shock label; draft made the conclusions explain that label — fixed in en/26543.json"
+  ],
+  "26562": [
+    "grok fidelity review HIGH: 有生之年系列 (a joke about a sequel so delayed you may not live to see it) rendered as once-in-a-lifetime (a rare masterpiece) — fixed to will-I-live-to-see-it in en/26562.json",
+    "grok fidelity review LOW: 空格 (marking a literal space in a Weibo handle) rendered as the word Space, turning @John Knight into @John Space Knight — fixed in en/26562.json"
+  ],
+  "26727": [
+    "grok fidelity review LOW (not fixed, for human): source states the actress's suicide as fact; English adds apparent, in en/26727.json"
+  ],
+  "26779": [
+    "grok fidelity review LOW (not fixed, for human): unattributed 2015 Instagram ad-revenue figure (6亿美元) is worded as Instagram itself reporting it, in en/26779.json"
+  ],
+  "26827": [
+    "grok fidelity review LOW (not fixed, for human): source says the crew used Nantong because they filmed there; English makes that a viewer inference, in en/26827.json"
   ],
   "27053": [
     "grok fidelity review LOW (not fixed, for human): 票房失利 (box-office failure) rendered as \"lost money\", a stronger/different claim, in en/27053.json"
@@ -41,93 +106,49 @@
   "27198": [
     "grok fidelity review HIGH: 好莱坞林荫大道 (Hollywood Boulevard) mistranslated as \"Hollywood Way\" (a different Burbank street) — fixed directly in en/27198.json — fixed"
   ],
-  "26543": [
-    "grok fidelity review HIGH: source says his conclusions were merely similar to the reasons Kawakubo/Yamamoto got the Japan shock label; draft made the conclusions explain that label — fixed in en/26543.json"
+  "27680": [
+    "grok fidelity review HIGH: polarity flip on marketing-spend sentence (\"不仅是...专长\" rendered as \"not a Chinese specialty\") — fixed directly in en/27680.json"
   ],
-  "26562": [
-    "grok fidelity review HIGH: 有生之年系列 (a joke about a sequel so delayed you may not live to see it) rendered as once-in-a-lifetime (a rare masterpiece) — fixed to will-I-live-to-see-it in en/26562.json",
-    "grok fidelity review LOW: 空格 (marking a literal space in a Weibo handle) rendered as the word Space, turning @John Knight into @John Space Knight — fixed in en/26562.json"
+  "48367": [
+    "20 Chinese chars remain outside 《》 titles"
   ],
-  "24492": [
-    "grok fidelity review HIGH (verified false positive via WebSearch): flagged 《勾引陌生人》 as the 2007 film Perfect Stranger, but Paul Chitlik's real documented credits (Wikipedia) include the sitcom Perfect Strangers, matching the source's own 电视剧 listing — left unchanged, no fix needed"
+  "48651": [
+    "9 Chinese chars remain outside 《》 titles"
   ],
-  "26490": [
-    "grok fidelity review HIGH: Shenzhen club 逗伴 is a homophone of, but different company from, the review site Douban named elsewhere in the same article — disambiguated with a parenthetical gloss in en/26490.json"
+  "50436": [
+    "20 Chinese chars remain outside 《》 titles"
   ],
-  "26472": [
-    "grok fidelity review LOW (not fixed, for human): 抵得上 (equals/matches) rendered as worth more than, overstating Ele.me's Series D vs. the other companies' combined raises, in en/26472.json"
+  "50831": [
+    "no en/50831.json (did not translate)"
   ],
-  "26727": [
-    "grok fidelity review LOW (not fixed, for human): source states the actress's suicide as fact; English adds apparent, in en/26727.json"
+  "63386": [
+    "no en/63386.json (did not translate)"
   ],
-  "26779": [
-    "grok fidelity review LOW (not fixed, for human): unattributed 2015 Instagram ad-revenue figure (6亿美元) is worded as Instagram itself reporting it, in en/26779.json"
+  "63509": [
+    "no en/63509.json (did not translate)"
   ],
-  "26827": [
-    "grok fidelity review LOW (not fixed, for human): source says the crew used Nantong because they filmed there; English makes that a viewer inference, in en/26827.json"
+  "63538": [
+    "no en/63538.json (did not translate)"
   ],
-  "25450": [
-    "grok fidelity review HIGH: 今年夏天 (this summer) rendered as \"that summer\" (same year as last year's BMW lease), collapsing two different years into one — fixed in en/25450.json"
+  "63539": [
+    "no en/63539.json (did not translate)"
   ],
-  "25446": [
-    "grok fidelity review HIGH: subject/object reversed — source has West Bund Art Center adding Ontimeshow as a MODE satellite venue; draft made Ontimeshow the name the center was given — fixed in en/25446.json"
+  "63565": [
+    "no en/63565.json (did not translate)"
   ],
-  "25549": [
-    "grok fidelity review HIGH: source says 澳洲 (Australian); prior polish \"corrected\" this to Austrian, violating preserve-source-errors rule — reverted to Australian in en/25549.json"
+  "10055": [
+    "Grok HIGH: Ive eulogy quote — Chinese source mistranslated the famous original; restored Ive's authentic Oct 2011 tribute wording, and degree-honour line reworded to follow source — verify"
   ],
-  "25068": [
-    "grok fidelity review HIGH: source lists 携程旅行 (Trip.com Group per glossary) among Baidu's new businesses; draft substituted Qunar (a different company) — fixed directly in en/25068.json"
+  "10145": [
+    "Grok HIGH: lead polarity — source says doubts about Guokr's business model were shaken off (摆脱); fixed from 'answering doubts' to 'has gradually shaken off', verify"
   ],
-  "24212": [
-    "Grok HIGH: source 远山商社 rendered as Haruyama Shoji — verified deliberate source-typo fix (president 治山正史 = Masafumi Haruyama, HALSUIT is Haruyama's brand); kept as is"
+  "9953": [
+    "Grok HIGH: 彼得·希尔 rendered as Peter Thiel (article uses 彼得·泰尔 elsewhere; Thiel joined YC part-time 2015, no known 'Peter Hill' at YC) — human call"
   ],
-  "22915": [
-    "grok fidelity review HIGH: 收购 SDS 造成 8440 万损失 rendered as the purchase price (\"cost Xerox US$84.4 million\") — fixed to \"saddled Xerox with a loss of US$84.4 million\" in en/22915.json — fixed"
+  "9988": [
+    "Grok HIGH: source '梓州初年' is a corrupted era name; kept factually correct 'early Western Zhou' for the He Zun — human call"
   ],
-  "23014": [
-    "grok fidelity review HIGH: source's 2015 US top-five list says 《侏罗纪公园》 (a source error for Jurassic World); polish silently corrected it — reverted to *Jurassic Park* per preserve-source-errors rule in en/23014.json — fixed"
-  ],
-  "22256": [
-    "grok fidelity review HIGH: source titles the song 《美丽的坏东西》 (The Best Damn Thing); polish retitled it \"Girlfriend\" — reverted to *The Best Damn Thing* per source in en/22256.json — fixed"
-  ],
-  "21079": [
-    "grok fidelity review HIGH: 贝纳颂 (Uni-President's canned coffee Bernachon) rendered as \"Barista\", attaching the K11 vs neighborhood-store facing comparison to the wrong brand — fixed to Bernachon (2 occurrences) in en/21079.json — fixed"
-  ],
-  "21112": [
-    "grok fidelity review LOW (not fixed, for human): 日本歌曲《夕烧》和《竹林》 (Japanese songs) rendered as \"Japanese-style songs\", which also recasts the source's own examples, in en/21112.json"
-  ],
-  "18423": [
-    "grok fidelity review HIGH: EN silently changed source's 'Airbnb CEO Jonathan Mildenhall' to 'CMO' — restored source wording 'CEO' directly in en/18423.json"
-  ],
-  "16274": [
-    "grok HIGH: 《心迷宫》 was rendered as *Cry Me a Sad River* (wrong film); fixed to *The Coffin in the Mountain* 2026-10-04, please verify the renaming passage reads sensibly"
-  ],
-  "15599": [
-    "Grok HIGH (fixed in place): 候车室 no-waiting-rooms claim + 接送机 airport-only; verify phrasing"
-  ],
-  "14646": [
-    "Grok HIGH (fixed in place): screenwriter/novelist complaint attribution reversed; verify quote"
-  ],
-  "14907": [
-    "Grok HIGH (fixed in place): Beats bundle was a hope, not an offer; also 2 LOW attribution notes in Yu Yayun quote"
-  ],
-  "13823": [
-    "grok fidelity review LOW (not fixed, for human): 天津滨海新区港务集团瑞海物流 — EN drops 港务集团 (Tianjin Port Group), leaving only Ruihai Logistics, in en/13823.json"
-  ],
-  "13820": [
-    "grok fidelity review HIGH x2: polish silently corrected two source geography slips (source calls Sarawak 西马, and puts Sabah 同属西马半岛) — reverted both to the source wording per preserve-source-errors rule in en/13820.json — fixed 2026-10-04",
-    "grok fidelity review LOW (not fixed, for human): 伊班族传统的天葬器物 (sky-burial objects) rendered as generic \"funerary objects\" in en/13820.json"
-  ],
-  "13018": [
-    "Grok review: taxi-war backers reversed vs source (Tencent/Kuaidi, Alibaba/Didi) — fixed in place, verify"
-  ],
-  "13092": [
-    "Grok review: 灌装 rendered as bottled in 40-city rollout sentence — fixed to draft, verify"
-  ],
-  "13146": [
-    "Grok review: 悠悠小秘 rendered as 'Youyou Xiaomi' (collides with Xiaomi) — renamed Youyou Little Secretary, verify"
-  ],
-  "13144": [
-    "Grok review: source's South America 'corrected' to Latin America — restored South America per fidelity rule, verify"
+  "9501": [
+    "Grok HIGH: 部落战争 kept as Clash of Clans (2015 AWS customer-story context; 部落冲突 licensed name came later) — human call"
   ]
 }
