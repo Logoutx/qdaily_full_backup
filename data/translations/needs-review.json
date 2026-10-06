@@ -150,5 +150,11 @@
   ],
   "9501": [
     "Grok HIGH: 部落战争 kept as Clash of Clans (2015 AWS customer-story context; 部落冲突 licensed name came later) — human call"
+  ],
+  "9260": [
+    "Grok HIGH: dropped 其 made iOS 5 'the first mobile OS with built-in emoji' (source: Apple's first) — fixed in place to \"Apple's first\", verify"
+  ],
+  "8712": [
+    "Grok HIGH: 体育馆 tour rendered as 'stadium' shows, inflating venue scale — fixed in place to 'arena' (Workers' Stadium for 工体 kept), verify"
   ]
 }
