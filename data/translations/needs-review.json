@@ -156,5 +156,18 @@
   ],
   "8712": [
     "Grok HIGH: 体育馆 tour rendered as 'stadium' shows, inflating venue scale — fixed in place to 'arena' (Workers' Stadium for 工体 kept), verify"
+  ],
+  "7135": [
+    "Grok HIGH: 后者史上最卖座的电影《冰雪奇缘》 was rendered 'highest-grossing animated film ever' (silent correction of source) — fixed in place to 'highest-grossing film in the company's history', verify",
+    "Grok LOW: 愿意为子女选购 ('willing to buy') rendered as 'planned to buy' — unchanged, for human review"
+  ],
+  "5046": [
+    "Grok HIGH: '2014 跨年' police staffing (6,000) and crowd comparison were pinned to the disaster night instead of the previous year's show — fixed to 'celebration that welcomed 2014' / 'previous year's light show welcoming 2014', verify"
+  ],
+  "5119": [
+    "Grok HIGH: 8 films on 2015 lunar New Year's Day rendered as past fact; source points to the upcoming festival — fixed to future tense, verify"
+  ],
+  "4698": [
+    "Grok HIGH: theme store + app store 35M daily downloads rendered as 'each' (doubles the claim) — fixed to 'together', verify"
   ]
 }
