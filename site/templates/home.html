@@ -7,7 +7,7 @@
 </section>
 
 {% if todays_pick %}
-<h2>Today's Pick <small><a href="{{ url('daily/' ~ todays_pick.date ~ '/') }}">by Claude</a></small></h2>
+<h2>Today's Pick <small><a href="{{ url('daily/' ~ todays_pick.date ~ '/') }}">by Codex</a></small></h2>
 <ul class="article-tiles">
   {% for a in todays_pick.articles %}
   <li class="tile">

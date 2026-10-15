@@ -1,106 +1,102 @@
 {
-  "date": "2026-10-07",
-  "editor_id": "v1-auto",
-  "title": "中微子、哈利·波特与巨头合并",
+  "date": "2026-10-15",
+  "editor_id": "codex-v1",
+  "title": "如何与身边的人、技术和自然相处",
   "picks": [
     {
-      "id": 9568,
-      "url": "https://www.qdaily.org/articles/9568/",
-      "title": "「日本語」中国游客的买买买，日本人只能用“爆”形容了",
-      "publish_date": "2015-05-14",
+      "id": 14739,
+      "url": "https://www.qdaily.org/articles/14739/",
+      "title": "诸志祥逝世，他在 36 年前写了《黑猫警长》的故事",
+      "publish_date": "2015-09-10",
       "bucket": "cn-trend",
-      "hotspot": "日媒发问中国游客去哪了",
+      "hotspot": "黑猫警长喵喵喵",
+      "source": "60s-douyin"
+    },
+    {
+      "id": 51221,
+      "url": "https://www.qdaily.org/articles/51221/",
+      "title": "李嘉诚的 68 年，香港的商业史",
+      "publish_date": "2018-03-19",
+      "bucket": "cn-trend",
+      "hotspot": "李嘉诚",
+      "source": "google-trends-HK"
+    },
+    {
+      "id": 60470,
+      "url": "https://www.qdaily.org/articles/60470/",
+      "title": "为什么有人会伤害机器人？也许这是“弗兰肯斯坦综合症”",
+      "publish_date": "2019-01-22",
+      "bucket": "cn-trend",
+      "hotspot": "具身机器人规模化“上岗”",
       "source": "60s-toutiao"
     },
     {
-      "id": 15753,
-      "url": "https://www.qdaily.org/articles/15753/",
-      "title": "诺贝尔物理学奖得主，研究的是可以穿过我们身体的中微子",
-      "publish_date": "2015-10-08",
+      "id": 35444,
+      "url": "https://www.qdaily.org/articles/35444/",
+      "title": "人类第一次见到了真恐龙，但侏罗纪公园依然是幻想",
+      "publish_date": "2016-12-10",
       "bucket": "cn-trend",
-      "hotspot": "中微子是什么",
-      "source": "60s-douyin"
+      "hotspot": "中国发现侏罗纪新鸟",
+      "source": "60s-toutiao"
     },
     {
-      "id": 59952,
-      "url": "https://www.qdaily.org/articles/59952/",
-      "title": "周星驰定档大年初一的《新喜剧之王》，发布了首款预告",
-      "publish_date": "2019-01-04",
-      "bucket": "cn-trend",
-      "hotspot": "剧版喜剧之王开播",
-      "source": "60s-douyin"
-    },
-    {
-      "id": 45694,
-      "url": "https://www.qdaily.org/articles/45694/",
-      "title": "2000 年以后的中国乡村，发生了什么样的巨变？",
-      "publish_date": "2017-09-29",
-      "bucket": "cn-trend",
-      "hotspot": "印度高种姓博主游览中国农村",
-      "source": "60s-weibo"
-    },
-    {
-      "id": 52446,
-      "url": "https://www.qdaily.org/articles/52446/",
-      "title": "百老汇上演哈利·波特舞台剧，这是非音乐剧里最贵的一部",
-      "publish_date": "2018-04-24",
+      "id": 30063,
+      "url": "https://www.qdaily.org/articles/30063/",
+      "title": "既然孤独总是让人难受，为什么偶尔我们还是会想一个人待着？",
+      "publish_date": "2016-07-30",
       "bucket": "global-trend",
-      "hotspot": "harry potter",
-      "source": "google-trends-US"
-    },
-    {
-      "id": 61035,
-      "url": "https://www.qdaily.org/articles/61035/",
-      "title": "迪士尼停止对 Netlfix 授权，年底推出流媒体服务直接竞争",
-      "publish_date": "2019-02-08",
-      "bucket": "global-trend",
-      "hotspot": "disney plus",
-      "source": "google-trends-GB"
-    },
-    {
-      "id": 33629,
-      "url": "https://www.qdaily.org/articles/33629/",
-      "title": "我们应该如何看待 AT&T 对时代华纳 854 亿美元的收购？",
-      "publish_date": "2016-10-24",
-      "bucket": "global-trend",
-      "hotspot": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "hotspot": "Americans' social activity has steeply declined in the past 30 years",
       "source": "hacker-news"
     },
     {
-      "id": 52061,
-      "url": "https://www.qdaily.org/articles/52061/",
-      "title": "GTA V 成为了史上最赚钱的主机游戏，它的成功很难复制",
-      "publish_date": "2018-04-12",
+      "id": 61325,
+      "url": "https://www.qdaily.org/articles/61325/",
+      "title": "美国城市里的邻里效应，有着什么样的逻辑和力量？",
+      "publish_date": "2019-02-20",
       "bucket": "global-trend",
-      "hotspot": "grand theft auto vi",
-      "source": "google-trends-GB"
+      "hotspot": "Americans' social activity has steeply declined in the past 30 years",
+      "source": "hacker-news"
     },
     {
-      "id": 35216,
-      "url": "https://www.qdaily.org/articles/35216/",
-      "title": "美国最大创业公司丑闻是怎么曝出来的？",
-      "publish_date": "2016-12-10",
+      "id": 56094,
+      "url": "https://www.qdaily.org/articles/56094/",
+      "title": "上海多了一批冰激凌品牌，它们能否重设哈根达斯定的游戏规则？",
+      "publish_date": "2018-09-11",
       "bucket": "longform"
     },
     {
-      "id": 47549,
-      "url": "https://www.qdaily.org/articles/47549/",
-      "title": "黄线，禁停，上海出租车司机的个人问题",
-      "publish_date": "2017-11-24",
+      "id": 38073,
+      "url": "https://www.qdaily.org/articles/38073/",
+      "title": "来做这 55 个思想小实验，经典的哲学难题都在里面了",
+      "publish_date": "2017-02-23",
       "bucket": "longform"
     },
     {
-      "id": 58475,
-      "url": "https://www.qdaily.org/articles/58475/",
-      "title": "遗传至今的疾病，为什么能让人类在生存竞赛中占据上风？",
-      "publish_date": "2018-11-21",
+      "id": 45424,
+      "url": "https://www.qdaily.org/articles/45424/",
+      "title": "越来越普遍的扁平化设计，真的会降低人们使用页面的效率吗？",
+      "publish_date": "2017-09-28",
       "bucket": "longform"
     },
     {
-      "id": 45308,
-      "url": "https://www.qdaily.org/articles/45308/",
-      "title": "日本建筑师隈研吾用 11 种声音，解剖了自己近 10 年来的经典作品",
-      "publish_date": "2017-09-20",
+      "id": 48172,
+      "url": "https://www.qdaily.org/articles/48172/",
+      "title": "一个普通男人和一棵梣树的故事，可能说明了人类和树的关系",
+      "publish_date": "2017-12-12",
+      "bucket": "longform"
+    },
+    {
+      "id": 61608,
+      "url": "https://www.qdaily.org/articles/61608/",
+      "title": "诞生 100 年后，塞林格还在守望我们对青春与童年的认知",
+      "publish_date": "2019-02-28",
+      "bucket": "longform"
+    },
+    {
+      "id": 34870,
+      "url": "https://www.qdaily.org/articles/34870/",
+      "title": "葡萄牙人如何建立起影响力遍布全球的航海帝国？",
+      "publish_date": "2016-11-24",
       "bucket": "longform"
     }
   ]

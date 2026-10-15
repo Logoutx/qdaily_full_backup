@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-15",
+  "editor_id": "codex-v1",
+  "title": "如何与身边的人、技术和自然相处",
+  "picks": [
+    {
+      "id": 14739,
+      "url": "https://www.qdaily.org/articles/14739/",
+      "title": "诸志祥逝世，他在 36 年前写了《黑猫警长》的故事",
+      "publish_date": "2015-09-10",
+      "bucket": "cn-trend",
+      "hotspot": "黑猫警长喵喵喵",
+      "source": "60s-douyin"
+    },
+    {
+      "id": 51221,
+      "url": "https://www.qdaily.org/articles/51221/",
+      "title": "李嘉诚的 68 年，香港的商业史",
+      "publish_date": "2018-03-19",
+      "bucket": "cn-trend",
+      "hotspot": "李嘉诚",
+      "source": "google-trends-HK"
+    },
+    {
+      "id": 60470,
+      "url": "https://www.qdaily.org/articles/60470/",
+      "title": "为什么有人会伤害机器人？也许这是“弗兰肯斯坦综合症”",
+      "publish_date": "2019-01-22",
+      "bucket": "cn-trend",
+      "hotspot": "具身机器人规模化“上岗”",
+      "source": "60s-toutiao"
+    },
+    {
+      "id": 35444,
+      "url": "https://www.qdaily.org/articles/35444/",
+      "title": "人类第一次见到了真恐龙，但侏罗纪公园依然是幻想",
+      "publish_date": "2016-12-10",
+      "bucket": "cn-trend",
+      "hotspot": "中国发现侏罗纪新鸟",
+      "source": "60s-toutiao"
+    },
+    {
+      "id": 30063,
+      "url": "https://www.qdaily.org/articles/30063/",
+      "title": "既然孤独总是让人难受，为什么偶尔我们还是会想一个人待着？",
+      "publish_date": "2016-07-30",
+      "bucket": "global-trend",
+      "hotspot": "Americans' social activity has steeply declined in the past 30 years",
+      "source": "hacker-news"
+    },
+    {
+      "id": 61325,
+      "url": "https://www.qdaily.org/articles/61325/",
+      "title": "美国城市里的邻里效应，有着什么样的逻辑和力量？",
+      "publish_date": "2019-02-20",
+      "bucket": "global-trend",
+      "hotspot": "Americans' social activity has steeply declined in the past 30 years",
+      "source": "hacker-news"
+    },
+    {
+      "id": 56094,
+      "url": "https://www.qdaily.org/articles/56094/",
+      "title": "上海多了一批冰激凌品牌，它们能否重设哈根达斯定的游戏规则？",
+      "publish_date": "2018-09-11",
+      "bucket": "longform"
+    },
+    {
+      "id": 38073,
+      "url": "https://www.qdaily.org/articles/38073/",
+      "title": "来做这 55 个思想小实验，经典的哲学难题都在里面了",
+      "publish_date": "2017-02-23",
+      "bucket": "longform"
+    },
+    {
+      "id": 45424,
+      "url": "https://www.qdaily.org/articles/45424/",
+      "title": "越来越普遍的扁平化设计，真的会降低人们使用页面的效率吗？",
+      "publish_date": "2017-09-28",
+      "bucket": "longform"
+    },
+    {
+      "id": 48172,
+      "url": "https://www.qdaily.org/articles/48172/",
+      "title": "一个普通男人和一棵梣树的故事，可能说明了人类和树的关系",
+      "publish_date": "2017-12-12",
+      "bucket": "longform"
+    },
+    {
+      "id": 61608,
+      "url": "https://www.qdaily.org/articles/61608/",
+      "title": "诞生 100 年后，塞林格还在守望我们对青春与童年的认知",
+      "publish_date": "2019-02-28",
+      "bucket": "longform"
+    },
+    {
+      "id": 34870,
+      "url": "https://www.qdaily.org/articles/34870/",
+      "title": "葡萄牙人如何建立起影响力遍布全球的航海帝国？",
+      "publish_date": "2016-11-24",
+      "bucket": "longform"
+    }
+  ]
+}
