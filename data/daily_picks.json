@@ -1,102 +1,104 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "editor_id": "codex-v1",
-  "title": "如何与身边的人、技术和自然相处",
+  "title": "消费选择背后的设计与边界",
   "picks": [
     {
-      "id": 14739,
-      "url": "https://www.qdaily.org/articles/14739/",
-      "title": "诸志祥逝世，他在 36 年前写了《黑猫警长》的故事",
-      "publish_date": "2015-09-10",
+      "id": 60975,
+      "url": "https://www.qdaily.org/articles/60975/",
+      "title": "火车旅行让我很放松，因为在路上什么也做不了｜不拘一格的旅行",
+      "publish_date": "2019-02-10",
       "bucket": "cn-trend",
-      "hotspot": "黑猫警长喵喵喵",
-      "source": "60s-douyin"
-    },
-    {
-      "id": 51221,
-      "url": "https://www.qdaily.org/articles/51221/",
-      "title": "李嘉诚的 68 年，香港的商业史",
-      "publish_date": "2018-03-19",
-      "bucket": "cn-trend",
-      "hotspot": "李嘉诚",
-      "source": "google-trends-HK"
-    },
-    {
-      "id": 60470,
-      "url": "https://www.qdaily.org/articles/60470/",
-      "title": "为什么有人会伤害机器人？也许这是“弗兰肯斯坦综合症”",
-      "publish_date": "2019-01-22",
-      "bucket": "cn-trend",
-      "hotspot": "具身机器人规模化“上岗”",
+      "hotspot": "96岁爷爷独自坐43小时绿皮火车到西藏",
       "source": "60s-toutiao"
     },
     {
-      "id": 35444,
-      "url": "https://www.qdaily.org/articles/35444/",
-      "title": "人类第一次见到了真恐龙，但侏罗纪公园依然是幻想",
-      "publish_date": "2016-12-10",
+      "id": 35101,
+      "url": "https://www.qdaily.org/articles/35101/",
+      "title": "手机品牌都说印度是下一个中国，我们找了 45 个事实告诉你印度市场和印度人是怎么回事",
+      "publish_date": "2016-12-06",
       "bucket": "cn-trend",
-      "hotspot": "中国发现侏罗纪新鸟",
+      "hotspot": "印度多领域产能短板突出",
       "source": "60s-toutiao"
     },
     {
-      "id": 30063,
-      "url": "https://www.qdaily.org/articles/30063/",
-      "title": "既然孤独总是让人难受，为什么偶尔我们还是会想一个人待着？",
-      "publish_date": "2016-07-30",
+      "id": 38067,
+      "url": "https://www.qdaily.org/articles/38067/",
+      "title": "新能源车销量骤跌六成，这还是个政策驱动的生意｜好奇心小数据",
+      "publish_date": "2017-02-22",
+      "bucket": "cn-trend",
+      "hotspot": "车行老板：油车比新能源车更保值",
+      "source": "60s-toutiao"
+    },
+    {
+      "id": 1953,
+      "url": "https://www.qdaily.org/articles/1953/",
+      "title": "拟物",
+      "publish_date": "2014-08-20",
       "bucket": "global-trend",
-      "hotspot": "Americans' social activity has steeply declined in the past 30 years",
+      "hotspot": "Wayland desktop for Linux with skeuomorphic design",
       "source": "hacker-news"
     },
     {
-      "id": 61325,
-      "url": "https://www.qdaily.org/articles/61325/",
-      "title": "美国城市里的邻里效应，有着什么样的逻辑和力量？",
-      "publish_date": "2019-02-20",
+      "id": 2048,
+      "url": "https://www.qdaily.org/articles/2048/",
+      "title": "（超）扁平",
+      "publish_date": "2014-08-27",
       "bucket": "global-trend",
-      "hotspot": "Americans' social activity has steeply declined in the past 30 years",
+      "hotspot": "Wayland desktop for Linux with skeuomorphic design",
       "source": "hacker-news"
     },
     {
-      "id": 56094,
-      "url": "https://www.qdaily.org/articles/56094/",
-      "title": "上海多了一批冰激凌品牌，它们能否重设哈根达斯定的游戏规则？",
-      "publish_date": "2018-09-11",
+      "id": 51536,
+      "url": "https://www.qdaily.org/articles/51536/",
+      "title": "用户隐私争议越来越大，科技大公司的商业模式会受到挑战吗？",
+      "publish_date": "2018-04-02",
+      "bucket": "global-trend",
+      "hotspot": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "source": "hacker-news"
+    },
+    {
+      "id": 55014,
+      "url": "https://www.qdaily.org/articles/55014/",
+      "title": "智能电视也成了搜集隐私给你投广告的工具，它们怎么做的？",
+      "publish_date": "2018-07-08",
+      "bucket": "global-trend",
+      "hotspot": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "source": "hacker-news"
+    },
+    {
+      "id": 53664,
+      "url": "https://www.qdaily.org/articles/53664/",
+      "title": "一个人盖五层楼，第 13 年，建筑师能表达的唯一一件事 | 吉井忍的二次会",
+      "publish_date": "2018-05-31",
       "bucket": "longform"
     },
     {
-      "id": 38073,
-      "url": "https://www.qdaily.org/articles/38073/",
-      "title": "来做这 55 个思想小实验，经典的哲学难题都在里面了",
-      "publish_date": "2017-02-23",
+      "id": 40573,
+      "url": "https://www.qdaily.org/articles/40573/",
+      "title": "这本博物学指南，可以帮助你建造属于自己的好奇心橱柜",
+      "publish_date": "2017-05-09",
       "bucket": "longform"
     },
     {
-      "id": 45424,
-      "url": "https://www.qdaily.org/articles/45424/",
-      "title": "越来越普遍的扁平化设计，真的会降低人们使用页面的效率吗？",
-      "publish_date": "2017-09-28",
+      "id": 37946,
+      "url": "https://www.qdaily.org/articles/37946/",
+      "title": "200 年来，球鞋都曾代表过什么？",
+      "publish_date": "2017-03-04",
       "bucket": "longform"
     },
     {
-      "id": 48172,
-      "url": "https://www.qdaily.org/articles/48172/",
-      "title": "一个普通男人和一棵梣树的故事，可能说明了人类和树的关系",
-      "publish_date": "2017-12-12",
+      "id": 55618,
+      "url": "https://www.qdaily.org/articles/55618/",
+      "title": "我们每天面对那么多数据，如何才能做出比较明智的决策？",
+      "publish_date": "2018-07-26",
       "bucket": "longform"
     },
     {
-      "id": 61608,
-      "url": "https://www.qdaily.org/articles/61608/",
-      "title": "诞生 100 年后，塞林格还在守望我们对青春与童年的认知",
-      "publish_date": "2019-02-28",
-      "bucket": "longform"
-    },
-    {
-      "id": 34870,
-      "url": "https://www.qdaily.org/articles/34870/",
-      "title": "葡萄牙人如何建立起影响力遍布全球的航海帝国？",
-      "publish_date": "2016-11-24",
+      "id": 54825,
+      "url": "https://www.qdaily.org/articles/54825/",
+      "title": "被誉为“日本伏尔泰”的福泽谕吉，有着什么样的贡献和思维方法？",
+      "publish_date": "2018-07-02",
       "bucket": "longform"
     }
   ]

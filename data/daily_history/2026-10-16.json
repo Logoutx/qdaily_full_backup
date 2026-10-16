@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-16",
+  "editor_id": "codex-v1",
+  "title": "消费选择背后的设计与边界",
+  "picks": [
+    {
+      "id": 60975,
+      "url": "https://www.qdaily.org/articles/60975/",
+      "title": "火车旅行让我很放松，因为在路上什么也做不了｜不拘一格的旅行",
+      "publish_date": "2019-02-10",
+      "bucket": "cn-trend",
+      "hotspot": "96岁爷爷独自坐43小时绿皮火车到西藏",
+      "source": "60s-toutiao"
+    },
+    {
+      "id": 35101,
+      "url": "https://www.qdaily.org/articles/35101/",
+      "title": "手机品牌都说印度是下一个中国，我们找了 45 个事实告诉你印度市场和印度人是怎么回事",
+      "publish_date": "2016-12-06",
+      "bucket": "cn-trend",
+      "hotspot": "印度多领域产能短板突出",
+      "source": "60s-toutiao"
+    },
+    {
+      "id": 38067,
+      "url": "https://www.qdaily.org/articles/38067/",
+      "title": "新能源车销量骤跌六成，这还是个政策驱动的生意｜好奇心小数据",
+      "publish_date": "2017-02-22",
+      "bucket": "cn-trend",
+      "hotspot": "车行老板：油车比新能源车更保值",
+      "source": "60s-toutiao"
+    },
+    {
+      "id": 1953,
+      "url": "https://www.qdaily.org/articles/1953/",
+      "title": "拟物",
+      "publish_date": "2014-08-20",
+      "bucket": "global-trend",
+      "hotspot": "Wayland desktop for Linux with skeuomorphic design",
+      "source": "hacker-news"
+    },
+    {
+      "id": 2048,
+      "url": "https://www.qdaily.org/articles/2048/",
+      "title": "（超）扁平",
+      "publish_date": "2014-08-27",
+      "bucket": "global-trend",
+      "hotspot": "Wayland desktop for Linux with skeuomorphic design",
+      "source": "hacker-news"
+    },
+    {
+      "id": 51536,
+      "url": "https://www.qdaily.org/articles/51536/",
+      "title": "用户隐私争议越来越大，科技大公司的商业模式会受到挑战吗？",
+      "publish_date": "2018-04-02",
+      "bucket": "global-trend",
+      "hotspot": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "source": "hacker-news"
+    },
+    {
+      "id": 55014,
+      "url": "https://www.qdaily.org/articles/55014/",
+      "title": "智能电视也成了搜集隐私给你投广告的工具，它们怎么做的？",
+      "publish_date": "2018-07-08",
+      "bucket": "global-trend",
+      "hotspot": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "source": "hacker-news"
+    },
+    {
+      "id": 53664,
+      "url": "https://www.qdaily.org/articles/53664/",
+      "title": "一个人盖五层楼，第 13 年，建筑师能表达的唯一一件事 | 吉井忍的二次会",
+      "publish_date": "2018-05-31",
+      "bucket": "longform"
+    },
+    {
+      "id": 40573,
+      "url": "https://www.qdaily.org/articles/40573/",
+      "title": "这本博物学指南，可以帮助你建造属于自己的好奇心橱柜",
+      "publish_date": "2017-05-09",
+      "bucket": "longform"
+    },
+    {
+      "id": 37946,
+      "url": "https://www.qdaily.org/articles/37946/",
+      "title": "200 年来，球鞋都曾代表过什么？",
+      "publish_date": "2017-03-04",
+      "bucket": "longform"
+    },
+    {
+      "id": 55618,
+      "url": "https://www.qdaily.org/articles/55618/",
+      "title": "我们每天面对那么多数据，如何才能做出比较明智的决策？",
+      "publish_date": "2018-07-26",
+      "bucket": "longform"
+    },
+    {
+      "id": 54825,
+      "url": "https://www.qdaily.org/articles/54825/",
+      "title": "被誉为“日本伏尔泰”的福泽谕吉，有着什么样的贡献和思维方法？",
+      "publish_date": "2018-07-02",
+      "bucket": "longform"
+    }
+  ]
+}
