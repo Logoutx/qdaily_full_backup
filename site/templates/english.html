@@ -1,11 +1,11 @@
 {% extends "base.html" %}
 {% block title %}{% if article is defined %}{{ article.title }} — {% endif %}{{ site_title }}{% endblock %}
 {% block description %}{% if article is defined %}{{ article.excerpt }}{% else %}{{ site_description }}{% endif %}{% endblock %}
-{% block head %}{% if search is defined %}<link rel="stylesheet" href="/pagefind/pagefind-ui.css"><script src="/pagefind/pagefind-ui.js" defer></script>{% endif %}{% endblock %}
+{% block head %}{% if search is defined %}<link rel="stylesheet" href="/en/pagefind/pagefind-ui.css"><script src="/en/pagefind/pagefind-ui.js" defer></script>{% endif %}{% endblock %}
 {% block main %}
 {% if search is defined %}
 <section class="article" data-pagefind-ignore="all"><h1>Search English translations</h1><p><a href="/en/">English archive</a></p><div id="english-search"></div></section>
-<script>window.addEventListener("DOMContentLoaded", function(){new PagefindUI({element:"#english-search",showImages:false});});</script>
+<script>window.addEventListener("DOMContentLoaded", function(){new PagefindUI({element:"#english-search",showImages:false,bundlePath:"/en/pagefind/"});});</script>
 {% elif article is defined %}
 <article class="article" data-pagefind-body>
   <p class="breadcrumb"><a href="/en/">English archive</a> · <a href="/articles/{{ article.id }}/" lang="zh-Hans">中文原文</a></p>
