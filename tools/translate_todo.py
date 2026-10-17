@@ -35,6 +35,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from translation_approval import held_ids
 from validate_corpus import load_corpus
 from html_to_md import html_to_md, count_images
 import render as R  # authoritative series membership (_series_match / SERIES_NAMES)
@@ -161,6 +162,8 @@ def main() -> int:
     dp = TROOT / "defer.json"
     if dp.exists():
         defer = {int(x) for x in json.loads(dp.read_text() or "[]")}
+
+    defer.update(int(x) for x in held_ids(TROOT))
 
     full = build_queue(recs)
     TROOT.mkdir(parents=True, exist_ok=True)

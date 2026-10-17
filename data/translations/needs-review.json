@@ -169,5 +169,34 @@
   ],
   "4698": [
     "Grok HIGH: theme store + app store 35M daily downloads rendered as 'each' (doubles the claim) — fixed to 'together', verify"
+  ],
+  "3699": [
+    "The source says those B2B/foodservice orders accounted for an even larger share of the cheese market than today's 77%. The English changes the denominator to foodservice's share of business orders."
+  ],
+  "3392": [
+    "Inside Wallerstein’s direct quote, 也许 (“perhaps”) is dropped, so a hedged guess that the work once took decades or a lifetime is stated as fact.",
+    "Ji Shisan is reported as predicting that reproduction will cease to be necessary and that love therefore will too; if/would turns that forecast into an unasserted hypothetical."
+  ],
+  "3396": [
+    "Zhou’s judgment that human-like thought, action, and planning are still far off and need not be rushed is spoken in the narrator’s voice; only the preceding sentence stays attributed to him.",
+    "The field is the setting and the world is what is being changed; the English makes the security field itself the object, dropping the world-changing claim.",
+    "任何 (any technological improvement) is narrowed to “these improvements,” so the internet no longer enables technical progress in general."
+  ],
+  "1720": [
+    "The source titles the book 《进化论》, not 《物种起源》. The English substitutes On the Origin of Species, correcting the source and attaching the article’s “Galápagos syndrome” claim to a specific work the Chinese does not name. Assumption: only the supplied text was reviewed; if 《进化论》 is treated as a conventional alias this is arguable, but the rubric says not to repair source titles or source errors.",
+    "解散后 says the feature was written after the studio had already dissolved. The English drops the dissolution and substitutes an unspecified announcement, so the lede no longer asserts that closure had happened. The same paragraph correctly renders an earlier 解散 as dissolution, so this is not one consistent reading of the word."
+  ],
+  "3006": [
+    "The source keeps 第一毛织 distinct from Everland, and uses the English name Cheil Industries only for the renamed Everland; the translation applies Cheil Industries to both, so Lee Seo-hyun’s firm and the company planning an IPO read as one entity. Official English for 第一毛织 is also Cheil Industries, but that homonym still changes what the article distinguishes.",
+    "许万试 does not romanize as Heo Man-jeong (jeong matches 正, not 试); the father’s name is replaced at both mentions. If this silently repairs a source typo, the rubric still treats that correction as a defect."
+  ],
+  "2994": [
+    "The 46% is 360’s own revenue mix (the VAS unit that contains its games). After the Tencent sentence, “its” most naturally means Tencent, so the figure is reassigned and 360’s games read as part of Tencent."
+  ],
+  "2917": [
+    "Source asserts the first commercial route (商业飞行航线); “jet” is not in that clause (喷气 is used elsewhere). Inserting it narrows the “first” claim and corrects the source."
+  ],
+  "2895": [
+    "The omitted subject of 一下子起来了 continues 李敏镐 (the endorsement made him take off); the product’s obscurity and Yihaodian sales are the next sentence. EN assigns the rise to the product and turns 就因为 into “but.”"
   ]
 }

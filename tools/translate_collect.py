@@ -14,6 +14,7 @@ from __future__ import annotations
 import json
 import re
 from pathlib import Path
+from translation_approval import held_ids, final_output_paths
 
 TROOT = Path("data/translations")
 OUT = TROOT / "out"
@@ -49,6 +50,9 @@ def main() -> int:
     written, bad = 0, []
     for f in sorted(OUT.glob("*.txt")):
         rid = f.stem
+        if rid in held_ids(TROOT):
+            print(f"held {rid}: not collected into final outputs")
+            continue
         parsed = parse(f.read_text(encoding="utf-8"))
         if not parsed or not parsed["body"].strip():
             bad.append(rid)
@@ -71,7 +75,7 @@ def main() -> int:
         f.unlink()
         written += 1
     print(f"collected {written} -> en/  (unparseable left in out/: {len(bad)}{' '+','.join(bad) if bad else ''})")
-    print(f"total EN posts: {len(list(EN.glob('*.json')))}")
+    print(f"total EN posts: {len(final_output_paths(TROOT))}")
     return 0
 
 
