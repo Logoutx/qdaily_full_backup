@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-17",
+  "editor_id": "codex-v1",
+  "title": "从地震预警到生活方式的改变",
+  "picks": [
+    {
+      "id": 57755,
+      "title": "人工智能正在帮助预测下一次大地震将在何时发生",
+      "publish_date": "2018-10-29",
+      "url": "https://www.qdaily.org/articles/57755/",
+      "bucket": "cn-trend",
+      "hotspot": "地震速報",
+      "source": "google-trends-TW"
+    },
+    {
+      "id": 3408,
+      "title": "有一家美国公司，希望用 App 来做地震预警",
+      "publish_date": "2014-11-10",
+      "url": "https://www.qdaily.org/articles/3408/",
+      "bucket": "cn-trend",
+      "hotspot": "地震速報",
+      "source": "google-trends-TW"
+    },
+    {
+      "id": 23955,
+      "title": "李嘉诚的百佳超市，在大本营广州也不行了",
+      "publish_date": "2016-03-17",
+      "url": "https://www.qdaily.org/articles/23955/",
+      "bucket": "cn-trend",
+      "hotspot": "百佳超級市場",
+      "source": "google-trends-HK"
+    },
+    {
+      "id": 45079,
+      "title": "特斯拉把 8 年前投产的电动跑车带来展览，那曾是它的起点",
+      "publish_date": "2017-09-12",
+      "url": "https://www.qdaily.org/articles/45079/",
+      "bucket": "global-trend",
+      "hotspot": "Tesla Roadster",
+      "source": "hacker-news"
+    },
+    {
+      "id": 50011,
+      "title": "那辆漂浮在宇宙中的特斯拉跑车，成了太空探索的最新里程碑",
+      "publish_date": "2018-02-07",
+      "url": "https://www.qdaily.org/articles/50011/",
+      "bucket": "global-trend",
+      "hotspot": "Tesla Roadster",
+      "source": "hacker-news"
+    },
+    {
+      "id": 57785,
+      "title": "九年测试 1287 万公里后，Waymo 商业化试运行",
+      "publish_date": "2018-10-30",
+      "url": "https://www.qdaily.org/articles/57785/",
+      "bucket": "global-trend",
+      "hotspot": "Waymo in Toronto",
+      "source": "hacker-news"
+    },
+    {
+      "id": 59907,
+      "title": "美国亚利桑那州居民挥舞着石头和刀子，对无人驾驶汽车展开攻击",
+      "publish_date": "2019-01-03",
+      "url": "https://www.qdaily.org/articles/59907/",
+      "bucket": "global-trend",
+      "hotspot": "Waymo in Toronto",
+      "source": "hacker-news"
+    },
+    {
+      "id": 25430,
+      "title": "日本刚刚允许民宿运营了，它带来什么机会，又遇到怎样的困境？",
+      "publish_date": "2016-04-17",
+      "url": "https://www.qdaily.org/articles/25430/",
+      "bucket": "longform"
+    },
+    {
+      "id": 34671,
+      "title": "社会学家韦伯到底是个自由主义者，还是德国民族主义者？",
+      "publish_date": "2016-11-22",
+      "url": "https://www.qdaily.org/articles/34671/",
+      "bucket": "longform"
+    },
+    {
+      "id": 49046,
+      "title": "从黑泽明到北野武，日本这110 年有着什么样的电影史？",
+      "publish_date": "2018-01-11",
+      "url": "https://www.qdaily.org/articles/49046/",
+      "bucket": "longform"
+    },
+    {
+      "id": 39702,
+      "title": "如果从海洋的视角出发，人类的历史和文明又将是怎么样？",
+      "publish_date": "2017-04-12",
+      "url": "https://www.qdaily.org/articles/39702/",
+      "bucket": "longform"
+    },
+    {
+      "id": 57092,
+      "title": "无钢圈内衣为什么越来越流行了？｜市场发明家",
+      "publish_date": "2018-10-09",
+      "url": "https://www.qdaily.org/articles/57092/",
+      "bucket": "longform"
+    }
+  ]
+}
