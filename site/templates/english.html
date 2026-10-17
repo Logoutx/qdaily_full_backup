@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}{% if article is defined %}{{ article.title }} — {% endif %}{{ site_title }}{% endblock %}
+{% block description %}{% if article is defined %}{{ article.excerpt }}{% else %}{{ site_description }}{% endif %}{% endblock %}
+{% block head %}{% if search is defined %}<link rel="stylesheet" href="/pagefind/pagefind-ui.css"><script src="/pagefind/pagefind-ui.js" defer></script>{% endif %}{% endblock %}
+{% block main %}
+{% if search is defined %}
+<section class="article" data-pagefind-ignore="all"><h1>Search English translations</h1><p><a href="/en/">English archive</a></p><div id="english-search"></div></section>
+<script>window.addEventListener("DOMContentLoaded", function(){new PagefindUI({element:"#english-search",showImages:false});});</script>
+{% elif article is defined %}
+<article class="article" data-pagefind-body>
+  <p class="breadcrumb"><a href="/en/">English archive</a> · <a href="/articles/{{ article.id }}/" lang="zh-Hans">中文原文</a></p>
+  <h1 data-pagefind-meta="title">{{ article.title }}</h1>
+  <p class="meta">{{ article.author }} · <time datetime="{{ article.publish_date }}">{{ article.publish_date }}</time> · English translation</p>
+  <p>{{ article.excerpt }}</p>
+  <div class="body">{{ article.body_html | safe }}</div>
+  <p class="origin">Translated from the <a href="/articles/{{ article.id }}/">original QDaily article</a>. Original publication date retained.</p>
+</article>
+{% else %}
+<section class="article">
+  <h1>QDaily in English</h1>
+  <p>{{ total }} completed translations from the archive. Articles retain their original publication dates.</p>
+  <p><a href="/en/search/">Search the archive</a> · <a href="/">中文首页</a></p>
+  {% for item in articles %}<article><h2><a href="/en/articles/{{ item.id }}/">{{ item.title }}</a></h2><p class="meta">{{ item.publish_date }} · {{ item.author }}</p><p>{{ item.excerpt }}</p></article>{% endfor %}
+  <nav aria-label="English archive pages">{% if page > 1 %}<a href="{% if page == 2 %}/en/{% else %}/en/page/{{ page-1 }}/{% endif %}">Previous</a> · {% endif %}Page {{ page }} of {{ pages }}{% if page < pages %} · <a href="/en/page/{{ page+1 }}/">Next</a>{% endif %}</nav>
+</section>
+{% endif %}
+{% endblock %}

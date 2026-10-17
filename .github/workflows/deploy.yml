@@ -7,6 +7,9 @@ on:
       - 'data/articles_extracted_*.jsonl'
       - 'data/images.jsonl'
       - 'data/daily_picks.json'
+      - 'data/translations/published.json'
+      - 'data/translations/en/**'
+      - 'tools/render_translations.py'
       - 'assets/**'
       - 'site/**'
       - 'tools/render.py'
@@ -56,6 +59,9 @@ jobs:
             --site-url "https://www.qdaily.org" \
             --asset-base-url "https://cdn.qdaily.org" \
             --image-mode local
+
+      - name: Render approved English translations (no translation calls)
+        run: python tools/render_translations.py
 
       - name: Install Pagefind
         run: bash tools/install_pagefind.sh

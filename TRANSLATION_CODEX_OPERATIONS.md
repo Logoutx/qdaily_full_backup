@@ -90,3 +90,13 @@ remain queued and quality failures remain deferred. Operational failures return
 exit 1 with a failed state and completed counts when available, never a partial
 budget state. Full success requires exit 0 and an explicit complete state.
 Validated with local provider/clock/notification fixtures; no live translation rerun.
+
+2026-10-17 publication/pause: routine LaunchAgent org.qdaily.translate-cron is
+disabled and unloaded at the user's request. Its plist and all pending/held files
+are retained. Do not enable or manually invoke translations until requested.
+The canonical Projects-FOB/qdaily_full_backup symlink resolves to the existing
+external-volume checkout. English publication is build-only: published.json is
+an explicit SHA-256 allowlist; render_translations.py rejects held/review-blocked
+or changed files and never calls a model. Existing GitHub Pages deploy.yml builds
+the /en/ archive and Pagefind index alongside the Chinese site. Updating the
+allowlist requires a new eligibility review; do not glob candidates into a release.
