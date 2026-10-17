@@ -33,7 +33,16 @@ scratch destination rather than overwriting the existing full `public/` build.
 Write identical copies to `data/daily_picks.json` and
 `data/daily_history/YYYY-MM-DD.json`. In routine runs, stage and commit only those
 2 files, preserve unrelated translation files, and do not push unrelated commits.
-Stop on unexpected branch state, local edits, upstream changes or failed checks.
+Stop on unexpected branch state, tracked source edits, unrelated unpushed commits,
+upstream changes or failed checks. Ordinary unstaged modifications to only
+`data/translations/defer.json` and `data/translations/needs-review.json` are permitted:
+the independent translation batch updates these runtime review records. Verify that
+`defer.json` is a valid JSON list of numeric article IDs and `needs-review.json` is
+a valid JSON object mapping numeric IDs to lists of strings. Preserve both files
+without editing, staging, committing or publishing them. Staged changes, deletions,
+renames and other tracked changes do not qualify. Recheck status and the exact
+2-file staged allowlist before each commit and push. These 2 runtime files also do
+not prevent read-only verification of an already-published edition.
 Never reset, stash, force-push, skip hooks or silently merge concurrent work.
 
 A push to main triggers the existing `.github/workflows/deploy.yml` pipeline.
