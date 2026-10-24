@@ -41,12 +41,14 @@ cd "$PROJ" || exit 0
 TODAY="$(TZ='Asia/Shanghai' date +%F)"
 HOUR="$(TZ='Asia/Shanghai' date +%H)"
 
-# 1. Today's Pick ran? (only meaningful after the 10:00 slot has passed)
+# 1. Today's Pick local output freshness, not a diagnosis of the Codex run.
+# Keep the existing >=11 grace period. Retained Claude logs are not evidence
+# about the current Codex task and must never be attached to this alert.
 if [ "$HOUR" -ge 11 ]; then
-  PDATE="$(python3 -c "import json;print(json.load(open('data/daily_picks.json')).get('date',''))" 2>/dev/null)"
-  if [ "$PDATE" != "$TODAY" ]; then
-    REASON="$(grep -E "401|403|Failed to authenticate|error" data/todays_pick.claude.log 2>/dev/null | tail -1 | cut -c1-90)"
-    add "Today's Pick did not run today (still $PDATE). ${REASON:+Last error: $REASON}"
+  if PICK_PROBLEM="$(python3 tools/check_todays_pick.py --root "$PROJ" --today "$TODAY" 2>/dev/null)"; then
+    [ -n "$PICK_PROBLEM" ] && add "$PICK_PROBLEM"
+  else
+    add "Today's Pick freshness check could not complete. Check the Codex task qdaily-today-s-pick and the health-check script."
   fi
 fi
 
@@ -65,15 +67,22 @@ fi
 # $HEARTBEAT on completion. launchd silently coalesces a fire whose previous run
 # is still going, so a wedged batch produces NO error anywhere — it just goes
 # quiet. Anything past two intervals means the pipeline has stopped producing.
-HB="$HOME/Library/Application Support/qdaily/translate_last_run"
-QLEFT="$(./.venv/bin/python tools/translate_todo.py 2>/dev/null | awk -F'remaining: ' '/^queue:/{print $2+0}')"
-if [ "${QLEFT:-0}" -gt 0 ]; then
-  if [ ! -f "$HB" ]; then
-    add "Translation cron has never recorded a completed batch (no heartbeat file)."
-  else
-    AGE=$(( $(date +%s) - $(head -1 "$HB") ))
-    if [ "$AGE" -gt 39600 ]; then   # 11 h = two 5 h slots plus slack
-      add "Translation cron stalled: last completed batch was $((AGE/3600)) h ago ($QLEFT articles still queued)."
+# A deliberate launchd disable is a pause, not a stalled pipeline.
+# If launchd status cannot be read, keep the existing health checks active.
+if TRANSLATION_DISABLED="$(launchctl print-disabled "gui/$(id -u)" 2>/dev/null)" && \
+    printf '%s\n' "$TRANSLATION_DISABLED" | grep -Eq '"org\.qdaily\.translate-cron"[[:space:]]*=>[[:space:]]*(disabled|true)([[:space:],]|$)'; then
+  echo "$(date '+%F %T') translation intentionally paused; skipping heartbeat alert"
+else
+  HB="$HOME/Library/Application Support/qdaily/translate_last_run"
+  QLEFT="$(./.venv/bin/python tools/translate_todo.py 2>/dev/null | awk -F'remaining: ' '/^queue:/{print $2+0}')"
+  if [ "${QLEFT:-0}" -gt 0 ]; then
+    if [ ! -f "$HB" ]; then
+      add "Translation cron has never recorded a completed batch (no heartbeat file)."
+    else
+      AGE=$(( $(date +%s) - $(head -1 "$HB") ))
+      if [ "$AGE" -gt 39600 ]; then   # 11 h = two 5 h slots plus slack
+        add "Translation cron stalled: last completed batch was $((AGE/3600)) h ago ($QLEFT articles still queued)."
+      fi
     fi
   fi
 fi

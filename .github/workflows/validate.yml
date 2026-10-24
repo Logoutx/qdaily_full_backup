@@ -40,6 +40,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Check health-monitor regressions (no providers or notifications)
+        run: |
+          bash -n tools/health_check.sh
+          python -m unittest discover -s tools -p 'test_health*.py'
+
       - name: Validate corpus invariants (Layer 1)
         run: python tools/validate_corpus.py
 

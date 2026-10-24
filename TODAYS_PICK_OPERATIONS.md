@@ -51,6 +51,38 @@ Keep prior dated digests. Do not manufacture editions for missed past days.
 The scheduled task cannot modify source code, workflows, credentials or other
 features. Failures or requests for source repairs should be reported in the chat.
 
+## Health monitoring
+
+`tools/health_check.sh` checks the local `data/daily_picks.json` edition date
+against Asia/Shanghai today. It retains its existing hour >= 11 grace period:
+of the documented 10:45/22:45 health-check slots, only 22:45 checks daily-pick
+freshness. This patch does not change the schedule or start either curator.
+
+The checker now names the active Codex task `qdaily-today-s-pick` as the place
+to inspect the current run result. There is no checked-in machine-readable
+Codex run-status contract, so the checker does not infer whether that task ran,
+failed authentication, or completed publication. The Today's Pick check never
+reads the retired `data/todays_pick.claude.log` or AI-provider credential files.
+A stale, missing, unreadable or invalid-dated edition still alerts. A current local date only
+establishes local output freshness; remote main, Actions and the live dated
+page still need the separate publication verification described above.
+
+Run the isolated regression suite with:
+
+```sh
+bash -n tools/health_check.sh
+python3 -m unittest discover -s tools -p 'test_health*.py'
+```
+
+Applying the repository change does not update an already-running Mac checkout.
+Before local rollout, reconcile any uncommitted health-check changes, including
+the separate intentional-translation-pause fix. Do not reset or overwrite those
+changes. The combined local fix also skips translation heartbeat alerts when launchd
+explicitly disables the translation job. If status cannot be read, existing
+stall checks remain active. Other notification behavior is unchanged. Preserve the
+disabled translation LaunchAgent, then dry-run with notifications stubbed before
+relying on the installed checker.
+
 ## Takeover verification
 
 The previous published edition was 2026-10-07. Legacy run markers showed repeated
