@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-25",
+  "editor_id": "codex-v1",
+  "title": "从城墙与纸张到机器写作",
+  "picks": [
+    {
+      "id": 27520,
+      "title": "雪碧今年夏天最大的一次品牌合作，是《英雄联盟》",
+      "publish_date": "2016-05-30",
+      "url": "https://www.qdaily.org/articles/27520/",
+      "bucket": "cn-trend",
+      "hotspot": "英雄联盟",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 55331,
+      "title": "教育部再提禁止幼儿园“小学化”，此前三令五申效果并不理想",
+      "publish_date": "2018-07-18",
+      "url": "https://www.qdaily.org/articles/55331/",
+      "bucket": "cn-trend",
+      "hotspot": "为什么现在很多公立的幼儿园不教拼音，但是到了小学默认你是会拼音的状态？",
+      "source": "60s-zhihu"
+    },
+    {
+      "id": 2476,
+      "title": "爱马仕成功经营100多年，但不要以为贵族就可以带来一切​",
+      "publish_date": "2014-09-24",
+      "url": "https://www.qdaily.org/articles/2476/",
+      "bucket": "cn-trend",
+      "hotspot": "爱马仕称中国市场目前很困难",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 36977,
+      "title": "想了解 90 多年前北京的城墙和城门，可以翻翻这本书",
+      "publish_date": "2017-01-19",
+      "url": "https://www.qdaily.org/articles/36977/",
+      "bucket": "cn-trend",
+      "hotspot": "建国以来，哪个城市的古城墙拆除让你最为惋惜？",
+      "source": "60s-zhihu"
+    },
+    {
+      "id": 45346,
+      "title": "华盛顿邮报的机器人记者工作一年多了，它干的活质量可不低",
+      "publish_date": "2017-09-20",
+      "url": "https://www.qdaily.org/articles/45346/",
+      "bucket": "global-trend",
+      "hotspot": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "source": "hacker-news"
+    },
+    {
+      "id": 61043,
+      "title": "人工智能成为新闻业的常用工具，高管认为这对人类雇员并不构成威胁",
+      "publish_date": "2019-02-13",
+      "url": "https://www.qdaily.org/articles/61043/",
+      "bucket": "global-trend",
+      "hotspot": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "source": "hacker-news"
+    },
+    {
+      "id": 49930,
+      "title": "从狩猎采集社会到工业社会，怎样思考人类之间的不平等？",
+      "publish_date": "2018-02-05",
+      "url": "https://www.qdaily.org/articles/49930/",
+      "bucket": "longform"
+    },
+    {
+      "id": 38197,
+      "title": "在纸业遭受危机前，听这位法国学者说说纸的全球史",
+      "publish_date": "2017-03-01",
+      "url": "https://www.qdaily.org/articles/38197/",
+      "bucket": "longform"
+    },
+    {
+      "id": 1720,
+      "title": "宫崎骏得了奥斯卡大奖，但他的公司并不是个成功范本",
+      "publish_date": "2014-11-10",
+      "url": "https://www.qdaily.org/articles/1720/",
+      "bucket": "longform"
+    },
+    {
+      "id": 59037,
+      "title": "重新定义了建筑学的弗兰克·盖里，有着怎样的一生？",
+      "publish_date": "2018-12-06",
+      "url": "https://www.qdaily.org/articles/59037/",
+      "bucket": "longform"
+    },
+    {
+      "id": 50619,
+      "title": "“台湾民谣之父”胡德夫的新作，回忆了自己的过往",
+      "publish_date": "2018-02-27",
+      "url": "https://www.qdaily.org/articles/50619/",
+      "bucket": "longform"
+    },
+    {
+      "id": 59277,
+      "title": "“神书”《GEB》出版 30 年后，侯世达再次探讨“我是什么？”",
+      "publish_date": "2018-12-14",
+      "url": "https://www.qdaily.org/articles/59277/",
+      "bucket": "longform"
+    }
+  ]
+}
