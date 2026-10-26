@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-26",
+  "editor_id": "codex-v1",
+  "title": "从办公室到动画幕后",
+  "picks": [
+    {
+      "id": 57158,
+      "title": "拼多多进驻微信钱包，利用了微信最后的流量",
+      "publish_date": "2018-10-10",
+      "url": "https://www.qdaily.org/articles/57158/",
+      "bucket": "cn-trend",
+      "hotspot": "拼多多的商业壁垒（护城河）是什么？",
+      "source": "60s-zhihu"
+    },
+    {
+      "id": 53250,
+      "title": "中国非私营公司员工一年平均赚 74318 元，最高的还是软件工程师 | 好奇心小数据",
+      "publish_date": "2018-05-16",
+      "url": "https://www.qdaily.org/articles/53250/",
+      "bucket": "cn-trend",
+      "hotspot": "31 省份去年平均工资出炉，全国城镇非私营单位平均工资 129441 元，还有哪些信息值得关注？",
+      "source": "60s-zhihu"
+    },
+    {
+      "id": 51919,
+      "title": "北京公积金将支持个人用手机提取，未来 9 成业务可在线办理",
+      "publish_date": "2018-04-09",
+      "url": "https://www.qdaily.org/articles/51919/",
+      "bucket": "cn-trend",
+      "hotspot": "住房公积金更好用了",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 49409,
+      "title": "二胎带来的刺激只持续了一年，去年中国人口出生比上一年少63万 | 好奇心小数据",
+      "publish_date": "2018-01-19",
+      "url": "https://www.qdaily.org/articles/49409/",
+      "bucket": "cn-trend",
+      "hotspot": "2025年出生人口792万",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 4525,
+      "title": "皮肤癌据说有了新诊断神器，名叫 IBM 图像识别",
+      "publish_date": "2014-12-19",
+      "url": "https://www.qdaily.org/articles/4525/",
+      "bucket": "global-trend",
+      "hotspot": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "source": "hacker-news"
+    },
+    {
+      "id": 28468,
+      "title": "人工智能和病理学家联手，确诊乳腺癌几率大涨",
+      "publish_date": "2016-06-27",
+      "url": "https://www.qdaily.org/articles/28468/",
+      "bucket": "global-trend",
+      "hotspot": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "source": "hacker-news"
+    },
+    {
+      "id": 1430,
+      "title": "宫崎骏是这样改变动画制作流程的",
+      "publish_date": "2014-07-11",
+      "url": "https://www.qdaily.org/articles/1430/",
+      "bucket": "global-trend",
+      "hotspot": "What goes into making an animated film?",
+      "source": "hacker-news"
+    },
+    {
+      "id": 1017,
+      "title": "Pixar 拟免费开放旗下 RenderMan 渲染器",
+      "publish_date": "2014-06-06",
+      "url": "https://www.qdaily.org/articles/1017/",
+      "bucket": "global-trend",
+      "hotspot": "What goes into making an animated film?",
+      "source": "hacker-news"
+    },
+    {
+      "id": 35287,
+      "title": "她想用“半成品食材包”把你召回厨房，但她也知道这生意不好做 | 创始人说",
+      "publish_date": "2016-12-07",
+      "url": "https://www.qdaily.org/articles/35287/",
+      "bucket": "longform"
+    },
+    {
+      "id": 41782,
+      "title": "从宗教战争到冷战，五个世纪以来的柏林总是变化无常",
+      "publish_date": "2017-06-09",
+      "url": "https://www.qdaily.org/articles/41782/",
+      "bucket": "longform"
+    },
+    {
+      "id": 44402,
+      "title": "奥巴马说读她的小说，可以体会“人之所以为人”的普世真理",
+      "publish_date": "2017-08-24",
+      "url": "https://www.qdaily.org/articles/44402/",
+      "bucket": "longform"
+    },
+    {
+      "id": 53204,
+      "title": "从传统的账房到开放式办公空间，办公室是如何演化的？",
+      "publish_date": "2018-05-15",
+      "url": "https://www.qdaily.org/articles/53204/",
+      "bucket": "longform"
+    }
+  ]
+}
