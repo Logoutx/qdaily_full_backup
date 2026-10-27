@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-27",
+  "editor_id": "codex-v1",
+  "title": "从远古人类到城市日常",
+  "picks": [
+    {
+      "id": 60038,
+      "title": "海航的问题还在继续，香港航空被保险公司踢出倒闭赔偿名单",
+      "publish_date": "2019-01-07",
+      "url": "https://www.qdaily.org/articles/60038/",
+      "bucket": "cn-trend",
+      "hotspot": "香港航空",
+      "source": "google-trends-HK"
+    },
+    {
+      "id": 33710,
+      "title": "金球奖公布 30 人候选名单，今年的结果会出人意料吗？",
+      "publish_date": "2016-10-25",
+      "url": "https://www.qdaily.org/articles/33710/",
+      "bucket": "cn-trend",
+      "hotspot": "金球奖排名",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 63476,
+      "title": "西藏洞穴发现新化石，证明人类祖先很早就能适应高海拔",
+      "publish_date": "2019-05-05",
+      "url": "https://www.qdaily.org/articles/63476/",
+      "bucket": "cn-trend",
+      "hotspot": "付巧妹团队 Nature 论文发现「许家窑人是丹尼索瓦人」，如何理解这一研究的意义？",
+      "source": "60s-zhihu"
+    },
+    {
+      "id": 10576,
+      "title": "9 年之后 iOS 开始放慢脚步，这个移动时代的操作系统如何影响了我们的生活？",
+      "publish_date": "2015-06-10",
+      "url": "https://www.qdaily.org/articles/10576/",
+      "bucket": "cn-trend",
+      "hotspot": "ios 27.2",
+      "source": "google-trends-HK"
+    },
+    {
+      "id": 1520,
+      "title": "裁员 18000 人造就纳德拉的“一个微软”",
+      "publish_date": "2014-07-18",
+      "url": "https://www.qdaily.org/articles/1520/",
+      "bucket": "global-trend",
+      "hotspot": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "source": "hacker-news"
+    },
+    {
+      "id": 27390,
+      "title": "微软的手机业务部门又裁员了，现在还剩下什么？",
+      "publish_date": "2016-05-27",
+      "url": "https://www.qdaily.org/articles/27390/",
+      "bucket": "global-trend",
+      "hotspot": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "source": "hacker-news"
+    },
+    {
+      "id": 54100,
+      "title": "美国增加关税，中国削减补贴，光伏行业可能被重创",
+      "publish_date": "2018-06-09",
+      "url": "https://www.qdaily.org/articles/54100/",
+      "bucket": "global-trend",
+      "hotspot": "Solar power is becoming bigger than nuclear",
+      "source": "hacker-news"
+    },
+    {
+      "id": 6896,
+      "title": "从Google拿了3亿美元的太阳能公司，究竟在做啥？",
+      "publish_date": "2015-02-28",
+      "url": "https://www.qdaily.org/articles/6896/",
+      "bucket": "global-trend",
+      "hotspot": "Solar power is becoming bigger than nuclear",
+      "source": "hacker-news"
+    },
+    {
+      "id": 23445,
+      "title": "农夫山泉那款获得国际大奖的产品包装是怎么做出来的？",
+      "publish_date": "2016-03-09",
+      "url": "https://www.qdaily.org/articles/23445/",
+      "bucket": "longform"
+    },
+    {
+      "id": 54871,
+      "title": "从巴黎到四谷，这是摄影师森山大道的黑白摄影文集",
+      "publish_date": "2018-07-03",
+      "url": "https://www.qdaily.org/articles/54871/",
+      "bucket": "longform"
+    },
+    {
+      "id": 63189,
+      "title": "“世界上最聪明的网站” Edge 的新书，讨论的主题是文化",
+      "publish_date": "2019-04-23",
+      "url": "https://www.qdaily.org/articles/63189/",
+      "bucket": "longform"
+    },
+    {
+      "id": 60839,
+      "title": "袍哥、茶馆和街头文化，一个曾经存在社会自治的城市是什么样？",
+      "publish_date": "2019-01-31",
+      "url": "https://www.qdaily.org/articles/60839/",
+      "bucket": "longform"
+    }
+  ]
+}
