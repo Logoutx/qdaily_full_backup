@@ -1,106 +1,102 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "editor_id": "codex-v1",
-  "title": "从远古人类到城市日常",
+  "title": "从退休生活到隐私边界",
   "picks": [
     {
-      "id": 60038,
-      "title": "海航的问题还在继续，香港航空被保险公司踢出倒闭赔偿名单",
-      "publish_date": "2019-01-07",
-      "url": "https://www.qdaily.org/articles/60038/",
+      "id": 56098,
+      "title": "俄罗斯将推迟退休年龄，男性今后可能只能领两年半退休金 | 好奇心小数据",
+      "publish_date": "2018-09-05",
+      "url": "https://www.qdaily.org/articles/56098/",
       "bucket": "cn-trend",
-      "hotspot": "香港航空",
+      "hotspot": "退休金",
       "source": "google-trends-HK"
     },
     {
-      "id": 33710,
-      "title": "金球奖公布 30 人候选名单，今年的结果会出人意料吗？",
-      "publish_date": "2016-10-25",
-      "url": "https://www.qdaily.org/articles/33710/",
+      "id": 50475,
+      "title": "日本要让公务员推迟到 70 岁退休，以缓解老龄化带来的问题 | 好奇心小数据",
+      "publish_date": "2018-02-22",
+      "url": "https://www.qdaily.org/articles/50475/",
       "bucket": "cn-trend",
-      "hotspot": "金球奖排名",
+      "hotspot": "退休金",
+      "source": "google-trends-HK"
+    },
+    {
+      "id": 10724,
+      "title": "为了卖好苹果手表，苹果在中国自己做起了黄牛",
+      "publish_date": "2015-06-15",
+      "url": "https://www.qdaily.org/articles/10724/",
+      "bucket": "cn-trend",
+      "hotspot": "苹果折叠机让黄牛亏到没裤子",
       "source": "60s-weibo"
     },
     {
-      "id": 63476,
-      "title": "西藏洞穴发现新化石，证明人类祖先很早就能适应高海拔",
-      "publish_date": "2019-05-05",
-      "url": "https://www.qdaily.org/articles/63476/",
+      "id": 54689,
+      "title": "中国消费者去年买的东西平均贵了 4%，快消市场发生了四个变化",
+      "publish_date": "2018-07-02",
+      "url": "https://www.qdaily.org/articles/54689/",
       "bucket": "cn-trend",
-      "hotspot": "付巧妹团队 Nature 论文发现「许家窑人是丹尼索瓦人」，如何理解这一研究的意义？",
-      "source": "60s-zhihu"
+      "hotspot": "发现大家的消费需求好清晰",
+      "source": "60s-weibo"
     },
     {
-      "id": 10576,
-      "title": "9 年之后 iOS 开始放慢脚步，这个移动时代的操作系统如何影响了我们的生活？",
-      "publish_date": "2015-06-10",
-      "url": "https://www.qdaily.org/articles/10576/",
-      "bucket": "cn-trend",
-      "hotspot": "ios 27.2",
-      "source": "google-trends-HK"
-    },
-    {
-      "id": 1520,
-      "title": "裁员 18000 人造就纳德拉的“一个微软”",
-      "publish_date": "2014-07-18",
-      "url": "https://www.qdaily.org/articles/1520/",
+      "id": 4753,
+      "title": "NSA 说：圣诞快乐，这是我们的非法监控记录",
+      "publish_date": "2014-12-26",
+      "url": "https://www.qdaily.org/articles/4753/",
       "bucket": "global-trend",
-      "hotspot": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "hotspot": "US Government is hiding a secret court ruling about how it spies on Americans",
       "source": "hacker-news"
     },
     {
-      "id": 27390,
-      "title": "微软的手机业务部门又裁员了，现在还剩下什么？",
-      "publish_date": "2016-05-27",
-      "url": "https://www.qdaily.org/articles/27390/",
+      "id": 3885,
+      "title": "我们都知道斯诺登，但因此改变的却没有多少人",
+      "publish_date": "2014-11-26",
+      "url": "https://www.qdaily.org/articles/3885/",
       "bucket": "global-trend",
-      "hotspot": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "hotspot": "US Government is hiding a secret court ruling about how it spies on Americans",
       "source": "hacker-news"
     },
     {
-      "id": 54100,
-      "title": "美国增加关税，中国削减补贴，光伏行业可能被重创",
-      "publish_date": "2018-06-09",
-      "url": "https://www.qdaily.org/articles/54100/",
-      "bucket": "global-trend",
-      "hotspot": "Solar power is becoming bigger than nuclear",
-      "source": "hacker-news"
-    },
-    {
-      "id": 6896,
-      "title": "从Google拿了3亿美元的太阳能公司，究竟在做啥？",
-      "publish_date": "2015-02-28",
-      "url": "https://www.qdaily.org/articles/6896/",
-      "bucket": "global-trend",
-      "hotspot": "Solar power is becoming bigger than nuclear",
-      "source": "hacker-news"
-    },
-    {
-      "id": 23445,
-      "title": "农夫山泉那款获得国际大奖的产品包装是怎么做出来的？",
-      "publish_date": "2016-03-09",
-      "url": "https://www.qdaily.org/articles/23445/",
+      "id": 34213,
+      "title": "从北京南锣鼓巷到杭州河坊街，旅游景区的商业是如何一步步变得廉价而千篇一律的？",
+      "publish_date": "2016-11-08",
+      "url": "https://www.qdaily.org/articles/34213/",
       "bucket": "longform"
     },
     {
-      "id": 54871,
-      "title": "从巴黎到四谷，这是摄影师森山大道的黑白摄影文集",
-      "publish_date": "2018-07-03",
-      "url": "https://www.qdaily.org/articles/54871/",
+      "id": 14335,
+      "title": "在成为一线时尚摄影师之前，尹超经历了些什么？| 100 个有想法的人",
+      "publish_date": "2015-09-15",
+      "url": "https://www.qdaily.org/articles/14335/",
       "bucket": "longform"
     },
     {
-      "id": 63189,
-      "title": "“世界上最聪明的网站” Edge 的新书，讨论的主题是文化",
-      "publish_date": "2019-04-23",
-      "url": "https://www.qdaily.org/articles/63189/",
+      "id": 37567,
+      "title": "简·奥斯汀逝世 200 周年，为什么两个世纪过去，人们对她依旧迷恋？",
+      "publish_date": "2017-02-08",
+      "url": "https://www.qdaily.org/articles/37567/",
       "bucket": "longform"
     },
     {
-      "id": 60839,
-      "title": "袍哥、茶馆和街头文化，一个曾经存在社会自治的城市是什么样？",
-      "publish_date": "2019-01-31",
-      "url": "https://www.qdaily.org/articles/60839/",
+      "id": 39228,
+      "title": "人类学家探究中国乡村的亲密关系，有陈旧印象，也有新奇发现",
+      "publish_date": "2017-03-29",
+      "url": "https://www.qdaily.org/articles/39228/",
+      "bucket": "longform"
+    },
+    {
+      "id": 16554,
+      "title": "很多人觉得设计靠经验和灵感，但是他却想把数据卖给设计师｜100 个有想法的人",
+      "publish_date": "2015-11-02",
+      "url": "https://www.qdaily.org/articles/16554/",
+      "bucket": "longform"
+    },
+    {
+      "id": 34196,
+      "title": "想知道东印度公司的兴衰史，可以翻翻这本书",
+      "publish_date": "2016-11-08",
+      "url": "https://www.qdaily.org/articles/34196/",
       "bucket": "longform"
     }
   ]
