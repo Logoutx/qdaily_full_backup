@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-29",
+  "editor_id": "codex-v1",
+  "title": "从触摸屏到自然的材料",
+  "picks": [
+    {
+      "id": 2912,
+      "title": "苹果发布会没有出人意料的新产品，不过“视网膜”已经改变了整个行业",
+      "publish_date": "2014-10-17",
+      "url": "https://www.qdaily.org/articles/2912/",
+      "bucket": "cn-trend",
+      "hotspot": "苹果发布会",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 33839,
+      "title": "新 MacBook Pro 上手体验，苹果第一次给笔记本装上触控屏",
+      "publish_date": "2016-10-28",
+      "url": "https://www.qdaily.org/articles/33839/",
+      "bucket": "cn-trend",
+      "hotspot": "苹果发布首款触屏 MacBook Pro，有哪些亮点值得关注？你看好其市场前景吗？",
+      "source": "60s-zhihu"
+    },
+    {
+      "id": 14521,
+      "title": "想去太空旅行？波音公司快要发射“太空出租车”了",
+      "publish_date": "2015-09-07",
+      "url": "https://www.qdaily.org/articles/14521/",
+      "bucket": "cn-trend",
+      "hotspot": "太空飞机",
+      "source": "google-trends-HK"
+    },
+    {
+      "id": 45978,
+      "title": "贝索斯的太空旅客计划又推迟了，太空旅行的承诺已经食言了多少次？",
+      "publish_date": "2017-10-20",
+      "url": "https://www.qdaily.org/articles/45978/",
+      "bucket": "cn-trend",
+      "hotspot": "太空飞机",
+      "source": "google-trends-HK"
+    },
+    {
+      "id": 26754,
+      "title": "The North Face 要推出一款大衣，蜘蛛丝做的",
+      "publish_date": "2016-05-12",
+      "url": "https://www.qdaily.org/articles/26754/",
+      "bucket": "global-trend",
+      "hotspot": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+      "source": "hacker-news"
+    },
+    {
+      "id": 29073,
+      "title": "他制造出一种小提琴，用蜘蛛丝代替木材",
+      "publish_date": "2016-07-04",
+      "url": "https://www.qdaily.org/articles/29073/",
+      "bucket": "global-trend",
+      "hotspot": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+      "source": "hacker-news"
+    },
+    {
+      "id": 63556,
+      "title": "展示南北极和赤道珊瑚海的摄影展，希望唤起对气候变化的关注",
+      "publish_date": "2019-05-07",
+      "url": "https://www.qdaily.org/articles/63556/",
+      "bucket": "longform"
+    },
+    {
+      "id": 44245,
+      "title": "Netflix 、全食超市和 Google ，它们都用了什么新管理方式？",
+      "publish_date": "2017-08-18",
+      "url": "https://www.qdaily.org/articles/44245/",
+      "bucket": "longform"
+    },
+    {
+      "id": 41930,
+      "title": "人类如何钟情于化妆，化妆又如何影响人类？",
+      "publish_date": "2017-06-14",
+      "url": "https://www.qdaily.org/articles/41930/",
+      "bucket": "longform"
+    },
+    {
+      "id": 42375,
+      "title": "数学能给人带来幸福，一个哲学家说我们必须拯救它",
+      "publish_date": "2017-06-26",
+      "url": "https://www.qdaily.org/articles/42375/",
+      "bucket": "longform"
+    },
+    {
+      "id": 40103,
+      "title": "山东潍坊刚办完一场戏剧节，那是一群青年改变乡村的文艺“试验”",
+      "publish_date": "2017-04-25",
+      "url": "https://www.qdaily.org/articles/40103/",
+      "bucket": "longform"
+    },
+    {
+      "id": 36578,
+      "title": "在日本和在中国，同样倡导“简约生活”的无印良品为什么那么不一样？",
+      "publish_date": "2017-01-12",
+      "url": "https://www.qdaily.org/articles/36578/",
+      "bucket": "longform"
+    }
+  ]
+}
