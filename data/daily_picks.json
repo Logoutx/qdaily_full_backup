@@ -1,102 +1,96 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "editor_id": "codex-v1",
-  "title": "从触摸屏到自然的材料",
+  "title": "从卡通形象到文化的传承",
   "picks": [
     {
-      "id": 2912,
-      "title": "苹果发布会没有出人意料的新产品，不过“视网膜”已经改变了整个行业",
-      "publish_date": "2014-10-17",
-      "url": "https://www.qdaily.org/articles/2912/",
+      "id": 61821,
+      "title": "Hello Kitty 要进军好莱坞了，三丽鸥与新线影业达成合作",
+      "publish_date": "2019-03-07",
+      "url": "https://www.qdaily.org/articles/61821/",
       "bucket": "cn-trend",
-      "hotspot": "苹果发布会",
+      "hotspot": "三丽鸥",
       "source": "60s-weibo"
     },
     {
-      "id": 33839,
-      "title": "新 MacBook Pro 上手体验，苹果第一次给笔记本装上触控屏",
-      "publish_date": "2016-10-28",
-      "url": "https://www.qdaily.org/articles/33839/",
+      "id": 29222,
+      "title": "Hello Kitty 的公司又举办了人气大赏，布丁狗蝉联第一",
+      "publish_date": "2016-07-07",
+      "url": "https://www.qdaily.org/articles/29222/",
       "bucket": "cn-trend",
-      "hotspot": "苹果发布首款触屏 MacBook Pro，有哪些亮点值得关注？你看好其市场前景吗？",
-      "source": "60s-zhihu"
+      "hotspot": "三丽鸥",
+      "source": "60s-weibo"
     },
     {
-      "id": 14521,
-      "title": "想去太空旅行？波音公司快要发射“太空出租车”了",
-      "publish_date": "2015-09-07",
-      "url": "https://www.qdaily.org/articles/14521/",
-      "bucket": "cn-trend",
-      "hotspot": "太空飞机",
-      "source": "google-trends-HK"
-    },
-    {
-      "id": 45978,
-      "title": "贝索斯的太空旅客计划又推迟了，太空旅行的承诺已经食言了多少次？",
-      "publish_date": "2017-10-20",
-      "url": "https://www.qdaily.org/articles/45978/",
-      "bucket": "cn-trend",
-      "hotspot": "太空飞机",
-      "source": "google-trends-HK"
-    },
-    {
-      "id": 26754,
-      "title": "The North Face 要推出一款大衣，蜘蛛丝做的",
-      "publish_date": "2016-05-12",
-      "url": "https://www.qdaily.org/articles/26754/",
+      "id": 59236,
+      "title": "科马克·麦卡锡的普利策奖获奖小说，描绘人类文明末日的长路",
+      "publish_date": "2018-12-13",
+      "url": "https://www.qdaily.org/articles/59236/",
       "bucket": "global-trend",
-      "hotspot": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+      "hotspot": "Cormac McCarthy's Library",
       "source": "hacker-news"
     },
     {
-      "id": 29073,
-      "title": "他制造出一种小提琴，用蜘蛛丝代替木材",
-      "publish_date": "2016-07-04",
-      "url": "https://www.qdaily.org/articles/29073/",
-      "bucket": "global-trend",
-      "hotspot": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-      "source": "hacker-news"
-    },
-    {
-      "id": 63556,
-      "title": "展示南北极和赤道珊瑚海的摄影展，希望唤起对气候变化的关注",
-      "publish_date": "2019-05-07",
-      "url": "https://www.qdaily.org/articles/63556/",
+      "id": 12692,
+      "title": "气垫产品是如何在美妆界流行起来的？|市场发明家",
+      "publish_date": "2015-07-28",
+      "url": "https://www.qdaily.org/articles/12692/",
       "bucket": "longform"
     },
     {
-      "id": 44245,
-      "title": "Netflix 、全食超市和 Google ，它们都用了什么新管理方式？",
-      "publish_date": "2017-08-18",
-      "url": "https://www.qdaily.org/articles/44245/",
+      "id": 47381,
+      "title": "每月众筹 2.2 万美元，他一年拍了 7 个游戏纪录片 | 100 个有想法的人",
+      "publish_date": "2017-11-21",
+      "url": "https://www.qdaily.org/articles/47381/",
       "bucket": "longform"
     },
     {
-      "id": 41930,
-      "title": "人类如何钟情于化妆，化妆又如何影响人类？",
-      "publish_date": "2017-06-14",
-      "url": "https://www.qdaily.org/articles/41930/",
+      "id": 52773,
+      "title": "中国国际设计博物馆开馆，它的建筑设计师西扎擅长“在平静里蕴藏力量”",
+      "publish_date": "2018-05-07",
+      "url": "https://www.qdaily.org/articles/52773/",
       "bucket": "longform"
     },
     {
-      "id": 42375,
-      "title": "数学能给人带来幸福，一个哲学家说我们必须拯救它",
-      "publish_date": "2017-06-26",
-      "url": "https://www.qdaily.org/articles/42375/",
+      "id": 58797,
+      "title": "一位在墨西哥30年的比利时艺术家，认为人类应该长久保持警惕，包括对所谓的“进步”",
+      "publish_date": "2018-11-29",
+      "url": "https://www.qdaily.org/articles/58797/",
       "bucket": "longform"
     },
     {
-      "id": 40103,
-      "title": "山东潍坊刚办完一场戏剧节，那是一群青年改变乡村的文艺“试验”",
-      "publish_date": "2017-04-25",
-      "url": "https://www.qdaily.org/articles/40103/",
+      "id": 48473,
+      "title": "为什么统治地球的是我们人类，而不是大猩猩？",
+      "publish_date": "2017-12-21",
+      "url": "https://www.qdaily.org/articles/48473/",
       "bucket": "longform"
     },
     {
-      "id": 36578,
-      "title": "在日本和在中国，同样倡导“简约生活”的无印良品为什么那么不一样？",
-      "publish_date": "2017-01-12",
-      "url": "https://www.qdaily.org/articles/36578/",
+      "id": 56233,
+      "title": "巴巴拉·塔奇曼经典之作，一战是如何开启并迅速陷入僵局？",
+      "publish_date": "2018-09-11",
+      "url": "https://www.qdaily.org/articles/56233/",
+      "bucket": "longform"
+    },
+    {
+      "id": 33251,
+      "title": "再见，黑莓，你因办公而生，又因办公而死 | 好奇心商业史",
+      "publish_date": "2016-10-13",
+      "url": "https://www.qdaily.org/articles/33251/",
+      "bucket": "longform"
+    },
+    {
+      "id": 58279,
+      "title": "盖茨的高科技厕所展，与会者如何想象上厕所难题的解决办法",
+      "publish_date": "2018-11-15",
+      "url": "https://www.qdaily.org/articles/58279/",
+      "bucket": "longform"
+    },
+    {
+      "id": 45655,
+      "title": "他横跨伊拉克、以色列、美国三地，希望能理解父亲的过去",
+      "publish_date": "2017-09-28",
+      "url": "https://www.qdaily.org/articles/45655/",
       "bucket": "longform"
     }
   ]
