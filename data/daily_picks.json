@@ -1,102 +1,100 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "editor_id": "codex-v1",
-  "title": "从企业转型到看见黑洞",
+  "title": "从咖啡馆到种子的未来",
   "picks": [
     {
-      "id": 54544,
-      "title": "英特尔 CEO 科在奇突然离任，他这五年究竟做得怎么样？",
-      "publish_date": "2018-06-24",
-      "url": "https://www.qdaily.org/articles/54544/",
+      "id": 31601,
+      "title": "比亚迪卖得那么好，为什么还是令人担忧",
+      "publish_date": "2016-08-30",
+      "url": "https://www.qdaily.org/articles/31601/",
       "bucket": "cn-trend",
-      "hotspot": "英特尔美股暴跌科技股同步大跌",
-      "source": "60s-weibo"
-    },
-    {
-      "id": 7860,
-      "title": "那个创造了“灯，等灯等灯”的英特尔怎么离我们越来越远了？",
-      "publish_date": "2015-04-16",
-      "url": "https://www.qdaily.org/articles/7860/",
-      "bucket": "cn-trend",
-      "hotspot": "英特尔美股暴跌科技股同步大跌",
-      "source": "60s-weibo"
-    },
-    {
-      "id": 13823,
-      "title": "「Top 15 之万科」我们看了一下万科的高管名单，万科你老了啊",
-      "publish_date": "2015-08-21",
-      "url": "https://www.qdaily.org/articles/13823/",
-      "bucket": "cn-trend",
-      "hotspot": "如何评价万科2026年1-9月亏损239.4亿元？",
+      "hotspot": "如何评价比亚迪 2026 年前三季度归母净利润 223.45 亿元 你怎么看？",
       "source": "60s-zhihu"
     },
     {
-      "id": 21770,
-      "title": "现在谁是万科的朋友，十年以后呢？｜Top 15 年度报道",
-      "publish_date": "2016-02-03",
-      "url": "https://www.qdaily.org/articles/21770/",
+      "id": 4174,
+      "title": "现在的星巴克已经不再是那个“第三空间”了吧",
+      "publish_date": "2014-12-08",
+      "url": "https://www.qdaily.org/articles/4174/",
       "bucket": "cn-trend",
-      "hotspot": "如何评价万科2026年1-9月亏损239.4亿元？",
+      "hotspot": "南京一男子在星巴克不消费占座，被店员提醒后反报警，经调解后离开门店，怎样看待这一行为？",
       "source": "60s-zhihu"
     },
     {
-      "id": 39597,
-      "title": "人类第一次给黑洞拍了照片，这件事为什么这么难？",
-      "publish_date": "2017-04-09",
-      "url": "https://www.qdaily.org/articles/39597/",
+      "id": 58039,
+      "title": "美国中期选举在即，专家认为 Facebook 避免干扰选举的努力成效不佳",
+      "publish_date": "2018-11-07",
+      "url": "https://www.qdaily.org/articles/58039/",
+      "bucket": "cn-trend",
+      "hotspot": "中期选举对特朗普真的重要么？",
+      "source": "60s-zhihu"
+    },
+    {
+      "id": 38114,
+      "title": "因为气候和政治不稳定，科学家又在北极存了 5 万份种子",
+      "publish_date": "2017-02-24",
+      "url": "https://www.qdaily.org/articles/38114/",
       "bucket": "global-trend",
-      "hotspot": "How do you take a picture of a black hole?",
+      "hotspot": "An Italian farmer found some unknown seeds in his attic and planted them",
       "source": "hacker-news"
     },
     {
-      "id": 62868,
-      "title": "人类首次“拍”到黑洞，一个模糊、暖橙色的圈 | 好奇心小数据",
-      "publish_date": "2019-04-11",
-      "url": "https://www.qdaily.org/articles/62868/",
+      "id": 62544,
+      "title": "极地气温上升，永久冻土保护的“末日种子库”不再安全",
+      "publish_date": "2019-03-31",
+      "url": "https://www.qdaily.org/articles/62544/",
       "bucket": "global-trend",
-      "hotspot": "How do you take a picture of a black hole?",
+      "hotspot": "An Italian farmer found some unknown seeds in his attic and planted them",
       "source": "hacker-news"
     },
     {
-      "id": 42035,
-      "title": "写这本日本怪谈短篇故事集的人，曾经对三岛由纪夫影响深远",
-      "publish_date": "2017-06-16",
-      "url": "https://www.qdaily.org/articles/42035/",
+      "id": 49279,
+      "title": "在美国，嘻哈第一次从摇滚头上摘下流行的皇冠，它的生命力从何而来？",
+      "publish_date": "2018-01-22",
+      "url": "https://www.qdaily.org/articles/49279/",
       "bucket": "longform"
     },
     {
-      "id": 63763,
-      "title": "他们教人跳摇摆舞，只是想让人体会一种简单的快乐 | 了不起的小工作室",
-      "publish_date": "2019-05-20",
-      "url": "https://www.qdaily.org/articles/63763/",
+      "id": 2519,
+      "title": "一个很有名的设计师说：连小布什都能做画家，你也能",
+      "publish_date": "2014-09-24",
+      "url": "https://www.qdaily.org/articles/2519/",
       "bucket": "longform"
     },
     {
-      "id": 9635,
-      "title": "一个演了 2000 多场《剧院魅影》的音乐剧演员，和我们聊了聊他的百老汇人生",
-      "publish_date": "2015-05-15",
-      "url": "https://www.qdaily.org/articles/9635/",
+      "id": 59369,
+      "title": "“只看作品，不看作家”的匿名作家竞赛落幕，它带来关于文学的什么思考？",
+      "publish_date": "2018-12-17",
+      "url": "https://www.qdaily.org/articles/59369/",
       "bucket": "longform"
     },
     {
-      "id": 57080,
-      "title": "20 世纪初的上海中下层居民，都过着什么样的日常生活？",
-      "publish_date": "2018-10-08",
-      "url": "https://www.qdaily.org/articles/57080/",
+      "id": 24492,
+      "title": "别指望一步到位，好剧本是改出来的",
+      "publish_date": "2016-05-07",
+      "url": "https://www.qdaily.org/articles/24492/",
       "bucket": "longform"
     },
     {
-      "id": 54743,
-      "title": "「万物简史」1940 体制如何成就日本奇迹，又如何毁了它",
-      "publish_date": "2018-06-30",
-      "url": "https://www.qdaily.org/articles/54743/",
+      "id": 44800,
+      "title": "一个香港陶艺师在景德镇办了12年陶社，她试图建立的规则基本没什么用",
+      "publish_date": "2017-09-05",
+      "url": "https://www.qdaily.org/articles/44800/",
       "bucket": "longform"
     },
     {
-      "id": 24917,
-      "title": "一年花六千元租衣服穿，这能成为一个生意吗？",
-      "publish_date": "2016-04-05",
-      "url": "https://www.qdaily.org/articles/24917/",
+      "id": 57435,
+      "title": "牛蛙成了网红菜，它们都从哪里来的？",
+      "publish_date": "2018-10-18",
+      "url": "https://www.qdaily.org/articles/57435/",
+      "bucket": "longform"
+    },
+    {
+      "id": 54652,
+      "title": "“我们家应该发达的”，一个家庭 30 年来的财富和机会 | 深圳和它的 40 年②",
+      "publish_date": "2018-06-27",
+      "url": "https://www.qdaily.org/articles/54652/",
       "bucket": "longform"
     }
   ]
