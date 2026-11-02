@@ -1,100 +1,98 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "editor_id": "codex-v1",
-  "title": "从咖啡馆到种子的未来",
+  "title": "从球场生意到日常生活",
   "picks": [
+    {
+      "id": 31611,
+      "title": "利物浦新的主看台落成，球场扩建究竟是不是笔好生意？",
+      "publish_date": "2016-09-01",
+      "url": "https://www.qdaily.org/articles/31611/",
+      "bucket": "cn-trend",
+      "hotspot": "利物浦",
+      "source": "google-trends-HK"
+    },
+    {
+      "id": 40692,
+      "title": "为了打击盗版，利物浦在中国推出正版平价球衣",
+      "publish_date": "2017-05-11",
+      "url": "https://www.qdaily.org/articles/40692/",
+      "bucket": "cn-trend",
+      "hotspot": "利物浦",
+      "source": "google-trends-HK"
+    },
+    {
+      "id": 23099,
+      "title": "“全北京影视行业都在招人”，但优秀的职位和人都不多",
+      "publish_date": "2016-03-03",
+      "url": "https://www.qdaily.org/articles/23099/",
+      "bucket": "cn-trend",
+      "hotspot": "影视行业真的来春天了",
+      "source": "60s-weibo"
+    },
     {
       "id": 31601,
       "title": "比亚迪卖得那么好，为什么还是令人担忧",
       "publish_date": "2016-08-30",
       "url": "https://www.qdaily.org/articles/31601/",
       "bucket": "cn-trend",
-      "hotspot": "如何评价比亚迪 2026 年前三季度归母净利润 223.45 亿元 你怎么看？",
+      "hotspot": "如何评价比亚迪 10 月新能源汽车销量 49.02 万辆，海外销量翻倍？横向对比这一销量属于什么水平？",
       "source": "60s-zhihu"
     },
     {
-      "id": 4174,
-      "title": "现在的星巴克已经不再是那个“第三空间”了吧",
-      "publish_date": "2014-12-08",
-      "url": "https://www.qdaily.org/articles/4174/",
-      "bucket": "cn-trend",
-      "hotspot": "南京一男子在星巴克不消费占座，被店员提醒后反报警，经调解后离开门店，怎样看待这一行为？",
-      "source": "60s-zhihu"
-    },
-    {
-      "id": 58039,
-      "title": "美国中期选举在即，专家认为 Facebook 避免干扰选举的努力成效不佳",
-      "publish_date": "2018-11-07",
-      "url": "https://www.qdaily.org/articles/58039/",
-      "bucket": "cn-trend",
-      "hotspot": "中期选举对特朗普真的重要么？",
-      "source": "60s-zhihu"
-    },
-    {
-      "id": 38114,
-      "title": "因为气候和政治不稳定，科学家又在北极存了 5 万份种子",
-      "publish_date": "2017-02-24",
-      "url": "https://www.qdaily.org/articles/38114/",
-      "bucket": "global-trend",
-      "hotspot": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "source": "hacker-news"
-    },
-    {
-      "id": 62544,
-      "title": "极地气温上升，永久冻土保护的“末日种子库”不再安全",
-      "publish_date": "2019-03-31",
-      "url": "https://www.qdaily.org/articles/62544/",
-      "bucket": "global-trend",
-      "hotspot": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "source": "hacker-news"
-    },
-    {
-      "id": 49279,
-      "title": "在美国，嘻哈第一次从摇滚头上摘下流行的皇冠，它的生命力从何而来？",
-      "publish_date": "2018-01-22",
-      "url": "https://www.qdaily.org/articles/49279/",
+      "id": 45101,
+      "title": "Facebook  COO 的新书，讲述丈夫猝然离世后她的生活",
+      "publish_date": "2017-09-12",
+      "url": "https://www.qdaily.org/articles/45101/",
       "bucket": "longform"
     },
     {
-      "id": 2519,
-      "title": "一个很有名的设计师说：连小布什都能做画家，你也能",
-      "publish_date": "2014-09-24",
-      "url": "https://www.qdaily.org/articles/2519/",
+      "id": 53255,
+      "title": "信息爆炸时代，为什么人却越来越无知？",
+      "publish_date": "2018-05-17",
+      "url": "https://www.qdaily.org/articles/53255/",
       "bucket": "longform"
     },
     {
-      "id": 59369,
-      "title": "“只看作品，不看作家”的匿名作家竞赛落幕，它带来关于文学的什么思考？",
-      "publish_date": "2018-12-17",
-      "url": "https://www.qdaily.org/articles/59369/",
+      "id": 50503,
+      "title": "“大提琴之父”巴勃罗·卡萨尔斯，有着怎样的一生？",
+      "publish_date": "2018-02-23",
+      "url": "https://www.qdaily.org/articles/50503/",
       "bucket": "longform"
     },
     {
-      "id": 24492,
-      "title": "别指望一步到位，好剧本是改出来的",
-      "publish_date": "2016-05-07",
-      "url": "https://www.qdaily.org/articles/24492/",
+      "id": 35134,
+      "title": "这家以老建筑改建为特色的事务所，有着怎样的建筑设计？",
+      "publish_date": "2016-12-05",
+      "url": "https://www.qdaily.org/articles/35134/",
       "bucket": "longform"
     },
     {
-      "id": 44800,
-      "title": "一个香港陶艺师在景德镇办了12年陶社，她试图建立的规则基本没什么用",
-      "publish_date": "2017-09-05",
-      "url": "https://www.qdaily.org/articles/44800/",
+      "id": 25654,
+      "title": "面包对便利店意味着什么，它们为何会花大力气去改良？",
+      "publish_date": "2016-04-30",
+      "url": "https://www.qdaily.org/articles/25654/",
       "bucket": "longform"
     },
     {
-      "id": 57435,
-      "title": "牛蛙成了网红菜，它们都从哪里来的？",
-      "publish_date": "2018-10-18",
-      "url": "https://www.qdaily.org/articles/57435/",
+      "id": 30549,
+      "title": "那个叫 Club Med 的度假村为什么让中产阶级欲罢不能？",
+      "publish_date": "2016-08-04",
+      "url": "https://www.qdaily.org/articles/30549/",
       "bucket": "longform"
     },
     {
-      "id": 54652,
-      "title": "“我们家应该发达的”，一个家庭 30 年来的财富和机会 | 深圳和它的 40 年②",
-      "publish_date": "2018-06-27",
-      "url": "https://www.qdaily.org/articles/54652/",
+      "id": 33798,
+      "title": "余文乐在北京三里屯那家潮店大排长龙，明星潮牌生意越来越好了么？",
+      "publish_date": "2016-10-28",
+      "url": "https://www.qdaily.org/articles/33798/",
+      "bucket": "longform"
+    },
+    {
+      "id": 44753,
+      "title": "作家朱天心和朋友们，谈了他们关于 80 年代的文学记忆",
+      "publish_date": "2017-09-02",
+      "url": "https://www.qdaily.org/articles/44753/",
       "bucket": "longform"
     }
   ]
