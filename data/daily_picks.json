@@ -1,98 +1,100 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "editor_id": "codex-v1",
-  "title": "从身份凭证到创作生活",
+  "title": "从游戏赛场到节日街头",
   "picks": [
     {
-      "id": 52206,
-      "title": "微信身份证之后，手机上又多了两种数字身份证",
-      "publish_date": "2018-04-17",
-      "url": "https://www.qdaily.org/articles/52206/",
+      "id": 30050,
+      "title": "《王者荣耀》火了，但腾讯希望它能完成更多任务",
+      "publish_date": "2016-07-25",
+      "url": "https://www.qdaily.org/articles/30050/",
       "bucket": "cn-trend",
-      "hotspot": "政务中心解释补办身份证要带身份证",
+      "hotspot": "王者荣耀",
       "source": "60s-weibo"
     },
     {
-      "id": 51839,
-      "title": "跟孩子沟通中，49个问题你不如想一下再说出口？",
-      "publish_date": "2018-04-06",
-      "url": "https://www.qdaily.org/articles/51839/",
+      "id": 56171,
+      "title": "《王者荣耀》要接入公安数据，进一步限制未成年人玩游戏",
+      "publish_date": "2018-09-07",
+      "url": "https://www.qdaily.org/articles/56171/",
       "bucket": "cn-trend",
-      "hotspot": "为什么很多父母总喜欢跟孩子说大道理？",
-      "source": "60s-zhihu"
+      "hotspot": "王者荣耀",
+      "source": "60s-weibo"
     },
     {
-      "id": 54544,
-      "title": "英特尔 CEO 科在奇突然离任，他这五年究竟做得怎么样？",
-      "publish_date": "2018-06-24",
-      "url": "https://www.qdaily.org/articles/54544/",
+      "id": 57988,
+      "title": "#Meme：iG 夺冠后，一批每天上网的年轻人第一次感觉被时代抛弃",
+      "publish_date": "2018-11-05",
+      "url": "https://www.qdaily.org/articles/57988/",
+      "bucket": "cn-trend",
+      "hotspot": "iG VN",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 15549,
+      "title": "「日本語」日本人会怎么过万圣节？",
+      "publish_date": "2015-09-25",
+      "url": "https://www.qdaily.org/articles/15549/",
       "bucket": "global-trend",
-      "hotspot": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "hotspot": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
       "source": "hacker-news"
     },
     {
-      "id": 7860,
-      "title": "那个创造了“灯，等灯等灯”的英特尔怎么离我们越来越远了？",
-      "publish_date": "2015-04-16",
-      "url": "https://www.qdaily.org/articles/7860/",
+      "id": 46344,
+      "title": "日本年轻人多爱万圣节？单涩谷就有百万人街头开派对",
+      "publish_date": "2017-10-22",
+      "url": "https://www.qdaily.org/articles/46344/",
       "bucket": "global-trend",
-      "hotspot": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "hotspot": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
       "source": "hacker-news"
     },
     {
-      "id": 39441,
-      "title": "金刚、异形、哥斯拉……无论怪兽电影怎么变，他们都是人类恐惧的投射",
-      "publish_date": "2017-04-03",
-      "url": "https://www.qdaily.org/articles/39441/",
+      "id": 39439,
+      "title": "40年前一个很野的牛仔裤品牌要复出了，它是谁？",
+      "publish_date": "2017-04-02",
+      "url": "https://www.qdaily.org/articles/39439/",
       "bucket": "longform"
     },
     {
-      "id": 23521,
-      "title": "听说书店复苏了，大众书局这样的“老书店”能抓住机会吗？",
-      "publish_date": "2016-03-15",
-      "url": "https://www.qdaily.org/articles/23521/",
+      "id": 31123,
+      "title": "作为社交界的颜值担当，Instagram都捧红过哪些食物，它们又是怎样走红的？",
+      "publish_date": "2016-08-24",
+      "url": "https://www.qdaily.org/articles/31123/",
       "bucket": "longform"
     },
     {
-      "id": 46429,
-      "title": "写了 4700 万字的网络作家刘炜，过的是怎样一种生活？ | 网络文学 20 年⑥",
-      "publish_date": "2017-10-24",
-      "url": "https://www.qdaily.org/articles/46429/",
+      "id": 41713,
+      "title": "这两个人开了 7 年餐厅，为何只卖与美国有冲突的“敌国食品“？",
+      "publish_date": "2017-06-12",
+      "url": "https://www.qdaily.org/articles/41713/",
       "bucket": "longform"
     },
     {
-      "id": 57465,
-      "title": "幻想小说家尼尔·盖曼，重述了辉煌壮丽的北欧神话",
-      "publish_date": "2018-10-19",
-      "url": "https://www.qdaily.org/articles/57465/",
+      "id": 38759,
+      "title": "我们和 Wallpaper 主编聊了聊，这本杂志的美学到底寄托在何处",
+      "publish_date": "2017-03-18",
+      "url": "https://www.qdaily.org/articles/38759/",
       "bucket": "longform"
     },
     {
-      "id": 62229,
-      "title": "这本获普利策奖的小说借由音乐，反思了时间、情感和记忆",
-      "publish_date": "2019-03-20",
-      "url": "https://www.qdaily.org/articles/62229/",
+      "id": 46829,
+      "title": "你是如何在打游戏时一次次被吓到？恐怖游戏这 20 年发生了什么",
+      "publish_date": "2017-11-04",
+      "url": "https://www.qdaily.org/articles/46829/",
       "bucket": "longform"
     },
     {
-      "id": 42478,
-      "title": "马尔克斯对这位作家大加赞赏，说“其优美凄绝不可多得”",
-      "publish_date": "2017-06-29",
-      "url": "https://www.qdaily.org/articles/42478/",
+      "id": 62099,
+      "title": "从威尔士到巴黎，他穿越了欧洲历史黑暗时期的奥德赛之旅",
+      "publish_date": "2019-03-18",
+      "url": "https://www.qdaily.org/articles/62099/",
       "bucket": "longform"
     },
     {
-      "id": 53263,
-      "title": "二十世纪六七十年代的反主流文化运动，如何孕育了苹果的企业文化？",
-      "publish_date": "2018-05-18",
-      "url": "https://www.qdaily.org/articles/53263/",
-      "bucket": "longform"
-    },
-    {
-      "id": 30906,
-      "title": "如何做一家性感的小公司？ | 也许欧洲有答案⑤",
-      "publish_date": "2016-08-12",
-      "url": "https://www.qdaily.org/articles/30906/",
+      "id": 63745,
+      "title": "50年前纽约酒吧里的一场骚乱，和美国人的同性平权 | 石墙50年",
+      "publish_date": "2019-05-15",
+      "url": "https://www.qdaily.org/articles/63745/",
       "bucket": "longform"
     }
   ]

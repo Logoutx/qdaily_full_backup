@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-04",
+  "editor_id": "codex-v1",
+  "title": "从游戏赛场到节日街头",
+  "picks": [
+    {
+      "id": 30050,
+      "title": "《王者荣耀》火了，但腾讯希望它能完成更多任务",
+      "publish_date": "2016-07-25",
+      "url": "https://www.qdaily.org/articles/30050/",
+      "bucket": "cn-trend",
+      "hotspot": "王者荣耀",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 56171,
+      "title": "《王者荣耀》要接入公安数据，进一步限制未成年人玩游戏",
+      "publish_date": "2018-09-07",
+      "url": "https://www.qdaily.org/articles/56171/",
+      "bucket": "cn-trend",
+      "hotspot": "王者荣耀",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 57988,
+      "title": "#Meme：iG 夺冠后，一批每天上网的年轻人第一次感觉被时代抛弃",
+      "publish_date": "2018-11-05",
+      "url": "https://www.qdaily.org/articles/57988/",
+      "bucket": "cn-trend",
+      "hotspot": "iG VN",
+      "source": "60s-weibo"
+    },
+    {
+      "id": 15549,
+      "title": "「日本語」日本人会怎么过万圣节？",
+      "publish_date": "2015-09-25",
+      "url": "https://www.qdaily.org/articles/15549/",
+      "bucket": "global-trend",
+      "hotspot": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "source": "hacker-news"
+    },
+    {
+      "id": 46344,
+      "title": "日本年轻人多爱万圣节？单涩谷就有百万人街头开派对",
+      "publish_date": "2017-10-22",
+      "url": "https://www.qdaily.org/articles/46344/",
+      "bucket": "global-trend",
+      "hotspot": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "source": "hacker-news"
+    },
+    {
+      "id": 39439,
+      "title": "40年前一个很野的牛仔裤品牌要复出了，它是谁？",
+      "publish_date": "2017-04-02",
+      "url": "https://www.qdaily.org/articles/39439/",
+      "bucket": "longform"
+    },
+    {
+      "id": 31123,
+      "title": "作为社交界的颜值担当，Instagram都捧红过哪些食物，它们又是怎样走红的？",
+      "publish_date": "2016-08-24",
+      "url": "https://www.qdaily.org/articles/31123/",
+      "bucket": "longform"
+    },
+    {
+      "id": 41713,
+      "title": "这两个人开了 7 年餐厅，为何只卖与美国有冲突的“敌国食品“？",
+      "publish_date": "2017-06-12",
+      "url": "https://www.qdaily.org/articles/41713/",
+      "bucket": "longform"
+    },
+    {
+      "id": 38759,
+      "title": "我们和 Wallpaper 主编聊了聊，这本杂志的美学到底寄托在何处",
+      "publish_date": "2017-03-18",
+      "url": "https://www.qdaily.org/articles/38759/",
+      "bucket": "longform"
+    },
+    {
+      "id": 46829,
+      "title": "你是如何在打游戏时一次次被吓到？恐怖游戏这 20 年发生了什么",
+      "publish_date": "2017-11-04",
+      "url": "https://www.qdaily.org/articles/46829/",
+      "bucket": "longform"
+    },
+    {
+      "id": 62099,
+      "title": "从威尔士到巴黎，他穿越了欧洲历史黑暗时期的奥德赛之旅",
+      "publish_date": "2019-03-18",
+      "url": "https://www.qdaily.org/articles/62099/",
+      "bucket": "longform"
+    },
+    {
+      "id": 63745,
+      "title": "50年前纽约酒吧里的一场骚乱，和美国人的同性平权 | 石墙50年",
+      "publish_date": "2019-05-15",
+      "url": "https://www.qdaily.org/articles/63745/",
+      "bucket": "longform"
+    }
+  ]
+}
