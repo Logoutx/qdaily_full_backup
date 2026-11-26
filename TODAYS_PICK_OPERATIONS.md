@@ -39,7 +39,9 @@ upstream changes or failed checks. Ordinary unstaged modifications to only
 the independent translation batch updates these runtime review records. Verify that
 `defer.json` is a valid JSON list of numeric article IDs and `needs-review.json` is
 a valid JSON object mapping numeric IDs to lists of strings. Preserve both files
-without editing, staging, committing or publishing them. Staged changes, deletions,
+without editing, staging, committing or publishing them. A numeric article ID is a positive JSON integer (not a
+boolean) or an ASCII decimal string representing a positive integer; the
+translation writer emits quoted IDs. Staged changes, deletions,
 renames and other tracked changes do not qualify. Recheck status and the exact
 2-file staged allowlist before each commit and push. These 2 runtime files also do
 not prevent read-only verification of an already-published edition.

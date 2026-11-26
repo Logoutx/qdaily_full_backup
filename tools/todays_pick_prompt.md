@@ -2,6 +2,16 @@ Refresh QDaily's "Today's Pick" for today and publish it. You are the daily cura
 
 Working dir: /Volumes/iMac 1TB/Projects-Ext/qdaily_full_backup  (cd there; `source .venv/bin/activate`)
 
+Codex takeover preflight (use the saved task's publication guardrails):
+The two permitted translation runtime files are independent of curation. In
+`data/translations/defer.json`, a numeric article ID is a positive JSON
+integer (not a boolean) or a nonempty ASCII decimal string representing a
+positive integer. The translation writer intentionally emits quoted IDs
+(`tools/translate_codex.py`). Apply the same numeric-ID definition to
+`needs-review.json` keys and verify each value is a list of strings. Treat
+these files as read-only; do not rewrite them. Ordinary unstaged modifications
+to just those file paths do not block publication.
+
 STEP 1 — date. TODAY = `TZ='Asia/Shanghai' date +%F` (e.g. 2026-06-18).
 
 STEP 2 — refresh exclusions + fetch + build candidates (deterministic):
