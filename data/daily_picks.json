@@ -1,100 +1,98 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-26",
   "editor_id": "codex-v1",
-  "title": "从游戏赛场到节日街头",
+  "title": "从空间站到街角电话亭",
   "picks": [
     {
-      "id": 30050,
-      "title": "《王者荣耀》火了，但腾讯希望它能完成更多任务",
-      "publish_date": "2016-07-25",
-      "url": "https://www.qdaily.org/articles/30050/",
+      "id": 58466,
+      "url": "https://www.qdaily.org/articles/58466/",
+      "title": "国际空间站升空 20 年，它曾是全球协作的象征 | 好奇心商业史",
+      "publish_date": "2018-11-20",
       "bucket": "cn-trend",
-      "hotspot": "王者荣耀",
-      "source": "60s-weibo"
+      "hotspot": "神舟二十四号中外航天员在中国空间站会师",
+      "source": "60s-zhihu；百度热搜；中国载人航天工程办公室"
     },
     {
-      "id": 56171,
-      "title": "《王者荣耀》要接入公安数据，进一步限制未成年人玩游戏",
-      "publish_date": "2018-09-07",
-      "url": "https://www.qdaily.org/articles/56171/",
+      "id": 54379,
+      "url": "https://www.qdaily.org/articles/54379/",
+      "title": "除了“消费升级和消费降级同时存在”，这里还有一些关于中国市场的解读",
+      "publish_date": "2018-06-23",
       "bucket": "cn-trend",
-      "hotspot": "王者荣耀",
-      "source": "60s-weibo"
+      "hotspot": "中国消费者的钱正在重新分配",
+      "source": "百度热搜"
     },
     {
-      "id": 57988,
-      "title": "#Meme：iG 夺冠后，一批每天上网的年轻人第一次感觉被时代抛弃",
-      "publish_date": "2018-11-05",
-      "url": "https://www.qdaily.org/articles/57988/",
+      "id": 63358,
+      "url": "https://www.qdaily.org/articles/63358/",
+      "title": "#Topic：养老机构跟不上需求，美国出现了陌生人家庭看护系统",
+      "publish_date": "2019-04-29",
       "bucket": "cn-trend",
-      "hotspot": "iG VN",
-      "source": "60s-weibo"
+      "hotspot": "照护“一老一小”，服务体系如何搭建？",
+      "source": "央视新闻"
     },
     {
-      "id": 15549,
-      "title": "「日本語」日本人会怎么过万圣节？",
-      "publish_date": "2015-09-25",
-      "url": "https://www.qdaily.org/articles/15549/",
+      "id": 56983,
+      "url": "https://www.qdaily.org/articles/56983/",
+      "title": "伦敦电话亭的存在成为争议，电信公司和规划部门各有想法",
+      "publish_date": "2018-10-02",
       "bucket": "global-trend",
-      "hotspot": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "hotspot": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
       "source": "hacker-news"
     },
     {
-      "id": 46344,
-      "title": "日本年轻人多爱万圣节？单涩谷就有百万人街头开派对",
-      "publish_date": "2017-10-22",
-      "url": "https://www.qdaily.org/articles/46344/",
-      "bucket": "global-trend",
-      "hotspot": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-      "source": "hacker-news"
-    },
-    {
-      "id": 39439,
-      "title": "40年前一个很野的牛仔裤品牌要复出了，它是谁？",
-      "publish_date": "2017-04-02",
-      "url": "https://www.qdaily.org/articles/39439/",
+      "id": 13232,
+      "url": "https://www.qdaily.org/articles/13232/",
+      "title": "唱片死了，流媒体还不赚钱，虾米音乐想找新的出路 | 创始人说",
+      "publish_date": "2015-08-10",
       "bucket": "longform"
     },
     {
-      "id": 31123,
-      "title": "作为社交界的颜值担当，Instagram都捧红过哪些食物，它们又是怎样走红的？",
-      "publish_date": "2016-08-24",
-      "url": "https://www.qdaily.org/articles/31123/",
+      "id": 39627,
+      "url": "https://www.qdaily.org/articles/39627/",
+      "title": "谁让这些“夜场动物”流离失所？｜正在消失的那个上海②",
+      "publish_date": "2017-04-10",
       "bucket": "longform"
     },
     {
-      "id": 41713,
-      "title": "这两个人开了 7 年餐厅，为何只卖与美国有冲突的“敌国食品“？",
-      "publish_date": "2017-06-12",
-      "url": "https://www.qdaily.org/articles/41713/",
+      "id": 3754,
+      "url": "https://www.qdaily.org/articles/3754/",
+      "title": "再见，白炽灯！| 好奇心商业史",
+      "publish_date": "2014-11-27",
       "bucket": "longform"
     },
     {
-      "id": 38759,
-      "title": "我们和 Wallpaper 主编聊了聊，这本杂志的美学到底寄托在何处",
-      "publish_date": "2017-03-18",
-      "url": "https://www.qdaily.org/articles/38759/",
+      "id": 45011,
+      "url": "https://www.qdaily.org/articles/45011/",
+      "title": "畅销书作家马伯庸，谈了谈历史、喜欢的作家和他眼中的现代教育",
+      "publish_date": "2017-09-11",
       "bucket": "longform"
     },
     {
-      "id": 46829,
-      "title": "你是如何在打游戏时一次次被吓到？恐怖游戏这 20 年发生了什么",
-      "publish_date": "2017-11-04",
-      "url": "https://www.qdaily.org/articles/46829/",
+      "id": 49193,
+      "url": "https://www.qdaily.org/articles/49193/",
+      "title": "100 多年来，摄影这项艺术在中国有着什么样的历史？",
+      "publish_date": "2018-01-16",
       "bucket": "longform"
     },
     {
-      "id": 62099,
-      "title": "从威尔士到巴黎，他穿越了欧洲历史黑暗时期的奥德赛之旅",
-      "publish_date": "2019-03-18",
-      "url": "https://www.qdaily.org/articles/62099/",
+      "id": 41086,
+      "url": "https://www.qdaily.org/articles/41086/",
+      "title": "古老的火车旅行又火起来，它成为一种新奢侈出行方式",
+      "publish_date": "2017-05-27",
       "bucket": "longform"
     },
     {
-      "id": 63745,
-      "title": "50年前纽约酒吧里的一场骚乱，和美国人的同性平权 | 石墙50年",
-      "publish_date": "2019-05-15",
-      "url": "https://www.qdaily.org/articles/63745/",
+      "id": 20801,
+      "url": "https://www.qdaily.org/articles/20801/",
+      "title": "过去一年，究竟有多少家公司换了 logo，以及为什么要换",
+      "publish_date": "2016-01-17",
+      "bucket": "longform"
+    },
+    {
+      "id": 47526,
+      "url": "https://www.qdaily.org/articles/47526/",
+      "title": "80 多年前喝着鸡尾酒的 3 个哲学家，如何创造了存在主义？",
+      "publish_date": "2017-11-28",
       "bucket": "longform"
     }
   ]

@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-26",
+  "editor_id": "codex-v1",
+  "title": "从空间站到街角电话亭",
+  "picks": [
+    {
+      "id": 58466,
+      "url": "https://www.qdaily.org/articles/58466/",
+      "title": "国际空间站升空 20 年，它曾是全球协作的象征 | 好奇心商业史",
+      "publish_date": "2018-11-20",
+      "bucket": "cn-trend",
+      "hotspot": "神舟二十四号中外航天员在中国空间站会师",
+      "source": "60s-zhihu；百度热搜；中国载人航天工程办公室"
+    },
+    {
+      "id": 54379,
+      "url": "https://www.qdaily.org/articles/54379/",
+      "title": "除了“消费升级和消费降级同时存在”，这里还有一些关于中国市场的解读",
+      "publish_date": "2018-06-23",
+      "bucket": "cn-trend",
+      "hotspot": "中国消费者的钱正在重新分配",
+      "source": "百度热搜"
+    },
+    {
+      "id": 63358,
+      "url": "https://www.qdaily.org/articles/63358/",
+      "title": "#Topic：养老机构跟不上需求，美国出现了陌生人家庭看护系统",
+      "publish_date": "2019-04-29",
+      "bucket": "cn-trend",
+      "hotspot": "照护“一老一小”，服务体系如何搭建？",
+      "source": "央视新闻"
+    },
+    {
+      "id": 56983,
+      "url": "https://www.qdaily.org/articles/56983/",
+      "title": "伦敦电话亭的存在成为争议，电信公司和规划部门各有想法",
+      "publish_date": "2018-10-02",
+      "bucket": "global-trend",
+      "hotspot": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+      "source": "hacker-news"
+    },
+    {
+      "id": 13232,
+      "url": "https://www.qdaily.org/articles/13232/",
+      "title": "唱片死了，流媒体还不赚钱，虾米音乐想找新的出路 | 创始人说",
+      "publish_date": "2015-08-10",
+      "bucket": "longform"
+    },
+    {
+      "id": 39627,
+      "url": "https://www.qdaily.org/articles/39627/",
+      "title": "谁让这些“夜场动物”流离失所？｜正在消失的那个上海②",
+      "publish_date": "2017-04-10",
+      "bucket": "longform"
+    },
+    {
+      "id": 3754,
+      "url": "https://www.qdaily.org/articles/3754/",
+      "title": "再见，白炽灯！| 好奇心商业史",
+      "publish_date": "2014-11-27",
+      "bucket": "longform"
+    },
+    {
+      "id": 45011,
+      "url": "https://www.qdaily.org/articles/45011/",
+      "title": "畅销书作家马伯庸，谈了谈历史、喜欢的作家和他眼中的现代教育",
+      "publish_date": "2017-09-11",
+      "bucket": "longform"
+    },
+    {
+      "id": 49193,
+      "url": "https://www.qdaily.org/articles/49193/",
+      "title": "100 多年来，摄影这项艺术在中国有着什么样的历史？",
+      "publish_date": "2018-01-16",
+      "bucket": "longform"
+    },
+    {
+      "id": 41086,
+      "url": "https://www.qdaily.org/articles/41086/",
+      "title": "古老的火车旅行又火起来，它成为一种新奢侈出行方式",
+      "publish_date": "2017-05-27",
+      "bucket": "longform"
+    },
+    {
+      "id": 20801,
+      "url": "https://www.qdaily.org/articles/20801/",
+      "title": "过去一年，究竟有多少家公司换了 logo，以及为什么要换",
+      "publish_date": "2016-01-17",
+      "bucket": "longform"
+    },
+    {
+      "id": 47526,
+      "url": "https://www.qdaily.org/articles/47526/",
+      "title": "80 多年前喝着鸡尾酒的 3 个哲学家，如何创造了存在主义？",
+      "publish_date": "2017-11-28",
+      "bucket": "longform"
+    }
+  ]
+}
