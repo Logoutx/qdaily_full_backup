@@ -91,9 +91,29 @@ fi
 CONC="$(gh run list --workflow=deploy.yml --limit 1 --json conclusion -q '.[0].conclusion' 2>/dev/null)"
 [ "$CONC" = "failure" ] && add "Latest GitHub Pages deploy FAILED — site may be stale. Check Actions."
 
-# 5. Site up?
-CODE="$(curl -so /dev/null -w '%{http_code}' -m 20 https://www.qdaily.org/ 2>/dev/null)"
-case "$CODE" in 200|301|302) ;; *) add "www.qdaily.org returned HTTP ${CODE:-timeout}." ;; esac
+# 5. Site up? Retry a temporary connection/edge failure once; curl 000 is
+# not an HTTP response. Report transport failure separately from real status.
+check_site() {
+  local code rc attempt
+  for attempt in 1 2; do
+    rc=0
+    code="$(curl --silent --show-error --location --max-redirs 5 \
+      --connect-timeout 8 --max-time 15 --output /dev/null \
+      --write-out '%{http_code}' https://www.qdaily.org/ 2>/dev/null)" || rc=$?
+    if [ "$rc" -eq 0 ]; then
+      case "$code" in
+        2[0-9][0-9]) return 0 ;;
+      esac
+    fi
+    [ "$attempt" -eq 1 ] && sleep 2
+  done
+  if [ "$rc" -ne 0 ] || [ -z "$code" ] || [ "$code" = 000 ]; then
+    add "Could not reach www.qdaily.org from this Mac after two attempts (curl exit $rc; no usable HTTP response)."
+  else
+    add "www.qdaily.org returned HTTP $code after two attempts."
+  fi
+}
+check_site
 
 # Dedup (one alert per problem per day) + send
 touch "$STATE"
